@@ -65,13 +65,13 @@ const Header = () => {
 
       {/* Mobile Nav */}
       {mobileOpen && (
-        <nav className="border-t border-secondary-foreground/10 bg-secondary px-4 pb-4 lg:hidden">
+        <nav className="border-t bg-card px-4 pb-4 lg:hidden">
           {navItems.map((item) => (
             <Link
               key={item.href}
               to={item.href}
               onClick={() => setMobileOpen(false)}
-              className="block rounded-md px-3 py-2.5 font-body text-sm font-medium text-secondary-foreground transition-colors hover:bg-secondary-foreground/10"
+              className="block rounded-md px-3 py-2.5 font-body text-sm font-medium text-foreground transition-colors hover:bg-muted"
             >
               {item.label}
             </Link>
