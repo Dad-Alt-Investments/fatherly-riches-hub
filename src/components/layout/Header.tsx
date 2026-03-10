@@ -20,7 +20,7 @@ const Header = () => {
   const location = useLocation();
 
   return (
-    <header className="sticky top-0 z-50 border-b bg-secondary text-secondary-foreground">
+    <header className="sticky top-0 z-50 border-b bg-card text-foreground">
       <div className="container-wide flex h-16 items-center justify-between">
         <Link to="/" className="flex items-center gap-2">
           <img src={logo} alt="DadAlt Investments" className="h-10 w-10" />
