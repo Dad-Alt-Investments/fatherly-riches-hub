@@ -1,4 +1,5 @@
 import EmailCapture from "@/components/home/EmailCapture";
+import jaredPhoto from "@/assets/jared-devalk.jpeg";
 
 const About = () => {
   return (
