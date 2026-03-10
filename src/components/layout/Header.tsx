@@ -35,9 +35,9 @@ const Header = () => {
             <Link
               key={item.href}
               to={item.href}
-              className={`rounded-md px-3 py-2 font-body text-sm font-medium transition-colors hover:bg-secondary-foreground/10 ${
+              className={`rounded-md px-3 py-2 font-body text-sm font-medium transition-colors hover:bg-muted ${
                 location.pathname === item.href
-                  ? "bg-secondary-foreground/10"
+                  ? "bg-muted"
                   : ""
               }`}
             >
