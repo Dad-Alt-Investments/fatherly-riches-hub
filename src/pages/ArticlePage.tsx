@@ -1,5 +1,8 @@
 import { useParams, Link } from "react-router-dom";
+import { useState, useEffect } from "react";
 import { PenLine, ArrowRight } from "lucide-react";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import { articles } from "@/data/content";
 import EmailCapture from "@/components/home/EmailCapture";
 import { Button } from "@/components/ui/button";
@@ -7,6 +10,26 @@ import { Button } from "@/components/ui/button";
 const ArticlePage = () => {
   const { slug } = useParams<{ slug: string }>();
   const article = articles.find((a) => a.slug === slug);
+  const [markdown, setMarkdown] = useState<string | null>(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    if (!slug) return;
+    setLoading(true);
+    fetch(`/articles/${slug}.md`)
+      .then((res) => {
+        if (!res.ok) throw new Error("Not found");
+        return res.text();
+      })
+      .then((text) => {
+        setMarkdown(text);
+        setLoading(false);
+      })
+      .catch(() => {
+        setMarkdown(null);
+        setLoading(false);
+      });
+  }, [slug]);
 
   if (!article) {
     return (
@@ -115,14 +138,114 @@ const ArticlePage = () => {
           </Button>
         </div>
 
-        {/* Content placeholder */}
-        <div className="space-y-6">
-          <p className="font-body text-base leading-relaxed text-foreground/80">
-            Full article content will be rendered here once the markdown articles
-            are added to the site. The article template supports rich formatting
-            including comparison tables, pros/cons boxes, inline email capture,
-            and structured data.
-          </p>
+        {/* Article Content */}
+        <div className="prose-dadalt mb-12">
+          {loading ? (
+            <div className="flex items-center justify-center py-12">
+              <div className="h-8 w-8 animate-spin rounded-full border-4 border-primary border-t-transparent" />
+            </div>
+          ) : markdown ? (
+            <ReactMarkdown
+              remarkPlugins={[remarkGfm]}
+              components={{
+                h1: ({ children }) => (
+                  <h2 className="mt-10 mb-4 font-heading text-2xl font-bold text-foreground md:text-3xl">
+                    {children}
+                  </h2>
+                ),
+                h2: ({ children }) => (
+                  <h2 className="mt-10 mb-4 font-heading text-2xl font-bold text-foreground md:text-3xl">
+                    {children}
+                  </h2>
+                ),
+                h3: ({ children }) => (
+                  <h3 className="mt-8 mb-3 font-heading text-xl font-semibold text-foreground">
+                    {children}
+                  </h3>
+                ),
+                h4: ({ children }) => (
+                  <h4 className="mt-6 mb-2 font-heading text-lg font-semibold text-foreground">
+                    {children}
+                  </h4>
+                ),
+                p: ({ children }) => (
+                  <p className="mb-4 font-body text-base leading-relaxed text-foreground/80">
+                    {children}
+                  </p>
+                ),
+                ul: ({ children }) => (
+                  <ul className="mb-4 ml-6 list-disc space-y-2 font-body text-base text-foreground/80">
+                    {children}
+                  </ul>
+                ),
+                ol: ({ children }) => (
+                  <ol className="mb-4 ml-6 list-decimal space-y-2 font-body text-base text-foreground/80">
+                    {children}
+                  </ol>
+                ),
+                li: ({ children }) => (
+                  <li className="leading-relaxed">{children}</li>
+                ),
+                blockquote: ({ children }) => (
+                  <blockquote className="my-6 border-l-4 border-primary/40 bg-primary/5 py-3 pl-4 pr-4 font-body italic text-foreground/70">
+                    {children}
+                  </blockquote>
+                ),
+                a: ({ href, children }) => (
+                  <a
+                    href={href}
+                    className="text-primary underline decoration-primary/30 underline-offset-2 transition-colors hover:text-primary/80"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {children}
+                  </a>
+                ),
+                strong: ({ children }) => (
+                  <strong className="font-semibold text-foreground">
+                    {children}
+                  </strong>
+                ),
+                hr: () => (
+                  <hr className="my-8 border-border" />
+                ),
+                table: ({ children }) => (
+                  <div className="my-6 overflow-x-auto rounded-lg border border-border">
+                    <table className="w-full border-collapse font-body text-sm">
+                      {children}
+                    </table>
+                  </div>
+                ),
+                thead: ({ children }) => (
+                  <thead className="bg-secondary text-secondary-foreground">
+                    {children}
+                  </thead>
+                ),
+                th: ({ children }) => (
+                  <th className="border-b border-border px-4 py-3 text-left font-semibold">
+                    {children}
+                  </th>
+                ),
+                td: ({ children }) => (
+                  <td className="border-b border-border/50 px-4 py-3 text-foreground/80">
+                    {children}
+                  </td>
+                ),
+                sup: ({ children }) => (
+                  <sup className="text-xs text-primary/60">{children}</sup>
+                ),
+              }}
+            >
+              {markdown}
+            </ReactMarkdown>
+          ) : (
+            <p className="font-body text-base leading-relaxed text-foreground/80">
+              Full article content will be rendered here once the markdown articles
+              are added to the site. The article template supports rich formatting
+              including comparison tables, pros/cons boxes, inline email capture,
+              and structured data.
+            </p>
+          )}
         </div>
 
         {/* Inline Email */}
