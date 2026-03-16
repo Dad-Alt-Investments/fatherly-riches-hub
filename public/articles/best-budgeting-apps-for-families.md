@@ -53,11 +53,11 @@ Families manage more recurring obligations than singles: mortgage, multiple util
 
 | App | Monthly Cost | Annual Cost | Household/Joint Access | Investment Tracking | Free Trial | Best For |
 |---|---|---|---|---|---|---|
-| **YNAB** | $14.99/mo | $109/yr | ✅ Up to 5 users | Limited (manual) | 34 days | Active, intentional family budgeters |
-| **Monarch Money** | $14.99/mo | $99.99/yr | ✅ Full household | ✅ Full | 7 days | All-in-one family financial dashboard |
-| **Copilot** | ~$13/mo | ~$95–$107/yr | ✅ Partner sharing | ✅ Yes | 14 days | Apple-only households wanting premium UX |
-| **Empower** | Free | Free | Limited | ✅ Full | N/A (always free) | Investment-heavy families needing oversight |
-| **EveryDollar** | $17.99/mo | $79.99/yr | ✅ Shared | ❌ No | 14 days (premium) | Families following Dave Ramsey's Baby Steps |
+| **[YNAB](https://www.ynab.com)** | $14.99/mo | $109/yr | ✅ Up to 5 users | Limited (manual) | 34 days | Active, intentional family budgeters |
+| **[Monarch Money](https://www.monarchmoney.com)** | $14.99/mo | $99.99/yr | ✅ Full household | ✅ Full | 7 days | All-in-one family financial dashboard |
+| **[Copilot](https://copilot.money)** | ~$13/mo | ~$95–$107/yr | ✅ Partner sharing | ✅ Yes | 14 days | Apple-only households wanting premium UX |
+| **[Empower](https://www.empower.com)** | Free | Free | Limited | ✅ Full | N/A (always free) | Investment-heavy families needing oversight |
+| **[EveryDollar](https://www.everydollar.com)** | $17.99/mo | $79.99/yr | ✅ Shared | ❌ No | 14 days (premium) | Families following Dave Ramsey's Baby Steps |
 
 ---
 
