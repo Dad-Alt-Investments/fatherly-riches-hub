@@ -98,7 +98,7 @@ The most important criteria for a beginner's first brokerage account in 2026:
 
 For most beginners, **Fidelity** is the default recommendation: no account minimum, no commissions, fractional shares on over 7,000 securities, 24/7 customer support, 200+ branch locations, and access to FZROX — the only 0.00% expense ratio total market fund available to retail investors. [^8]
 
-> See also: [Top Stock Brokerages for New Investors 2026](#) — a full breakdown of every major platform with ratings, pros, and cons.
+> See also: [Top Stock Brokerages for New Investors 2026](/article/top-stock-brokerages) — a full breakdown of every major platform with ratings, pros, and cons.
 
 **What to avoid:**
 

@@ -263,7 +263,7 @@ Regardless of which platform you use, never proceed past an initial offer stage 
 6. **List of all contracts, subscriptions, and recurring obligations** — understand what you're taking on, not just what you're buying
 7. **Seller interview** — spend time understanding why the seller is selling; the real reason often provides the most important due diligence signal of all
 
-> **Related Reading:** *How to Evaluate a Business Before Buying It* (coming soon on DadAlt Investments)
+> **Related Reading:** [How to Evaluate a Business Before Buying It](/article/how-to-evaluate-a-business-before-buying-it) — complete due diligence guide for first-time business buyers.
 
 ---
 

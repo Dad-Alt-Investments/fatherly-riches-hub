@@ -279,7 +279,7 @@ REIT dividends are classified as ordinary income (they are required to distribut
 
 Holding VNQ in a taxable brokerage account creates ordinary income tax liability every quarter. Holding it in a Roth IRA eliminates that entirely.
 
-> See also: [How to Create Passive Income with ETFs in 2026](#) — a full breakdown of building a dividend ETF income calendar with SCHD, JEPI, and VNQ.
+> See also: [How to Create Passive Income with ETFs in 2026](/article/passive-income-with-etfs) — a full breakdown of building a dividend ETF income calendar with SCHD, JEPI, and VNQ.
 
 ---
 

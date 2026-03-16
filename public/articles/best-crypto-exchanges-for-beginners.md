@@ -204,7 +204,7 @@ Making your first crypto buy is step one. Here's what responsible beginners do n
 - U.S. exchanges are required to report your activity to the IRS
 - Use a crypto tax tool (Koinly, TaxBit, CoinTracker) to track cost basis and calculate gains/losses for your annual return
 
-> **Related Reading:** *How to Move Crypto Off an Exchange to a Wallet* (coming soon on DadAlt Investments)
+> **Related Reading:** [How to Move Crypto Off an Exchange to a Wallet](/article/how-to-move-crypto-off-exchange-to-wallet) — step-by-step guide to self-custody your crypto.
 
 ---
 

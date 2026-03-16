@@ -275,7 +275,7 @@ For large holdings — particularly anything over $25,000–$50,000 — professi
 - **Annual fees:** Typically 0.10%–0.15% of assets per year for allocated storage
 - **Insurance:** Professional vault storage carries institutional-grade all-risk insurance coverage
 
-> **Related Reading:** *How to Store Gold at Home Safely* (coming soon on DadAlt Investments)
+> **Related Reading:** [How to Store Gold at Home Safely](/article/how-to-store-gold-at-home-safely) — complete guide to home gold storage, safes, insurance, and security.
 
 ---
 

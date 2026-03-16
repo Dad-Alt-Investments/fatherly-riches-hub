@@ -269,7 +269,7 @@ Many experienced crypto investors hold accounts at two or all three platforms. T
 
 **The safest way to hold crypto long-term is not on any exchange — it is in self-custody.** If you are holding more than $1,000 in cryptocurrency that you do not intend to sell or trade in the near term, moving it to a hardware wallet (Ledger Nano X or Trezor Safe 3) eliminates custodial risk entirely. You are then protected not just against exchange hacks but against exchange insolvency, regulatory freezes, and account access issues.
 
-> See also: [Best Hardware Wallets for Long-Term Crypto Storage](#) — a full comparison of Ledger, Trezor, and Coldcard with setup guidance.
+> See also: [Best Hardware Wallets for Long-Term Crypto Storage](/article/best-hardware-wallets-crypto-storage) — a full comparison of Ledger, Trezor, and Coldcard with setup guidance.
 
 ---
 

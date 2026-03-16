@@ -333,7 +333,7 @@ Start with three jars and a weekly allowance. Graduate to a Greenlight card. Ope
 
 That's the whole system. And 20 years from now, when your kids are financially independent adults making smart decisions with their own children, they'll know exactly where it started.
 
-> **→ Related: [Simple Budget System for Busy Dads](#) | [The Ultimate DadAlt Investment Playbook](#) | [How to Pay Off Debt and Still Invest](#)**
+> **→ Related: [Best Budgeting Apps for Families](/article/best-budgeting-apps-for-families) | [The Ultimate Beginner's Guide to Investing](/article/beginners-guide-to-investing) | [What Every Dad Should Know About Compound Interest](/article/compound-interest-explained)**
 
 ---
 

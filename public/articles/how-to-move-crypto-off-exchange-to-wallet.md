@@ -38,7 +38,7 @@ Hardware wallets are physical devices — roughly the size of a USB drive — th
 
 **Best for:** Any crypto holding you plan to keep for months or years and don't need frequent access to.
 
-> **Related Reading:** *Best Hardware Wallets for Long-Term Crypto Storage* (coming soon on DadAlt Investments)
+> **Related Reading:** [Best Hardware Wallets for Long-Term Crypto Storage](/article/best-hardware-wallets-crypto-storage) — a full comparison of Ledger, Trezor, and Coldcard.
 
 ### Software / Mobile Wallets (Hot Storage) — Fine for Smaller Amounts
 
