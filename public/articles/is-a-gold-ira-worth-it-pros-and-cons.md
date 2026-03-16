@@ -59,10 +59,12 @@ A Gold IRA can be funded by rolling over an existing 401(k), 403(b), Traditional
 
 Most reputable Gold IRA providers set minimums between **$10,000 and $50,000**:
 
-- **Birch Gold Group:** $10,000
-- **Goldco:** $25,000
-- **Augusta Precious Metals:** $50,000
-- **Noble Gold Investments:** $20,000
+- **[Birch Gold Group](https://www.birchgold.com):** $10,000
+- **[Goldco](https://www.goldco.com):** $25,000
+- **[Augusta Precious Metals](https://www.augustapreciousmetals.com):** $50,000
+- **[Noble Gold Investments](https://www.noblegoldinvestments.com):** $20,000
+
+For a detailed comparison of the top three, see [Augusta vs Goldco vs Birch Gold Group](/article/augusta-vs-goldco-vs-birch-gold-group).
 
 These minimums exist because the fixed annual fee structure makes very small accounts economically unworkable. A $5,000 Gold IRA paying $250/year loses 5% annually to fees before gold moves a dollar.[^5]
 

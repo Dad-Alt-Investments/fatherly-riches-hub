@@ -42,7 +42,7 @@ Dividend ETFs are the most accessible, most liquid, most transparent, and most b
 
 These funds prioritize companies with a history of growing their dividends over time. Yield is moderate (2–4%), but dividend growth and capital appreciation make them exceptional long-term compounders.
 
-**SCHD — Schwab U.S. Dividend Equity ETF**
+**[SCHD — Schwab U.S. Dividend Equity ETF](https://www.schwab.com)**
 - **Current yield:** ~3.5–3.9% (trailing 12-month distributions)[^1]
 - **Expense ratio:** 0.06% — among the lowest available
 - **What it holds:** 100–103 stocks screened from the Dow Jones U.S. Dividend 100 Index; requires companies to have at least 10 consecutive years of dividend payments, strong free cash flow, and financial health

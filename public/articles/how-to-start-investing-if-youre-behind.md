@@ -47,7 +47,7 @@ The $1,000 starter emergency fund breaks this cycle. It is not a full emergency 
 
 ### Where to Keep It
 
-Open a **high-yield savings account (HYSA)** — Marcus by Goldman Sachs, Ally, LendingClub, or SoFi are all excellent options currently offering 3.20–4.21% APY.[^4] Keep it at a different bank than your checking account to create friction that prevents casual spending, and do not link it as an overdraft account on your debit card.
+Open a **[high-yield savings account (HYSA)](/article/best-high-yield-savings-accounts)** — [Marcus by Goldman Sachs](https://www.marcus.com), [Ally](https://www.ally.com), [LendingClub](https://www.lendingclub.com), or [SoFi](https://www.sofi.com) are all excellent options currently offering 3.20–4.21% APY.[^4] Keep it at a different bank than your checking account to create friction that prevents casual spending, and do not link it as an overdraft account on your debit card.
 
 **Target:** $1,000 in HYSA within 30 days. Then invest.
 

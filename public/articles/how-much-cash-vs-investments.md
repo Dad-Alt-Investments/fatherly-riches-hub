@@ -36,7 +36,7 @@ The most important reframe: cash is not a conservative investment. It is a tool 
 
 ## Tier 1: Your Emergency Fund — The Non-Negotiable Cash Layer
 
-The first and most important cash reserve is the emergency fund: a dedicated pool of liquid savings that covers essential living expenses if your income is interrupted or a large unexpected expense hits.
+The first and most important cash reserve is the emergency fund: a dedicated pool of liquid savings that covers essential living expenses if your income is interrupted or a large unexpected expense hits. For a complete guide to building your emergency fund, see [The Dad's Guide to Emergency Funds & Investing](/article/emergency-funds-and-investing).
 
 ### How Much: The Right Amount Depends on Your Income Situation
 

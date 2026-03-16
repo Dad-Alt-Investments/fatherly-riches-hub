@@ -165,7 +165,7 @@ This ranking reflects overall safety for a **long-term, wealth-preserving Americ
 - No institutional fire suppression or security infrastructure
 - Still subject to the 28% collectibles tax rate
 
-**Appropriate scale:** $5,000–$20,000 in a quality bolted safe (Liberty, AMSEC, Fort Knox) with proper insurance coverage. The crisis-hedge case for home storage remains valid at any portfolio size, but larger holdings warrant splitting between home and professional storage.
+**Appropriate scale:** $5,000–$20,000 in a quality bolted safe (Liberty, AMSEC, Fort Knox) with proper insurance coverage. The crisis-hedge case for home storage remains valid at any portfolio size, but larger holdings warrant splitting between home and professional storage. For a complete home storage guide, see [How to Store Gold at Home Safely](/article/how-to-store-gold-at-home-safely).
 
 ### #5 — Gold Mining Stocks (Individual or GDX/GDXJ)
 

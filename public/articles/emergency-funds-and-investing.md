@@ -175,7 +175,7 @@ The best vehicles for emergency funds in 2026:
 
 ### High-Yield Savings Accounts (HYSAs)
 
-This is the gold standard for emergency fund storage. HYSAs are FDIC-insured up to $250,000 per depositor, accessible instantly or within 1–3 business days, and — as of early 2026 — offering rates significantly above traditional savings accounts.
+This is the gold standard for emergency fund storage. HYSAs are FDIC-insured up to $250,000 per depositor, accessible instantly or within 1–3 business days, and — as of early 2026 — offering rates significantly above traditional savings accounts. For a detailed comparison, see [Best High-Yield Savings Accounts for 2026](/article/best-high-yield-savings-accounts).
 
 Current HYSA landscape (as of late February 2026):
 - **National average savings rate:** 0.39% APY (FDIC data, February 17, 2026)

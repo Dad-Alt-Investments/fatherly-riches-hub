@@ -95,7 +95,7 @@ A Gold IRA, like any IRA, allows you to designate beneficiaries who can inherit 
 ### Cons of a Gold IRA
 
 **1. High minimum investment requirements.**
-Most reputable Gold IRA providers require $10,000–$50,000 to open an account. Augusta Precious Metals requires $50,000. Goldco starts at $25,000. Birch Gold Group is among the most accessible at $10,000. The premium dealers exist at these minimums for regulatory and operational reasons — but it creates a meaningful barrier to entry for investors who are just beginning.[^7]
+Most reputable Gold IRA providers require $10,000–$50,000 to open an account. [Augusta Precious Metals](https://www.augustapreciousmetals.com) requires $50,000. [Goldco](https://www.goldco.com) starts at $25,000. [Birch Gold Group](https://www.birchgold.com) is among the most accessible at $10,000. The premium dealers exist at these minimums for regulatory and operational reasons — but it creates a meaningful barrier to entry for investors who are just beginning.[^7] For a detailed comparison of these providers, see [Augusta vs Goldco vs Birch Gold Group](/article/augusta-vs-goldco-vs-birch-gold-group).
 
 **2. Annual fees reduce your net return.**
 Every Gold IRA carries ongoing costs that physical gold does not:

@@ -178,7 +178,7 @@ Before you can buy a single share, you need a brokerage account. For dividend in
 3. **Fractional shares** — Allows you to invest small amounts in high-priced stocks
 4. **IRA support** — For tax-advantaged dividend investing
 
-The most popular brokerage options for new investors include Fidelity, Charles Schwab, and Vanguard — all of which offer $0 commissions, DRIP programs, fractional shares, and both taxable and IRA accounts. Fidelity and Schwab also have excellent mobile apps, 24/7 customer service, and strong educational resources for beginners.
+The most popular brokerage options for new investors include [Fidelity](https://www.fidelity.com), [Charles Schwab](https://www.schwab.com), and [Vanguard](https://investor.vanguard.com) — all of which offer $0 commissions, DRIP programs, fractional shares, and both taxable and IRA accounts. Fidelity and Schwab also have excellent mobile apps, 24/7 customer service, and strong educational resources for beginners. For a detailed comparison, see [Best Brokerages for Dividend Investors](/article/best-brokerages-for-dividend-investors).
 
 ### Taxable Brokerage vs. IRA: Where to Start?
 

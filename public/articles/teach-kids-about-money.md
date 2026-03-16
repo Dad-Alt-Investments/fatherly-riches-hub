@@ -167,7 +167,7 @@ To open a Fidelity Youth Account, a parent must also hold a Fidelity account. Th
 
 ### Tool #2: Schwab Custodial Account
 
-For families who prefer a more traditional structure with full parental control over investment decisions, **Charles Schwab's custodial brokerage account** (a UTMA/UGMA account) is an excellent alternative.
+For families who prefer a more traditional structure with full parental control over investment decisions, **[Charles Schwab's](https://www.schwab.com) custodial brokerage account** (a UTMA/UGMA account) is an excellent alternative.
 
 In a custodial account, the **parent or guardian controls all investment decisions** until the child reaches the age of majority (18 in most states, 21 in a few). The account belongs to the child as a legal matter — assets are an irrevocable gift — but the adult manages the portfolio until the child takes over.
 

@@ -123,7 +123,7 @@ A well-organized safe for gold storage should contain more than just coins and b
 - A photographic inventory (photos of each coin/bar face and reverse; stored digitally as well)
 
 **Seed phrase backups for hardware crypto wallets:**
-- Metal seed phrase backup plates (Billfodl, Cryptosteel) belong in the same fireproof safe as your gold. They are equally irreplaceable if lost to fire or theft and benefit from the same protection. [See our article: *How to Store Crypto Safely Long-Term*]
+- Metal seed phrase backup plates (Billfodl, Cryptosteel) belong in the same fireproof safe as your gold. They are equally irreplaceable if lost to fire or theft and benefit from the same protection. See our guide: [How to Store Crypto Safely Long-Term](/article/how-to-store-crypto-safely-long-term).
 
 **Cash emergency reserve:**
 - A modest amount of physical cash ($500–$1,000) for genuine emergencies where electronic payment systems are unavailable. Store separately from your investment gold to avoid mixing your emergency fund with your investment position.

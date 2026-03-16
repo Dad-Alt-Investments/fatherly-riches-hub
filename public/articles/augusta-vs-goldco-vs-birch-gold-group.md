@@ -142,7 +142,7 @@ Goldco offers IRA-eligible **gold and silver coins** — including American Gold
 
 ## #3 Birch Gold Group — Best for Smaller Investors and First-Timers
 
-**Who it's for:** Investors starting below the $25,000 minimum at other providers, investors who want to diversify into platinum or palladium alongside gold, and investors who value the most transparent published fee breakdown in the industry.
+**Who it's for:** Investors starting below the $25,000 minimum at other providers, investors who want to diversify into platinum or palladium alongside gold, and investors who value the most transparent published fee breakdown in the industry. **[Visit Birch Gold Group →](https://www.birchgold.com)**
 
 Birch Gold Group was founded in 2003, making it the oldest of the three companies reviewed here. The company is headquartered in Des Moines, Iowa (with an office in Burbank, California), and is led by founder and CEO Laith Alsarraf. Birch holds an A+ BBB rating (accredited since 2013), a AAA BCA rating, 4.7/5 on Trustpilot, and 4.8 stars on BBB's own verified reviews.[^3] Money.com selected Birch Gold Group as a top pick specifically for its fee transparency, noting that Birch provided the most detail on both one-time and recurring annual fees of any company reviewed.[^4]
 

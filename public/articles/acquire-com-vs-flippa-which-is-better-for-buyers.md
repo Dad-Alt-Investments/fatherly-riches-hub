@@ -26,7 +26,7 @@ Flippa's defining characteristic is **breadth**. With listings ranging from unde
 
 ### Acquire.com
 
-Acquire.com (formerly MicroAcquire) launched in 2020 and rapidly established itself as the leading marketplace for startup and SaaS acquisitions. Unlike Flippa's open-everything approach, Acquire is deliberately narrow: it focuses on SaaS businesses, subscription software products, B2B tech tools, and scalable e-commerce ventures with documented recurring revenue. Over 50% of its listings are SaaS businesses.[^3]
+[Acquire.com](https://acquire.com) (formerly MicroAcquire) launched in 2020 and rapidly established itself as the leading marketplace for startup and SaaS acquisitions. Unlike Flippa's open-everything approach, Acquire is deliberately narrow: it focuses on SaaS businesses, subscription software products, B2B tech tools, and scalable e-commerce ventures with documented recurring revenue. Over 50% of its listings are SaaS businesses.[^3]
 
 Acquire's defining characteristic is **curation and confidentiality**. Every listing is kept anonymous behind a signed NDA. Buyers don't see the business name, URL, or detailed financials until they request access and the seller approves. This keeps low-intent browsers out and ensures that every interaction a seller has is with a buyer who has specifically expressed interest.
 
