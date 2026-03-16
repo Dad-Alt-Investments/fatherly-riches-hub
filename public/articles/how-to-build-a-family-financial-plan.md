@@ -314,7 +314,7 @@ The answer is a weekly 15-minute habit.
 
 Every week — Sunday evenings and Friday lunches are popular choices for families — both partners sit down for 15 minutes and do four things:
 
-1. **Review last week's spending** in your budgeting app (YNAB, Monarch, or your preferred tool). Are any categories trending over budget? Did any unexpected expenses land?
+1. **Review last week's spending** in your [budgeting app](/article/best-budgeting-apps-for-families) ([YNAB](https://www.ynab.com), [Monarch](https://www.monarchmoney.com), or your preferred tool). Are any categories trending over budget? Did any unexpected expenses land?
 
 2. **Confirm upcoming bills won't cause a shortfall.** Look at the next 7–14 days of scheduled payments. Is there enough in checking to cover them without a transfer from savings?
 
