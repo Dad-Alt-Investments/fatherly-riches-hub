@@ -184,9 +184,9 @@ Bonds are loans you make to a government (like U.S. Treasury bonds) or a corpora
 
 ### Real Estate Investment Trusts (REITs)
 
-A **REIT** is a company that owns income-producing real estate — office buildings, apartment complexes, shopping centers, data centers — and is required to distribute at least 90% of its taxable income to shareholders as dividends. REITs allow everyday investors to gain real estate exposure without buying physical property.
+A **REIT** is a company that owns income-producing real estate — office buildings, apartment complexes, shopping centers, data centers — and is required to distribute at least 90% of its taxable income to shareholders as dividends. REITs allow everyday investors to gain real estate exposure without buying physical property. For a deeper look, see [Top 5 Real Estate Investment Options for Busy Dads](/article/top-5-real-estate-investment-options).
 
-REITs can be purchased like any stock through a brokerage account. They're a popular option for investors who want real estate in their portfolio but don't yet have the capital for a down payment on an investment property.
+REITs can be purchased like any stock through a brokerage account. They're a popular option for investors who want real estate in their portfolio but don't yet have the capital for a down payment on an investment property. For platforms that make this even easier, check out [Best Platforms to Buy Fractional Real Estate](/article/best-fractional-real-estate-platforms).
 
 ---
 

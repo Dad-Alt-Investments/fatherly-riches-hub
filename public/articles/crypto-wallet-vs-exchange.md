@@ -141,7 +141,7 @@ Here's the practical decision framework:
 - You want to use DeFi protocols, NFT marketplaces, or other blockchain applications
 - You've decided you want true ownership — not a claim on a third party's balance sheet
 
-**The practical rule:** Keep only what you're actively trading on an exchange. Move everything else to a wallet — ideally a hardware wallet for any amount over $1,000.
+**The practical rule:** Keep only what you're actively trading on an exchange. Move everything else to a wallet — ideally a hardware wallet for any amount over $1,000. For a step-by-step guide, see [How to Move Crypto Off an Exchange to a Wallet](/article/how-to-move-crypto-off-exchange-to-wallet).
 
 > Think of it this way: your exchange account is like your checking account (for active use). Your hardware wallet is like a savings account or a home safe (for what you're actually keeping).
 

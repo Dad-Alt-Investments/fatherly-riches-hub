@@ -225,7 +225,7 @@ Returns vary significantly by platform and investment type:
 
 ### Best For
 
-Dads who want more direct real estate exposure than public REITs offer, but don't want the management responsibilities of owning property directly. The sweet spot for most beginners: Fundrise ($10 minimum) or Arrived ($100 minimum).
+Dads who want more direct real estate exposure than public REITs offer, but don't want the management responsibilities of owning property directly. The sweet spot for most beginners: [Fundrise](https://fundrise.com) ($10 minimum) or [Arrived](https://arrivedhomes.com) ($100 minimum). For a deeper comparison, see our full guide: [Best Platforms to Buy Fractional Real Estate](/article/best-fractional-real-estate-platforms).
 
 ---
 
