@@ -251,7 +251,7 @@ Practical first steps for someone with zero retirement savings at 40:
 1. **Open a Roth IRA** (if income-eligible) or a Traditional IRA — takes 15 minutes online
 2. **Contribute to your employer's 401(k)** at minimum enough to capture the full employer match
 3. **Set a target savings rate** — start at 10% of gross income and increase by 1–2% every 6 months
-4. **Invest in low-cost index funds** — a target-date fund set to your expected retirement year is an excellent default for anyone who doesn't want to manage allocation decisions actively
+4. **Invest in [low-cost index funds](/article/best-platforms-to-buy-index-funds)** — a target-date fund set to your expected retirement year is an excellent default for anyone who doesn't want to manage allocation decisions actively
 
 A 40-year-old who starts saving $1,000/month at a 7% average return will have approximately **$567,000** by age 67 — not enough to replace a full professional income, but a meaningful asset combined with Social Security and any other savings or equity. The worst outcome is continuing to save nothing.
 
