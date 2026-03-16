@@ -50,7 +50,7 @@ This is the most important decision in this entire guide and the one most beginn
 
 A taxable brokerage is still worth having — especially once you have maxed tax-advantaged accounts, or if you need liquidity before retirement age. But if you have limited capital and can only do one thing, the Roth IRA wins.
 
-> See also: [Best Roth IRA Providers for Beginners](#) — a full comparison of Fidelity, Schwab, Robinhood, and M1 Finance for 2026.
+> See also: [Best Roth IRA Providers for Beginners](/article/best-roth-ira-providers-for-beginners) — a full comparison of Fidelity, Schwab, Robinhood, and M1 Finance for 2026.
 
 ---
 
