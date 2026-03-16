@@ -181,7 +181,7 @@ Once retirement is funded, college savings is next. A 529 provides tax-free grow
 
 **6. Taxable brokerage account**
 
-For any savings beyond tax-advantaged account limits, a low-cost taxable brokerage account (Fidelity, Schwab, Vanguard) invested in index funds provides tax-efficient long-term growth.
+For any savings beyond tax-advantaged account limits, a low-cost [taxable brokerage account](/article/top-stock-brokerages) ([Fidelity](https://www.fidelity.com), [Schwab](https://www.schwab.com), [Vanguard](https://www.vanguard.com)) invested in [index funds](/article/best-platforms-to-buy-index-funds) provides tax-efficient long-term growth.
 
 ### Why This Order Matters
 
