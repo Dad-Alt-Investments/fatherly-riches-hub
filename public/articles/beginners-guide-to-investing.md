@@ -65,7 +65,7 @@ Before investing a single dollar in the stock market, you need two foundational 
 
 ### Emergency Fund
 
-Before investing, establish an emergency fund covering **3–6 months of essential living expenses** in a liquid, federally insured account — ideally a high-yield savings account (HYSA). High-yield savings accounts in early 2026 are offering APYs in the 3.50–4.20% range at online banks like Marcus by Goldman Sachs, Ally Bank, and SoFi.
+Before investing, establish an emergency fund covering **3–6 months of essential living expenses** in a liquid, federally insured account — ideally a [high-yield savings account (HYSA)](/article/best-high-yield-savings-accounts). High-yield savings accounts in early 2026 are offering APYs in the 3.50–4.20% range at online banks like [Marcus by Goldman Sachs](https://www.marcus.com), [Ally Bank](https://www.ally.com), and [SoFi](https://www.sofi.com). For a deeper dive, see our complete guide: [The Dad's Guide to Emergency Funds & Investing](/article/emergency-funds-and-investing).
 
 Why does this matter for investing? Because without an emergency fund, you'll be forced to liquidate investments at the worst possible moment — during a market downturn — to cover an unexpected expense. This is how people lock in permanent losses on money they intended to grow for decades.
 
