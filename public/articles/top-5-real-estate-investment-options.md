@@ -202,7 +202,7 @@ This is the option that has done the most to democratize real estate investing f
 - Total investor distributions: $620+ million since inception
 - Best for: High-net-worth accredited investors wanting direct access to large commercial deals
 
-**EquityMultiple**
+**[EquityMultiple](https://www.equitymultiple.com)**
 - Minimum investment: $10,000
 - Open to: Accredited investors only
 - Focus: Debt, preferred equity, and direct equity in commercial real estate
