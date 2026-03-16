@@ -128,7 +128,7 @@ The Contrarian Academy is Sanchez's premium community — live calls, deal revie
 - YouTube: @CodieSanchezCT (750,000+ subscribers)
 - Substack: Contrarian Thinking newsletter (1M+ weekly subscribers)
 
-**Where to learn more:** contrarianthinking.co | codiesanchez.com
+**Where to learn more:** [contrarianthinking.co](https://contrarianthinking.co) | [codiesanchez.com](https://codiesanchez.com)
 
 ---
 
