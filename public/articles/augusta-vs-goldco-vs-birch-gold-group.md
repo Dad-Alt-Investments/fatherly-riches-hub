@@ -46,7 +46,7 @@ Augusta, Goldco, and Birch Gold are not simply the three most heavily advertised
 
 ## #1 Augusta Precious Metals — Best for High-Value, Education-First Investors
 
-**Who it's for:** Investors with $50,000 or more who want deep, unbiased education about Gold IRAs before committing — and who want lifetime support from a company with a near-perfect complaint record.
+**Who it's for:** Investors with $50,000 or more who want deep, unbiased education about Gold IRAs before committing — and who want lifetime support from a company with a near-perfect complaint record. **[Visit Augusta Precious Metals →](https://www.augustapreciousmetals.com)**
 
 Augusta Precious Metals was founded in 2012 and has maintained an A+ BBB rating with a near-zero complaint record across more than a decade of operation — a distinction that is genuinely rare in a sector of financial services frequently marked by high-pressure sales tactics and hidden fees.[^1] Augusta's model is built around a single differentiated premise: educate investors honestly, including telling them when gold may *not* be right for their situation.
 
