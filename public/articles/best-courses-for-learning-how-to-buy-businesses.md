@@ -154,7 +154,7 @@ The Searchfunder community skews toward buyers pursuing traditional or self-fund
 
 This is largely accurate. The core knowledge base of acquisition entrepreneurship — how to value a business, how to structure an LOI, how to conduct financial due diligence — is available free on Searchfunder, through the SBA website, and in the books listed below. The paid courses add community accountability, structured curriculum, and direct access to practitioners. Whether those additions justify $8,000–$10,000 is a personal calculation that depends on your deal size, your timeline, and how much you value accountability.
 
-**Where to find it:** searchfunder.com (free registration)
+**Where to find it:** [searchfunder.com](https://searchfunder.com) (free registration)
 
 ---
 
