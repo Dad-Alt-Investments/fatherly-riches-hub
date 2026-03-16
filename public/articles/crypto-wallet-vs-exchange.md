@@ -46,10 +46,12 @@ When you hold crypto on an exchange, the exchange holds your **private keys** on
 
 ### Major U.S. crypto exchanges:
 
-- **Coinbase** — largest U.S. exchange, beginner-friendly, available in all 50 states
-- **Kraken** — strongest security record (zero major hacks in 13+ years), 500+ coins
-- **Gemini** — NYDFS trust company charter since 2015, strong compliance credentials
-- **Robinhood** — crypto alongside stocks, zero commission
+- **[Coinbase](https://www.coinbase.com)** — largest U.S. exchange, beginner-friendly, available in all 50 states
+- **[Kraken](https://www.kraken.com)** — strongest security record (zero major hacks in 13+ years), 500+ coins
+- **[Gemini](https://www.gemini.com)** — NYDFS trust company charter since 2015, strong compliance credentials
+- **[Robinhood](https://robinhood.com)** — crypto alongside stocks, zero commission
+
+> **Related:** [Best Crypto Exchanges for Beginners](/article/best-crypto-exchanges-for-beginners) | [Coinbase vs Kraken vs Gemini: Which Is Safest?](/article/coinbase-vs-kraken-vs-gemini-which-is-safest)
 
 ### What exchanges cannot guarantee:
 
