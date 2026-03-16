@@ -153,7 +153,7 @@ This ranking reflects overall safety for a **long-term, wealth-preserving Americ
 
 ### #3 — Gold IRA with a Reputable Provider
 
-**Why it ranks third:** A Roth Gold IRA with a vetted provider like Augusta Precious Metals, Goldco, or Birch Gold Group delivers meaningful tax advantages — permanent exemption from the 28% collectibles rate in the Roth structure — with the security of professional allocated storage. The custodian adds an institutional compliance layer that protects IRA assets in ways a private vault may not.
+**Why it ranks third:** A Roth Gold IRA with a vetted provider like [Augusta Precious Metals](https://www.augustapreciousmetals.com), [Goldco](https://www.goldco.com), or [Birch Gold Group](https://www.birchgold.com) delivers meaningful tax advantages — permanent exemption from the 28% collectibles rate in the Roth structure — with the security of professional allocated storage. The custodian adds an institutional compliance layer that protects IRA assets in ways a private vault may not. For a head-to-head comparison, see [Augusta vs Goldco vs Birch Gold Group](/article/augusta-vs-goldco-vs-birch-gold-group).
 
 **Honest limitations:** Annual fees of $200–$500+ make small accounts ($10,000–$25,000) economically suboptimal. The custodian layer adds both cost and dependency. The industry contains documented bad actors (see Scams section below). At account sizes of $100,000+, these limitations become manageable relative to the tax benefit.
 
