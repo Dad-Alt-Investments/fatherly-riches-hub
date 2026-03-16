@@ -114,7 +114,7 @@ A **Roth IRA** (Individual Retirement Account) allows you to contribute after-ta
 3. No required minimum distributions (RMDs) during your lifetime
 4. You can contribute to both a 401(k) and a Roth IRA in the same year — the limits are separate
 
-**Where to open a Roth IRA:** Fidelity and Charles Schwab are the two most recommended brokerages for Roth IRAs in 2026 — both offer $0 account minimums, $0 commissions, extensive index fund selections, and strong educational resources. NerdWallet named Fidelity its top pick for beginning investors for 2026.
+**Where to open a Roth IRA:** [Fidelity](https://www.fidelity.com) and [Charles Schwab](https://www.schwab.com) are the two most recommended brokerages for Roth IRAs in 2026 — both offer $0 account minimums, $0 commissions, extensive index fund selections, and strong educational resources. NerdWallet named Fidelity its top pick for beginning investors for 2026. See our full comparison: [Best Roth IRA Providers for Beginners](/article/best-roth-ira-providers-for-beginners).
 
 ### Traditional IRA
 
