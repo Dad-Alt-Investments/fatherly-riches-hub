@@ -171,7 +171,7 @@ This is the option that has done the most to democratize real estate investing f
 
 ### Top Platforms in 2026
 
-**Fundrise**
+**[Fundrise](https://fundrise.com)**
 - Minimum investment: $10 (standard accounts), $1,000 (retirement accounts)
 - Open to: All investors (non-accredited included)
 - Fees: 1% annually (0.15% advisory + 0.85% management)
