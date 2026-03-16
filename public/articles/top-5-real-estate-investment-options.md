@@ -188,7 +188,7 @@ This is the option that has done the most to democratize real estate investing f
 - Assets: Over $180 million in residential properties funded by 518,000+ registered investors
 - Best for: Dads who want exposure to specific residential real estate properties
 
-**RealtyMogul**
+**[RealtyMogul](https://www.realtymogul.com)**
 - Minimum investment: $5,000 for REIT funds ($1,000 via IRA)
 - Open to: Both accredited and non-accredited investors (REIT products)
 - Total investment pooled: Over $1.2 billion across 40,000 investments
