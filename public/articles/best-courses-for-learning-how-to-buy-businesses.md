@@ -83,7 +83,7 @@ Acquisition Lab is Deibel's flagship program — described as a "do-it-with-you"
 
 **Honest assessment:** The Acquisition Lab is the most credible paid program in the ETA space because its founder is a verified practitioner with a documented track record — not a social media personality. The deal review sessions with Deibel have received consistently strong feedback from members. However, at $10,000, it represents a significant investment that makes most sense for buyers pursuing SBA-financed deals in the $500K–$3M range, where the cost is a rounding error relative to the deal size. For buyers pursuing sub-$100K acquisitions, the free resources and the book may be sufficient.
 
-**Where to learn more:** acquisitionlab.com | buythenbuild.com
+**Where to learn more:** [acquisitionlab.com](https://acquisitionlab.com) | [buythenbuild.com](https://buythenbuild.com)
 
 ---
 
