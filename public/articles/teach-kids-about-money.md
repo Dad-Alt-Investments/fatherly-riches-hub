@@ -268,7 +268,7 @@ A simple rule: total student loan debt at graduation should not exceed your expe
 
 ### 4. Budgeting Their First Paycheck
 
-When your child lands their first real job, sit down with them — before the first paycheck arrives — and build a simple budget together. Use the **DadAlt 3-Bucket System** from our [Simple Budget System for Busy Dads](#) article:
+When your child lands their first real job, sit down with them — before the first paycheck arrives — and build a simple budget together. Use the **DadAlt 3-Bucket System**:
 
 - **Bucket 1 (50–60%):** Non-negotiables — rent, utilities, groceries, minimum debt payments, transportation
 - **Bucket 2 (20–30%):** Life — dining out, entertainment, clothing, discretionary
