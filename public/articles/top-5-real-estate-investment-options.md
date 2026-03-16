@@ -195,7 +195,7 @@ This is the option that has done the most to democratize real estate investing f
 - Specialty: Commercial real estate, triple net lease deals, 1031 exchange options for accredited investors
 - Best for: Investors with $5,000+ who want commercial real estate exposure
 
-**CrowdStreet**
+**[CrowdStreet](https://www.crowdstreet.com)**
 - Minimum investment: $25,000
 - Open to: Accredited investors only
 - Focus: Institutional-quality commercial real estate deals
