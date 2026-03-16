@@ -150,7 +150,7 @@ This is why the teen years — not the 30s, not the 40s — are when the most po
 
 ### Tool #1: Fidelity Youth Account
 
-The **Fidelity Youth Account** is a teen-owned brokerage account for ages 13–17. It is one of the most powerful financial education tools available to American teenagers.
+The **[Fidelity Youth Account](https://www.fidelity.com/go/youth-account/overview)** is a teen-owned brokerage account for ages 13–17. It is one of the most powerful financial education tools available to American teenagers.
 
 **Key features:**
 - **No fees, no minimums, no subscription cost** — completely free to open and maintain
