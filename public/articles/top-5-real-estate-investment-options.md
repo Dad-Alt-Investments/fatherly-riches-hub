@@ -179,7 +179,7 @@ This is the option that has done the most to democratize real estate investing f
 - Historical returns: 4–12% depending on strategy (2024 average: 8.2–12.4% across portfolios)
 - Best for: Beginners who want a fully passive, diversified real estate portfolio
 
-**Arrived Homes**
+**[Arrived Homes](https://arrivedhomes.com)**
 - Minimum investment: $100
 - Open to: All investors (non-accredited included)
 - Focus: Single-family rentals and vacation rentals
