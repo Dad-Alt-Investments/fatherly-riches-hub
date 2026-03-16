@@ -147,9 +147,9 @@ A Gold IRA (Individual Retirement Account) lets you hold physical gold inside a 
 
 | Tool | Purpose |
 |---|---|
-| Kitco | Live spot price & charts |
-| GoldPrice.org | Market trends and alerts |
-| APMEX App | Pricing + buy/sell |
+| [Kitco](https://www.kitco.com) | Live spot price & charts |
+| [GoldPrice.org](https://goldprice.org) | Market trends and alerts |
+| [APMEX App](https://www.apmex.com) | Pricing + buy/sell |
 
 ---
 
