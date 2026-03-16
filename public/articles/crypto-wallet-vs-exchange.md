@@ -100,10 +100,12 @@ A **cold wallet** is a non-custodial wallet that keeps your private keys complet
 
 **Common cold wallets:**
 
-- **Ledger Nano X** — supports 5,500+ coins, Bluetooth connectivity for mobile, ~$149
-- **Trezor Safe 3** — open-source firmware, EAL6+ secure element chip, 7,000+ coins, ~$79
-- **Trezor Model T** — 100% open-source, color touchscreen, Shamir Backup, ~$219
-- **Coldcard Mk4** — Bitcoin only, air-gapped signing, maximum security for advanced users, ~$158
+- **[Ledger Nano X](https://www.ledger.com)** — supports 5,500+ coins, Bluetooth connectivity for mobile, ~$149
+- **[Trezor Safe 3](https://trezor.io)** — open-source firmware, EAL6+ secure element chip, 7,000+ coins, ~$79
+- **[Trezor Model T](https://trezor.io)** — 100% open-source, color touchscreen, Shamir Backup, ~$219
+- **[Coldcard Mk4](https://coldcard.com)** — Bitcoin only, air-gapped signing, maximum security for advanced users, ~$158
+
+> **Related:** [Best Hardware Wallets for Long-Term Crypto Storage](/article/best-hardware-wallets-crypto-storage) — our full comparison and review.
 
 Cold wallets are the right choice for any amount you intend to hold long-term and don't need to trade frequently.
 
