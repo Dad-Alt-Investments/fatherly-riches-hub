@@ -62,12 +62,12 @@ All rates as of March 2026. Verify current APYs directly with each institution b
 
 | Bank | Current APY | Min. Balance for APY | Min. to Open | FDIC Insured | Monthly Fees | Best For |
 |---|---|---|---|---|---|---|
-| **Marcus by Goldman Sachs** | 3.65% | $0 | $0 | ✅ Yes | $0 | Simple, no-strings HYSA |
-| **SoFi Checking & Savings** | 3.30% (up to 4.00% promo) | $0 for base rate | $0 | ✅ Yes (up to $2M via partners) | $0 | Modern banking with direct deposit APY boost |
-| **Ally Bank** | 3.20% | $0 | $0 | ✅ Yes | $0 | Full online bank with savings buckets |
-| **LendingClub LevelUp** | ~4.00%+ (with $250/mo deposit) | $250/mo deposit requirement | $0 | ✅ Yes | $0 | Competitive yield with easy qualifying criteria |
-| **EverBank Performance Savings** | ~4.05% | $0 | $0 | ✅ Yes | $0 | Highest straightforward rate from major provider |
-| **Western Alliance Bank** | 3.80% | $500 to open | $500 | ✅ Yes | $0 | No balance tiers, consistent yield |
+| **[Marcus by Goldman Sachs](https://www.marcus.com)** | 3.65% | $0 | $0 | ✅ Yes | $0 | Simple, no-strings HYSA |
+| **[SoFi Checking & Savings](https://www.sofi.com)** | 3.30% (up to 4.00% promo) | $0 for base rate | $0 | ✅ Yes (up to $2M via partners) | $0 | Modern banking with direct deposit APY boost |
+| **[Ally Bank](https://www.ally.com)** | 3.20% | $0 | $0 | ✅ Yes | $0 | Full online bank with savings buckets |
+| **[LendingClub LevelUp](https://www.lendingclub.com)** | ~4.00%+ (with $250/mo deposit) | $250/mo deposit requirement | $0 | ✅ Yes | $0 | Competitive yield with easy qualifying criteria |
+| **[EverBank Performance Savings](https://www.everbank.com)** | ~4.05% | $0 | $0 | ✅ Yes | $0 | Highest straightforward rate from major provider |
+| **[Western Alliance Bank](https://www.westernalliancebank.com)** | 3.80% | $500 to open | $500 | ✅ Yes | $0 | No balance tiers, consistent yield |
 
 ---
 
