@@ -41,7 +41,7 @@ Understanding which risks matter most to your situation is the first step toward
 - Immediately accessible — you can sell to a dealer, coin shop, or individual the same day
 - Requires secure storage and proper insurance (most homeowner's policies cover only $200–$1,500 in precious metals without a rider)
 
-**Suitable dealers:** APMEX (largest U.S. selection), JM Bullion (consistently lowest premiums, free shipping over $199), SD Bullion (price-match guarantee)
+**Suitable dealers:** [APMEX](https://www.apmex.com) (largest U.S. selection), [JM Bullion](https://www.jmbullion.com) (consistently lowest premiums, free shipping over $199), [SD Bullion](https://www.sdbullion.com) (price-match guarantee). For a full comparison, see [Best Places to Buy Gold and Silver Online](/article/best-places-to-buy-gold-silver-online).
 
 ### 2. Gold ETFs (Exchange-Traded Funds)
 
