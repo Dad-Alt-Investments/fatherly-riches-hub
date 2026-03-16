@@ -45,11 +45,11 @@ Before comparing providers, it helps to understand what makes the Roth IRA so va
 
 | Provider | Minimum to Open | Flagship Fund Cost | IRA Match | Fractional Shares | Robo-Advisor | Best For |
 |---|---|---|---|---|---|---|
-| **Fidelity** | $0 | FZROX 0.00% | ❌ No | ✅ $1, 7,000+ securities | ✅ Fidelity Go (free under $25K) | Best overall; lowest cost |
-| **Charles Schwab** | $0 | SWTSX 0.03% | ❌ No | ✅ $5 (S&P 500 stocks) | ✅ Intelligent Portfolios (free, $5K min) | Full-service; hands-off investors |
-| **Robinhood** | $0 | ETFs from $1 | ✅ 1–3% (Gold: $5/mo) | ✅ $1, stocks and ETFs | ✅ Robinhood Strategies | Maximizing contribution match |
-| **Vanguard** | $0 (ETFs) / $3,000 (Admiral Funds) | VOO / VTI 0.03% | ❌ No | ✅ Own ETFs only | ✅ Digital Advisor (0.20% fee) | Index fund purists |
-| **M1 Finance** | $500 (IRA accounts) | ETFs from $1 | ❌ No | ✅ $1, all holdings | ✅ Pie automation (built-in) | Automated multi-ETF portfolios |
+| **[Fidelity](https://www.fidelity.com)** | $0 | FZROX 0.00% | ❌ No | ✅ $1, 7,000+ securities | ✅ Fidelity Go (free under $25K) | Best overall; lowest cost |
+| **[Charles Schwab](https://www.schwab.com)** | $0 | SWTSX 0.03% | ❌ No | ✅ $5 (S&P 500 stocks) | ✅ Intelligent Portfolios (free, $5K min) | Full-service; hands-off investors |
+| **[Robinhood](https://robinhood.com)** | $0 | ETFs from $1 | ✅ 1–3% (Gold: $5/mo) | ✅ $1, stocks and ETFs | ✅ Robinhood Strategies | Maximizing contribution match |
+| **[Vanguard](https://www.vanguard.com)** | $0 (ETFs) / $3,000 (Admiral Funds) | VOO / VTI 0.03% | ❌ No | ✅ Own ETFs only | ✅ Digital Advisor (0.20% fee) | Index fund purists |
+| **[M1 Finance](https://m1.com)** | $500 (IRA accounts) | ETFs from $1 | ❌ No | ✅ $1, all holdings | ✅ Pie automation (built-in) | Automated multi-ETF portfolios |
 
 *Sources: Fidelity.com, Schwab.com, Robinhood.com, Vanguard.com, M1.com (March 2026)* [^3][^4][^5][^6][^7]
 
