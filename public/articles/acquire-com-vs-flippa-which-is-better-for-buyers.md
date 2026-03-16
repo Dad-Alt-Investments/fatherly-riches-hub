@@ -12,7 +12,7 @@ If you're ready to buy an online business, two platforms will come up in almost 
 
 ### Flippa
 
-Flippa is the world's largest open marketplace for buying and selling online businesses and digital assets. Founded in 2009 in Melbourne, Australia, it operates as a broad, largely self-directed marketplace where sellers list their businesses publicly and buyers browse, filter, and make offers directly. The platform accommodates virtually every type of online business:
+[Flippa](https://www.flippa.com) is the world's largest open marketplace for buying and selling online businesses and digital assets. Founded in 2009 in Melbourne, Australia, it operates as a broad, largely self-directed marketplace where sellers list their businesses publicly and buyers browse, filter, and make offers directly. The platform accommodates virtually every type of online business:
 
 - **Content websites and blogs** (affiliate, display ad, informational)
 - **E-commerce stores** (Shopify, WooCommerce, Amazon FBA)
