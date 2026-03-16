@@ -283,6 +283,16 @@ YNAB's "Roll With the Punches" rule — which encourages you to adjust categorie
 
 ---
 
+## Related Guides
+
+- [Best Tools for Tracking Net Worth](/article/best-tools-for-tracking-net-worth) — the companion to budgeting; track whether your wealth is actually growing
+- [Best High-Yield Savings Accounts](/article/best-high-yield-savings-accounts) — where to park the emergency fund your budget helps you build
+- [How to Build a Family Financial Plan](/article/how-to-build-a-family-financial-plan) — the strategic framework your budget supports
+- [How Much Cash Should You Keep vs. Invest?](/article/how-much-cash-vs-investments) — when your budget surplus should move to investments
+- [Best Investment Apps for Dads](/article/best-investment-apps) — once you've built the savings habit, here's where to put the money to work
+
+---
+
 ## Sources and References
 
 [^1]: NerdWallet. "The Best Budget Apps for 2026: Pros, Cons and What Users Say." March 2026. https://www.nerdwallet.com/finance/learn/best-budget-apps — YNAB pricing ($14.99/mo, $109/yr), 34-day trial; EveryDollar January 2026 relaunch with margin finder, daily lessons, live coaching; Monarch pricing ($99.99/yr, $14.99/mo); Copilot AI categorization.

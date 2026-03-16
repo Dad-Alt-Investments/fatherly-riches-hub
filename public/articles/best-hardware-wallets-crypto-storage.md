@@ -47,10 +47,10 @@ Here's the process in plain terms:
 
 | Wallet | Price (USD) | Coins Supported | Connectivity | Touchscreen | Open-Source Firmware | Secure Element Chip | Best For |
 |---|---|---|---|---|---|---|---|
-| **Ledger Nano X** | ~$149 | 5,500+ | USB-C + Bluetooth | No | Partial (app layer open) | ✅ CC EAL5+ | Best overall; mobile users |
-| **Trezor Model T** | ~$219 | 1,800+ | USB-C | ✅ Color touchscreen | ✅ 100% open-source | ❌ Standard MCU | Open-source advocates |
-| **Trezor Safe 3** | ~$79 | 7,000+ | USB-C | No | ✅ Open-source | ✅ EAL6+ | Budget-conscious beginners |
-| **Coldcard Mk4** | ~$158 | Bitcoin only | USB-C + Air-gapped | No | ✅ Open-source | ✅ Dual secure element | Advanced Bitcoin-only users |
+| **[Ledger Nano X](https://www.ledger.com)** | ~$149 | 5,500+ | USB-C + Bluetooth | No | Partial (app layer open) | ✅ CC EAL5+ | Best overall; mobile users |
+| **[Trezor Model T](https://trezor.io)** | ~$219 | 1,800+ | USB-C | ✅ Color touchscreen | ✅ 100% open-source | ❌ Standard MCU | Open-source advocates |
+| **[Trezor Safe 3](https://trezor.io)** | ~$79 | 7,000+ | USB-C | No | ✅ Open-source | ✅ EAL6+ | Budget-conscious beginners |
+| **[Coldcard Mk4](https://coldcard.com)** | ~$158 | Bitcoin only | USB-C + Air-gapped | No | ✅ Open-source | ✅ Dual secure element | Advanced Bitcoin-only users |
 
 *Prices are approximate retail prices as of March 2026. Always purchase directly from the manufacturer's official website.*
 

@@ -42,11 +42,11 @@ Every order of precious metals should ship fully insured for the full replacemen
 
 | Dealer | Founded | Products | Min. Order | Payment Methods | Free Shipping Threshold | Best For |
 |---|---|---|---|---|---|---|
-| **APMEX** | 2000 | Gold, silver, platinum, palladium, copper, collectibles | None | Credit/debit, ACH, check, PayPal, bank wire, crypto | $199 | Widest selection; proven track record |
-| **JM Bullion** | 2011 | Gold, silver, platinum, palladium, copper | None | ACH, debit, check, PayPal, bank wire, crypto | $199 | Lowest premiums on popular coins and bars |
-| **SD Bullion** | 2012 | Gold, silver, platinum, palladium | None | Credit/debit, ACH, check, bank wire, crypto | $199 | Bulk buyers; price-match guarantee |
-| **Money Metals Exchange** | 2010 | Gold, silver, platinum, palladium, copper | None | ACH, check, bank wire, credit card | Varies | Auto DCA/recurring purchase investors |
-| **Vaulted (McAlvany)** | 1972 (app: 2019) | Gold, silver | $1 (fractional) | ACH/bank transfer | N/A — allocated vault storage | Allocated vault storage; no home delivery hassle |
+| **[APMEX](https://www.apmex.com)** | 2000 | Gold, silver, platinum, palladium, copper, collectibles | None | Credit/debit, ACH, check, PayPal, bank wire, crypto | $199 | Widest selection; proven track record |
+| **[JM Bullion](https://www.jmbullion.com)** | 2011 | Gold, silver, platinum, palladium, copper | None | ACH, debit, check, PayPal, bank wire, crypto | $199 | Lowest premiums on popular coins and bars |
+| **[SD Bullion](https://www.sdbullion.com)** | 2012 | Gold, silver, platinum, palladium | None | Credit/debit, ACH, check, bank wire, crypto | $199 | Bulk buyers; price-match guarantee |
+| **[Money Metals Exchange](https://www.moneymetals.com)** | 2010 | Gold, silver, platinum, palladium, copper | None | ACH, check, bank wire, credit card | Varies | Auto DCA/recurring purchase investors |
+| **[Vaulted](https://vaulted.com)** (McAlvany) | 1972 (app: 2019) | Gold, silver | $1 (fractional) | ACH/bank transfer | N/A — allocated vault storage | Allocated vault storage; no home delivery hassle |
 
 *Premiums and shipping thresholds are subject to change. Always verify current terms directly on each dealer's website before ordering.*
 

@@ -396,6 +396,16 @@ If you do engage a financial advisor, use a **fee-only fiduciary** — one who c
 
 ---
 
+## Related Guides
+
+- [Best Budgeting Apps for Families](/article/best-budgeting-apps-for-families) — the tools to execute Step 3 of this plan
+- [Best High-Yield Savings Accounts](/article/best-high-yield-savings-accounts) — where to park your emergency fund and short-term savings
+- [Best Roth IRA Providers for Beginners](/article/best-roth-ira-providers-for-beginners) — where to open the Roth IRA from Step 4
+- [How Much Should You Have Invested by Age?](/article/how-much-should-you-have-invested-by-age) — benchmarks to measure your progress
+- [How to Teach Your Kids About Money](/article/teach-kids-about-money) — passing financial literacy to the next generation
+
+---
+
 ## Sources and References
 
 [^1]: Fidelity Investments. "5 Ideas to Refine Your 2026 Financial Plan." December 2025. https://www.fidelity.com/learning-center/personal-finance/create-a-financial-plan — Mike Christy quote on net worth as foundation of financial planning; beneficiary designation review guidance; estate planning integration with net worth statement; insurance review as annual checklist item.

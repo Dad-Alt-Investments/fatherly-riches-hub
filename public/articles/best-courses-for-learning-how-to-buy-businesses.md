@@ -304,6 +304,16 @@ This is one of the most common points of confusion for new entrants to the ETA s
 
 ---
 
+## Related Guides
+
+- [Best Websites to Buy a Small Business Online](/article/best-websites-to-buy-small-business-online) — where to find deals once you've completed your education
+- [How to Evaluate a Business Before Buying It](/article/how-to-evaluate-a-business-before-buying-it) — the due diligence framework these courses teach
+- [Best Businesses to Buy Under $50K](/article/best-businesses-to-buy-under-50k) — starter deals for first-time buyers
+- [How to Buy a Small Business With No Money Down](/article/how-to-buy-small-business-no-money-down) — financing strategies for capital-constrained buyers
+- [Acquire.com vs. Flippa: Which Is Better for Buyers?](/article/acquire-com-vs-flippa-which-is-better-for-buyers) — online business marketplace comparison
+
+---
+
 ## Sources and References
 
 [^1]: DueDilio. "Are Business Buying Programs Worth It? What Reddit and Real Buyers Say." October 2025. https://www.duedilio.com/are-business-buying-programs-worth-it/ — Course pricing ranges $5,000–$15,000; Acquisition Lab pricing history; community value vs. independent learning debate; Searchfunder as free alternative; Acquiring Minds podcast recommendation from real buyers.

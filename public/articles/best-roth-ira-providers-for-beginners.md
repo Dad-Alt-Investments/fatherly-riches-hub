@@ -299,6 +299,16 @@ For most beginners and younger investors, the Roth IRA is the better choice. The
 
 ---
 
+## Related Guides
+
+- [Compound Interest Explained](/article/compound-interest-explained) — why tax-free compounding inside a Roth IRA is so powerful
+- [Best Platforms to Buy Index Funds](/article/best-platforms-to-buy-index-funds) — what to hold inside your Roth IRA
+- [How to Create Passive Income with ETFs](/article/passive-income-with-etfs) — income-generating ETFs optimized for Roth IRA tax shelter
+- [Tax-Efficient Investing](/article/tax-efficient-investing) — the complete strategy for where to hold what
+- [How Much Should You Have Invested by Age?](/article/how-much-should-you-have-invested-by-age) — benchmarks to measure your progress
+
+---
+
 ## Sources and References
 
 [^1]: IRS. *401(k) limit increases to $24,500 for 2026, IRA limit increases to $7,500.* IRS Notice 2025-67, November 2025 — confirmed 2026 IRA contribution limits: $7,500 under age 50; $8,600 age 50+; catch-up increased to $1,100. Roth IRA phase-out: $153,000–$168,000 single; $242,000–$252,000 married filing jointly. [https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500](https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500)

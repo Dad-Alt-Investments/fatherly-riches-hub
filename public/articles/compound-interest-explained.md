@@ -380,7 +380,7 @@ A 30-year investment timeline includes multiple severe downturns. This is not a 
 **Situation:** Just had a baby. Has $500/month to invest but isn't sure where to start.
 
 **Action plan:**
-- Opens a Roth IRA at Fidelity ($0 minimum, $0 commissions)
+- Opens a [Roth IRA at Fidelity](/article/best-roth-ira-providers-for-beginners) ($0 minimum, $0 commissions)
 - Invests $500/month in FZROX (0.00% expense ratio)
 - Sets up automatic monthly contributions
 - Enables dividend reinvestment

@@ -290,6 +290,16 @@ The security concern about account-linking apps is legitimate and worth understa
 
 ---
 
+## Related Guides
+
+- [Best Budgeting Apps for Families](/article/best-budgeting-apps-for-families) — manage the monthly spending that drives net worth growth
+- [How Much Should You Have Invested by Age?](/article/how-much-should-you-have-invested-by-age) — benchmarks for the investment portion of your net worth
+- [Best High-Yield Savings Accounts](/article/best-high-yield-savings-accounts) — maximize the cash component of your net worth
+- [How to Build a Family Financial Plan](/article/how-to-build-a-family-financial-plan) — net worth tracking is Step 1 of this complete guide
+- [How to Start Investing If You're Behind](/article/how-to-start-investing-if-youre-behind) — what to do if your net worth reveals you're behind on investing
+
+---
+
 ## Sources and References
 
 [^1]: NerdWallet / Federal Reserve. "Average and Median Net Worth by Age in the U.S." January 2026. https://www.nerdwallet.com/finance/learn/average-net-worth-by-age — Median U.S. net worth $192,700; average $1.06 million (2022 Federal Reserve Survey of Consumer Finances); note that the 2025 SCF will be released in late 2026.

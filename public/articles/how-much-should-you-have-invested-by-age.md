@@ -292,6 +292,16 @@ Add up all included accounts to get your total retirement investment balance, th
 
 ---
 
+## Related Guides
+
+- [How to Start Investing If You're Behind](/article/how-to-start-investing-if-youre-behind) — practical catch-up strategies regardless of your age
+- [Best Roth IRA Providers for Beginners](/article/best-roth-ira-providers-for-beginners) — where to open the Roth IRA referenced throughout this guide
+- [Compound Interest Explained](/article/compound-interest-explained) — the math behind why starting early matters so much
+- [Best Platforms to Buy Index Funds](/article/best-platforms-to-buy-index-funds) — where to invest once you've opened your accounts
+- [How to Build a Family Financial Plan](/article/how-to-build-a-family-financial-plan) — the complete framework for retirement, college, and insurance
+
+---
+
 ## Sources and References
 
 [^1]: Fidelity Investments. "How Much Do I Need to Retire?" Fidelity Viewpoints. https://www.fidelity.com/viewpoints/retirement/how-much-do-i-need-to-retire — Salary milestone benchmarks: 1x at 30, 3x at 40, 6x at 50, 8x at 60, 10x at 67; 15% savings rate recommendation; 7% return assumption.

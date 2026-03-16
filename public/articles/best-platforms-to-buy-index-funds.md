@@ -36,10 +36,10 @@ The key strategic point: **index ETFs travel freely between brokerages**. You ca
 
 | Platform | Best Index Funds | Lowest Expense Ratio | Minimum Investment | Recurring Auto-Invest | IRA Available |
 |---|---|---|---|---|---|
-| **Fidelity** | FZROX, FZILX, FXAIX, VTI, VOO | 0.00% (FZROX) | $0 (ZERO funds and ETFs) | ✅ Yes — all fund types | ✅ Yes |
-| **Vanguard** | VTSAX, VFIAX, VBTLX; VTI, VOO, BND | 0.03% (VTI ETF) / 0.04% (VTSAX Admiral) | $0 (ETFs) / $3,000 (Admiral Shares) | ✅ Yes | ✅ Yes |
-| **Charles Schwab** | SWTSX, SWPPX, SWISX; VTI, VOO | 0.02% (SWPPX) | $0 (Schwab native funds and ETFs) | ✅ Yes | ✅ Yes |
-| **M1 Finance** | VTI, VOO, VXUS, BND, SCHB (ETFs only) | 0.03% (VTI, VOO) | $100 (taxable) / $500 (IRA) | ✅ Yes — fully automated | ✅ Yes |
+| **[Fidelity](https://www.fidelity.com)** | FZROX, FZILX, FXAIX, VTI, VOO | 0.00% (FZROX) | $0 (ZERO funds and ETFs) | ✅ Yes — all fund types | ✅ Yes |
+| **[Vanguard](https://www.vanguard.com)** | VTSAX, VFIAX, VBTLX; VTI, VOO, BND | 0.03% (VTI ETF) / 0.04% (VTSAX Admiral) | $0 (ETFs) / $3,000 (Admiral Shares) | ✅ Yes | ✅ Yes |
+| **[Charles Schwab](https://www.schwab.com)** | SWTSX, SWPPX, SWISX; VTI, VOO | 0.02% (SWPPX) | $0 (Schwab native funds and ETFs) | ✅ Yes | ✅ Yes |
+| **[M1 Finance](https://m1.com)** | VTI, VOO, VXUS, BND, SCHB (ETFs only) | 0.03% (VTI, VOO) | $100 (taxable) / $500 (IRA) | ✅ Yes — fully automated | ✅ Yes |
 
 *Sources: Fidelity.com, Vanguard.com, Schwab.com, M1.com (March 2026)* [^1][^2][^3][^4]
 

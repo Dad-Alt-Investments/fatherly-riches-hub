@@ -261,7 +261,17 @@ Families with specific near-term goals — a new car in 18 months, a home renova
 
 A common financial planning mistake families make is accumulating far more cash than their actual near-term needs justify. Once your emergency fund is fully funded, your quarterly tax reserves are set aside, and your near-term goal savings are in place, additional cash sitting in a savings account earns 3–4% when it could be compounding at historically higher rates in the market over a 5–10+ year horizon.
 
-The question to ask annually: *Do I have more cash in savings than I need for the next 3 years?* If the answer is yes, consider whether the excess belongs in a Roth IRA, 401(k), or taxable brokerage account.
+The question to ask annually: *Do I have more cash in savings than I need for the next 3 years?* If the answer is yes, consider whether the excess belongs in a [Roth IRA](/article/best-roth-ira-providers-for-beginners), 401(k), or [taxable brokerage account](/article/top-stock-brokerages).
+
+---
+
+## Related Guides
+
+- [How Much Cash Should You Keep vs. Invest?](/article/how-much-cash-vs-investments) — the framework for balancing savings and investments
+- [Best Budgeting Apps for Families](/article/best-budgeting-apps-for-families) — tools to manage your spending alongside your HYSA
+- [Best Tools for Tracking Net Worth](/article/best-tools-for-tracking-net-worth) — see your HYSA alongside all other assets in one dashboard
+- [Emergency Funds and Investing: How to Balance Both](/article/emergency-funds-and-investing) — when your emergency fund is "enough" and it's time to invest
+- [How to Build a Family Financial Plan](/article/how-to-build-a-family-financial-plan) — the complete framework where a HYSA fits into your larger strategy
 
 ---
 

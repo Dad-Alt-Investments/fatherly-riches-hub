@@ -90,10 +90,10 @@ Silver bars offer the lowest cost per ounce of any silver product. The larger th
 
 | Dealer | Founded | BBB Rating | ASE Premium (approx.) | Free Shipping Threshold | Price Match | Best For |
 |---|---|---|---|---|---|---|
-| **JM Bullion** | 2011 | A+ | Competitive/lowest common | $199 (insured) | Yes | Lowest premiums on popular coins |
-| **SD Bullion** | 2012 | A+ | Competitive | $199 (insured) | Yes (guaranteed) | Bulk silver, monster boxes |
-| **APMEX** | 2000 | A+ | Slightly higher | $199 (insured) | No | Widest selection, rare products |
-| **Silver Gold Bull** | 2009 | A+ | Competitive | Varies by order | No | International sovereign mint selection |
+| **[JM Bullion](https://www.jmbullion.com)** | 2011 | A+ | Competitive/lowest common | $199 (insured) | Yes | Lowest premiums on popular coins |
+| **[SD Bullion](https://www.sdbullion.com)** | 2012 | A+ | Competitive | $199 (insured) | Yes (guaranteed) | Bulk silver, monster boxes |
+| **[APMEX](https://www.apmex.com)** | 2000 | A+ | Slightly higher | $199 (insured) | No | Widest selection, rare products |
+| **[Silver Gold Bull](https://silvergoldbull.com)** | 2009 | A+ | Competitive | Varies by order | No | International sovereign mint selection |
 
 *Premium levels are approximate and change daily with spot price and market conditions. Always compare live prices at FindBullionPrices.com before purchasing.*[^4]
 
