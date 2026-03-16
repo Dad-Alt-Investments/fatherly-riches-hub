@@ -63,9 +63,11 @@ Fidelity Investments describes it this way: "It all really starts with understan
 
 ### Tools to Calculate and Track Net Worth
 
-- **Empower (formerly Personal Capital):** Free. Connects all accounts — bank, brokerage, 401(k), mortgage, credit cards — in one real-time dashboard. The easiest way to calculate net worth automatically.
-- **Monarch Money:** $14.99/month. Combines net worth tracking, budgeting, and investment monitoring in one platform. Best for couples who want a shared view.
+- **[Empower](https://www.empower.com) (formerly Personal Capital):** Free. Connects all accounts — bank, brokerage, 401(k), mortgage, credit cards — in one real-time dashboard. The easiest way to calculate net worth automatically.
+- **[Monarch Money](https://www.monarchmoney.com):** $14.99/month. Combines net worth tracking, budgeting, and investment monitoring in one platform. Best for couples who want a shared view.
 - **Simple spreadsheet:** Google Sheets or Excel; free; fully private. List every account and its current balance quarterly. Less automated but total privacy — no account linking required.
+
+> **Related:** [Best Tools for Tracking Net Worth](/article/best-tools-for-tracking-net-worth) — our full comparison of Empower, Monarch, YNAB, and spreadsheet approaches.
 
 **How often to update:** Quarterly is ideal. Once per year at minimum. Do not obsess over daily or weekly fluctuations driven by market movements — focus on the long-term trend over 12–24 months.
 
