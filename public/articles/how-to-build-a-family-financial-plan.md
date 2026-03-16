@@ -167,7 +167,7 @@ The employer match is the only guaranteed, risk-free immediate return on any inv
 
 Debt at 7%+ interest provides a guaranteed after-tax return equal to the interest rate when paid off. This beats most long-term investment return expectations after adjusting for taxes and risk. Pay this down before additional investing.
 
-**3. Max Roth IRA — $7,500/person in 2026 ($8,600 age 50+)**
+**3. Max [Roth IRA](/article/best-roth-ira-providers-for-beginners) — $7,500/person in 2026 ($8,600 age 50+)**
 
 The Roth IRA is the most powerful tax-advantaged account available to most families. All growth is tax-free. All qualified withdrawals in retirement are tax-free. For most families in their 30s and 40s who are in moderate tax brackets today, Roth beats traditional pre-tax accounts over a long time horizon.[^2]
 
