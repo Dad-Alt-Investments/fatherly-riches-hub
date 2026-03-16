@@ -95,7 +95,7 @@ These aren't just economics vocabulary. They're life skills. A 10-year-old who u
 
 ### The Tool: Greenlight Debit Card
 
-This is the right age to graduate from physical jars to a digital money management tool — one that still maintains parental visibility and control. **Greenlight** is the leading kids' debit card and financial education platform in the United States.
+This is the right age to graduate from physical jars to a digital money management tool — one that still maintains parental visibility and control. **[Greenlight](https://www.greenlight.com)** is the leading kids' debit card and financial education platform in the United States.
 
 **How Greenlight works:**
 - Parents load money onto the card (allowance, earnings, gifts)
