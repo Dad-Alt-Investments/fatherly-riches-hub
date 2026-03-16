@@ -34,9 +34,9 @@ Empower's data on its 38 million users consistently shows that investors who act
 
 | Tool | Cost | Free Tier | Investment Analysis | Real Estate Tracking | Collaborative Access | Best For |
 |---|---|---|---|---|---|---|
-| **Empower** | Free | ✅ Full | ✅ Excellent (fee analyzer, retirement planner) | ✅ Zillow integration | Limited | Free comprehensive wealth tracking |
-| **Monarch Money** | $14.99/mo or $99.99/yr | ❌ (7-day trial) | ✅ Good (not Empower-level) | ✅ Zillow + vehicle VIN | ✅ Full household | Couples and families wanting an all-in-one hub |
-| **YNAB** | $14.99/mo or $109/yr | ❌ (34-day trial) | Limited (manual tracking) | ❌ Manual only | ✅ Up to 5 users | Active budgeters who want net worth context |
+| **[Empower](https://www.empower.com)** | Free | ✅ Full | ✅ Excellent (fee analyzer, retirement planner) | ✅ Zillow integration | Limited | Free comprehensive wealth tracking |
+| **[Monarch Money](https://www.monarchmoney.com)** | $14.99/mo or $99.99/yr | ❌ (7-day trial) | ✅ Good (not Empower-level) | ✅ Zillow + vehicle VIN | ✅ Full household | Couples and families wanting an all-in-one hub |
+| **[YNAB](https://www.ynab.com)** | $14.99/mo or $109/yr | ❌ (34-day trial) | Limited (manual tracking) | ❌ Manual only | ✅ Up to 5 users | Active budgeters who want net worth context |
 | **Manual Spreadsheet** | Free | ✅ | ❌ None built-in | ✅ Manual | ✅ Fully shareable | Privacy-conscious investors; total control |
 
 ---
