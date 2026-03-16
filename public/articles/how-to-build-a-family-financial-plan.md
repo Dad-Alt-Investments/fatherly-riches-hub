@@ -81,7 +81,7 @@ A financial plan without specific goals is just a collection of good intentions.
 
 Short-term goals are the foundation. Without these, longer-term goals are structurally unstable:
 
-- **Full emergency fund:** 3–6 months of essential expenses in a HYSA. If you don't have this, it is Goal #1 above everything else.
+- **Full emergency fund:** 3–6 months of essential expenses in a [high-yield savings account](/article/best-high-yield-savings-accounts). If you don't have this, it is Goal #1 above everything else.
 - **Pay off high-interest debt:** Any debt above 7% interest is a guaranteed return equal to the interest rate when paid off. This beats most investment returns.
 - **Replace a deteriorating vehicle:** A planned purchase is funded in advance; an emergency replacement is a financial crisis.
 - **Other near-term one-time expenses:** Home repair, medical procedure, family travel
