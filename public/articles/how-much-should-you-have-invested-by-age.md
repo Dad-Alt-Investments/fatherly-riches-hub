@@ -126,13 +126,13 @@ Being behind at 30 is among the most fixable financial situations that exists. A
 
 ### 1. Open a Roth IRA Today If You Don't Have One
 
-A Roth IRA is the single most powerful retirement savings tool available to most Americans under 35. Contributions grow tax-free, and qualified withdrawals in retirement are completely tax-free — including all the growth. For 2026, the contribution limit is **$7,500/year** (up from $7,000 in 2025) for those under age 50, subject to income limits.[^5]
+A [Roth IRA](/article/best-roth-ira-providers-for-beginners) is the single most powerful retirement savings tool available to most Americans under 35. Contributions grow tax-free, and qualified withdrawals in retirement are completely tax-free — including all the growth. For 2026, the contribution limit is **$7,500/year** (up from $7,000 in 2025) for those under age 50, subject to income limits.[^5]
 
 **2026 Roth IRA income limits:**
 - Single filers: full contribution allowed up to $153,000 MAGI; phase-out from $153,000–$168,000
 - Married filing jointly: full contribution up to $242,000 MAGI; phase-out from $242,000–$252,000
 
-Opening a Roth IRA takes less than 15 minutes at Fidelity, Vanguard, or Charles Schwab. The minimum to open is $0 at all three. If you can contribute even $200/month ($2,400/year), you are building the foundation that will compound significantly over 35+ years.
+Opening a Roth IRA takes less than 15 minutes at [Fidelity](https://www.fidelity.com), [Vanguard](https://www.vanguard.com), or [Charles Schwab](https://www.schwab.com). The minimum to open is $0 at all three. If you can contribute even $200/month ($2,400/year), you are building the foundation that will [compound significantly](/article/compound-interest-explained) over 35+ years.
 
 ### 2. Capture the Full Employer 401(k) Match
 
@@ -251,7 +251,7 @@ Practical first steps for someone with zero retirement savings at 40:
 1. **Open a Roth IRA** (if income-eligible) or a Traditional IRA — takes 15 minutes online
 2. **Contribute to your employer's 401(k)** at minimum enough to capture the full employer match
 3. **Set a target savings rate** — start at 10% of gross income and increase by 1–2% every 6 months
-4. **Invest in low-cost index funds** — a target-date fund set to your expected retirement year is an excellent default for anyone who doesn't want to manage allocation decisions actively
+4. **Invest in [low-cost index funds](/article/best-platforms-to-buy-index-funds)** — a target-date fund set to your expected retirement year is an excellent default for anyone who doesn't want to manage allocation decisions actively
 
 A 40-year-old who starts saving $1,000/month at a 7% average return will have approximately **$567,000** by age 67 — not enough to replace a full professional income, but a meaningful asset combined with Social Security and any other savings or equity. The worst outcome is continuing to save nothing.
 
@@ -289,6 +289,16 @@ Yes — the Fidelity benchmark is designed to measure **all retirement savings**
 - ❌ Business equity (too illiquid and uncertain)
 
 Add up all included accounts to get your total retirement investment balance, then compare against your current salary multiplied by the Fidelity benchmark for your age.
+
+---
+
+## Related Guides
+
+- [How to Start Investing If You're Behind](/article/how-to-start-investing-if-youre-behind) — practical catch-up strategies regardless of your age
+- [Best Roth IRA Providers for Beginners](/article/best-roth-ira-providers-for-beginners) — where to open the Roth IRA referenced throughout this guide
+- [Compound Interest Explained](/article/compound-interest-explained) — the math behind why starting early matters so much
+- [Best Platforms to Buy Index Funds](/article/best-platforms-to-buy-index-funds) — where to invest once you've opened your accounts
+- [How to Build a Family Financial Plan](/article/how-to-build-a-family-financial-plan) — the complete framework for retirement, college, and insurance
 
 ---
 

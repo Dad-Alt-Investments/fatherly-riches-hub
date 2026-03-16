@@ -63,9 +63,11 @@ Fidelity Investments describes it this way: "It all really starts with understan
 
 ### Tools to Calculate and Track Net Worth
 
-- **Empower (formerly Personal Capital):** Free. Connects all accounts — bank, brokerage, 401(k), mortgage, credit cards — in one real-time dashboard. The easiest way to calculate net worth automatically.
-- **Monarch Money:** $14.99/month. Combines net worth tracking, budgeting, and investment monitoring in one platform. Best for couples who want a shared view.
+- **[Empower](https://www.empower.com) (formerly Personal Capital):** Free. Connects all accounts — bank, brokerage, 401(k), mortgage, credit cards — in one real-time dashboard. The easiest way to calculate net worth automatically.
+- **[Monarch Money](https://www.monarchmoney.com):** $14.99/month. Combines net worth tracking, budgeting, and investment monitoring in one platform. Best for couples who want a shared view.
 - **Simple spreadsheet:** Google Sheets or Excel; free; fully private. List every account and its current balance quarterly. Less automated but total privacy — no account linking required.
+
+> **Related:** [Best Tools for Tracking Net Worth](/article/best-tools-for-tracking-net-worth) — our full comparison of Empower, Monarch, YNAB, and spreadsheet approaches.
 
 **How often to update:** Quarterly is ideal. Once per year at minimum. Do not obsess over daily or weekly fluctuations driven by market movements — focus on the long-term trend over 12–24 months.
 
@@ -79,7 +81,7 @@ A financial plan without specific goals is just a collection of good intentions.
 
 Short-term goals are the foundation. Without these, longer-term goals are structurally unstable:
 
-- **Full emergency fund:** 3–6 months of essential expenses in a HYSA. If you don't have this, it is Goal #1 above everything else.
+- **Full emergency fund:** 3–6 months of essential expenses in a [high-yield savings account](/article/best-high-yield-savings-accounts). If you don't have this, it is Goal #1 above everything else.
 - **Pay off high-interest debt:** Any debt above 7% interest is a guaranteed return equal to the interest rate when paid off. This beats most investment returns.
 - **Replace a deteriorating vehicle:** A planned purchase is funded in advance; an emergency replacement is a financial crisis.
 - **Other near-term one-time expenses:** Home repair, medical procedure, family travel
@@ -165,7 +167,7 @@ The employer match is the only guaranteed, risk-free immediate return on any inv
 
 Debt at 7%+ interest provides a guaranteed after-tax return equal to the interest rate when paid off. This beats most long-term investment return expectations after adjusting for taxes and risk. Pay this down before additional investing.
 
-**3. Max Roth IRA — $7,500/person in 2026 ($8,600 age 50+)**
+**3. Max [Roth IRA](/article/best-roth-ira-providers-for-beginners) — $7,500/person in 2026 ($8,600 age 50+)**
 
 The Roth IRA is the most powerful tax-advantaged account available to most families. All growth is tax-free. All qualified withdrawals in retirement are tax-free. For most families in their 30s and 40s who are in moderate tax brackets today, Roth beats traditional pre-tax accounts over a long time horizon.[^2]
 
@@ -179,7 +181,7 @@ Once retirement is funded, college savings is next. A 529 provides tax-free grow
 
 **6. Taxable brokerage account**
 
-For any savings beyond tax-advantaged account limits, a low-cost taxable brokerage account (Fidelity, Schwab, Vanguard) invested in index funds provides tax-efficient long-term growth.
+For any savings beyond tax-advantaged account limits, a low-cost [taxable brokerage account](/article/top-stock-brokerages) ([Fidelity](https://www.fidelity.com), [Schwab](https://www.schwab.com), [Vanguard](https://www.vanguard.com)) invested in [index funds](/article/best-platforms-to-buy-index-funds) provides tax-efficient long-term growth.
 
 ### Why This Order Matters
 
@@ -312,7 +314,7 @@ The answer is a weekly 15-minute habit.
 
 Every week — Sunday evenings and Friday lunches are popular choices for families — both partners sit down for 15 minutes and do four things:
 
-1. **Review last week's spending** in your budgeting app (YNAB, Monarch, or your preferred tool). Are any categories trending over budget? Did any unexpected expenses land?
+1. **Review last week's spending** in your [budgeting app](/article/best-budgeting-apps-for-families) ([YNAB](https://www.ynab.com), [Monarch](https://www.monarchmoney.com), or your preferred tool). Are any categories trending over budget? Did any unexpected expenses land?
 
 2. **Confirm upcoming bills won't cause a shortfall.** Look at the next 7–14 days of scheduled payments. Is there enough in checking to cover them without a transfer from savings?
 
@@ -391,6 +393,16 @@ Not necessarily — but for specific situations, professional guidance provides 
 - You are within 5 years of retirement and want a guaranteed income plan and Social Security optimization
 
 If you do engage a financial advisor, use a **fee-only fiduciary** — one who charges a flat fee or hourly rate (not commissions) and is legally required to act in your interest, not their own. The NAPFA (National Association of Personal Financial Advisors) at napfa.org is the standard directory for fee-only fiduciaries.
+
+---
+
+## Related Guides
+
+- [Best Budgeting Apps for Families](/article/best-budgeting-apps-for-families) — the tools to execute Step 3 of this plan
+- [Best High-Yield Savings Accounts](/article/best-high-yield-savings-accounts) — where to park your emergency fund and short-term savings
+- [Best Roth IRA Providers for Beginners](/article/best-roth-ira-providers-for-beginners) — where to open the Roth IRA from Step 4
+- [How Much Should You Have Invested by Age?](/article/how-much-should-you-have-invested-by-age) — benchmarks to measure your progress
+- [How to Teach Your Kids About Money](/article/teach-kids-about-money) — passing financial literacy to the next generation
 
 ---
 

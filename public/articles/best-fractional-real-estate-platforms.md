@@ -43,12 +43,12 @@ Before diving into individual platforms, here are the key criteria to consider w
 
 | Platform | Min. Investment | Accreditation Required | Best For | Asset Type | Fees |
 |---|---|---|---|---|---|
-| **Fundrise** | $10 | No | Beginners, passive investors | Residential + commercial funds | 1% annual |
-| **Arrived** | $100 | No | Single-family home investors | Single-family rentals | 1–3.5% sourcing + 0.15%/qtr mgmt |
-| **RealtyMogul** | $5,000 | No (REITs) / Yes (private placements) | Income-focused investors | Commercial REITs + private deals | 1–2% annual |
-| **Yieldstreet** | $2,500–$10,000 | Mostly yes | Alternative asset diversifiers | Multi-asset (real estate + more) | 0–2.5% annual |
-| **CrowdStreet** | $25,000 | Yes | High-net-worth commercial investors | Commercial real estate deals | Sponsor fees (no platform fee) |
-| **EquityMultiple** | $5,000 | Yes | Accredited investors seeking flexibility | Commercial real estate + notes | 0.5–1.5% annual |
+| **[Fundrise](https://fundrise.com)** | $10 | No | Beginners, passive investors | Residential + commercial funds | 1% annual |
+| **[Arrived](https://arrivedhomes.com)** | $100 | No | Single-family home investors | Single-family rentals | 1–3.5% sourcing + 0.15%/qtr mgmt |
+| **[RealtyMogul](https://www.realtymogul.com)** | $5,000 | No (REITs) / Yes (private placements) | Income-focused investors | Commercial REITs + private deals | 1–2% annual |
+| **[Yieldstreet](https://www.yieldstreet.com)** | $2,500–$10,000 | Mostly yes | Alternative asset diversifiers | Multi-asset (real estate + more) | 0–2.5% annual |
+| **[CrowdStreet](https://www.crowdstreet.com)** | $25,000 | Yes | High-net-worth commercial investors | Commercial real estate deals | Sponsor fees (no platform fee) |
+| **[EquityMultiple](https://www.equitymultiple.com)** | $5,000 | Yes | Accredited investors seeking flexibility | Commercial real estate + notes | 0.5–1.5% annual |
 
 ---
 

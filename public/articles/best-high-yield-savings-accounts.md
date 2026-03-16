@@ -62,12 +62,12 @@ All rates as of March 2026. Verify current APYs directly with each institution b
 
 | Bank | Current APY | Min. Balance for APY | Min. to Open | FDIC Insured | Monthly Fees | Best For |
 |---|---|---|---|---|---|---|
-| **Marcus by Goldman Sachs** | 3.65% | $0 | $0 | ✅ Yes | $0 | Simple, no-strings HYSA |
-| **SoFi Checking & Savings** | 3.30% (up to 4.00% promo) | $0 for base rate | $0 | ✅ Yes (up to $2M via partners) | $0 | Modern banking with direct deposit APY boost |
-| **Ally Bank** | 3.20% | $0 | $0 | ✅ Yes | $0 | Full online bank with savings buckets |
-| **LendingClub LevelUp** | ~4.00%+ (with $250/mo deposit) | $250/mo deposit requirement | $0 | ✅ Yes | $0 | Competitive yield with easy qualifying criteria |
-| **EverBank Performance Savings** | ~4.05% | $0 | $0 | ✅ Yes | $0 | Highest straightforward rate from major provider |
-| **Western Alliance Bank** | 3.80% | $500 to open | $500 | ✅ Yes | $0 | No balance tiers, consistent yield |
+| **[Marcus by Goldman Sachs](https://www.marcus.com)** | 3.65% | $0 | $0 | ✅ Yes | $0 | Simple, no-strings HYSA |
+| **[SoFi Checking & Savings](https://www.sofi.com)** | 3.30% (up to 4.00% promo) | $0 for base rate | $0 | ✅ Yes (up to $2M via partners) | $0 | Modern banking with direct deposit APY boost |
+| **[Ally Bank](https://www.ally.com)** | 3.20% | $0 | $0 | ✅ Yes | $0 | Full online bank with savings buckets |
+| **[LendingClub LevelUp](https://www.lendingclub.com)** | ~4.00%+ (with $250/mo deposit) | $250/mo deposit requirement | $0 | ✅ Yes | $0 | Competitive yield with easy qualifying criteria |
+| **[EverBank Performance Savings](https://www.everbank.com)** | ~4.05% | $0 | $0 | ✅ Yes | $0 | Highest straightforward rate from major provider |
+| **[Western Alliance Bank](https://www.westernalliancebank.com)** | 3.80% | $500 to open | $500 | ✅ Yes | $0 | No balance tiers, consistent yield |
 
 ---
 
@@ -261,7 +261,17 @@ Families with specific near-term goals — a new car in 18 months, a home renova
 
 A common financial planning mistake families make is accumulating far more cash than their actual near-term needs justify. Once your emergency fund is fully funded, your quarterly tax reserves are set aside, and your near-term goal savings are in place, additional cash sitting in a savings account earns 3–4% when it could be compounding at historically higher rates in the market over a 5–10+ year horizon.
 
-The question to ask annually: *Do I have more cash in savings than I need for the next 3 years?* If the answer is yes, consider whether the excess belongs in a Roth IRA, 401(k), or taxable brokerage account.
+The question to ask annually: *Do I have more cash in savings than I need for the next 3 years?* If the answer is yes, consider whether the excess belongs in a [Roth IRA](/article/best-roth-ira-providers-for-beginners), 401(k), or [taxable brokerage account](/article/top-stock-brokerages).
+
+---
+
+## Related Guides
+
+- [How Much Cash Should You Keep vs. Invest?](/article/how-much-cash-vs-investments) — the framework for balancing savings and investments
+- [Best Budgeting Apps for Families](/article/best-budgeting-apps-for-families) — tools to manage your spending alongside your HYSA
+- [Best Tools for Tracking Net Worth](/article/best-tools-for-tracking-net-worth) — see your HYSA alongside all other assets in one dashboard
+- [Emergency Funds and Investing: How to Balance Both](/article/emergency-funds-and-investing) — when your emergency fund is "enough" and it's time to invest
+- [How to Build a Family Financial Plan](/article/how-to-build-a-family-financial-plan) — the complete framework where a HYSA fits into your larger strategy
 
 ---
 

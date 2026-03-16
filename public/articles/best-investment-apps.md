@@ -418,7 +418,7 @@ From there, the stack can evolve. Add M1 Finance if you want a fully automated t
 
 The tools have never been better. The barriers have never been lower. The only thing left is to open the app, make the first deposit, and let time do the work.
 
-> **→ Related: [The Ultimate Beginner's Guide to Investing for Dads](/ultimate-beginners-guide-to-investing-for-dads) | [Simple Budget System for Busy Dads](/simple-budget-system-for-busy-dads) | [How to Teach Your Kids About Money](/how-to-teach-your-kids-about-money)**
+> **→ Related:** [Beginner's Guide to Investing](/article/beginners-guide-to-investing) | [Best Roth IRA Providers](/article/best-roth-ira-providers-for-beginners) | [How to Open a Brokerage Account](/article/how-to-open-a-brokerage-account) | [Best Budgeting Apps for Families](/article/best-budgeting-apps-for-families) | [How to Teach Your Kids About Money](/article/teach-kids-about-money)
 
 ---
 

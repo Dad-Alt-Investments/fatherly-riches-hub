@@ -53,11 +53,11 @@ Families manage more recurring obligations than singles: mortgage, multiple util
 
 | App | Monthly Cost | Annual Cost | Household/Joint Access | Investment Tracking | Free Trial | Best For |
 |---|---|---|---|---|---|---|
-| **YNAB** | $14.99/mo | $109/yr | ✅ Up to 5 users | Limited (manual) | 34 days | Active, intentional family budgeters |
-| **Monarch Money** | $14.99/mo | $99.99/yr | ✅ Full household | ✅ Full | 7 days | All-in-one family financial dashboard |
-| **Copilot** | ~$13/mo | ~$95–$107/yr | ✅ Partner sharing | ✅ Yes | 14 days | Apple-only households wanting premium UX |
-| **Empower** | Free | Free | Limited | ✅ Full | N/A (always free) | Investment-heavy families needing oversight |
-| **EveryDollar** | $17.99/mo | $79.99/yr | ✅ Shared | ❌ No | 14 days (premium) | Families following Dave Ramsey's Baby Steps |
+| **[YNAB](https://www.ynab.com)** | $14.99/mo | $109/yr | ✅ Up to 5 users | Limited (manual) | 34 days | Active, intentional family budgeters |
+| **[Monarch Money](https://www.monarchmoney.com)** | $14.99/mo | $99.99/yr | ✅ Full household | ✅ Full | 7 days | All-in-one family financial dashboard |
+| **[Copilot](https://copilot.money)** | ~$13/mo | ~$95–$107/yr | ✅ Partner sharing | ✅ Yes | 14 days | Apple-only households wanting premium UX |
+| **[Empower](https://www.empower.com)** | Free | Free | Limited | ✅ Full | N/A (always free) | Investment-heavy families needing oversight |
+| **[EveryDollar](https://www.everydollar.com)** | $17.99/mo | $79.99/yr | ✅ Shared | ❌ No | 14 days (premium) | Families following Dave Ramsey's Baby Steps |
 
 ---
 
@@ -280,6 +280,16 @@ It is realistic for families, but it requires two things most other budgeting me
 2. **Active monthly engagement from at least one partner:** Unlike passive tracking apps, zero-based budgeting requires conscious setup at the start of each month and active monitoring as the month progresses.
 
 YNAB's "Roll With the Punches" rule — which encourages you to adjust categories mid-month when surprises happen rather than abandoning the budget — makes it far more realistic for family life than rigid, never-adjust approaches. A budget that can flex is a budget that survives contact with reality.
+
+---
+
+## Related Guides
+
+- [Best Tools for Tracking Net Worth](/article/best-tools-for-tracking-net-worth) — the companion to budgeting; track whether your wealth is actually growing
+- [Best High-Yield Savings Accounts](/article/best-high-yield-savings-accounts) — where to park the emergency fund your budget helps you build
+- [How to Build a Family Financial Plan](/article/how-to-build-a-family-financial-plan) — the strategic framework your budget supports
+- [How Much Cash Should You Keep vs. Invest?](/article/how-much-cash-vs-investments) — when your budget surplus should move to investments
+- [Best Investment Apps for Dads](/article/best-investment-apps) — once you've built the savings habit, here's where to put the money to work
 
 ---
 

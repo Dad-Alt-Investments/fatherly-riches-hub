@@ -83,7 +83,7 @@ Acquisition Lab is Deibel's flagship program — described as a "do-it-with-you"
 
 **Honest assessment:** The Acquisition Lab is the most credible paid program in the ETA space because its founder is a verified practitioner with a documented track record — not a social media personality. The deal review sessions with Deibel have received consistently strong feedback from members. However, at $10,000, it represents a significant investment that makes most sense for buyers pursuing SBA-financed deals in the $500K–$3M range, where the cost is a rounding error relative to the deal size. For buyers pursuing sub-$100K acquisitions, the free resources and the book may be sufficient.
 
-**Where to learn more:** acquisitionlab.com | buythenbuild.com
+**Where to learn more:** [acquisitionlab.com](https://acquisitionlab.com) | [buythenbuild.com](https://buythenbuild.com)
 
 ---
 
@@ -128,7 +128,7 @@ The Contrarian Academy is Sanchez's premium community — live calls, deal revie
 - YouTube: @CodieSanchezCT (750,000+ subscribers)
 - Substack: Contrarian Thinking newsletter (1M+ weekly subscribers)
 
-**Where to learn more:** contrarianthinking.co | codiesanchez.com
+**Where to learn more:** [contrarianthinking.co](https://contrarianthinking.co) | [codiesanchez.com](https://codiesanchez.com)
 
 ---
 
@@ -154,7 +154,7 @@ The Searchfunder community skews toward buyers pursuing traditional or self-fund
 
 This is largely accurate. The core knowledge base of acquisition entrepreneurship — how to value a business, how to structure an LOI, how to conduct financial due diligence — is available free on Searchfunder, through the SBA website, and in the books listed below. The paid courses add community accountability, structured curriculum, and direct access to practitioners. Whether those additions justify $8,000–$10,000 is a personal calculation that depends on your deal size, your timeline, and how much you value accountability.
 
-**Where to find it:** searchfunder.com (free registration)
+**Where to find it:** [searchfunder.com](https://searchfunder.com) (free registration)
 
 ---
 
@@ -301,6 +301,16 @@ This is one of the most common points of confusion for new entrants to the ETA s
 - Higher personal financial risk, higher upside retention
 
 **Most DadAlt readers are pursuing self-funded acquisitions** — using personal capital, SBA financing, and seller financing to buy businesses in the $100K–$2M range without institutional investor backing. The Acquisition Lab and Contrarian Thinking ecosystem both serve this buyer. Traditional search fund resources (Stanford GSB Search Fund Studies, many Searchfunder threads) are oriented toward the institutional model, though the due diligence and operational content applies to both.
+
+---
+
+## Related Guides
+
+- [Best Websites to Buy a Small Business Online](/article/best-websites-to-buy-small-business-online) — where to find deals once you've completed your education
+- [How to Evaluate a Business Before Buying It](/article/how-to-evaluate-a-business-before-buying-it) — the due diligence framework these courses teach
+- [Best Businesses to Buy Under $50K](/article/best-businesses-to-buy-under-50k) — starter deals for first-time buyers
+- [How to Buy a Small Business With No Money Down](/article/how-to-buy-small-business-no-money-down) — financing strategies for capital-constrained buyers
+- [Acquire.com vs. Flippa: Which Is Better for Buyers?](/article/acquire-com-vs-flippa-which-is-better-for-buyers) — online business marketplace comparison
 
 ---
 

@@ -35,10 +35,12 @@ A hardware wallet is a dedicated physical device — roughly the size of a USB t
 
 **Top hardware wallets for U.S. investors in 2026:**
 
-- **Ledger Nano X** (~$149) — Supports 5,500+ coins and tokens. Bluetooth connectivity for mobile use with Ledger Live. CC EAL5+ certified secure element chip. Best all-around choice for most beginners and intermediate holders.
-- **Trezor Model T** (~$219) — 100% open-source firmware, publicly auditable by security researchers. Touchscreen. Supports 1,800+ coins. No Bluetooth (which some security experts prefer). EAL6+ certified secure element on newer models.
-- **Trezor Safe 3** (~$79) — Budget-friendly Trezor entry point. Secure element chip. Open-source. Good starting option for holders under $5,000.
-- **Ledger Nano S Plus** (~$79) — Budget Ledger option. USB-C. 5,500+ coin support. No Bluetooth.[^2]
+- **[Ledger Nano X](https://www.ledger.com)** (~$149) — Supports 5,500+ coins and tokens. Bluetooth connectivity for mobile use with Ledger Live. CC EAL5+ certified secure element chip. Best all-around choice for most beginners and intermediate holders.
+- **[Trezor Model T](https://trezor.io)** (~$219) — 100% open-source firmware, publicly auditable by security researchers. Touchscreen. Supports 1,800+ coins. No Bluetooth (which some security experts prefer). EAL6+ certified secure element on newer models.
+- **[Trezor Safe 3](https://trezor.io)** (~$79) — Budget-friendly Trezor entry point. Secure element chip. Open-source. Good starting option for holders under $5,000.
+- **[Ledger Nano S Plus](https://www.ledger.com)** (~$79) — Budget Ledger option. USB-C. 5,500+ coin support. No Bluetooth.[^2]
+
+> **Related:** [Best Hardware Wallets for Long-Term Crypto Storage](/article/best-hardware-wallets-crypto-storage) — our full comparison with detailed reviews of each device.
 
 > **Important:** Only purchase hardware wallets directly from the manufacturer's official website — never from Amazon third-party sellers, eBay, or any secondhand source. Counterfeit and pre-tampered hardware wallets are a real threat. A compromised device may have a pre-loaded seed phrase already known to the attacker, meaning the moment you fund the wallet, they can drain it.[^3]
 

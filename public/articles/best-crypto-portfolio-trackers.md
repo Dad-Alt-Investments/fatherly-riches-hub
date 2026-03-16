@@ -27,10 +27,10 @@ The IRS treats all cryptocurrency as property. This means every crypto-to-crypto
 
 | Tracker | Free Tier | Tax Reporting | Exchange/Wallet Connections | DeFi/NFT Support | Mobile App | Annual Cost (Paid) |
 |---|---|---|---|---|---|---|
-| **CoinTracker** | Portfolio tracking, basic tax summary | Yes — Form 8949, Schedule D; TurboTax + H&R Block direct sync | 500+ | Yes (20,000+ DeFi contracts) | iOS + Android | From $59/year |
-| **Koinly** | Up to 10,000 transactions; portfolio tracking; capital gains preview; no report download | Yes — Form 8949, Schedule D; TurboTax compatible | 800+ exchanges and wallets | Yes — DeFi, NFTs, staking, margin | Web-first; no dedicated native mobile app | From $99/year (Hodler plan, 1,000 txns) |
-| **Delta** | Free with 2 exchange/wallet connections; real-time P&L | No tax reports (via CoinLedger partnership) | Dozens of exchanges and wallets | Limited | iOS + Android + desktop (Mac/Win/Linux) | $59.99/year (Pro) |
-| **CoinStats** | Free with basic portfolio tracking; 10 portfolios; 40 tx/day sync | Via CoinLedger partnership (separate cost) | 300+ exchanges and wallets | Yes — 1,000+ DeFi protocols, 100+ blockchains | iOS + Android | $13.99/month (Premium) |
+| **[CoinTracker](https://www.cointracker.io)** | Portfolio tracking, basic tax summary | Yes — Form 8949, Schedule D; TurboTax + H&R Block direct sync | 500+ | Yes (20,000+ DeFi contracts) | iOS + Android | From $59/year |
+| **[Koinly](https://koinly.io)** | Up to 10,000 transactions; portfolio tracking; capital gains preview; no report download | Yes — Form 8949, Schedule D; TurboTax compatible | 800+ exchanges and wallets | Yes — DeFi, NFTs, staking, margin | Web-first; no dedicated native mobile app | From $99/year (Hodler plan, 1,000 txns) |
+| **[Delta](https://delta.app)** | Free with 2 exchange/wallet connections; real-time P&L | No tax reports (via CoinLedger partnership) | Dozens of exchanges and wallets | Limited | iOS + Android + desktop (Mac/Win/Linux) | $59.99/year (Pro) |
+| **[CoinStats](https://coinstats.app)** | Free with basic portfolio tracking; 10 portfolios; 40 tx/day sync | Via CoinLedger partnership (separate cost) | 300+ exchanges and wallets | Yes — 1,000+ DeFi protocols, 100+ blockchains | iOS + Android | $13.99/month (Premium) |
 
 *Pricing is per tax year or monthly as indicated. Always verify current pricing on each platform's website before subscribing.*
 
