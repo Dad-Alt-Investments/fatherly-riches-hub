@@ -175,12 +175,12 @@ The best vehicles for emergency funds in 2026:
 
 ### High-Yield Savings Accounts (HYSAs)
 
-This is the gold standard for emergency fund storage. HYSAs are FDIC-insured up to $250,000 per depositor, accessible instantly or within 1–3 business days, and — as of early 2026 — offering rates significantly above traditional savings accounts.
+This is the gold standard for emergency fund storage. HYSAs are FDIC-insured up to $250,000 per depositor, accessible instantly or within 1–3 business days, and — as of early 2026 — offering rates significantly above traditional savings accounts. For a detailed comparison, see [Best High-Yield Savings Accounts for 2026](/article/best-high-yield-savings-accounts).
 
 Current HYSA landscape (as of late February 2026):
 - **National average savings rate:** 0.39% APY (FDIC data, February 17, 2026)
 - **Top HYSA rates:** 4.00–5.00% APY at online banks
-- **Top institutions:** Varo Money (up to 5.00%), Axos Bank (4.21%), Newtek Bank (4.20%), Bread Savings, CIT Bank, Marcus by Goldman Sachs
+- **Top institutions:** [Varo Money](https://www.varomoney.com) (up to 5.00%), [Axos Bank](https://www.axosbank.com) (4.21%), [Newtek Bank](https://www.newtekbank.com) (4.20%), [Bread Savings](https://www.breadfinancial.com), [CIT Bank](https://www.cit.com), [Marcus by Goldman Sachs](https://www.marcus.com)
 
 On a $20,000 emergency fund, the difference between 0.39% at a traditional bank and 4.50% at a top HYSA is roughly **$822 per year in additional interest** — real money for doing essentially nothing.
 

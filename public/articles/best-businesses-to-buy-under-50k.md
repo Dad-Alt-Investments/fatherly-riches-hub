@@ -20,7 +20,7 @@ SBA loans require 650+ credit scores, two-plus years of documented business prof
 
 ### Wide Enough Selection to Be Selective
 
-BizBuySell lists thousands of businesses under $50K at any given time. Flippa's active inventory includes hundreds of content sites, e-commerce stores, and online businesses in the $5K–$50K range. You have the luxury of walking away from anything that doesn't feel right without missing a once-in-a-decade opportunity.
+[BizBuySell](https://www.bizbuysell.com) lists thousands of businesses under $50K at any given time. [Flippa](https://www.flippa.com)'s active inventory includes hundreds of content sites, e-commerce stores, and online businesses in the $5K–$50K range. You have the luxury of walking away from anything that doesn't feel right without missing a once-in-a-decade opportunity. For a full platform comparison, see [Best Websites to Buy a Small Business Online](/article/best-websites-to-buy-small-business-online).
 
 ### The Math on Upside Potential
 

@@ -95,7 +95,7 @@ These aren't just economics vocabulary. They're life skills. A 10-year-old who u
 
 ### The Tool: Greenlight Debit Card
 
-This is the right age to graduate from physical jars to a digital money management tool — one that still maintains parental visibility and control. **Greenlight** is the leading kids' debit card and financial education platform in the United States.
+This is the right age to graduate from physical jars to a digital money management tool — one that still maintains parental visibility and control. **[Greenlight](https://www.greenlight.com)** is the leading kids' debit card and financial education platform in the United States.
 
 **How Greenlight works:**
 - Parents load money onto the card (allowance, earnings, gifts)
@@ -150,7 +150,7 @@ This is why the teen years — not the 30s, not the 40s — are when the most po
 
 ### Tool #1: Fidelity Youth Account
 
-The **Fidelity Youth Account** is a teen-owned brokerage account for ages 13–17. It is one of the most powerful financial education tools available to American teenagers.
+The **[Fidelity Youth Account](https://www.fidelity.com/go/youth-account/overview)** is a teen-owned brokerage account for ages 13–17. It is one of the most powerful financial education tools available to American teenagers.
 
 **Key features:**
 - **No fees, no minimums, no subscription cost** — completely free to open and maintain
@@ -167,7 +167,7 @@ To open a Fidelity Youth Account, a parent must also hold a Fidelity account. Th
 
 ### Tool #2: Schwab Custodial Account
 
-For families who prefer a more traditional structure with full parental control over investment decisions, **Charles Schwab's custodial brokerage account** (a UTMA/UGMA account) is an excellent alternative.
+For families who prefer a more traditional structure with full parental control over investment decisions, **[Charles Schwab's](https://www.schwab.com) custodial brokerage account** (a UTMA/UGMA account) is an excellent alternative.
 
 In a custodial account, the **parent or guardian controls all investment decisions** until the child reaches the age of majority (18 in most states, 21 in a few). The account belongs to the child as a legal matter — assets are an irrevocable gift — but the adult manages the portfolio until the child takes over.
 
@@ -268,7 +268,7 @@ A simple rule: total student loan debt at graduation should not exceed your expe
 
 ### 4. Budgeting Their First Paycheck
 
-When your child lands their first real job, sit down with them — before the first paycheck arrives — and build a simple budget together. Use the **DadAlt 3-Bucket System** from our [Simple Budget System for Busy Dads](#) article:
+When your child lands their first real job, sit down with them — before the first paycheck arrives — and build a simple budget together. Use the **DadAlt 3-Bucket System**:
 
 - **Bucket 1 (50–60%):** Non-negotiables — rent, utilities, groceries, minimum debt payments, transportation
 - **Bucket 2 (20–30%):** Life — dining out, entertainment, clothing, discretionary
@@ -333,7 +333,7 @@ Start with three jars and a weekly allowance. Graduate to a Greenlight card. Ope
 
 That's the whole system. And 20 years from now, when your kids are financially independent adults making smart decisions with their own children, they'll know exactly where it started.
 
-> **→ Related: [Simple Budget System for Busy Dads](#) | [The Ultimate DadAlt Investment Playbook](#) | [How to Pay Off Debt and Still Invest](#)**
+> **→ Related: [Best Budgeting Apps for Families](/article/best-budgeting-apps-for-families) | [The Ultimate Beginner's Guide to Investing](/article/beginners-guide-to-investing) | [What Every Dad Should Know About Compound Interest](/article/compound-interest-explained)**
 
 ---
 

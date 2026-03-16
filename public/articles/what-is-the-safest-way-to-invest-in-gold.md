@@ -41,7 +41,7 @@ Understanding which risks matter most to your situation is the first step toward
 - Immediately accessible — you can sell to a dealer, coin shop, or individual the same day
 - Requires secure storage and proper insurance (most homeowner's policies cover only $200–$1,500 in precious metals without a rider)
 
-**Suitable dealers:** APMEX (largest U.S. selection), JM Bullion (consistently lowest premiums, free shipping over $199), SD Bullion (price-match guarantee)
+**Suitable dealers:** [APMEX](https://www.apmex.com) (largest U.S. selection), [JM Bullion](https://www.jmbullion.com) (consistently lowest premiums, free shipping over $199), [SD Bullion](https://www.sdbullion.com) (price-match guarantee). For a full comparison, see [Best Places to Buy Gold and Silver Online](/article/best-places-to-buy-gold-silver-online).
 
 ### 2. Gold ETFs (Exchange-Traded Funds)
 
@@ -153,7 +153,7 @@ This ranking reflects overall safety for a **long-term, wealth-preserving Americ
 
 ### #3 — Gold IRA with a Reputable Provider
 
-**Why it ranks third:** A Roth Gold IRA with a vetted provider like Augusta Precious Metals, Goldco, or Birch Gold Group delivers meaningful tax advantages — permanent exemption from the 28% collectibles rate in the Roth structure — with the security of professional allocated storage. The custodian adds an institutional compliance layer that protects IRA assets in ways a private vault may not.
+**Why it ranks third:** A Roth Gold IRA with a vetted provider like [Augusta Precious Metals](https://www.augustapreciousmetals.com), [Goldco](https://www.goldco.com), or [Birch Gold Group](https://www.birchgold.com) delivers meaningful tax advantages — permanent exemption from the 28% collectibles rate in the Roth structure — with the security of professional allocated storage. The custodian adds an institutional compliance layer that protects IRA assets in ways a private vault may not. For a head-to-head comparison, see [Augusta vs Goldco vs Birch Gold Group](/article/augusta-vs-goldco-vs-birch-gold-group).
 
 **Honest limitations:** Annual fees of $200–$500+ make small accounts ($10,000–$25,000) economically suboptimal. The custodian layer adds both cost and dependency. The industry contains documented bad actors (see Scams section below). At account sizes of $100,000+, these limitations become manageable relative to the tax benefit.
 
@@ -165,7 +165,7 @@ This ranking reflects overall safety for a **long-term, wealth-preserving Americ
 - No institutional fire suppression or security infrastructure
 - Still subject to the 28% collectibles tax rate
 
-**Appropriate scale:** $5,000–$20,000 in a quality bolted safe (Liberty, AMSEC, Fort Knox) with proper insurance coverage. The crisis-hedge case for home storage remains valid at any portfolio size, but larger holdings warrant splitting between home and professional storage.
+**Appropriate scale:** $5,000–$20,000 in a quality bolted safe (Liberty, AMSEC, Fort Knox) with proper insurance coverage. The crisis-hedge case for home storage remains valid at any portfolio size, but larger holdings warrant splitting between home and professional storage. For a complete home storage guide, see [How to Store Gold at Home Safely](/article/how-to-store-gold-at-home-safely).
 
 ### #5 — Gold Mining Stocks (Individual or GDX/GDXJ)
 

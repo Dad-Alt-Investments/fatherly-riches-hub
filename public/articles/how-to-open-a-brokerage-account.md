@@ -50,7 +50,7 @@ This is the most important decision in this entire guide and the one most beginn
 
 A taxable brokerage is still worth having — especially once you have maxed tax-advantaged accounts, or if you need liquidity before retirement age. But if you have limited capital and can only do one thing, the Roth IRA wins.
 
-> See also: [Best Roth IRA Providers for Beginners](#) — a full comparison of Fidelity, Schwab, Robinhood, and M1 Finance for 2026.
+> See also: [Best Roth IRA Providers for Beginners](/article/best-roth-ira-providers-for-beginners) — a full comparison of Fidelity, Schwab, Robinhood, and M1 Finance for 2026.
 
 ---
 
@@ -98,7 +98,7 @@ The most important criteria for a beginner's first brokerage account in 2026:
 
 For most beginners, **Fidelity** is the default recommendation: no account minimum, no commissions, fractional shares on over 7,000 securities, 24/7 customer support, 200+ branch locations, and access to FZROX — the only 0.00% expense ratio total market fund available to retail investors. [^8]
 
-> See also: [Top Stock Brokerages for New Investors 2026](#) — a full breakdown of every major platform with ratings, pros, and cons.
+> See also: [Top Stock Brokerages for New Investors 2026](/article/top-stock-brokerages) — a full breakdown of every major platform with ratings, pros, and cons.
 
 **What to avoid:**
 

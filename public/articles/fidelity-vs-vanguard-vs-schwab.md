@@ -197,7 +197,7 @@ The difference between 0.00% and 0.04% on a $100,000 IRA is $40 per year — tri
 
 ### IRA Contribution Match
 
-One feature none of these three brokerages currently offers: a cash match on IRA contributions. Robinhood currently provides 1–3% depending on membership tier. If you are choosing a Roth IRA home purely for the match, see our [Best Roth IRA Providers for Beginners](#) review.
+One feature none of these three brokerages currently offers: a cash match on IRA contributions. Robinhood currently provides 1–3% depending on membership tier. If you are choosing a Roth IRA home purely for the match, see our [Best Roth IRA Providers for Beginners](/article/best-roth-ira-providers-for-beginners) review.
 
 ---
 

@@ -65,7 +65,7 @@ Before investing a single dollar in the stock market, you need two foundational 
 
 ### Emergency Fund
 
-Before investing, establish an emergency fund covering **3–6 months of essential living expenses** in a liquid, federally insured account — ideally a high-yield savings account (HYSA). High-yield savings accounts in early 2026 are offering APYs in the 3.50–4.20% range at online banks like Marcus by Goldman Sachs, Ally Bank, and SoFi.
+Before investing, establish an emergency fund covering **3–6 months of essential living expenses** in a liquid, federally insured account — ideally a [high-yield savings account (HYSA)](/article/best-high-yield-savings-accounts). High-yield savings accounts in early 2026 are offering APYs in the 3.50–4.20% range at online banks like [Marcus by Goldman Sachs](https://www.marcus.com), [Ally Bank](https://www.ally.com), and [SoFi](https://www.sofi.com). For a deeper dive, see our complete guide: [The Dad's Guide to Emergency Funds & Investing](/article/emergency-funds-and-investing).
 
 Why does this matter for investing? Because without an emergency fund, you'll be forced to liquidate investments at the worst possible moment — during a market downturn — to cover an unexpected expense. This is how people lock in permanent losses on money they intended to grow for decades.
 
@@ -114,7 +114,7 @@ A **Roth IRA** (Individual Retirement Account) allows you to contribute after-ta
 3. No required minimum distributions (RMDs) during your lifetime
 4. You can contribute to both a 401(k) and a Roth IRA in the same year — the limits are separate
 
-**Where to open a Roth IRA:** Fidelity and Charles Schwab are the two most recommended brokerages for Roth IRAs in 2026 — both offer $0 account minimums, $0 commissions, extensive index fund selections, and strong educational resources. NerdWallet named Fidelity its top pick for beginning investors for 2026.
+**Where to open a Roth IRA:** [Fidelity](https://www.fidelity.com) and [Charles Schwab](https://www.schwab.com) are the two most recommended brokerages for Roth IRAs in 2026 — both offer $0 account minimums, $0 commissions, extensive index fund selections, and strong educational resources. NerdWallet named Fidelity its top pick for beginning investors for 2026. See our full comparison: [Best Roth IRA Providers for Beginners](/article/best-roth-ira-providers-for-beginners).
 
 ### Traditional IRA
 
@@ -184,9 +184,9 @@ Bonds are loans you make to a government (like U.S. Treasury bonds) or a corpora
 
 ### Real Estate Investment Trusts (REITs)
 
-A **REIT** is a company that owns income-producing real estate — office buildings, apartment complexes, shopping centers, data centers — and is required to distribute at least 90% of its taxable income to shareholders as dividends. REITs allow everyday investors to gain real estate exposure without buying physical property.
+A **REIT** is a company that owns income-producing real estate — office buildings, apartment complexes, shopping centers, data centers — and is required to distribute at least 90% of its taxable income to shareholders as dividends. REITs allow everyday investors to gain real estate exposure without buying physical property. For a deeper look, see [Top 5 Real Estate Investment Options for Busy Dads](/article/top-5-real-estate-investment-options).
 
-REITs can be purchased like any stock through a brokerage account. They're a popular option for investors who want real estate in their portfolio but don't yet have the capital for a down payment on an investment property.
+REITs can be purchased like any stock through a brokerage account. They're a popular option for investors who want real estate in their portfolio but don't yet have the capital for a down payment on an investment property. For platforms that make this even easier, check out [Best Platforms to Buy Fractional Real Estate](/article/best-fractional-real-estate-platforms).
 
 ---
 

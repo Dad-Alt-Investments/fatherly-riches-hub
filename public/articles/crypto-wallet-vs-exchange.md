@@ -46,10 +46,12 @@ When you hold crypto on an exchange, the exchange holds your **private keys** on
 
 ### Major U.S. crypto exchanges:
 
-- **Coinbase** — largest U.S. exchange, beginner-friendly, available in all 50 states
-- **Kraken** — strongest security record (zero major hacks in 13+ years), 500+ coins
-- **Gemini** — NYDFS trust company charter since 2015, strong compliance credentials
-- **Robinhood** — crypto alongside stocks, zero commission
+- **[Coinbase](https://www.coinbase.com)** — largest U.S. exchange, beginner-friendly, available in all 50 states
+- **[Kraken](https://www.kraken.com)** — strongest security record (zero major hacks in 13+ years), 500+ coins
+- **[Gemini](https://www.gemini.com)** — NYDFS trust company charter since 2015, strong compliance credentials
+- **[Robinhood](https://robinhood.com)** — crypto alongside stocks, zero commission
+
+> **Related:** [Best Crypto Exchanges for Beginners](/article/best-crypto-exchanges-for-beginners) | [Coinbase vs Kraken vs Gemini: Which Is Safest?](/article/coinbase-vs-kraken-vs-gemini-which-is-safest)
 
 ### What exchanges cannot guarantee:
 
@@ -98,10 +100,12 @@ A **cold wallet** is a non-custodial wallet that keeps your private keys complet
 
 **Common cold wallets:**
 
-- **Ledger Nano X** — supports 5,500+ coins, Bluetooth connectivity for mobile, ~$149
-- **Trezor Safe 3** — open-source firmware, EAL6+ secure element chip, 7,000+ coins, ~$79
-- **Trezor Model T** — 100% open-source, color touchscreen, Shamir Backup, ~$219
-- **Coldcard Mk4** — Bitcoin only, air-gapped signing, maximum security for advanced users, ~$158
+- **[Ledger Nano X](https://www.ledger.com)** — supports 5,500+ coins, Bluetooth connectivity for mobile, ~$149
+- **[Trezor Safe 3](https://trezor.io)** — open-source firmware, EAL6+ secure element chip, 7,000+ coins, ~$79
+- **[Trezor Model T](https://trezor.io)** — 100% open-source, color touchscreen, Shamir Backup, ~$219
+- **[Coldcard Mk4](https://coldcard.com)** — Bitcoin only, air-gapped signing, maximum security for advanced users, ~$158
+
+> **Related:** [Best Hardware Wallets for Long-Term Crypto Storage](/article/best-hardware-wallets-crypto-storage) — our full comparison and review.
 
 Cold wallets are the right choice for any amount you intend to hold long-term and don't need to trade frequently.
 
@@ -137,7 +141,7 @@ Here's the practical decision framework:
 - You want to use DeFi protocols, NFT marketplaces, or other blockchain applications
 - You've decided you want true ownership — not a claim on a third party's balance sheet
 
-**The practical rule:** Keep only what you're actively trading on an exchange. Move everything else to a wallet — ideally a hardware wallet for any amount over $1,000.
+**The practical rule:** Keep only what you're actively trading on an exchange. Move everything else to a wallet — ideally a hardware wallet for any amount over $1,000. For a step-by-step guide, see [How to Move Crypto Off an Exchange to a Wallet](/article/how-to-move-crypto-off-exchange-to-wallet).
 
 > Think of it this way: your exchange account is like your checking account (for active use). Your hardware wallet is like a savings account or a home safe (for what you're actually keeping).
 
