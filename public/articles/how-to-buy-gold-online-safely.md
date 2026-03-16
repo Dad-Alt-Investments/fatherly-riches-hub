@@ -58,11 +58,13 @@ A Gold IRA (Individual Retirement Account) lets you hold physical gold inside a 
 | Best For | Investors + collectors | Pure investors |
 
 ### Most Trusted Online Gold Dealers
-- APMEX
-- JM Bullion
-- SD Bullion
-- Kitco
-- Money Metals Exchange
+- [APMEX](https://www.apmex.com)
+- [JM Bullion](https://www.jmbullion.com)
+- [SD Bullion](https://www.sdbullion.com)
+- [Kitco](https://www.kitco.com)
+- [Money Metals Exchange](https://www.moneymetals.com)
+
+> **Related:** [Best Places to Buy Gold and Silver Online](/article/best-places-to-buy-gold-silver-online) — our full dealer comparison with fees and ratings.
 
 ### Safety Checklist Before Buying
 - Dealer has thousands of 5-star reviews
