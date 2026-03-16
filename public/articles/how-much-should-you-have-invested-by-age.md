@@ -126,7 +126,7 @@ Being behind at 30 is among the most fixable financial situations that exists. A
 
 ### 1. Open a Roth IRA Today If You Don't Have One
 
-A Roth IRA is the single most powerful retirement savings tool available to most Americans under 35. Contributions grow tax-free, and qualified withdrawals in retirement are completely tax-free — including all the growth. For 2026, the contribution limit is **$7,500/year** (up from $7,000 in 2025) for those under age 50, subject to income limits.[^5]
+A [Roth IRA](/article/best-roth-ira-providers-for-beginners) is the single most powerful retirement savings tool available to most Americans under 35. Contributions grow tax-free, and qualified withdrawals in retirement are completely tax-free — including all the growth. For 2026, the contribution limit is **$7,500/year** (up from $7,000 in 2025) for those under age 50, subject to income limits.[^5]
 
 **2026 Roth IRA income limits:**
 - Single filers: full contribution allowed up to $153,000 MAGI; phase-out from $153,000–$168,000
