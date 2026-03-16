@@ -132,7 +132,7 @@ A [Roth IRA](/article/best-roth-ira-providers-for-beginners) is the single most 
 - Single filers: full contribution allowed up to $153,000 MAGI; phase-out from $153,000–$168,000
 - Married filing jointly: full contribution up to $242,000 MAGI; phase-out from $242,000–$252,000
 
-Opening a Roth IRA takes less than 15 minutes at Fidelity, Vanguard, or Charles Schwab. The minimum to open is $0 at all three. If you can contribute even $200/month ($2,400/year), you are building the foundation that will compound significantly over 35+ years.
+Opening a Roth IRA takes less than 15 minutes at [Fidelity](https://www.fidelity.com), [Vanguard](https://www.vanguard.com), or [Charles Schwab](https://www.schwab.com). The minimum to open is $0 at all three. If you can contribute even $200/month ($2,400/year), you are building the foundation that will [compound significantly](/article/compound-interest-explained) over 35+ years.
 
 ### 2. Capture the Full Employer 401(k) Match
 
