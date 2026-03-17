@@ -171,7 +171,7 @@ This is the option that has done the most to democratize real estate investing f
 
 ### Top Platforms in 2026
 
-**[Fundrise](https://fundrise.com)**
+**Fundrise**
 - Minimum investment: $10 (standard accounts), $1,000 (retirement accounts)
 - Open to: All investors (non-accredited included)
 - Fees: 1% annually (0.15% advisory + 0.85% management)
@@ -179,7 +179,7 @@ This is the option that has done the most to democratize real estate investing f
 - Historical returns: 4–12% depending on strategy (2024 average: 8.2–12.4% across portfolios)
 - Best for: Beginners who want a fully passive, diversified real estate portfolio
 
-**[Arrived Homes](https://arrivedhomes.com)**
+**Arrived Homes**
 - Minimum investment: $100
 - Open to: All investors (non-accredited included)
 - Focus: Single-family rentals and vacation rentals
@@ -188,21 +188,21 @@ This is the option that has done the most to democratize real estate investing f
 - Assets: Over $180 million in residential properties funded by 518,000+ registered investors
 - Best for: Dads who want exposure to specific residential real estate properties
 
-**[RealtyMogul](https://www.realtymogul.com)**
+**RealtyMogul**
 - Minimum investment: $5,000 for REIT funds ($1,000 via IRA)
 - Open to: Both accredited and non-accredited investors (REIT products)
 - Total investment pooled: Over $1.2 billion across 40,000 investments
 - Specialty: Commercial real estate, triple net lease deals, 1031 exchange options for accredited investors
 - Best for: Investors with $5,000+ who want commercial real estate exposure
 
-**[CrowdStreet](https://www.crowdstreet.com)**
+**CrowdStreet**
 - Minimum investment: $25,000
 - Open to: Accredited investors only
 - Focus: Institutional-quality commercial real estate deals
 - Total investor distributions: $620+ million since inception
 - Best for: High-net-worth accredited investors wanting direct access to large commercial deals
 
-**[EquityMultiple](https://www.equitymultiple.com)**
+**EquityMultiple**
 - Minimum investment: $10,000
 - Open to: Accredited investors only
 - Focus: Debt, preferred equity, and direct equity in commercial real estate
@@ -225,7 +225,7 @@ Returns vary significantly by platform and investment type:
 
 ### Best For
 
-Dads who want more direct real estate exposure than public REITs offer, but don't want the management responsibilities of owning property directly. The sweet spot for most beginners: [Fundrise](https://fundrise.com) ($10 minimum) or [Arrived](https://arrivedhomes.com) ($100 minimum). For a deeper comparison, see our full guide: [Best Platforms to Buy Fractional Real Estate](/article/best-fractional-real-estate-platforms).
+Dads who want more direct real estate exposure than public REITs offer, but don't want the management responsibilities of owning property directly. The sweet spot for most beginners: Fundrise ($10 minimum) or Arrived ($100 minimum).
 
 ---
 

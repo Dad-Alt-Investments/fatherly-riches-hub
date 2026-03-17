@@ -380,7 +380,7 @@ A 30-year investment timeline includes multiple severe downturns. This is not a 
 **Situation:** Just had a baby. Has $500/month to invest but isn't sure where to start.
 
 **Action plan:**
-- Opens a [Roth IRA at Fidelity](/article/best-roth-ira-providers-for-beginners) ($0 minimum, $0 commissions)
+- Opens a Roth IRA at Fidelity ($0 minimum, $0 commissions)
 - Invests $500/month in FZROX (0.00% expense ratio)
 - Sets up automatic monthly contributions
 - Enables dividend reinvestment
@@ -454,7 +454,7 @@ The action is simple. Open a Roth IRA at Fidelity or Charles Schwab. Set up auto
 
 That's how compound interest builds wealth. One quiet, compounding month at a time.
 
-> **→ Related:** [Beginner's Guide to Investing](/article/beginners-guide-to-investing) | [Best Investment Apps for Dads](/article/best-investment-apps) | [Best High-Yield Savings Accounts](/article/best-high-yield-savings-accounts) | [Best Roth IRA Providers](/article/best-roth-ira-providers-for-beginners) | [Tax-Efficient Investing](/article/tax-efficient-investing)
+> **→ Related: [The Ultimate Beginner's Guide to Investing for Dads](/the-ultimate-beginners-guide-to-investing-for-dads) | [Best Apps Dads Can Use to Manage Investments](/best-apps-dads-can-use-to-manage-investments) | [Simple Budget System for Busy Dads](/simple-budget-system-for-busy-dads)**
 
 ---
 
