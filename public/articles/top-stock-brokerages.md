@@ -31,12 +31,12 @@ The brokerages reviewed here were selected based on overall beginner-friendlines
 
 | Brokerage | Account Minimum | Stock/ETF Trades | Best For | IRA Match |
 |---|---|---|---|---|
-| **[Fidelity](https://www.fidelity.com)** | $0 | $0 | Overall best beginner platform | None |
-| **[Charles Schwab](https://www.schwab.com)** | $0 | $0 | Full-service + thinkorswim power users | None |
-| **[Robinhood](https://robinhood.com)** | $0 | $0 | Mobile-first + IRA match seekers | 1%–3% |
-| **[Vanguard](https://www.vanguard.com)** | $0 | $0 | Buy-and-hold index fund investors | None |
-| **[Merrill Edge](https://www.merrilledge.com)** | $0 | $0 | Bank of America customers | None |
-| **[M1 Finance](https://m1.com)** | $0 | $0 | Automated portfolio investors | None |
+| **Fidelity** | $0 | $0 | Overall best beginner platform | None |
+| **Charles Schwab** | $0 | $0 | Full-service + thinkorswim power users | None |
+| **Robinhood** | $0 | $0 | Mobile-first + IRA match seekers | 1%–3% |
+| **Vanguard** | $0 | $0 | Buy-and-hold index fund investors | None |
+| **Merrill Edge** | $0 | $0 | Bank of America customers | None |
+| **M1 Finance** | $0 | $0 | Automated portfolio investors | None |
 
 ---
 
