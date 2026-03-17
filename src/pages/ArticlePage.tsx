@@ -78,6 +78,19 @@ const ArticlePage = () => {
         </div>
       </section>
 
+      {/* Hero Image */}
+      {article.image && (
+        <div className="container-article -mt-2">
+          <img
+            src={article.image}
+            alt={article.title}
+            className="w-full rounded-lg object-cover shadow-lg"
+            style={{ maxHeight: "420px" }}
+            loading="eager"
+          />
+        </div>
+      )}
+
       <div className="container-article section-padding">
         {/* Dad's Bottom Line */}
         <div className="bottom-line-box mb-12 p-6 md:p-8">
