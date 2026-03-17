@@ -88,9 +88,17 @@ const CategoryPage = () => {
                 <Link
                   key={article.slug}
                   to={`/article/${article.slug}`}
-                  className="trust-card group flex items-center justify-between"
+                  className="trust-card group flex items-center gap-4"
                 >
-                  <div>
+                  {article.image && (
+                    <img
+                      src={article.image}
+                      alt={article.title}
+                      className="h-20 w-28 shrink-0 rounded-md object-cover"
+                      loading="lazy"
+                    />
+                  )}
+                  <div className="flex-1">
                     <div className="mb-1 flex flex-wrap gap-2">
                       {article.tags.slice(0, 2).map((tag) => (
                         <span
