@@ -14,7 +14,7 @@ Before diving into strategies, it's worth understanding what makes ETFs especial
 
 1. **Instant diversification**: A single ETF can hold hundreds or even thousands of income-paying securities. This eliminates the risk that any one company cutting its dividend destroys your income stream.
 2. **Low costs**: The best dividend and bond ETFs charge expense ratios between 0.03% and 0.35% annually — fractions of a percent — so nearly all of the income they generate flows to you.
-3. **Automatic income**: Dividends and interest payments are credited directly to your brokerage account on a predictable schedule, typically monthly or quarterly, with no action required.
+3. **Automatic income**: Dividends and interest payments are credited directly to your [open a brokerage account](/article/how-to-open-a-brokerage-account) on a predictable schedule, typically monthly or quarterly, with no action required.
 4. **Automation through DRIP**: Every major brokerage allows you to automatically reinvest ETF dividends into additional shares through a Dividend Reinvestment Plan (DRIP) — accelerating the compounding effect.
 5. **Tax efficiency**: Most equity ETFs are more tax-efficient than actively managed mutual funds because of their in-kind creation/redemption structure, which reduces taxable capital gain distributions.[^1]
 6. **Flexibility**: Unlike bonds purchased directly or CDs, ETFs trade intraday and can be sold at any time if your needs change.
@@ -88,7 +88,7 @@ SCHD is arguably the most beloved dividend ETF in America. It tracks the Dow Jon
 
 The result is a portfolio of financially sound, dividend-growing companies that delivers a yield nearly three times the S&P 500's — while charging just $0.60 per $1,000 invested annually in fees. SCHD has grown its dividend at a 10-year compound annual growth rate (CAGR) of approximately 10.99%.[^5] That means if you bought shares when the yield was 3%, your yield on cost a decade later — based on historical performance — would be substantially higher thanks to dividend growth.
 
-**Best for**: Long-term investors in the accumulation phase who want to build a compounding income stream over 10–20 years. SCHD is particularly compelling held in a Roth IRA where dividend growth compounds tax-free.
+**Best for**: Long-term investors in the accumulation phase who want to build a compounding income stream over 10–20 years. SCHD is particularly compelling held in a [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) where dividend growth compounds tax-free.
 
 **Key limitation**: SCHD has minimal technology exposure, which caused it to lag significantly during the AI-driven tech rally of 2023–2025.[^6]
 
@@ -255,7 +255,7 @@ The difference of roughly $91,000 is entirely attributable to the compounding po
 
 This is why income investors in the accumulation phase — those who don't need the income today — almost universally reinvest rather than spend their ETF distributions. By the time they need the income, the dividend payments are substantially larger because the share count has been growing for years.
 
-**Historical context**: According to data from Morningstar and Hartford Funds, an investor who put $10,000 into an S&P 500 index fund in 1960 would have ended 2024 with $1,035,827 from price appreciation alone. But with reinvested dividends, that same $10,000 would have grown to over $6.4 million — more than six times as much.[^23]
+**Historical context**: According to data from Morningstar and Hartford Funds, an investor who put $10,000 into an S&P 500 [best platforms for index funds](/article/best-platforms-to-buy-index-funds) in 1960 would have ended 2024 with $1,035,827 from price appreciation alone. But with reinvested dividends, that same $10,000 would have grown to over $6.4 million — more than six times as much.[^23]
 
 ---
 
@@ -311,9 +311,9 @@ Decide whether you are in the **accumulation phase** (reinvesting dividends, bui
 
 ### Step 3: Select a Brokerage
 
-All of the ETFs in this guide are available commission-free at Fidelity, Schwab, Vanguard, or Robinhood. For Roth IRAs, Fidelity and Schwab offer the broadest platform capabilities. Robinhood offers a 1–3% IRA contribution match for those looking to maximize their IRA funding.
+All of the ETFs in this guide are available commission-free at [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Schwab, Vanguard, or Robinhood. For Roth IRAs, Fidelity and Schwab offer the broadest platform capabilities. Robinhood offers a 1–3% IRA contribution match for those looking to maximize their IRA funding.
 
-*(See our full review: [Top Stock Brokerages for New Investors — 2026 Review](https://dadaltinvestments.com/category/stocks-etfs/stock-brokerage-reviews/))*
+*(See our full review: [Top Stock Brokerages for New Investors — 2026 Review](/category/stocks-etfs/stock-brokerage-reviews/))*
 
 ### Step 4: Start Simple — One or Two ETFs
 
@@ -399,7 +399,7 @@ The machine builds itself. You just have to start it.
 ## Frequently Asked Questions
 
 **How much do I need to start investing in income ETFs?**
-Most brokerages require $0 to open an account, and all ETFs in this guide can be purchased for the price of one share or less (Fidelity and Schwab support fractional share investing from $1). A realistic starting point is $1,000–$5,000 to see meaningful dividend income, but any amount is better than nothing when DRIP is enabled.
+Most brokerages require $0 to open an account, and all ETFs in this guide can be purchased for the price of one share or less (Fidelity and Schwab support fractional share investing from $1). A realistic starting point is $1,000–$5,000 to see meaningful [build a dividend portfolio](/article/dividend-portfolio-beginner-dad), but any amount is better than nothing when DRIP is enabled.
 
 **How often do ETFs pay income?**
 JEPI and JEPQ pay monthly. SCHD, VYM, VIG, and VNQ pay quarterly. BND pays monthly. Combining multiple ETFs allows you to receive income in more months of the year.
@@ -492,3 +492,11 @@ Use both — but prioritize your Roth IRA for the highest-yield, tax-inefficient
 [^29]: Charles Schwab — ETFs and Taxes: What You Need to Know. https://www.schwab.com/learn/story/etfs-and-taxes-what-you-need-to-know
 
 [^30]: U.S. News & World Report — 7 Best REIT ETFs to Buy for 2026 (February 10, 2026). https://money.usnews.com/investing/articles/best-reit-etfs-to-buy-now
+
+---
+
+## Recommended Reading
+
+- [How to Build a Dividend Portfolio as a Beginner Dad](/article/dividend-portfolio-beginner-dad)
+- [Best Platforms to Buy Index Funds](/article/best-platforms-to-buy-index-funds)
+- [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners)

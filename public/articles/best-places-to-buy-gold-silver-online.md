@@ -1,10 +1,10 @@
-# Best Places to Buy Gold and Silver Online (2026 Guide)
+# Best Places to Buy Gold and [best silver dealers online](/article/best-silver-dealers-online) (2026 Guide)
 
 *By DadAlt Investments | Category: Gold & Precious Metals | Last Updated: March 2026*
 
 ---
 
-Gold set a record high of $5,602.22 per troy ounce on January 28, 2026, and silver hit its own all-time nominal high of $121.67 on January 29, 2026 — a gain of more than 150% over the prior year.[^1] As precious metals enter one of the most significant bull markets in modern history, millions of American investors are looking to add physical gold and silver to their portfolios for the first time. The challenge is not finding a place to buy — it is finding a trustworthy dealer at a fair price, with insured shipping, a transparent buyback program, and the credentials to back it all up. This guide covers the five best online precious metals dealers in the United States in 2026: **APMEX**, **JM Bullion**, **SD Bullion**, **Money Metals Exchange**, and **Vaulted** (McAlvany) — plus a practical breakdown of what separates trustworthy dealers from risky ones, a silver vs. gold decision framework, and answers to the questions new buyers ask most.
+Gold set a record high of $5,602.22 per troy ounce on January 28, 2026, and silver hit its own all-time nominal high of $121.67 on January 29, 2026 — a gain of more than 150% over the prior year.[^1] As precious metals enter one of the most significant bull markets in modern history, millions of American investors are looking to add [buy physical [store gold at home safely](/article/how-to-store-gold-at-home-safely)ly](/article/how-to-buy-physical-gold-online-safely) and silver to their portfolios for the first time. The challenge is not finding a place to buy — it is finding a trustworthy dealer at a fair price, with insured shipping, a transparent buyback program, and the credentials to back it all up. This guide covers the five best online precious metals dealers in the United States in 2026: **APMEX**, **JM Bullion**, **SD Bullion**, **Money Metals Exchange**, and **Vaulted** (McAlvany) — plus a practical breakdown of what separates trustworthy dealers from risky ones, a silver vs. gold decision framework, and answers to the questions new buyers ask most.
 
 ---
 
@@ -65,7 +65,7 @@ APMEX (American Precious Metals Exchange) was founded in 2000 and is headquarter
 - **APMEX Bullion Club** — a tiered loyalty rewards program where frequent buyers earn points redeemable toward future purchases
 - **AutoInvest** — recurring purchase automation, letting buyers dollar-cost average into gold or silver on a schedule
 - **Citadel vault storage** — third-party allocated storage for customers who want professional vaulting without taking home delivery; competitive annual storage fees
-- **IRA-eligible products and custodian partnerships** — APMEX partners with New Direction IRA to facilitate Gold IRA setup
+- **IRA-eligible products and custodian partnerships** — APMEX partners with New Direction IRA to facilitate [top Gold IRA companies](/article/top-gold-ira-companies-reviewed) setup
 - **Real-time spot price tracking and price alerts** — live price charts, historical data, and customizable email/SMS alerts
 - **Multiple payment options** — credit/debit card, ACH/eCheck, paper check, PayPal, bank wire, and Bitcoin; bank wire and ACH earn the lowest premium (approximately 4% discount vs. credit card pricing)[^3]
 - **Free insured shipping on orders over $199**
@@ -294,4 +294,12 @@ Before closing, a quick list of warning signs that should stop you from sending 
 
 ---
 
-*Disclaimer: This article is for informational and educational purposes only and does not constitute financial, investment, or tax advice. Precious metals prices fluctuate and past performance does not guarantee future results. Always conduct your own due diligence before making any purchase. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you.*
+*Disclaimer: This article is for informational and educational purposes only and does not constitute financial, investment, or tax advice. Precious metals prices fluctuate and past performance does not guarantee future results. Always conduct your own [evaluate a business before buying](/article/how-to-evaluate-a-business-before-buying-it) before making any purchase. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you.*
+
+---
+
+## Recommended Reading
+
+- [How to Buy Gold Online Safely](/article/how-to-buy-gold-online-safely)
+- [Best Silver Dealers Online](/article/best-silver-dealers-online)
+- [How to Buy Physical Gold Online Safely](/article/how-to-buy-physical-gold-online-safely)

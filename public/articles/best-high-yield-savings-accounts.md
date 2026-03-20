@@ -52,7 +52,7 @@ HYSAs are the right tool for specific jobs. Use them for:
 4. **Tax reserves** — self-employed individuals holding quarterly estimated tax payments
 5. **Short-term goal savings** — any goal with a timeline under 3 years that cannot afford market volatility
 
-HYSAs are *not* designed to replace long-term investing. Money you won't need for 5+ years belongs in a tax-advantaged retirement account or brokerage account — not sitting in a savings account, even a high-yield one.
+HYSAs are *not* designed to replace long-term investing. Money you won't need for 5+ years belongs in a tax-advantaged retirement account or [open a brokerage account](/article/how-to-open-a-brokerage-account) — not sitting in a savings account, even a high-yield one.
 
 ---
 
@@ -183,7 +183,7 @@ A high-yield savings account is not the only tool for parking short-term cash. H
 
 **Best for:** Cash held inside a brokerage account, earning yield on uninvested funds
 
-The most common example for U.S. savers: Fidelity's Government Money Market Fund (SPAXX), which is the default "core position" for cash in a Fidelity brokerage account. Vanguard offers VMFXX (Federal Money Market Fund) similarly.
+The most common example for U.S. savers: [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab)'s Government Money Market Fund (SPAXX), which is the default "core position" for cash in a Fidelity brokerage account. Vanguard offers VMFXX (Federal Money Market Fund) similarly.
 
 - **Not FDIC-insured** — money market funds are securities, covered by SIPC (protects against brokerage failure, not market loss), not the FDIC
 - **Near-zero credit risk** — government money market funds hold U.S. Treasury obligations and repurchase agreements
@@ -194,7 +194,7 @@ The most common example for U.S. savers: Fidelity's Government Money Market Fund
 
 ### I-Bonds (U.S. Treasury Series I Savings Bonds)
 
-**Best for:** Inflation protection on a portion of savings you don't need for 12+ months
+**Best for:** [protect your portfolio from inflation](/article/how-to-protect-your-portfolio-from-inflation) on a portion of savings you don't need for 12+ months
 
 - Issued by the U.S. Treasury; backed by the full faith and credit of the U.S. government — the safest possible storage of funds
 - Rate adjusts every 6 months based on the CPI inflation index
@@ -259,7 +259,7 @@ Families with specific near-term goals — a new car in 18 months, a home renova
 
 ### Everything Above Tiers 1–3 Should Be Invested
 
-A common financial planning mistake families make is accumulating far more cash than their actual near-term needs justify. Once your emergency fund is fully funded, your quarterly tax reserves are set aside, and your near-term goal savings are in place, additional cash sitting in a savings account earns 3–4% when it could be compounding at historically higher rates in the market over a 5–10+ year horizon.
+A common financial planning mistake families make is accumulating far more cash than their actual near-term needs justify. Once your emergency fund is fully funded, your quarterly tax reserves are set aside, and your near-term goal savings are in place, additional cash sitting in a savings account earns 3–4% when it could be [understand compound interest](/article/compound-interest-explained) at historically higher rates in the market over a 5–10+ year horizon.
 
 The question to ask annually: *Do I have more cash in savings than I need for the next 3 years?* If the answer is yes, consider whether the excess belongs in a [Roth IRA](/article/best-roth-ira-providers-for-beginners), 401(k), or [taxable brokerage account](/article/top-stock-brokerages).
 
@@ -346,3 +346,11 @@ A money market fund held inside a brokerage account introduces two complications
 ---
 
 *Disclaimer: This article is for informational and educational purposes only and does not constitute financial advice. All HYSA rates are variable and subject to change at any time without notice; verify current APYs directly with each institution before opening an account. FDIC insurance limits and terms are set by the FDIC and subject to regulatory changes. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you.*
+
+---
+
+## Recommended Reading
+
+- [The Dad's Guide to Emergency Funds & Investing](/article/emergency-funds-and-investing)
+- [How Much Should You Keep in Cash vs. Investments?](/article/how-much-cash-vs-investments)
+- [Simple Budget System for Busy Dads](/article/simple-budget-system-for-busy-dads)

@@ -4,7 +4,7 @@
 
 ---
 
-Passive income is one of the most misunderstood concepts in personal finance — and one of the most powerful once you understand what it actually requires. Despite what social media suggests, no investment truly requires zero work. What passive income actually means is that you do the work *once* — either by deploying capital upfront or by building an asset that continues paying you — and then receive ongoing returns with minimal ongoing effort. A dividend ETF requires you to invest $10,000; after that, the dividends arrive every quarter without you lifting a finger. A high-yield savings account earns interest automatically from the moment you deposit. A content website you acquire for $25,000 generates affiliate commissions whether you're at your desk or on vacation. These are genuinely passive in the operational sense — your ongoing involvement is occasional rather than daily. For beginners in the United States in 2026, the good news is that the barrier to starting has never been lower: you can begin building dividend income with $1 via fractional shares, earn a risk-free 4% on cash you already have sitting in a savings account, or invest in real estate through a diversified ETF for a single share price. This guide covers the six best passive income investment options for beginners — from the most accessible and lowest-risk to the higher-effort, higher-yield options — with a practical roadmap for how to sequence them based on your starting capital.
+Passive income is one of the most misunderstood concepts in personal finance — and one of the most powerful once you understand what it actually requires. Despite what social media suggests, no investment truly requires zero work. What passive income actually means is that you do the work *once* — either by deploying capital upfront or by building an asset that continues paying you — and then receive ongoing returns with minimal ongoing effort. A dividend ETF requires you to invest $10,000; after that, the dividends arrive every quarter without you lifting a finger. A high-yield savings account earns interest automatically from the moment you deposit. A content website you acquire for $25,000 generates affiliate commissions whether you're at your desk or on vacation. These are genuinely passive in the operational sense — your ongoing involvement is occasional rather than daily. For beginners in the United States in 2026, the good news is that the barrier to starting has never been lower: you can begin building [build a dividend portfolio](/article/dividend-portfolio-beginner-dad) with $1 via fractional shares, earn a risk-free 4% on cash you already have sitting in a savings account, or invest in real estate through a diversified ETF for a single share price. This guide covers the six best passive income investment options for beginners — from the most accessible and lowest-risk to the higher-effort, higher-yield options — with a practical roadmap for how to sequence them based on your starting capital.
 
 ---
 
@@ -16,7 +16,7 @@ Before comparing options, it's worth clearing up the definition — because misu
 
 Every passive income stream has a setup cost. That cost comes in one of two forms:
 
-1. **Upfront capital** — You invest money, and that money does the work. Dividend ETFs, HYSAs, bond ETFs, REIT ETFs, and business acquisitions all belong here. The more capital you deploy, the more income you generate. This is the most scalable path.
+1. **Upfront capital** — You invest money, and that money does the work. [create passive income with ETFs](/article/passive-income-with-etfs), HYSAs, bond ETFs, REIT ETFs, and business acquisitions all belong here. The more capital you deploy, the more income you generate. This is the most scalable path.
 
 2. **Upfront time** — You create an asset that earns repeatedly from a one-time creation. Digital products (eBooks, courses, templates), a YouTube channel, or a content website built from scratch all belong here. The capital requirement is low; the time requirement is high.
 
@@ -61,7 +61,7 @@ At $500/month invested in SCHD for 20 years with dividends reinvested (DRIP), yo
 
 **Category 2: High-Income / Covered Call ETFs — for maximum current cash flow**
 
-These funds generate additional income by selling covered call options on their holdings. This creates very high current yield but caps the upside during strong bull markets. Best held in a **Roth IRA** where the income is sheltered from taxes — these funds distribute income that does not qualify for the preferential qualified dividend rate.
+These funds generate additional income by selling covered call options on their holdings. This creates very high current yield but caps the upside during strong bull markets. Best held in a **[best Roth IRA providers](/article/best-roth-ira-providers-for-beginners)** where the income is sheltered from taxes — these funds distribute income that does not qualify for the preferential qualified dividend rate.
 
 **JEPI — JPMorgan Equity Premium Income ETF**
 - **Current yield:** ~7.5–8.4% (trailing 12-month)[^3]
@@ -88,7 +88,7 @@ These funds generate additional income by selling covered call options on their 
 
 ### How to Start
 
-Any major broker — Fidelity, Schwab, Vanguard — allows you to purchase fractional shares of ETFs for as little as $1. Set up automatic monthly investments (dollar-cost averaging) and enable dividend reinvestment (DRIP) to automatically compound your income over time.
+Any major broker — [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Schwab, Vanguard — allows you to purchase fractional shares of ETFs for as little as $1. Set up automatic monthly investments (dollar-cost averaging) and enable dividend reinvestment (DRIP) to automatically compound your income over time.
 
 ---
 
@@ -109,7 +109,7 @@ A $25,000 emergency fund in a HYSA at 4.00% APY earns **$1,000/year** — $83/mo
 
 ### Money Market Funds: The Brokerage Cash Alternative
 
-If you already have a brokerage account at Fidelity or Vanguard, your uninvested cash can be held in a money market fund:
+If you already have a [open a brokerage account](/article/how-to-open-a-brokerage-account) at Fidelity or Vanguard, your uninvested cash can be held in a money market fund:
 
 - **Fidelity Government Money Market Fund (SPAXX):** Core position in Fidelity accounts; yields competitive with top HYSAs; daily liquidity; not FDIC-insured but invests in U.S. government securities with near-zero credit risk
 - **Vanguard Federal Money Market Fund (VMFXX):** Similar structure; competitive yields
@@ -376,3 +376,11 @@ The honest answer: meaningful passive income from ETFs requires patience measure
 ---
 
 *Disclaimer: This article is for informational and educational purposes only and does not constitute financial, investment, or tax advice. All investment involves risk, including possible loss of principal. ETF yields and rates are variable and change frequently — verify current rates directly with each fund or institution. Past performance does not guarantee future results. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you.*
+
+---
+
+## Recommended Reading
+
+- [How to Create Passive Income with ETFs](/article/passive-income-with-etfs)
+- [How to Build a Dividend Portfolio as a Beginner Dad](/article/dividend-portfolio-beginner-dad)
+- [Best Platforms to Buy Fractional Real Estate](/article/best-fractional-real-estate-platforms)

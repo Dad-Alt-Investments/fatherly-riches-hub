@@ -1,12 +1,12 @@
 # How to Buy Rental Property Without 20% Down
 
-The idea that you need 20% down to buy a rental property is one of the most persistent myths in real estate investing — and it's stopping thousands of aspiring investors from ever getting started. The truth is that in 2026, there are at least six legitimate financing strategies that let you buy a rental property with little or nothing down, and many of them are backed by the federal government. Whether you're a first-time investor looking to house hack your way into real estate, a veteran eligible for a VA loan, or an experienced landlord ready to leverage your home equity, this guide covers every viable path to rental property ownership with a lower upfront investment. We'll walk through each strategy — FHA loans, VA loans, USDA loans, DSCR loans, seller financing, and HELOC leverage — with current 2026 requirements, real numbers, and the trade-offs you need to know before you choose.
+The idea that you need 20% down to buy a rental property is one of the most persistent myths in [real estate investment options for dads](/article/top-5-real-estate-investment-options)ing — and it's stopping thousands of aspiring investors from ever getting started. The truth is that in 2026, there are at least six legitimate financing strategies that let you buy a rental property with little or nothing down, and many of them are backed by the federal government. Whether you're a first-time investor looking to house hack your way into real estate, a veteran eligible for a VA loan, or an experienced landlord ready to leverage your home equity, this guide covers every viable path to rental property ownership with a lower upfront investment. We'll walk through each strategy — FHA loans, VA loans, USDA loans, DSCR loans, [finance a business purchase](/article/how-to-finance-a-business-purchase), and HELOC leverage — with current 2026 requirements, real numbers, and the trade-offs you need to know before you choose.
 
 ---
 
 ## Why the 20% Down Myth Persists (and What's Actually Required)
 
-When it comes to a conventional investment property loan, the 20% rule has real roots. According to The Mortgage Reports, conventional investment property loans typically require a minimum 15% down for a single-family rental and 25% down for a 2–4 unit property — and most lenders prefer 20–25% to eliminate private mortgage insurance (PMI) and reduce their risk.[^1] Add a credit score requirement of 680 or higher, six months of cash reserves, and a debt-to-income (DTI) ratio below 45%, and you can see why the conventional route feels out of reach for many buyers.[^2]
+When it comes to a conventional investment property loan, the 20% rule has real roots. According to The Mortgage Reports, conventional investment property loans typically require a minimum 15% down for a single-family rental and 25% down for a 2–4 unit property — and most lenders prefer 20–25% to eliminate private mortgage insurance (PMI) and reduce their risk.[^1] Add a credit score requirement of 680 or higher, six months of [emergency funds and investing](/article/emergency-funds-and-investing)s, and a debt-to-income (DTI) ratio below 45%, and you can see why the conventional route feels out of reach for many buyers.[^2]
 
 On a $300,000 rental property, a 20% down payment is $60,000 in cash — before closing costs, reserves, and repairs. That's a barrier that keeps most would-be landlords on the sidelines for years.
 
@@ -402,7 +402,7 @@ The best financing strategy depends on your situation today — your military st
 → Explore **USDA financing** for your primary residence. Use it as a stepping stone — move out after meeting occupancy requirements and convert it to a rental when you buy your next home.
 
 **You own a home with significant equity:**
-→ Consider a **HELOC** to fund a 20–25% down payment on a rental property. You leverage what you've already built without draining your savings account.
+→ Consider a **HELOC** to fund a 20–25% down payment on a rental property. You leverage what you've already built without draining your [best high-yield savings accounts](/article/best-high-yield-savings-accounts).
 
 **You're self-employed, have complex taxes, or want to scale a portfolio:**
 → **DSCR loans** let you qualify based on rental income alone with no personal income verification. Rates are slightly higher, but scalability and speed are unmatched.
@@ -587,3 +587,11 @@ The key is matching the right strategy to your current situation, running the nu
 ---
 
 *This article is for educational and informational purposes only. It does not constitute financial, legal, or tax advice. Loan requirements, rates, and limits change frequently — verify all figures with a licensed lender or mortgage professional before making any financing decisions. DadAlt Investments may earn affiliate compensation from some of the platforms and services referenced in this article.*
+
+---
+
+## Recommended Reading
+
+- [Top 5 Real Estate Investment Options for Busy Dads](/article/top-5-real-estate-investment-options)
+- [Best Platforms to Buy Fractional Real Estate](/article/best-fractional-real-estate-platforms)
+- [How to Finance a Business Purchase Without Savings](/article/how-to-finance-a-business-purchase)

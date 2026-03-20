@@ -12,9 +12,9 @@ The question of how much cash to keep versus how much to invest is one of the mo
 
 Before building the framework, it's worth understanding exactly what holding excess cash actually costs — because most people dramatically underestimate it.
 
-### The 20-Year Compounding Gap
+### The 20-Year [understand compound interest](/article/compound-interest-explained) Gap
 
-The comparison below uses a 7% average annual market return (the standard long-term estimate used by Fidelity and most financial planning models, reflecting historical S&P 500 returns after inflation) against two savings account scenarios: the national average (0.39% APY per FDIC, February 2026) and a competitive HYSA (4.00% APY):
+The comparison below uses a 7% average annual market return (the standard long-term estimate used by [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) and most financial planning models, reflecting historical S&P 500 returns after inflation) against two savings account scenarios: the national average (0.39% APY per FDIC, February 2026) and a competitive HYSA (4.00% APY):
 
 | Starting Balance | After 20 Years at 0.39% | After 20 Years at 4.00% HYSA | After 20 Years at 7% Invested |
 |---|---|---|---|
@@ -132,7 +132,7 @@ A common and expensive mistake: keeping 3–4 months of expenses in a checking a
 
 ## Tier 4: Everything Else Should Be Invested
 
-Once Tiers 1 through 3 are funded, every additional dollar of cash beyond those specific reserves has a clearly better home: invested in a tax-advantaged account (Roth IRA, 401(k)) or a taxable brokerage account in a diversified portfolio.
+Once Tiers 1 through 3 are funded, every additional dollar of cash beyond those specific reserves has a clearly better home: invested in a tax-advantaged account (Roth IRA, 401(k)) or a taxable [open a brokerage account](/article/how-to-open-a-brokerage-account) in a diversified portfolio.
 
 ### The Cash Drag Problem
 
@@ -149,9 +149,9 @@ The answer, for most families, is "nothing that a credit card bridge and HYSA tr
 For cash beyond Tiers 1–3, direct it in this order based on tax efficiency:
 
 1. **Employer 401(k) to the full match** — this is an immediate 50–100% return on the matched portion; no investment in your life will ever beat it
-2. **Roth IRA to the 2026 limit** ($7,500 for those under 50; $8,600 for 50+) — tax-free growth for decades
+2. **[best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) to the 2026 limit** ($7,500 for those under 50; $8,600 for 50+) — tax-free growth for decades
 3. **Back to 401(k) to the 2026 limit** ($24,500 for those under 50; $32,500 for 50+)
-4. **Taxable brokerage account** — for anything beyond tax-advantaged limits, invested in low-cost index funds
+4. **Taxable brokerage account** — for anything beyond tax-advantaged limits, invested in low-cost [best platforms for index funds](/article/best-platforms-to-buy-index-funds)s
 
 ---
 
@@ -290,3 +290,11 @@ If market volatility makes you so anxious that you're holding $80,000 in cash on
 ---
 
 *Disclaimer: This article is for informational and educational purposes only and does not constitute financial, investment, or tax advice. All investment decisions involve risk, including the possible loss of principal. Past market returns do not guarantee future results. Consult a qualified financial advisor before making significant changes to your cash or investment allocation. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you.*
+
+---
+
+## Recommended Reading
+
+- [The Dad's Guide to Emergency Funds & Investing](/article/emergency-funds-and-investing)
+- [Best High-Yield Savings Accounts for 2026](/article/best-high-yield-savings-accounts)
+- [The Ultimate Beginner's Guide to Investing for Dads](/article/beginners-guide-to-investing)

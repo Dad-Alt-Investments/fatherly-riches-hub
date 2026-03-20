@@ -33,7 +33,7 @@ Yes — with important nuance.
 
 ---
 
-## Strategy 1: Seller Financing (Seller Note)
+## Strategy 1: [finance a business purchase](/article/how-to-finance-a-business-purchase) (Seller Note)
 
 **The most common and most powerful no-money-down tool.**
 
@@ -73,7 +73,7 @@ Engage a business attorney and CPA before finalizing terms. The seller should ha
 
 ---
 
-## Strategy 2: SBA 7(a) Loan — Very Low Down Payment
+## Strategy 2: SBA 7(a) Loan — Very [buy rental property without 20% down](/article/buy-rental-property-without-20-percent)
 
 **The most accessible institutional financing for business acquisition, with the lowest down payment in conventional lending.**
 
@@ -266,7 +266,7 @@ A DSCR below 1.0x means the business cannot cover its debt — no lender will ap
 
 ## FAQ
 
-### Can you realistically buy a business with no money out of pocket?
+### Can you realistically [buy a small local business](/article/how-to-buy-a-small-local-business) with no money out of pocket?
 
 **Technically yes — practically, it depends on the deal and the seller.** Genuine zero-cash-at-closing deals happen most commonly when: (a) the seller is highly motivated (retirement, health, partnership dispute) and willing to carry 100% seller financing; or (b) the buyer is a business expanding into the same industry and qualifies for SBA 0% down under the expansion rule. For first-time buyers acquiring a business from an unrelated seller, expecting $0 out of pocket is usually unrealistic. A more achievable target for first-time buyers: **5–10% down** through the SBA 5% structure with seller standby note, or pure seller financing for smaller deals. Even bringing $25,000–$50,000 significantly expands your options.
 
@@ -323,3 +323,11 @@ Seller financing is most common in businesses where:
 ---
 
 *Disclaimer: This article is for informational and educational purposes only and does not constitute financial, legal, or business acquisition advice. Business acquisitions involve significant financial risk and legal complexity. Always work with a qualified business attorney, CPA, and SBA lender before structuring or closing any acquisition. SBA guidelines and seller financing norms can change — verify current rules with your lender. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you.*
+
+---
+
+## Recommended Reading
+
+- [How to Finance a Business Purchase Without Savings](/article/how-to-finance-a-business-purchase)
+- [Best Businesses You Can Buy for Under $50K](/article/best-businesses-to-buy-under-50k)
+- [How to Buy a Small Local Business for Under $100k Down](/article/how-to-buy-a-small-local-business)

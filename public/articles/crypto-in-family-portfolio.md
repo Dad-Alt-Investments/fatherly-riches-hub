@@ -119,7 +119,7 @@ The institutional investor response to Bitcoin in 2024–2025 is the strongest s
 The SEC's approval of spot Bitcoin ETFs in January 2024 was a turning point. For the first time, traditional investors could gain regulated, exchange-traded exposure to Bitcoin without needing a wallet, private keys, or a crypto exchange account. The results have been remarkable:
 
 - **BlackRock's iShares Bitcoin Trust (IBIT):** Over $70 billion in AUM as of Q4 2025, making it the world's largest Bitcoin ETF and the fastest ETF in history to reach that milestone
-- **Fidelity's FBTC:** Over $21 billion in AUM
+- **[compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab)'s FBTC:** Over $21 billion in AUM
 - **Grayscale's GBTC:** Over $19 billion in AUM
 - **Combined spot Bitcoin ETF assets:** Over $115 billion by late 2025, according to B2Broker analysis
 - **IBIT ranked 6th globally in ETF net inflows for all of 2025**, attracting $25 billion despite Bitcoin's 30%+ decline from its October high — a remarkable sign of institutional conviction
@@ -143,7 +143,7 @@ One of the key remaining risks for Bitcoin — regulatory crackdown — has mean
 
 ## Part 5: The Honest Risk Assessment
 
-This article exists to make the case for crypto in a family portfolio — but only an incomplete case would skip the risks. Here is an honest accounting of what you're taking on when you buy Bitcoin.
+This article exists to make the case for crypto in a family portfolio — but only an incomplete case would skip the risks. Here is an honest accounting of what you're taking on when you [buy Bitcoin safely](/article/how-to-buy-bitcoin-safely).
 
 ### 1. Extreme Volatility — This Is Structural, Not Temporary
 
@@ -157,7 +157,7 @@ As noted above, Bitcoin's correlation with equities increases during periods of 
 
 ### 3. No FDIC or SIPC Insurance
 
-Crypto held directly on an exchange or in a wallet is **not insured by the FDIC or SIPC**. If your exchange collapses (as FTX did in 2022), your funds may be inaccessible or lost entirely. Self-custody through hardware wallets solves this problem but introduces the risk of losing your recovery phrase. There is no equivalent of the protections that exist for bank deposits and brokerage accounts.
+Crypto held directly on an exchange or in a wallet is **not insured by the FDIC or SIPC**. If your exchange collapses (as FTX did in 2022), your funds may be inaccessible or lost entirely. Self-custody through [best crypto wallets](/article/best-crypto-wallets)s solves this problem but introduces the risk of losing your recovery phrase. There is no equivalent of the protections that exist for bank deposits and [open a brokerage account](/article/how-to-open-a-brokerage-account)s.
 
 ### 4. Regulatory Risk Remains Real
 
@@ -286,7 +286,7 @@ Rather than investing your entire allocation at once — which exposes you to th
 
 - Eliminates the psychological pressure of trying to time the market
 - Automatically buys more Bitcoin when prices are lower and less when prices are higher
-- Is the same strategy recommended by every traditional financial planner for index fund investing
+- Is the same strategy recommended by every traditional financial planner for [best platforms for index funds](/article/best-platforms-to-buy-index-funds) investing
 
 ### Step 5: Rebalance Regularly
 
@@ -397,3 +397,11 @@ What crypto is definitely not: a shortcut to wealth, a replacement for your reti
 ---
 
 *Disclaimer: This article is for educational and informational purposes only and does not constitute financial, investment, legal, or tax advice. Cryptocurrency is a highly volatile and speculative asset class. Past performance does not guarantee future results. Always conduct your own research and consult a qualified financial advisor and tax professional before making investment decisions. DadAlt Investments may receive compensation from affiliate partners. See our Affiliate Disclaimer for full details.*
+
+---
+
+## Recommended Reading
+
+- [The Ultimate Beginner's Guide to Investing for Dads](/article/beginners-guide-to-investing)
+- [Gold vs Crypto: Which Is the Better Hedge?](/article/gold-vs-crypto-which-is-the-better-hedge)
+- [7 Recession-Proof Assets Every Dad Should Consider](/article/7-recession-proof-assets-every-dad-should-consider)

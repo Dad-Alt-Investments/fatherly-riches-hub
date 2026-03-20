@@ -4,7 +4,7 @@
 
 ---
 
-Gold hit a record high of $5,602.22 per troy ounce on January 28, 2026 — more than $2,100 above where it traded just one year earlier — as investors poured into hard assets amid dollar uncertainty, geopolitical stress, and persistent inflation concerns.[^1] For many American families, physical gold represents something a Gold ETF never can: a tangible asset that requires no counterparty, no custodian, and no brokerage account to hold its value. But buying physical gold online safely requires knowing which dealers to trust, how dealer premiums work, how to place and receive your first order without making costly mistakes, and — critically — how the IRS treats your gains when you eventually sell. This guide walks through every step of the process: what forms of gold to buy, how to read spot prices and compare premiums, which four U.S. online dealers have earned strong reputations, a step-by-step walkthrough of your first purchase, how to verify and store your gold after delivery, and the tax rules that apply to physical gold ownership in the United States.
+Gold hit a record high of $5,602.22 per troy ounce on January 28, 2026 — more than $2,100 above where it traded just one year earlier — as investors poured into hard assets amid dollar uncertainty, geopolitical stress, and persistent inflation concerns.[^1] For many American families, physical gold represents something a Gold ETF never can: a tangible asset that requires no counterparty, no custodian, and no [open a brokerage account](/article/how-to-open-a-brokerage-account) to hold its value. But buying physical gold online safely requires knowing which dealers to trust, how dealer premiums work, how to place and receive your first order without making costly mistakes, and — critically — how the IRS treats your gains when you eventually sell. This guide walks through every step of the process: what forms of gold to buy, how to read spot prices and compare premiums, which four U.S. online dealers have earned strong reputations, a step-by-step walkthrough of your first purchase, how to verify and store your gold after delivery, and the tax rules that apply to physical gold ownership in the United States.
 
 ---
 
@@ -15,7 +15,7 @@ Physical gold fills a specific role in a portfolio that paper gold — ETFs, fut
 ### The Case for Physical Gold
 
 - **Zero counterparty risk.** A 1 oz American Gold Eagle in your safe does not depend on a bank, brokerage, fund manager, or exchange staying solvent. No one can freeze it, rehypothecate it, or block your access to it.
-- **Tangible inflation hedge.** Gold has preserved purchasing power across centuries. While it can underperform stocks for long stretches, it tends to hold value through periods of currency debasement and high inflation.
+- **Tangible [protect your portfolio from inflation](/article/how-to-protect-your-portfolio-from-inflation).** Gold has preserved purchasing power across centuries. While it can underperform stocks for long stretches, it tends to hold value through periods of currency debasement and high inflation.
 - **Crisis hedge.** Gold historically appreciates during periods of geopolitical uncertainty, banking stress, and dollar weakness — precisely when other assets may be declining.
 - **True ownership vs. paper.** When you buy shares of GLD or IAU (the most popular gold ETFs), you own a fractional claim on a fund that holds gold — but you cannot take delivery, and the fund carries management fees and custodian risk. Physical gold eliminates that layer entirely.
 
@@ -28,7 +28,7 @@ Physical gold fills a specific role in a portfolio that paper gold — ETFs, fut
 
 ### Recommended Portfolio Allocation
 
-Most financial planners who include gold in portfolio recommendations suggest a **5–15% allocation** as a hedge — enough to provide meaningful protection during a crisis without over-weighting a non-income-producing asset. This is not a get-rich-quick play; it is an insurance component of a diversified strategy.
+Most [build a family financial plan](/article/how-to-build-a-family-financial-plan)ners who include gold in portfolio recommendations suggest a **5–15% allocation** as a hedge — enough to provide meaningful protection during a crisis without over-weighting a non-income-producing asset. This is not a get-rich-quick play; it is an insurance component of a diversified strategy.
 
 ---
 
@@ -270,7 +270,7 @@ An inexpensive (typically $20–$100/year) option at your local bank branch that
 
 For large holdings — particularly anything over $25,000–$50,000 — professional allocated vault storage provides the strongest security infrastructure.
 
-- **Major providers:** Brink's, Loomis, Delaware Depository (a common Gold IRA depository), IDS of Delaware, APMEX's Citadel storage service
+- **Major providers:** Brink's, Loomis, Delaware Depository (a common [top Gold IRA companies](/article/top-gold-ira-companies-reviewed) depository), IDS of Delaware, APMEX's Citadel storage service
 - **Allocated storage:** Your specific coins or bars are segregated and identified as yours — not pooled with other customers' metals
 - **Annual fees:** Typically 0.10%–0.15% of assets per year for allocated storage
 - **Insurance:** Professional vault storage carries institutional-grade all-risk insurance coverage
@@ -329,7 +329,7 @@ This documentation establishes your **cost basis** — the number used to calcul
 
 ## FAQ
 
-### Is it legal to buy gold online in the United States?
+### Is it legal to [buy gold online safely](/article/how-to-buy-gold-online-safely) in the United States?
 
 Yes, absolutely. U.S. citizens and residents have the legal right to own, buy, and sell gold bullion in any quantity. There is no federal restriction on gold ownership. Executive Order 6102 (which required Americans to turn in their gold in 1933) was repealed by President Ford in 1974. Some states have no sales tax on gold bullion; others do. Check your state's tax rules before purchasing, as some states exempt investment-grade bullion from sales tax while others tax it at the standard rate.
 
@@ -374,3 +374,11 @@ When buying from a major established dealer (APMEX, JM Bullion, SD Bullion, Mone
 ---
 
 *Disclaimer: This article is for informational and educational purposes only and does not constitute financial, legal, or tax advice. Gold prices fluctuate and past performance does not guarantee future results. Tax rules are complex and individually variable — always consult a qualified CPA or tax professional for your specific situation. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you.*
+
+---
+
+## Recommended Reading
+
+- [How to Buy Gold Online Safely](/article/how-to-buy-gold-online-safely)
+- [Best Places to Buy Gold and Silver Online](/article/best-places-to-buy-gold-silver-online)
+- [How to Store Gold at Home Safely](/article/how-to-store-gold-at-home-safely)

@@ -74,7 +74,7 @@ Several structural factors explain gold's sustained outperformance, per multiple
 
 Gold is not a perfect hedge:
 
-- **It pays no income.** Holding gold means forgoing yield from bonds, dividend stocks, or even a high-yield savings account. In elevated real rate environments, this is a meaningful opportunity cost.
+- **It pays no income.** Holding gold means forgoing yield from bonds, [build a dividend portfolio](/article/dividend-portfolio-beginner-dad), or even a high-yield savings account. In elevated real rate environments, this is a meaningful opportunity cost.
 - **It's a mixed inflation hedge in the short run.** Peer-reviewed research in the *International Review of Economics & Finance* (2024) found that gold shows "relatively sharp and sustained responses to inflation in high-inflation regimes, while these responses are subdued in low-inflation periods." It is an excellent hedge against currency crises and high inflation; it does not reliably track mild, month-to-month inflation.
 - **It has underperformed stocks over the full 50-year period.** Charles Schwab's data shows that from 1975 to 2026, the S&P 500 outperformed both gold and inflation over the full half-century. Gold wins in specific crisis windows, not across all market conditions.
 - **Storage and insurance costs** apply to physical gold, and ETFs carry management fees that compound over time.
@@ -103,7 +103,7 @@ Bitcoin has genuine structural properties that make the gold comparison intellec
 
 2. **Borderless portability.** A billion dollars in Bitcoin can be transmitted globally in minutes, 24/7. The equivalent in physical gold requires armored logistics, insurance, customs documentation, and days of processing.
 
-3. **Regulated institutional access.** The SEC's January 2024 approval of spot Bitcoin ETFs integrated Bitcoin into the mainstream financial system. Investors can now access Bitcoin through standard brokerage accounts and IRAs, in the same way they hold stocks or gold ETFs.
+3. **Regulated institutional access.** The SEC's January 2024 approval of spot Bitcoin ETFs integrated Bitcoin into the mainstream financial system. Investors can now access Bitcoin through standard [open a brokerage account](/article/how-to-open-a-brokerage-account)s and IRAs, in the same way they hold stocks or gold ETFs.
 
 4. **Increasing scarcity over time.** Each halving event (every four years) cuts new Bitcoin supply in half. The supply growth rate is declining while demand continues to grow — a dynamic that becomes more extreme over time and does not exist for any fiat currency.
 
@@ -226,7 +226,7 @@ The most intellectually honest answer to "gold or Bitcoin?" is: **you don't have
 - **Role:** Asymmetric upside bet. Long-run digital scarcity play. High-risk, high-reward satellite allocation that can move the needle on portfolio returns over a decade without catastrophic consequences if it doesn't pan out.
 - **Why this range:** Bitcoin's ~54% annualized volatility means a 65–80% drawdown is historically precedented. A 1–5% allocation provides meaningful upside if the digital scarcity thesis plays out over the next decade, without being ruinous if it doesn't.
 - **How to hold it:**
-  - **Spot Bitcoin ETF (simplest):** BlackRock's IBIT (0.25% expense ratio) or Fidelity's FBTC are the two largest. Available in any brokerage account, including IRAs, enabling tax-advantaged Bitcoin exposure.
+  - **Spot Bitcoin ETF (simplest):** BlackRock's IBIT (0.25% expense ratio) or [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab)'s FBTC are the two largest. Available in any brokerage account, including IRAs, enabling tax-advantaged Bitcoin exposure.
   - **Direct purchase:** Coinbase or Kraken are the most established U.S.-regulated exchanges. For holdings above $1,000, a hardware wallet (Ledger or Trezor) provides self-custody and removes exchange counterparty risk.
   - **Dollar-cost averaging:** Given Bitcoin's volatility, buying a fixed dollar amount weekly or monthly eliminates the risk of mistiming a lump-sum purchase at a cycle top.
 
@@ -261,7 +261,7 @@ The data says no — at least not consistently. Gold's inflation-hedging propert
 Bitcoin reached a new all-time high of approximately $126,000 in October 2025, then declined steadily through Q4. It closed the year at approximately $87,509 — roughly 7% below its January 1, 2025 opening price of ~$94,444. Per Bitcoin Magazine's December 31, 2025 year-end analysis, persistent inflation and a restrictive Federal Reserve posture created an environment that "favored cash and yield-bearing assets over speculative exposure." Gold, by contrast, gained +67% for the full year — outperforming Bitcoin by approximately 74 percentage points.
 
 **Should I hold gold or Bitcoin in my IRA?**
-Both options are available. A gold IRA holds physical IRS-approved gold in an approved depository. You can hold spot Bitcoin ETFs (IBIT, FBTC) in a standard IRA or Roth IRA at any major brokerage. For most investors, holding gold in a physical gold IRA and Bitcoin through a spot ETF in a regular IRA or Roth IRA represents the most practical and tax-efficient combination.
+Both options are available. A gold IRA holds physical IRS-approved gold in an approved depository. You can hold spot Bitcoin ETFs (IBIT, FBTC) in a standard IRA or [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) at any major brokerage. For most investors, holding gold in a physical gold IRA and Bitcoin through a spot ETF in a regular IRA or Roth IRA represents the most practical and tax-efficient combination.
 
 **How much of my portfolio should be in gold vs. Bitcoin?**
 The DadAlt framework: 5–10% gold (stability and crisis hedge), 1–5% Bitcoin (asymmetric upside). These allocations are not mutually exclusive — owning both is the recommended approach. Size depends on your risk tolerance, time horizon, and whether you're closer to accumulation or distribution in your investing lifecycle.
@@ -286,7 +286,7 @@ For the dad investor building generational wealth: **gold offers safety, Bitcoin
 - **[How to Buy Physical Gold Online Safely](#)** — A practical step-by-step guide to buying gold coins and bars from reputable U.S. dealers, what premiums to expect, and how to avoid getting ripped off
 - **[Top Gold IRA Companies Reviewed](#)** — Our research-backed ranking of the top gold IRA providers in the U.S., with fees, minimums, and affiliate disclosures clearly stated
 - **[Top 5 Crypto ETFs](#)** — The full breakdown of IBIT, FBTC, and the top spot Bitcoin ETF options for U.S. investors
-- **[How to Buy Bitcoin Safely Without Getting Scammed](#)** — Coinbase, Kraken, hardware wallets, and what beginner Bitcoin investors need to know before clicking "buy"
+- **[How to [buy Bitcoin safely](/article/how-to-buy-bitcoin-safely) Safely Without Getting Scammed](#)** — Coinbase, Kraken, hardware wallets, and what beginner Bitcoin investors need to know before clicking "buy"
 - **[7 Recession-Proof Assets Every Dad Should Consider](#)** — Gold and Bitcoin are two of seven asset classes in this portfolio-wide defensive playbook
 - **[Should I Buy Crypto? The Case for Crypto in a Family Portfolio](#)** — The foundational crypto article for the DadAlt audience: honest about risks, data-driven, and written for investors who've never owned digital assets
 - **[How to Protect Your Portfolio from Inflation](#)** — The complete inflation-hedging playbook: TIPS, gold, real estate, and crypto in a unified strategy
@@ -352,3 +352,11 @@ For the dad investor building generational wealth: **gold offers safety, Bitcoin
 ---
 
 *Disclaimer: This article is for educational and informational purposes only and does not constitute financial, investment, legal, or tax advice. Gold, Bitcoin, and all other investment assets carry risk, including the potential for partial or total loss of principal. Past performance does not guarantee future results. Spot Bitcoin ETF and gold ETF shares are subject to market risk. Physical gold may involve premiums above spot price, storage costs, and insurance costs. Bitcoin is highly volatile and not appropriate for all investors. U.S. tax treatment of both assets is complex — consult a qualified CPA or tax attorney for guidance specific to your situation. DadAlt Investments may receive affiliate compensation from gold dealers, gold IRA companies, and crypto platforms referenced in this article. See our full Affiliate Disclosure for details.*
+
+---
+
+## Recommended Reading
+
+- [How to Protect Your Portfolio from Inflation](/article/how-to-protect-your-portfolio-from-inflation)
+- [7 Recession-Proof Assets Every Dad Should Consider](/article/7-recession-proof-assets-every-dad-should-consider)
+- [Should I Buy Crypto? The Case for Crypto in a Family Portfolio](/article/crypto-in-family-portfolio)

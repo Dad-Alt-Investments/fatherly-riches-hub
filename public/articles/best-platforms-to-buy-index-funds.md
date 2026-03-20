@@ -6,7 +6,7 @@
 
 ## Summary
 
-Index funds are the closest thing investing has to a proven, universally endorsed strategy: low cost, broad diversification, and decades of data showing they outperform most actively managed funds over long time horizons. The question for most investors is not whether to buy index funds — it is where to buy them, and which specific funds to own. This guide breaks down the four best platforms for index fund investors in 2026: Fidelity for the absolute lowest costs and broadest flexibility, Vanguard for investors who specifically want to hold flagship mutual funds like VTSAX in their native home, Schwab for full-service access alongside competitive native index funds, and M1 Finance for hands-off investors who want their entire multi-fund allocation managed automatically. Every platform recommended here charges $0 commissions on ETF trades, supports IRA accounts, and allows automatic recurring investment.
+Index funds are the closest thing investing has to a proven, universally endorsed strategy: low cost, broad diversification, and decades of data showing they outperform most actively managed funds over long time horizons. The question for most investors is not whether to buy index funds — it is where to buy them, and which specific funds to own. This guide breaks down the four best platforms for index fund investors in 2026: [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) for the absolute lowest costs and broadest flexibility, Vanguard for investors who specifically want to hold flagship mutual funds like VTSAX in their native home, Schwab for full-service access alongside competitive native index funds, and M1 Finance for hands-off investors who want their entire multi-fund allocation managed automatically. Every platform recommended here charges $0 commissions on ETF trades, supports IRA accounts, and allows automatic recurring investment.
 
 ---
 
@@ -60,7 +60,7 @@ Fidelity's ZERO fund lineup is genuinely unique. As confirmed by Fidelity's pric
 | **FNILX** | Large Cap (S&P 500 equivalent) | **0.00%** | $0 |
 | **FZIPX** | Extended Market | **0.00%** | $0 |
 
-No other retail brokerage offers index funds with a 0.00% expense ratio. The next-lowest competitors — Vanguard's VTI, Schwab's SWTSX — charge 0.03%. On a $100,000 portfolio, that difference is $30/year. Over 30 years of compounding, the saved fees add up to more than $2,000 in additional portfolio value. [^5]
+No other retail brokerage offers index funds with a 0.00% expense ratio. The next-lowest competitors — Vanguard's VTI, Schwab's SWTSX — charge 0.03%. On a $100,000 portfolio, that difference is $30/year. Over 30 years of [understand compound interest](/article/compound-interest-explained), the saved fees add up to more than $2,000 in additional portfolio value. [^5]
 
 **FZROX vs. VTI — the honest comparison:**
 - Both track the total U.S. stock market with 0.99 correlation [^5]
@@ -68,7 +68,7 @@ No other retail brokerage offers index funds with a 0.00% expense ratio. The nex
 - FZROX is available exclusively through Fidelity accounts and cannot be transferred in-kind to another brokerage — if you move your account, FZROX must be sold first
 - FZROX pays dividends annually (though it reinvests them internally throughout the year, reflected in share price), while VTI pays quarterly dividends
 
-For investors who plan to stay at Fidelity long-term — which is a reasonable commitment given the platform's quality — FZROX inside a Roth IRA is the most cost-efficient index fund structure available anywhere.
+For investors who plan to stay at Fidelity long-term — which is a reasonable commitment given the platform's quality — FZROX inside a [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) is the most cost-efficient index fund structure available anywhere.
 
 ### Fidelity Also Offers VTI, VOO, and BND Commission-Free
 
@@ -154,7 +154,7 @@ Schwab also offers VTI, VOO, and other Vanguard ETFs commission-free, giving ind
 
 ### Schwab Intelligent Portfolios — Free Automated Investing
 
-For hands-off index investors who want their portfolio managed automatically, Schwab Intelligent Portfolios builds and rebalances a diversified ETF portfolio with no advisory fee — though it does require a $5,000 minimum and holds a small cash allocation that earns a low sweep rate. [^3] For investors who can meet the minimum, it is among the most cost-competitive automated portfolio options available.
+For hands-off index investors who want their portfolio managed automatically, Schwab Intelligent Portfolios builds and rebalances a diversified ETF portfolio with no advisory fee — though it does require a $5,000 minimum and holds a small [how much to keep in cash vs investments](/article/how-much-cash-vs-investments) that earns a low sweep rate. [^3] For investors who can meet the minimum, it is among the most cost-competitive automated portfolio options available.
 
 ### thinkorswim and Full-Service Access
 
@@ -292,7 +292,7 @@ Not necessarily. VT (Vanguard Total World ETF, 0.07%) holds approximately 9,800 
 
 ## Sources and References
 
-[^1]: Fidelity Investments. *No Minimum Investment Mutual Funds.* Fidelity.com — FZROX, FZILX, FNILX, FZIPX confirmed at 0.00% expense ratio as of February 1, 2026; $0 minimum; available exclusively through Fidelity retail brokerage accounts; VTI/VOO/BND available commission-free. [https://www.fidelity.com/mutual-funds/investing-ideas/index-funds](https://www.fidelity.com/mutual-funds/investing-ideas/index-funds)
+[^1]: Fidelity Investments. *No Minimum Investment Mutual Funds.* Fidelity.com — FZROX, FZILX, FNILX, FZIPX confirmed at 0.00% expense ratio as of February 1, 2026; $0 minimum; available exclusively through Fidelity retail [open a brokerage account](/article/how-to-open-a-brokerage-account)s; VTI/VOO/BND available commission-free. [https://www.fidelity.com/mutual-funds/investing-ideas/index-funds](https://www.fidelity.com/mutual-funds/investing-ideas/index-funds)
 
 [^2]: Bankrate. *Best Roth IRA Accounts of 2026.* Bankrate.com — Vanguard described as best for cost-minimizing, buy-and-hold investors; 3,100+ no-transaction-fee funds; VTSAX $3,000 minimum Admiral Share confirmed; platform limitations noted. [https://www.bankrate.com/investing/best-roth-ira/](https://www.bankrate.com/investing/best-roth-ira/)
 
@@ -313,3 +313,11 @@ Not necessarily. VT (Vanguard Total World ETF, 0.07%) holds approximately 9,800 
 ---
 
 *Disclosure: This article is for informational and educational purposes only and does not constitute financial or investment advice. DadAlt Investments may receive compensation through affiliate relationships with the brokerages and platforms mentioned. Expense ratios, fund minimums, and platform features are subject to change. Always verify current rates and features directly with your chosen platform before investing. Expense ratio data sourced from Fidelity.com (as of February 1, 2026). Past performance does not guarantee future results.*
+
+---
+
+## Recommended Reading
+
+- [Fidelity vs Vanguard vs Schwab: Which Is Best?](/article/fidelity-vs-vanguard-vs-schwab)
+- [How to Create Passive Income with ETFs](/article/passive-income-with-etfs)
+- [How to Open a Brokerage Account](/article/how-to-open-a-brokerage-account)

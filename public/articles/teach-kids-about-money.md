@@ -4,7 +4,7 @@
 **Target Keywords:** teach kids money, financial literacy, kids and money
 **Tags:** Beginner Guides · Investment Mindset · Guides & How-To's
 
-> **Disclaimer:** This article is for educational and informational purposes only and does not constitute financial, investment, tax, or legal advice. DadAlt Investments may receive affiliate compensation from Greenlight, Fidelity, Charles Schwab, and other financial companies referenced in this article. This never influences our editorial recommendations. Product features, pricing, and tax rules may change; always verify current details directly with product providers and consult a qualified financial or tax professional before opening accounts for minors.
+> **Disclaimer:** This article is for educational and informational purposes only and does not constitute financial, investment, tax, or legal advice. DadAlt Investments may receive affiliate compensation from Greenlight, [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Charles Schwab, and other financial companies referenced in this article. This never influences our editorial recommendations. Product features, pricing, and tax rules may change; always verify current details directly with product providers and consult a qualified financial or tax professional before opening accounts for minors.
 
 ---
 
@@ -144,13 +144,13 @@ The single most powerful lesson you can teach a teenager about money is this:
 
 > **$7,500 invested at age 15, left untouched, could grow to approximately $880,000 by age 65 — assuming a 10% average annual return consistent with long-run S&P 500 performance.**
 
-That number comes from Motley Fool's analysis of a single annual Roth IRA contribution. The math is straightforward: 50 years of compound growth at 10% turns one year's maximum Roth IRA contribution into nearly a million dollars. No additional contributions required.
+That number comes from Motley Fool's analysis of a single annual [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) contribution. The math is straightforward: 50 years of compound growth at 10% turns one year's maximum Roth IRA contribution into nearly a million dollars. No additional contributions required.
 
 This is why the teen years — not the 30s, not the 40s — are when the most powerful investing decisions get made. Every year of delay costs exponentially more to recover in later life.
 
 ### Tool #1: Fidelity Youth Account
 
-The **Fidelity Youth Account** is a teen-owned brokerage account for ages 13–17. It is one of the most powerful financial education tools available to American teenagers.
+The **Fidelity Youth Account** is a teen-owned [open a brokerage account](/article/how-to-open-a-brokerage-account) for ages 13–17. It is one of the most powerful financial education tools available to American teenagers.
 
 **Key features:**
 - **No fees, no minimums, no subscription cost** — completely free to open and maintain
@@ -175,7 +175,7 @@ In a custodial account, the **parent or guardian controls all investment decisio
 - No minimum balance, no account fees, $0 commissions on online stock and ETF trades
 - Full access to Schwab's research, tools, and investment universe
 - Parent controls all buys and sells until transfer of ownership
-- Can be invested in index funds, ETFs, individual stocks, or any Schwab-eligible security
+- Can be invested in [best platforms for index funds](/article/best-platforms-to-buy-index-funds)s, ETFs, individual stocks, or any Schwab-eligible security
 - Transfers to the child automatically at the age of majority
 
 **Fidelity Youth vs. Schwab Custodial — which is right for your teen?**
@@ -333,7 +333,7 @@ Start with three jars and a weekly allowance. Graduate to a Greenlight card. Ope
 
 That's the whole system. And 20 years from now, when your kids are financially independent adults making smart decisions with their own children, they'll know exactly where it started.
 
-> **→ Related: [Simple Budget System for Busy Dads](#) | [The Ultimate DadAlt Investment Playbook](#) | [How to Pay Off Debt and Still Invest](#)**
+> **→ Related: [Simple Budget System for Busy Dads](#) | [The Ultimate DadAlt Investment Playbook](#) | [How to [pay off debt and still invest](/article/how-to-pay-off-debt-and-still-invest) and Still Invest](#)**
 
 ---
 
@@ -380,3 +380,11 @@ That's the whole system. And 20 years from now, when your kids are financially i
 ---
 
 *Disclaimer: This article is for educational and informational purposes only and does not constitute financial, investment, tax, or legal advice. DadAlt Investments may receive affiliate compensation from Greenlight, Fidelity, Charles Schwab, Vanguard, and other financial companies referenced in this article. This never influences our editorial recommendations. Product features, pricing, and tax rules may change; verify current details directly with product providers. Roth IRA contribution limits, income thresholds, and tax treatment are based on 2026 IRS rules (IRS Notice 2025-67) and may change in future years. Compound interest calculations are hypothetical and for illustrative purposes only — actual returns will vary and past market performance does not guarantee future results. Consult a qualified fiduciary financial advisor and tax professional before opening investment accounts for minors.*
+
+---
+
+## Recommended Reading
+
+- [What Every Dad Should Know About Compound Interest](/article/compound-interest-explained)
+- [Simple Budget System for Busy Dads](/article/simple-budget-system-for-busy-dads)
+- [The Ultimate Beginner's Guide to Investing for Dads](/article/beginners-guide-to-investing)
