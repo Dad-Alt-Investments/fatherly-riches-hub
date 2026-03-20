@@ -9,6 +9,24 @@ const CategoryPage = () => {
   const category = categories.find((c) => c.slug === slug);
   const categoryArticles = articles.filter((a) => a.categorySlug === slug);
 
+  const categoryMetaTitles: Record<string, string> = {
+    "stocks-etfs": "Stocks & ETFs Investing Guides for Dads",
+    "crypto-digital-assets": "Crypto & Digital Asset Guides for Beginners",
+    "gold-precious-metals": "Gold & Precious Metals Investing Guides",
+    "buying-businesses": "How to Buy a Business — Guides for First-Time Buyers",
+    "real-estate": "Real Estate Investing Guides for Busy Dads",
+    "personal-finance": "Personal Finance & Wealth Building for Dads",
+  };
+
+  usePageMeta({
+    title: category
+      ? categoryMetaTitles[category.slug] || `${category.name} — Investment Guides`
+      : "Category Not Found",
+    description: category
+      ? category.intro
+      : "This category could not be found.",
+  });
+
   if (!category) {
     return (
       <div className="container-article section-padding text-center">
