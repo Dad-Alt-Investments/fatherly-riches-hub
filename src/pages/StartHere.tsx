@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { ArrowRight, BookOpen, Shield, Compass } from "lucide-react";
 import { categories } from "@/data/content";
 import EmailCapture from "@/components/home/EmailCapture";
+import { usePageMeta } from "@/hooks/use-page-meta";
 
 const steps = [
   {
