@@ -1,6 +1,6 @@
 # Top 5 Real Estate Investment Options for Busy Dads: REITs, Rentals, Syndications, Notes & Crowdfunding
 
-Real estate has long been one of the most reliable paths to wealth in America — but the traditional model of buying, managing, and maintaining properties doesn't fit neatly into a packed dad schedule. The good news: the real estate investment landscape in 2026 looks dramatically different than it did even a decade ago. From publicly traded REITs you can buy in a brokerage account in seconds, to crowdfunding platforms where you can invest in rental homes starting at $100, there are now more ways than ever for time-constrained investors to build a real estate portfolio without becoming a landlord. This guide covers the five most practical real estate investment options for busy dads, breaking down how each works, what kind of returns to expect, who each strategy fits, and the real trade-offs you need to understand before putting money in.
+Real estate has long been one of the most reliable paths to wealth in America — but the traditional model of buying, managing, and maintaining properties doesn't fit neatly into a packed dad schedule. The good news: the real estate investment landscape in 2026 looks dramatically different than it did even a decade ago. From publicly traded REITs you can buy in a [open a brokerage account](/article/how-to-open-a-brokerage-account) in seconds, to crowdfunding platforms where you can invest in rental homes starting at $100, there are now more ways than ever for time-constrained investors to build a real estate portfolio without becoming a landlord. This guide covers the five most practical real estate investment options for busy dads, breaking down how each works, what kind of returns to expect, who each strategy fits, and the real trade-offs you need to understand before putting money in.
 
 ---
 
@@ -19,7 +19,7 @@ Real estate offers several distinct advantages as an asset class:
 
 More than 70% of U.S. pensions by assets now incorporate REITs into their real estate strategies, according to Nareit's 2026 outlook, and leading institutional investors continue to expand their use of real estate as a core portfolio component. Individual investors increasingly have access to the same vehicles.
 
-The five strategies below span the full spectrum — from fully passive investments you can own in a brokerage account alongside your index funds, to more hands-on approaches that offer higher returns in exchange for more time and capital.
+The five strategies below span the full spectrum — from fully passive investments you can own in a brokerage account alongside your [best platforms for index funds](/article/best-platforms-to-buy-index-funds)s, to more hands-on approaches that offer higher returns in exchange for more time and capital.
 
 ---
 
@@ -71,7 +71,7 @@ The average dividend yield from equity REITs in 2025 was approximately **3.9–4
 
 ### Why It Works for Busy Dads
 
-- Buy and sell in seconds through any brokerage (Fidelity, Schwab, Vanguard)
+- Buy and sell in seconds through any brokerage (Fidelity, [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Vanguard)
 - Available inside 401(k)s, IRAs, and taxable accounts
 - No property management, no tenants, no maintenance calls
 - Instant diversification across dozens or hundreds of properties
@@ -81,7 +81,7 @@ The average dividend yield from equity REITs in 2025 was approximately **3.9–4
 
 - **Interest rate sensitivity:** Higher rates make REIT dividends less attractive relative to bonds and increase borrowing costs for properties
 - **Market volatility:** Publicly traded REIT prices fluctuate daily with the stock market, even when underlying property values are stable
-- **Tax treatment:** REIT dividends are generally taxed as ordinary income (not at the lower qualified dividend rate) — consider holding REITs in tax-advantaged accounts like a Roth IRA
+- **Tax treatment:** REIT dividends are generally taxed as ordinary income (not at the lower qualified dividend rate) — consider holding REITs in tax-advantaged accounts like a [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners)
 - **Sector risk:** Some REIT sectors (office, retail) have significant headwinds; sector concentration increases risk
 
 ### Best For
@@ -221,7 +221,7 @@ Returns vary significantly by platform and investment type:
 - **Platform risk:** If the company running the platform fails, your investment could be affected, though most platforms use "bankruptcy-remote" structures where assets are held in separate LLCs
 - **No daily liquidity:** Unlike publicly traded REITs, you can't sell your position when you want
 - **Redemption gates:** During market stress, platforms can pause or limit withdrawals (this happened in 2023 with some platforms)
-- **Due diligence challenge:** Evaluating deal-by-deal investments requires more research than buying an index REIT
+- **[evaluate a business before buying](/article/how-to-evaluate-a-business-before-buying-it) challenge:** Evaluating deal-by-deal investments requires more research than buying an index REIT
 
 ### Best For
 
@@ -506,3 +506,11 @@ Start where you are. Scale as your knowledge and capital grow. Real estate rewar
 ---
 
 *Disclaimer: This article is for educational and informational purposes only and does not constitute financial, investment, tax, or legal advice. Real estate investments involve risk, including the possible loss of principal. Returns cited are historical or projected estimates and are not guaranteed. Accredited investor requirements are defined by the SEC and subject to change. DadAlt may receive compensation through affiliate or referral relationships with platforms mentioned in this article; this does not influence editorial coverage. Always conduct your own due diligence and consult a qualified financial advisor and tax professional before making investment decisions.*
+
+---
+
+## Recommended Reading
+
+- [Best Platforms to Buy Fractional Real Estate](/article/best-fractional-real-estate-platforms)
+- [How to Buy Rental Property Without 20% Down](/article/buy-rental-property-without-20-percent)
+- [7 Recession-Proof Assets Every Dad Should Consider](/article/7-recession-proof-assets-every-dad-should-consider)

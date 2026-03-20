@@ -4,7 +4,7 @@
 
 ---
 
-The retirement savings benchmarks for ages 30, 40, and 50 are not pass-or-fail tests — they are diagnostic tools. Knowing where you stand relative to a well-established guideline is the first step toward doing something about it, which is the only step that actually matters. The most widely used standard in the United States comes from Fidelity Investments, whose salary-multiple guidelines have become the industry's default benchmark: **1x your annual salary saved by age 30, 3x by 40, 6x by 50, 8x by 60, and 10x by retirement at age 67**.[^1] But here's the reality check the benchmarks never headline: the median retirement savings for all U.S. households is just $87,000, according to the Federal Reserve's Survey of Consumer Finances — and roughly 65% of Americans believe their retirement savings are either off track or are not sure if they're on track.[^2] This is not a crisis of will. It is the entirely predictable result of student loan debt, housing costs, childcare expenses, and wage growth that hasn't kept pace with cost of living for most working families. This guide explains what the benchmarks actually mean, what they look like across different income levels, why most Americans fall short of them, and — most importantly — what to do right now whether you're 28, 38, or 52 and behind where you want to be.
+The retirement savings benchmarks for ages 30, 40, and 50 are not pass-or-fail tests — they are diagnostic tools. Knowing where you stand relative to a well-established guideline is the first step toward doing something about it, which is the only step that actually matters. The most widely used standard in the United States comes from [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) Investments, whose salary-multiple guidelines have become the industry's default benchmark: **1x your annual salary saved by age 30, 3x by 40, 6x by 50, 8x by 60, and 10x by retirement at age 67**.[^1] But here's the reality check the benchmarks never headline: the median retirement savings for all U.S. households is just $87,000, according to the Federal Reserve's Survey of Consumer Finances — and roughly 65% of Americans believe their retirement savings are either off track or are not sure if they're on track.[^2] This is not a crisis of will. It is the entirely predictable result of student loan debt, housing costs, childcare expenses, and wage growth that hasn't kept pace with cost of living for most working families. This guide explains what the benchmarks actually mean, what they look like across different income levels, why most Americans fall short of them, and — most importantly — what to do right now whether you're 28, 38, or 52 and behind where you want to be.
 
 ---
 
@@ -216,7 +216,7 @@ This is an extraordinary opportunity. A 50-year-old who maximizes the full $41,1
 
 ### 2. Delay Social Security: The Most Underused Lever
 
-Social Security is not a retirement savings account, but it is a critical part of retirement income — and the decision of when to claim it is one of the most consequential financial decisions a person can make.
+Social Security is not a retirement [best high-yield savings accounts](/article/best-high-yield-savings-accounts), but it is a critical part of retirement income — and the decision of when to claim it is one of the most consequential financial decisions a person can make.
 
 - **Claim at 62:** You receive reduced benefits — permanently. Benefits claimed at 62 are approximately 30% lower than if you had waited until full retirement age.
 - **Claim at full retirement age (67 for those born after 1960):** You receive your full calculated benefit.
@@ -257,7 +257,7 @@ A 40-year-old who starts saving $1,000/month at a 7% average return will have ap
 
 ### Should I Include My Home Equity in the Retirement Savings Benchmark?
 
-No — for purposes of measuring against the Fidelity salary-multiple benchmark, **do not include home equity**. The benchmark is designed around liquid, investable retirement assets: 401(k), IRA, Roth IRA, and taxable brokerage accounts earmarked for retirement. Home equity is illiquid, has carrying costs (maintenance, taxes, insurance), and requires either selling your home or taking on debt (reverse mortgage) to access.
+No — for purposes of measuring against the Fidelity salary-multiple benchmark, **do not include home equity**. The benchmark is designed around liquid, investable retirement assets: 401(k), IRA, Roth IRA, and taxable [open a brokerage account](/article/how-to-open-a-brokerage-account)s earmarked for retirement. Home equity is illiquid, has carrying costs (maintenance, taxes, insurance), and requires either selling your home or taking on debt (reverse mortgage) to access.
 
 That said, a full retirement readiness assessment absolutely should include home equity as part of your overall balance sheet. If you own your home outright at retirement, your housing costs drop substantially — which reduces how much investment income you need. Your financial planner should model both your liquid investments and your complete balance sheet.
 
@@ -284,7 +284,7 @@ Yes — the Fidelity benchmark is designed to measure **all retirement savings**
 
 **Do not include:**
 - ❌ Home equity
-- ❌ Emergency fund / savings account
+- ❌ [emergency funds and investing](/article/emergency-funds-and-investing) / savings account
 - ❌ Children's 529 college savings
 - ❌ Business equity (too illiquid and uncertain)
 
@@ -294,7 +294,7 @@ Add up all included accounts to get your total retirement investment balance, th
 
 ## Related Guides
 
-- [How to Start Investing If You're Behind](/article/how-to-start-investing-if-youre-behind) — practical catch-up strategies regardless of your age
+- [How to [beginner's guide to investing](/article/beginners-guide-to-investing) If You're Behind](/article/how-to-start-investing-if-youre-behind) — practical catch-up strategies regardless of your age
 - [Best Roth IRA Providers for Beginners](/article/best-roth-ira-providers-for-beginners) — where to open the Roth IRA referenced throughout this guide
 - [Compound Interest Explained](/article/compound-interest-explained) — the math behind why starting early matters so much
 - [Best Platforms to Buy Index Funds](/article/best-platforms-to-buy-index-funds) — where to invest once you've opened your accounts
@@ -323,3 +323,11 @@ Add up all included accounts to get your total retirement investment balance, th
 ---
 
 *Disclaimer: This article is for informational and educational purposes only and does not constitute financial, tax, or investment advice. Retirement savings adequacy depends on many individual factors including retirement age, lifestyle expectations, Social Security benefits, debt, and healthcare costs. Always consult a qualified financial advisor or CFP before making significant changes to your retirement savings strategy. IRS limits referenced are for the 2026 tax year; confirm current limits at IRS.gov. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you.*
+
+---
+
+## Recommended Reading
+
+- [The Ultimate Beginner's Guide to Investing for Dads](/article/beginners-guide-to-investing)
+- [What Every Dad Should Know About Compound Interest](/article/compound-interest-explained)
+- [How to Start Investing if You're Behind](/article/how-to-start-investing-if-youre-behind)

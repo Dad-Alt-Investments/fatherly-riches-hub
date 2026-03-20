@@ -10,7 +10,7 @@
 
 ## Summary
 
-Most dads focus on *what* to invest in — and completely ignore *how the IRS is taxing it*. That's a costly mistake. Two investors can hold the exact same portfolio and see dramatically different outcomes purely based on how they've structured their accounts and managed their tax exposure. The good news: tax-efficient investing doesn't require loopholes, accountants on retainer, or a finance degree. It requires understanding a handful of rules and applying them consistently. This guide covers every major tax strategy available to U.S. investors in 2026: how capital gains taxes work (and how to legally pay 0%), why where you hold your investments matters as much as what you hold, how tax-loss harvesting turns losing positions into real cash savings, why the 529 plan has become dramatically more powerful for dads, and what backdoor Roth strategies exist for high earners locked out of standard Roth IRA contributions. Every figure in this article reflects 2026 IRS data. Apply even two or three of these strategies, and the after-tax difference over 30 years can easily exceed six figures.
+Most dads focus on *what* to invest in — and completely ignore *how the IRS is taxing it*. That's a costly mistake. Two investors can hold the exact same portfolio and see dramatically different outcomes purely based on how they've structured their accounts and managed their tax exposure. The good news: tax-efficient investing doesn't require loopholes, accountants on retainer, or a finance degree. It requires understanding a handful of rules and applying them consistently. This guide covers every major tax strategy available to U.S. investors in 2026: how capital gains taxes work (and how to legally pay 0%), why where you hold your investments matters as much as what you hold, how tax-loss harvesting turns losing positions into real cash savings, why the 529 plan has become dramatically more powerful for dads, and what backdoor Roth strategies exist for high earners locked out of standard [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) contributions. Every figure in this article reflects 2026 IRS data. Apply even two or three of these strategies, and the after-tax difference over 30 years can easily exceed six figures.
 
 ---
 
@@ -18,7 +18,7 @@ Most dads focus on *what* to invest in — and completely ignore *how the IRS is
 
 Here's a scenario most investing articles never address:
 
-Two dads each invest $10,000 per year for 30 years in the same S&P 500 index fund, averaging 10% annual returns. One uses tax-advantaged accounts strategically and applies basic tax-efficiency principles. The other invests haphazardly across taxable accounts, ignores asset location, and never tax-loss harvests.
+Two dads each invest $10,000 per year for 30 years in the same S&P 500 [best platforms for index funds](/article/best-platforms-to-buy-index-funds), averaging 10% annual returns. One uses tax-advantaged accounts strategically and applies basic tax-efficiency principles. The other invests haphazardly across taxable accounts, ignores asset location, and never tax-loss harvests.
 
 At the end of 30 years, both have invested the same dollar amount in the same fund. But the tax-aware dad has significantly more to show for it — not because he earned higher returns, but because he kept more of the returns he earned.
 
@@ -54,7 +54,7 @@ A **capital gain** is the profit you make when you sell an investment for more t
 
 **What this means in practice:** A dad who sells a stock after holding it for 13 months pays long-term capital gains rates. A dad who sells after 11 months pays ordinary income rates — potentially paying 22% or 24% instead of 15% on the exact same profit, simply because he didn't wait 60 more days.
 
-**The practical rule:** In taxable brokerage accounts, hold investments for at least one year before selling whenever possible.
+**The practical rule:** In taxable [open a brokerage account](/article/how-to-open-a-brokerage-account)s, hold investments for at least one year before selling whenever possible.
 
 ### The 0% Capital Gains Rate: A Legitimate Tax Planning Opportunity
 
@@ -73,7 +73,7 @@ For a dad earning $250,000 with $30,000 in investment gains, the NIIT adds an ad
 
 ### Qualified vs. Ordinary Dividends
 
-Not all dividend income is taxed equally, and the difference matters significantly.
+Not all [build a dividend portfolio](/article/dividend-portfolio-beginner-dad) is taxed equally, and the difference matters significantly.
 
 **Qualified dividends** are taxed at the same favorable rates as long-term capital gains: 0%, 15%, or 20%. To qualify, the dividend must be paid by a U.S. corporation (or qualifying foreign company) and you must have held the underlying stock for more than 60 days during the 121-day period around the ex-dividend date.
 
@@ -172,7 +172,7 @@ If your employer offers a high-deductible health plan (HDHP), the Health Savings
 | Family | $8,750 |
 | Catch-up (age 55+) | +$1,000 |
 
-*Source: IRS (via Fidelity, January 2026)*
+*Source: IRS (via [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), January 2026)*
 
 After age 65, HSA funds can be withdrawn for **any purpose** (taxed as ordinary income, like a traditional IRA) — but withdrawals for medical expenses remain permanently tax-free at any age.
 
@@ -605,3 +605,11 @@ Do the simple things first. Do them every year. Let compounding do the rest.
 ---
 
 *Disclaimer: This article is for educational and informational purposes only and does not constitute financial, investment, tax, or legal advice. DadAlt Investments may receive affiliate compensation from Fidelity, Charles Schwab, Vanguard, and other financial companies referenced in this article. This never influences our editorial recommendations. Tax laws, contribution limits, income thresholds, and investment fund details change regularly — verify all figures directly with the IRS (irs.gov) or your qualified tax professional before taking action. Always consult a qualified fee-only fiduciary financial advisor and CPA before implementing significant tax strategies. Specific strategies such as backdoor Roth conversions may have complex implications depending on individual circumstances, including the pro-rata rule.*
+
+---
+
+## Recommended Reading
+
+- [Best Roth IRA Providers for Beginners](/article/best-roth-ira-providers-for-beginners)
+- [Is a Gold IRA Worth It? Pros & Cons](/article/is-a-gold-ira-worth-it-pros-and-cons)
+- [How to Protect Your Portfolio from Inflation](/article/how-to-protect-your-portfolio-from-inflation)

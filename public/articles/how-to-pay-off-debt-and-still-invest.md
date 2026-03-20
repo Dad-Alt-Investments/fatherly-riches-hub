@@ -10,7 +10,7 @@
 
 ## Summary
 
-The number one question from dads who are new to personal finance isn't about which stocks to buy or how to open a Roth IRA. It's simpler and more urgent: *should I pay off my debt first, or start investing?* The real answer — almost always — is to do both at the same time. But the order matters, the strategy matters, and the type of debt you're carrying matters enormously. Americans are carrying a record $1.28 trillion in credit card debt as of Q4 2025, at average interest rates of nearly 21–22%, per LendingTree and the Federal Reserve. Meanwhile, 23% of credit card debtors who delayed investing because of their debt cited investing as the financial decision they most commonly put off, per Bankrate's 2026 Credit Card Debt Report. That delay is costing them years of compounding growth — and it doesn't have to. This article gives you a clear decision framework for eliminating high-interest debt, investing intelligently at the same time, and using every tool available — including balance transfer cards, debt consolidation, and the right payoff strategy — to build real wealth while you're still getting out of the hole. You don't have to choose between the two. You just need to know the rules.
+The number one question from dads who are new to personal finance isn't about which stocks to buy or how to open a [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners). It's simpler and more urgent: *should I pay off my debt first, or start investing?* The real answer — almost always — is to do both at the same time. But the order matters, the strategy matters, and the type of debt you're carrying matters enormously. Americans are carrying a record $1.28 trillion in credit card debt as of Q4 2025, at average interest rates of nearly 21–22%, per LendingTree and the Federal Reserve. Meanwhile, 23% of credit card debtors who delayed investing because of their debt cited investing as the financial decision they most commonly put off, per Bankrate's 2026 Credit Card Debt Report. That delay is costing them years of [understand compound interest](/article/compound-interest-explained) growth — and it doesn't have to. This article gives you a clear decision framework for eliminating high-interest debt, investing intelligently at the same time, and using every tool available — including balance transfer cards, debt consolidation, and the right payoff strategy — to build real wealth while you're still getting out of the hole. You don't have to choose between the two. You just need to know the rules.
 
 ---
 
@@ -71,7 +71,7 @@ This is the gray zone. The expected long-run stock market return of ~10% is abov
 
 When your debt costs less than what you can reasonably expect to earn by investing, **you should invest instead of aggressively paying down that debt.** A borrower with a 2.75% student loan from 2020 who aggressively makes extra principal payments is essentially choosing a guaranteed 2.75% return over the expected 10% long-run stock market return. That's a poor trade. Make the minimum payment, invest the difference.
 
-> **Rule of Thumb:** If your interest rate is higher than the expected return on your investment (generally use 7–10% for diversified stock index funds), pay off debt first. If it's lower, invest the difference.
+> **Rule of Thumb:** If your interest rate is higher than the expected return on your investment (generally use 7–10% for diversified stock [best platforms for index funds](/article/best-platforms-to-buy-index-funds)s), pay off debt first. If it's lower, invest the difference.
 
 ---
 
@@ -326,7 +326,7 @@ Credit card debt at 22% is a crisis that demands your full financial attention. 
 
 The families that build real financial independence aren't the ones who paid off every debt before investing. They're the ones who eliminated the expensive debt ruthlessly, captured every employer match dollar, and invested consistently for 20–30 years through every economic cycle. That's the path. Start it today — even if the amounts are small.
 
-> **→ Related: [The Ultimate DadAlt Investment Playbook](#) | [Simple Budget System for Busy Dads](#) | [The Dad's Guide to Emergency Funds](#)**
+> **→ Related: [The Ultimate DadAlt Investment Playbook](#) | [Simple [simple budget system](/article/simple-budget-system-for-busy-dads) for Busy Dads](#) | [The Dad's Guide to Emergency Funds](#)**
 
 ---
 
@@ -356,7 +356,7 @@ The families that build real financial independence aren't the ones who paid off
 
 12. **Motley Fool — "S&P 500 Annual Returns and Historical Performance" (August 2025)** — S&P 500 average annual return since 1957: 10.33%; delivered negative returns in only 6 years in past 3 decades; 13 of 30 years saw returns above 20%; considered best investment for most Americans per Warren Buffett. fool.com/investing/stock-market/indexes/sp-500/annual-returns
 
-13. **Fidelity — "Debt Snowball vs. Avalanche Methods" (updated January 21, 2026)** — Avalanche method generally saves the most on interest payments; snowball may not save as much but is more emotionally satisfying; paying off smaller debts first shows progress; for dads with large amounts of high-interest debt the avalanche is most appropriate; with similar rates, the difference between methods may be minimal; check for prepayment penalties before choosing strategy. fidelity.com/learning-center/personal-finance/avalanche-snowball-debt
+13. **[compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) — "Debt Snowball vs. Avalanche Methods" (updated January 21, 2026)** — Avalanche method generally saves the most on interest payments; snowball may not save as much but is more emotionally satisfying; paying off smaller debts first shows progress; for dads with large amounts of high-interest debt the avalanche is most appropriate; with similar rates, the difference between methods may be minimal; check for prepayment penalties before choosing strategy. fidelity.com/learning-center/personal-finance/avalanche-snowball-debt
 
 14. **Experian — "Debt Snowball vs. Debt Avalanche Method" (July 2024)** — With the snowball method on a sample debt set: debt-free in 25 months, $2,251 saved in interest; with avalanche: debt-free in 26 months, $2,213 saved in interest — the snowball actually won in this scenario; real differences depend on the specific interest rates and balances; both approaches effective. experian.com/blogs/ask-experian/avalanche-vs-snowball-which-repayment-strategy-is-best
 
@@ -375,3 +375,11 @@ The families that build real financial independence aren't the ones who paid off
 ---
 
 *Disclaimer: This article is for educational and informational purposes only and does not constitute financial, investment, tax, or legal advice. All investing involves risk, including the possible loss of principal. DadAlt Investments may receive affiliate compensation from balance transfer credit card issuers, brokerage platforms, and other financial companies referenced in this article. This never influences our editorial recommendations. All interest rate figures, debt statistics, and contribution limits are current as of early 2026 and are subject to change. Always consult a qualified fee-only fiduciary financial advisor or CPA before making significant financial decisions.*
+
+---
+
+## Recommended Reading
+
+- [Simple Budget System for Busy Dads](/article/simple-budget-system-for-busy-dads)
+- [The Dad's Guide to Emergency Funds & Investing](/article/emergency-funds-and-investing)
+- [The Ultimate Beginner's Guide to Investing for Dads](/article/beginners-guide-to-investing)

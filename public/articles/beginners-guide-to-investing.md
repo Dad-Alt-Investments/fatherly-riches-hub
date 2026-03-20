@@ -42,7 +42,7 @@ Investing is how you stay ahead of inflation. The stock market — as measured b
 
 One of the most well-documented findings in investing research is that the single most important variable in building wealth is how long your money is invested — not when you invest or which stocks you pick.
 
-Here's a concrete example: if you invest **$10,000 today** in an S&P 500 index fund and don't add another dollar, at a 10% average annual return:
+Here's a concrete example: if you invest **$10,000 today** in an S&P 500 [best platforms for index funds](/article/best-platforms-to-buy-index-funds) and don't add another dollar, at a 10% average annual return:
 
 | Years Invested | Approximate Value |
 |---|---|
@@ -99,7 +99,7 @@ A **401(k)** is a retirement savings account offered through your employer. You 
 
 **Traditional vs. Roth 401(k):** Traditional contributions reduce your taxable income now (you pay taxes in retirement). Roth contributions use after-tax dollars (you pay no taxes on withdrawals in retirement). For most dads in their 30s and 40s who expect to be in a similar or higher tax bracket in retirement, a Roth 401(k) is often the better long-term choice — but this depends on your specific tax situation.
 
-### Roth IRA: The Most Powerful Wealth-Building Account for Most Dads
+### [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners): The Most Powerful Wealth-Building Account for Most Dads
 
 A **Roth IRA** (Individual Retirement Account) allows you to contribute after-tax dollars and withdraw contributions and all growth completely tax-free in retirement. For dads in their prime earning years who aren't yet in the highest tax brackets, this is one of the most powerful financial tools available.
 
@@ -114,7 +114,7 @@ A **Roth IRA** (Individual Retirement Account) allows you to contribute after-ta
 3. No required minimum distributions (RMDs) during your lifetime
 4. You can contribute to both a 401(k) and a Roth IRA in the same year — the limits are separate
 
-**Where to open a Roth IRA:** Fidelity and Charles Schwab are the two most recommended brokerages for Roth IRAs in 2026 — both offer $0 account minimums, $0 commissions, extensive index fund selections, and strong educational resources. NerdWallet named Fidelity its top pick for beginning investors for 2026.
+**Where to open a Roth IRA:** [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) and Charles Schwab are the two most recommended brokerages for Roth IRAs in 2026 — both offer $0 account minimums, $0 commissions, extensive index fund selections, and strong educational resources. NerdWallet named Fidelity its top pick for beginning investors for 2026.
 
 ### Traditional IRA
 
@@ -138,7 +138,7 @@ After age 65, HSA funds can be withdrawn for any purpose (taxed as ordinary inco
 
 Many financially sophisticated investors "invest" their HSA funds in the market while paying current medical expenses out of pocket — then withdrawing the invested HSA balance tax-free decades later for medical costs. This is an advanced strategy but a powerful one for long-term wealth building.
 
-### Taxable Brokerage Account
+### Taxable [open a brokerage account](/article/how-to-open-a-brokerage-account)
 
 Once you've maximized your tax-advantaged accounts, a **taxable brokerage account** gives you unlimited investment capacity without the contribution restrictions or withdrawal rules of retirement accounts. There are no special tax advantages, but also no penalties for accessing the money at any age.
 
@@ -182,7 +182,7 @@ Bonds are loans you make to a government (like U.S. Treasury bonds) or a corpora
 
 **For dads in their 30s and 40s:** Your investment timeline is long enough that a heavy allocation to bonds is usually not necessary or advantageous. A common rule of thumb is to subtract your age from 110 to get a starting estimate of your stock allocation (so a 35-year-old might consider roughly 75% stocks, 25% bonds), but many financial advisors recommend even higher stock allocations for younger investors.
 
-### Real Estate Investment Trusts (REITs)
+### [real estate investment options for dads](/article/top-5-real-estate-investment-options)ment Trusts (REITs)
 
 A **REIT** is a company that owns income-producing real estate — office buildings, apartment complexes, shopping centers, data centers — and is required to distribute at least 90% of its taxable income to shareholders as dividends. REITs allow everyday investors to gain real estate exposure without buying physical property.
 
@@ -454,3 +454,11 @@ Open the account today. Automate $100 a month. You've started.
 ---
 
 *Disclaimer: This article is for educational and informational purposes only and does not constitute financial, investment, tax, or legal advice. DadAlt Investments may receive affiliate compensation from Fidelity, Charles Schwab, Vanguard, and other financial companies referenced in this article. This never influences our editorial recommendations. Contribution limits, income thresholds, and brokerage features change regularly — verify current details directly with the IRS or your brokerage before making decisions. Always consult a qualified fee-only fiduciary financial advisor before making significant financial decisions.*
+
+---
+
+## Recommended Reading
+
+- [How to Open a Brokerage Account](/article/how-to-open-a-brokerage-account)
+- [What Every Dad Should Know About Compound Interest](/article/compound-interest-explained)
+- [The Dad's Guide to Emergency Funds & Investing](/article/emergency-funds-and-investing)

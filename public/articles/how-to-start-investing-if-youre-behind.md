@@ -4,7 +4,7 @@
 
 ---
 
-If you feel behind on investing, you are in very large and very normal company. According to the Federal Reserve's Economic Well-Being of U.S. Households report, **65% of Americans either believe their retirement savings are off track or aren't sure** — and roughly one in four Americans has no retirement savings at all.[^1] A separate Bankrate survey found 58% of American workers feel behind on retirement savings.[^2] The guilt and anxiety that come with this awareness are understandable, but they are also one of the most expensive emotional responses in personal finance — because they often lead to paralysis rather than action. Here is the mathematical truth that changes everything: **a 40-year-old starting from zero who invests $500/month at a 7% average annual return will build approximately $506,000 by age 65.** That is not a shortcut or a fantasy — it is basic compounding math, available to anyone who starts today.[^3] The best time to start investing was 20 years ago. The second-best time is right now. This guide is built entirely around action: five concrete steps you can take in the next 30 days, specific strategies for investors over 50, and the most important mistakes to avoid when you feel the urgency of starting late.
+If you feel behind on investing, you are in very large and very normal company. According to the Federal Reserve's Economic Well-Being of U.S. Households report, **65% of Americans either believe their retirement savings are off track or aren't sure** — and roughly one in four Americans has no retirement savings at all.[^1] A separate Bankrate survey found 58% of American workers feel behind on retirement savings.[^2] The guilt and anxiety that come with this awareness are understandable, but they are also one of the most expensive emotional responses in personal finance — because they often lead to paralysis rather than action. Here is the mathematical truth that changes everything: **a 40-year-old starting from zero who invests $500/month at a 7% average annual return will build approximately $506,000 by age 65.** That is not a shortcut or a fantasy — it is basic [understand compound interest](/article/compound-interest-explained) math, available to anyone who starts today.[^3] The best time to start investing was 20 years ago. The second-best time is right now. This guide is built entirely around action: five concrete steps you can take in the next 30 days, specific strategies for investors over 50, and the most important mistakes to avoid when you feel the urgency of starting late.
 
 ---
 
@@ -79,7 +79,7 @@ At a dollar-for-dollar match (100% of first 3%):
 
 ### What If Your Employer Offers No Match?
 
-Skip to Step 3. Without a match, the 401(k) has no automatic return advantage — the Roth IRA becomes your primary vehicle instead.
+Skip to Step 3. Without a match, the 401(k) has no automatic return advantage — the [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) becomes your primary vehicle instead.
 
 ---
 
@@ -104,7 +104,7 @@ Additionally, Roth IRAs have **no required minimum distributions (RMDs)** — un
 
 ### How to Open a Roth IRA
 
-At **Fidelity, Schwab, or Vanguard** — all three allow you to open a Roth IRA online in approximately 10 minutes with no minimum opening balance at Fidelity and Schwab. The process:
+At **[compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Schwab, or Vanguard** — all three allow you to open a Roth IRA online in approximately 10 minutes with no minimum opening balance at Fidelity and Schwab. The process:
 
 1. Go to the brokerage website and click "Open an Account"
 2. Choose "Roth IRA"
@@ -117,7 +117,7 @@ At **Fidelity, Schwab, or Vanguard** — all three allow you to open a Roth IRA 
 
 ## Step 4: Invest in Low-Cost Index ETFs and Keep It Simple
 
-The most common reason late starters underperform is not that they started late — it is that they try to compensate for lost time by making complex, high-risk investment choices that add volatility and cost without adding returns. The evidence is overwhelming: **low-cost, broad index funds outperform the majority of actively managed funds over any 10+ year period**, while charging dramatically lower fees.[^6]
+The most common reason late starters underperform is not that they started late — it is that they try to compensate for lost time by making complex, high-risk investment choices that add volatility and cost without adding returns. The evidence is overwhelming: **low-cost, broad [best platforms for index funds](/article/best-platforms-to-buy-index-funds)s outperform the majority of actively managed funds over any 10+ year period**, while charging dramatically lower fees.[^6]
 
 ### The One-Fund Option: VTI or VOO
 
@@ -323,7 +323,7 @@ Not necessarily — the right approach depends on the interest rate of the debt:
 - Car loans under 7% — maintain standard payments, invest the remainder
 - Mortgage — continue standard payments; redirect extra cash to investing rather than aggressive early payoff
 
-The Fidelity framework is clear: pay off debt above **6–7% interest** before additional investing beyond the 401(k) match. Below that threshold, expected long-term investment returns typically exceed the after-tax cost of the debt.
+The Fidelity framework is clear: [pay off debt and still invest](/article/how-to-pay-off-debt-and-still-invest) above **6–7% interest** before additional investing beyond the 401(k) match. Below that threshold, expected long-term investment returns typically exceed the after-tax cost of the debt.
 
 ### What Should I Do If I Genuinely Have Nothing to Invest Right Now?
 
@@ -360,3 +360,11 @@ If genuine financial hardship makes any savings impossible right now, your most 
 ---
 
 *Disclaimer: This article is for informational and educational purposes only and does not constitute financial, investment, or tax advice. All investment involves risk, including possible loss of principal. Compounding projections are illustrative and assume consistent returns — actual market returns will vary significantly year to year. Past performance does not guarantee future results. IRS limits referenced are for the 2026 tax year. Consult a qualified financial advisor before making significant changes to your retirement savings strategy. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you.*
+
+---
+
+## Recommended Reading
+
+- [The Ultimate Beginner's Guide to Investing for Dads](/article/beginners-guide-to-investing)
+- [How Much Should You Have Invested by Age 30, 40, and 50?](/article/how-much-should-you-have-invested-by-age)
+- [What Every Dad Should Know About Compound Interest](/article/compound-interest-explained)

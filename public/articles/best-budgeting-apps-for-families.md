@@ -10,7 +10,7 @@ Budgeting as a family is categorically different from budgeting as a single pers
 
 ## What Families Need From a Budgeting App That Singles Don't
 
-Before comparing apps, it helps to understand why family budgeting is its own category — and why most app reviews that don't account for this give you incomplete recommendations.
+Before comparing apps, it helps to understand why [simple budget system](/article/simple-budget-system-for-busy-dads)ing is its own category — and why most app reviews that don't account for this give you incomplete recommendations.
 
 ### Shared Real-Time Access for Both Partners on All Devices
 
@@ -25,7 +25,7 @@ A family's financial picture involves a lot more accounts than a single person's
 - Mortgage and home equity
 - 401(k), 403(b), and IRA accounts
 - Auto loans and student loan balances
-- Investment brokerage accounts
+- Investment [open a brokerage account](/article/how-to-open-a-brokerage-account)s
 
 Apps that only connect to a subset of accounts give you a partial picture — and partial pictures lead to budget blind spots.
 
@@ -106,7 +106,7 @@ Monarch Money was built by a former Mint product manager who set out to build th
 - **Complete account aggregation:** Monarch connects reliably to bank accounts, credit cards, mortgages, student loans, 401(k)s, IRAs, brokerage accounts, and even crypto holdings. Three separate account aggregator providers reduce connectivity failures that plagued Mint.
 - **Investment tracking:** Unlike YNAB, Monarch automatically syncs investment and retirement accounts, providing real-time portfolio balances, asset allocation views, and performance tracking — all alongside your monthly budget.
 - **Net worth dashboard:** The net worth view pulls together every connected asset (investments, home equity if entered, savings) and liability (mortgage, car loans, credit card balances) into a single running total updated in real time.
-- **Goals and forecasting:** Monarch lets you set savings goals — emergency fund, home renovation, family vacation, college savings — and tracks your progress toward each automatically.
+- **Goals and forecasting:** Monarch lets you set savings goals — [emergency funds and investing](/article/emergency-funds-and-investing), home renovation, family vacation, college savings — and tracks your progress toward each automatically.
 - **Automatic subscription detection:** Monarch scans your transactions and identifies recurring subscriptions, with alerts before you're billed and an easy view of all subscriptions in one place.
 
 ### The Honest Tradeoffs
@@ -161,7 +161,7 @@ For families who already have the budgeting discipline and primarily need invest
 ### Why It Works for Investment-Focused Families
 
 - **Investment Fee Analyzer:** Empower's standout feature. It calculates the weighted average expense ratio across all your linked investment accounts and projects how much those fees will cost you over time. Even seemingly small fees — 0.5% vs. 0.05% — translate to tens of thousands of dollars over a career. Rob Berger, a respected personal finance writer, noted his 0.06% average expense ratio would still cost nearly $18,000 over seven years — illustrating that even low fees compound meaningfully.[^5]
-- **Retirement Planner:** Projects your retirement savings trajectory based on current balances, contribution rates, and expected returns. Shows you whether you're on track, and models the impact of changes (higher savings rate, earlier or later retirement date).
+- **Retirement Planner:** Projects your [how much you should have invested by age](/article/how-much-should-you-have-invested-by-age) trajectory based on current balances, contribution rates, and expected returns. Shows you whether you're on track, and models the impact of changes (higher savings rate, earlier or later retirement date).
 - **Complete net worth dashboard:** Syncs all accounts — bank, credit, mortgage, investments — into a single real-time net worth view.
 - **Cash flow tracking:** Shows monthly income vs. spending by category. Not as detailed or customizable as YNAB or Monarch, but sufficient for families who want spending visibility without strict budget management.
 - **Investment Checkup:** Analyzes your current portfolio allocation and compares it to an age-appropriate recommended allocation.
@@ -314,3 +314,11 @@ YNAB's "Roll With the Punches" rule — which encourages you to adjust categorie
 ---
 
 *Disclaimer: This article is for informational and educational purposes only. App pricing, features, and availability are subject to change; verify current details directly with each app provider before subscribing. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you. App recommendations reflect the author's analysis of publicly available information and user reviews, not personal financial advice.*
+
+---
+
+## Recommended Reading
+
+- [Simple Budget System for Busy Dads](/article/simple-budget-system-for-busy-dads)
+- [Best Apps Dads Can Use to Manage Investments](/article/best-investment-apps)
+- [Best Tools for Tracking Net Worth](/article/best-tools-for-tracking-net-worth)

@@ -1,10 +1,10 @@
-# Is a Gold IRA Worth It? Pros & Cons (2026 Guide)
+# Is a [top Gold IRA companies](/article/top-gold-ira-companies-reviewed) Worth It? Pros & Cons (2026 Guide)
 
 *By DadAlt Investments | Category: Gold & Precious Metals | Last Updated: March 2026*
 
 ---
 
-A Gold IRA is one of the most heavily marketed retirement products in America — and also one of the most misunderstood. If you've listened to AM radio, watched cable news, or searched for gold investing online in recent years, you've encountered the pitch: roll over your 401(k), protect yourself from inflation, own real gold in your retirement account. The marketing is polished and, in 2026 with gold above $5,000 per troy ounce, it feels more urgent than ever. But the question worth asking before signing anything is a simple one: do the actual numbers make sense for your situation? A Gold IRA delivers real, meaningful advantages — particularly the elimination of the 28% collectibles tax rate inside a Roth structure, and genuine portfolio diversification for large retirement accounts. It also carries real, meaningful drawbacks: high minimums, annual fees of $200–$500+ that drain small accounts, an industry with documented predatory sales practices, and an alternative that most people in the sales funnel never hear about — gold ETFs like IAU inside a standard Roth IRA, which deliver effectively the same tax-free gold growth for a fraction of the cost. This guide gives you the honest analysis of both the pros and cons, runs the actual fee math, and tells you who a Gold IRA genuinely makes sense for — and who it doesn't.
+A Gold IRA is one of the most heavily marketed retirement products in America — and also one of the most misunderstood. If you've listened to AM radio, watched cable news, or searched for gold investing online in recent years, you've encountered the pitch: roll over your 401(k), protect yourself from inflation, own real gold in your retirement account. The marketing is polished and, in 2026 with gold above $5,000 per troy ounce, it feels more urgent than ever. But the question worth asking before signing anything is a simple one: do the actual numbers make sense for your situation? A Gold IRA delivers real, meaningful advantages — particularly the elimination of the 28% collectibles tax rate inside a Roth structure, and genuine portfolio diversification for large retirement accounts. It also carries real, meaningful drawbacks: high minimums, annual fees of $200–$500+ that drain small accounts, an industry with documented predatory sales practices, and an alternative that most people in the sales funnel never hear about — gold ETFs like IAU inside a standard [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners), which deliver effectively the same tax-free gold growth for a fraction of the cost. This guide gives you the honest analysis of both the pros and cons, runs the actual fee math, and tells you who a Gold IRA genuinely makes sense for — and who it doesn't.
 
 ---
 
@@ -15,7 +15,7 @@ A Gold IRA is a **self-directed Individual Retirement Account (SDIRA)** that hol
 **Three parties are required to operate every Gold IRA:**
 
 1. **A precious metals dealer** — sells you the IRS-approved gold at spot price plus a dealer premium (typically 3–10% above spot)
-2. **An IRS-approved custodian** — a specialized self-directed IRA administrator (Equity Trust, STRATA Trust, Midland IRA); standard custodians like Fidelity, Vanguard, and Schwab do not offer physical precious metals IRAs
+2. **An IRS-approved custodian** — a specialized self-directed IRA administrator (Equity Trust, STRATA Trust, Midland IRA); standard custodians like [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Vanguard, and Schwab do not offer physical precious metals IRAs
 3. **An IRS-approved depository** — a secure vault facility where the physical gold is stored (Delaware Depository, Brink's, Loomis); home storage of IRA gold is strictly prohibited and treated as a taxable distribution if attempted
 
 All three parties charge fees. That layered cost structure is central to the honest analysis of whether a Gold IRA is worth it.
@@ -89,7 +89,7 @@ When you buy gold for your IRA, you pay the dealer's premium above spot price �
 
 ### 4. Gold Pays No Income
 
-Gold produces zero dividends, zero interest, and zero yield of any kind. Your entire return is capital appreciation — the price of gold must rise above your all-in cost (spot + premium + accumulated fees) before you make money. A stock portfolio in the same retirement account would be generating dividend income and compound earnings throughout the holding period. The CFTC has explicitly noted that high transaction costs and ongoing fees may require gold holders to earn well above the inflation rate just to break even.[^8]
+Gold produces zero dividends, zero interest, and zero yield of any kind. Your entire return is capital appreciation — the price of gold must rise above your all-in cost (spot + premium + accumulated fees) before you make money. A stock portfolio in the same retirement account would be generating [build a dividend portfolio](/article/dividend-portfolio-beginner-dad) and compound earnings throughout the holding period. The CFTC has explicitly noted that high transaction costs and ongoing fees may require gold holders to earn well above the inflation rate just to break even.[^8]
 
 ### 5. Required Minimum Distributions Create Logistical Friction
 
@@ -152,7 +152,7 @@ Here is the option that almost never appears in Gold IRA marketing materials, be
 
 ### How It Works
 
-At any standard brokerage — Fidelity, Schwab, Vanguard, TD Ameritrade — you can open a Roth IRA and purchase shares of a physically-backed gold ETF in the same account where you already hold your index funds. No new custodian. No specialized account. No depository. No minimum above what it costs to buy one ETF share.
+At any standard brokerage — Fidelity, Schwab, Vanguard, TD Ameritrade — you can open a Roth IRA and purchase shares of a physically-backed gold ETF in the same account where you already hold your [best platforms for index funds](/article/best-platforms-to-buy-index-funds)s. No new custodian. No specialized account. No depository. No minimum above what it costs to buy one ETF share.
 
 ### The Main Gold ETFs for This Strategy
 
@@ -276,3 +276,11 @@ If you decide a Gold IRA is right for you, the Roth structure is preferable to T
 ---
 
 *Disclaimer: This article is for informational and educational purposes only and does not constitute financial, legal, or tax advice. Past performance does not guarantee future results. Gold IRA rules and fee structures vary by provider — always obtain a complete written fee schedule before opening any account. Consult a qualified, independent financial advisor or CPA before making any retirement account rollover decision. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you.*
+
+---
+
+## Recommended Reading
+
+- [Top Gold IRA Companies Reviewed](/article/top-gold-ira-companies-reviewed)
+- [Gold IRA vs. Physical Gold: Which Is Better?](/article/gold-ira-vs-physical-gold)
+- [The Dad's Guide to Tax-Efficient Investing](/article/tax-efficient-investing)

@@ -24,7 +24,7 @@ Silver occupies a unique investment position that no other precious metal shares
 - **Higher price volatility than gold.** Because silver has significant industrial demand, it responds more sharply to economic cycle data — falling faster in recessions and rising faster in recoveries than gold. This volatility cuts both ways.
 - **The same collectibles tax treatment as gold.** The IRS taxes physical silver gains at your marginal income rate up to a **28% maximum** for long-term holdings — the same collectibles rate that applies to gold, and higher than the 20% maximum on most stock gains.
 
-> **Suggested allocation framework:** Most financial planners who include precious metals suggest 5–15% of a portfolio, with a common mix of roughly **70% gold / 30% silver** by value. Given silver's lower per-ounce price, that 30% in silver represents a significant number of physical ounces.
+> **Suggested allocation framework:** Most [build a family financial plan](/article/how-to-build-a-family-financial-plan)ners who include precious metals suggest 5–15% of a portfolio, with a common mix of roughly **70% gold / 30% silver** by value. Given silver's lower per-ounce price, that 30% in silver represents a significant number of physical ounces.
 
 ---
 
@@ -267,3 +267,11 @@ Silver's fundamental case in 2026 is stronger than it has been in years: a persi
 ---
 
 *Disclaimer: This article is for informational and educational purposes only and does not constitute financial, investment, or tax advice. Silver prices fluctuate and past performance does not guarantee future results. The IRS treats physical silver gains as collectibles subject to up to 28% long-term capital gains tax. Always consult a qualified financial advisor and verify current dealer prices directly before making any purchase. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you.*
+
+---
+
+## Recommended Reading
+
+- [Best Places to Buy Gold and Silver Online](/article/best-places-to-buy-gold-silver-online)
+- [How to Buy Gold Online Safely](/article/how-to-buy-gold-online-safely)
+- [7 Recession-Proof Assets Every Dad Should Consider](/article/7-recession-proof-assets-every-dad-should-consider)

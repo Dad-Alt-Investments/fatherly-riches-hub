@@ -1,6 +1,6 @@
 # How to Spot a Good Online Business Deal
 
-**Category:** Buying Businesses | **Tags:** Online Business · Due Diligence · Beginner Guides · Guides & How-To's · Passive Income
+**Category:** Buying Businesses | **Tags:** Online Business · [evaluate a business before buying](/article/how-to-evaluate-a-business-before-buying-it) · Beginner Guides · Guides & How-To's · Passive Income
 
 **Target Keywords:** how to spot a good online business deal, buying an online business, online business due diligence, evaluate website for sale
 
@@ -20,7 +20,7 @@ Online businesses don't work that way. The assets are intangible: traffic that l
 
 This makes online business due diligence simultaneously simpler and more dangerous than its offline equivalent. Simpler because most of the key data is digital and can be verified with the right tools and access. More dangerous because sellers know exactly which screenshots to cherry-pick, which months to highlight, and which metrics to leave off the listing page.
 
-In 2024, the US saw 9,546 closed business transactions totaling approximately $7.59 billion in enterprise value—a 15% increase over 2023—according to data from Acquire.com. More buyers than ever are entering the online business market. That increased demand means listings are priced more aggressively, and the margin for error in your due diligence has narrowed.
+In 2024, the US saw 9,546 closed business transactions totaling approximately $7.59 billion in enterprise value—a 15% increase over 2023—according to data from [Acquire.com vs Flippa](/article/acquire-com-vs-flippa-which-is-better-for-buyers). More buyers than ever are entering the online business market. That increased demand means listings are priced more aggressively, and the margin for error in your due diligence has narrowed.
 
 Understanding how to evaluate what you're actually buying—not what the listing page says you're buying—is the most important skill you can develop as an online business investor.
 
@@ -87,7 +87,7 @@ Common problematic add-backs include inflated "one-time" expenses that actually 
 
 ### EBITDA
 
-Earnings Before Interest, Taxes, Depreciation, and Amortization. Used for businesses valued above approximately $10 million. For most individual buyers looking at Flippa, Empire Flippers, Acquire.com, or Motion Invest, SDE is the relevant metric.
+Earnings Before Interest, Taxes, Depreciation, and Amortization. Used for businesses valued above approximately $10 million. For most individual buyers looking at [Flippa vs Empire Flippers](/article/flippa-vs-empire-flippers), Empire Flippers, Acquire.com, or Motion Invest, SDE is the relevant metric.
 
 ### How Multiples Work
 
@@ -208,7 +208,7 @@ Is the business entirely dependent on one platform that can change its rules, al
 As a general rule: **no single platform, customer, or traffic channel should account for more than 30%–40% of revenue.** Businesses that exceed this threshold should be priced at a discount that reflects the concentration risk.
 
 **Customer concentration**
-For service businesses and B2B models, check whether any single client accounts for more than 20% of revenue. According to DueDilio, a healthy business has a diverse customer base where no single account makes up more than 20% of revenue—anything above this represents substantial risk. If you buy a business and that client leaves in month three, you've bought yourself a very expensive problem.
+For service businesses and B2B models, check whether any single client accounts for more than 20% of revenue. According to DueDilio, a healthy business has a diverse customer base where no single account makes up more than 20% of revenue—anything above this represents substantial risk. If you [buy a small local business](/article/how-to-buy-a-small-local-business) and that client leaves in month three, you've bought yourself a very expensive problem.
 
 **Owner dependency**
 This is the silent killer of many online business acquisitions. If the business only works because of the current owner's relationships, reputation, technical knowledge, or personal brand, then what you're buying isn't really a business—it's a job that comes with a price tag.
@@ -350,7 +350,7 @@ To summarize the warning signs covered throughout this article:
 ## Related Articles
 
 - **[Flippa vs. Empire Flippers: Which Is Better?](#)** — Head-to-head breakdown of the two biggest online business marketplaces
-- **[How to Finance a Business Purchase Without Savings](#)** — SBA loans, seller financing, ROBS, and creative deal structures
+- **[How to Finance a Business Purchase Without Savings](#)** — SBA loans, [finance a business purchase](/article/how-to-finance-a-business-purchase), ROBS, and creative deal structures
 - **[How to Buy a Small Local Business for Under $100k Down](#)** — The complete acquisition playbook for first-time buyers
 - **[Recession-Proof Assets Every Dad Should Own](#)** — Diversification strategies beyond individual business ownership
 
@@ -401,3 +401,11 @@ To summarize the warning signs covered throughout this article:
 ---
 
 *Disclaimer: This article is for educational and informational purposes only and does not constitute financial, legal, or investment advice. Online business acquisitions involve significant risk, including the potential total loss of invested capital. Always conduct thorough due diligence and consult a qualified attorney, CPA, and business acquisition specialist before making any acquisition decision. DadAlt Investments may receive compensation from affiliate partners referenced in this article. See our [Affiliate Disclaimer](#) for full details.*
+
+---
+
+## Recommended Reading
+
+- [How to Evaluate a Business Before Buying It](/article/how-to-evaluate-a-business-before-buying-it)
+- [Flippa vs Empire Flippers: Which Is Better?](/article/flippa-vs-empire-flippers)
+- [Best Courses for Learning How to Buy Businesses](/article/best-courses-for-learning-how-to-buy-businesses)

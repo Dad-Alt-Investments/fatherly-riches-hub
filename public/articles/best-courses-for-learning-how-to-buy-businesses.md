@@ -12,7 +12,7 @@ The acquisition entrepreneurship space has never had more educational resources 
 
 ### A $500 Mistake on a Course Beats a $50,000 Mistake on a Bad Deal
 
-Business acquisitions are large, leveraged, and largely irreversible decisions. Unlike investing in a stock — where you can sell tomorrow at the click of a button — buying a business ties up capital, time, personal liability, and often relationships for months or years. A first-time buyer who pays $1,000 for a course that teaches them how to calculate Seller's Discretionary Earnings (SDE), structure an earnout, and spot a declining revenue trend before making an offer has bought meaningful insurance.
+Business acquisitions are large, leveraged, and largely irreversible decisions. Unlike investing in a stock — where you can sell tomorrow at the click of a button — [buy a small local business](/article/how-to-buy-a-small-local-business) ties up capital, time, personal liability, and often relationships for months or years. A first-time buyer who pays $1,000 for a course that teaches them how to calculate Seller's Discretionary Earnings (SDE), structure an earnout, and spot a declining revenue trend before making an offer has bought meaningful insurance.
 
 The alternative is learning these lessons live: overpaying for a business because you didn't understand how to normalize the financials, or discovering post-closing that the top customer was loyal to the seller personally and won't renew with you, or signing an asset purchase agreement without understanding what representations and warranties mean. These are not theoretical risks — they are the most common outcomes for underprepared first-time buyers.
 
@@ -38,7 +38,7 @@ Every hour of education before your first deal is worth multiple hours of remedi
 | Contrarian Thinking / Contrarian Academy (Codie Sanchez) | Paid community | ~$10,000 | Offline/Main Street | Yes — large | Brick-and-mortar, service businesses |
 | Acquisition Foundations Course (Codie Sanchez) | Paid course | Lower tier | Offline/Main Street | No (course only) | Self-study, offline focus |
 | Searchfunder.com | Free community | Free | All ETA, search funds | Yes — active | Budget buyers, research, networking |
-| Flippa Academy | Free content | Free | Online businesses | No | Digital/online business buyers |
+| [Flippa vs Empire Flippers](/article/flippa-vs-empire-flippers) Academy | Free content | Free | Online businesses | No | Digital/online business buyers |
 | Empire Flippers Blog & Podcast | Free content | Free | Online businesses | No | Online business buyers |
 | *Buy Then Build* (book) | Book | ~$20 | All small business | No | Every buyer, foundational |
 | *HBR Guide to Buying a Small Business* | Book | ~$25 | All small business | No | Academic rigor, financial framework |
@@ -294,7 +294,7 @@ This is one of the most common points of confusion for new entrants to the ETA s
 - Investors own a significant stake and expect a return at exit
 
 **Self-Funded Search (Independent Acquisition Entrepreneurship):**
-- The buyer funds their own search — using personal savings, SBA loans, seller financing, and small groups of friends/family investors
+- The buyer funds their own search — using personal savings, SBA loans, [finance a business purchase](/article/how-to-finance-a-business-purchase), and small groups of friends/family investors
 - No institutional investors, no mandated return timelines, no equity dilution to outside investors
 - Typical deal sizes: $100K–$5M, often SBA-financed
 - The buyer retains full equity ownership of the acquired business
@@ -335,3 +335,11 @@ This is one of the most common points of confusion for new entrants to the ETA s
 ---
 
 *Disclaimer: This article is for informational and educational purposes only. DadAlt Investments does not guarantee results from any educational program or resource mentioned. Course prices and program structures change frequently — always verify current pricing directly with the program provider before enrolling. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you. Buying a business involves significant financial risk; always consult qualified legal, financial, and accounting professionals before completing any acquisition.*
+
+---
+
+## Recommended Reading
+
+- [How to Evaluate a Business Before Buying It](/article/how-to-evaluate-a-business-before-buying-it)
+- [How to Buy a Small Local Business for Under $100k Down](/article/how-to-buy-a-small-local-business)
+- [How to Finance a Business Purchase Without Savings](/article/how-to-finance-a-business-purchase)

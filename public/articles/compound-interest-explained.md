@@ -148,7 +148,7 @@ This example isn't hypothetical math designed to make a point. It's the actual m
 
 ### A Single Lump-Sum Over Time
 
-If you invest **$10,000 today** in an S&P 500 index fund — and don't add another dollar — at a 10% average annual return:
+If you invest **$10,000 today** in an S&P 500 [best platforms for index funds](/article/best-platforms-to-buy-index-funds) — and don't add another dollar — at a 10% average annual return:
 
 | Years Invested | Approximate Value |
 |---|---|
@@ -177,11 +177,11 @@ The S&P 500 has returned an average of approximately 10.33% annually since 1957,
 
 Tax-advantaged accounts supercharge compound interest by eliminating or deferring the tax drag on growth:
 
-- **Roth IRA:** Your contributions grow entirely tax-free. After age 59½ and the 5-year holding requirement, you withdraw everything — principal and all compounded growth — without paying a single dollar in taxes. You earn full compound interest on 100% of your gains.
+- **[best Roth IRA providers](/article/best-roth-ira-providers-for-beginners):** Your contributions grow entirely tax-free. After age 59½ and the 5-year holding requirement, you withdraw everything — principal and all compounded growth — without paying a single dollar in taxes. You earn full compound interest on 100% of your gains.
 - **Traditional 401(k):** Contributions reduce your taxable income now. All the money that would have gone to taxes instead stays invested, compounding year after year, until you withdraw in retirement.
 
 **Example of tax drag:** On a $100,000 portfolio growing at 10% annually over 30 years:
-- In a **taxable brokerage account** (assuming taxes reduce effective return to ~7%): grows to approximately $761,000
+- In a **taxable [open a brokerage account](/article/how-to-open-a-brokerage-account)** (assuming taxes reduce effective return to ~7%): grows to approximately $761,000
 - In a **Roth IRA** (full 10% compounding, no annual tax drag): grows to approximately $1,745,000
 
 The difference — roughly $984,000 — comes entirely from eliminating the tax that would otherwise be extracted from your compounding returns each year.
@@ -220,7 +220,7 @@ Here's how daily compounding works on a credit card:
 After 1 month: approximately **$92 in interest added**
 After 1 year (minimum payments only): the original $5,000 could take 10+ years to pay off and cost thousands more in total interest
 
-**If you only make minimum payments on a $5,000 balance at 22% APR**, you could pay more than $7,600 in total interest and remain in debt for over a decade, according to calculations consistent with Bankrate's debt payoff data.
+**If you only make minimum payments on a $5,000 balance at 22% APR**, you could pay more than $7,600 in total interest and remain in debt for over a decade, according to calculations consistent with Bankrate's [pay off debt and still invest](/article/how-to-pay-off-debt-and-still-invest) data.
 
 The same force that turns $10,000 into $174,000 in a retirement account over 30 years can turn $5,000 in credit card debt into a persistent, expensive trap.
 
@@ -321,7 +321,7 @@ Compound interest grows fastest when it isn't interrupted by annual taxes. The p
 
 ### 3. Reinvest All Dividends
 
-When your index fund pays quarterly dividends, turn on automatic reinvestment (DRIP). Every dividend reinvested purchases additional shares, which generate additional future dividends and appreciation. The Fidelity 500 Index Fund (FXAIX), for example, paid quarterly dividends throughout 2025, with each reinvested payment purchasing more shares at prevailing prices — compounding the underlying position.
+When your index fund pays quarterly dividends, turn on automatic reinvestment (DRIP). Every dividend reinvested purchases additional shares, which generate additional future dividends and appreciation. The [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) 500 Index Fund (FXAIX), for example, paid quarterly dividends throughout 2025, with each reinvested payment purchasing more shares at prevailing prices — compounding the underlying position.
 
 Without dividend reinvestment, you capture only the price appreciation portion of your return (~6.3% historically for the S&P 500). With reinvestment, you capture the full total return (~10.4%).
 
@@ -505,3 +505,11 @@ That's how compound interest builds wealth. One quiet, compounding month at a ti
 ---
 
 *Disclaimer: This article is for educational and informational purposes only and does not constitute financial, investment, tax, or legal advice. DadAlt Investments may receive affiliate compensation from Fidelity, Charles Schwab, Vanguard, and other financial companies referenced in this article. This never influences our editorial recommendations. Interest rates, contribution limits, and financial product features change regularly — verify current details directly with the IRS, your brokerage, or a fee-only financial advisor. Always consult a qualified fee-only fiduciary financial advisor before making significant financial decisions. All investment examples assume a hypothetical 10% average annual return, consistent with the S&P 500's long-term historical average; actual returns will vary and past performance does not guarantee future results.*
+
+---
+
+## Recommended Reading
+
+- [The Ultimate Beginner's Guide to Investing for Dads](/article/beginners-guide-to-investing)
+- [How to Build a Dividend Portfolio as a Beginner Dad](/article/dividend-portfolio-beginner-dad)
+- [How Much Should You Have Invested by Age 30, 40, and 50?](/article/how-much-should-you-have-invested-by-age)
