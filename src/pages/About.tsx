@@ -1,7 +1,13 @@
 import EmailCapture from "@/components/home/EmailCapture";
 import jaredPhoto from "@/assets/jared-devalk.jpeg";
+import { usePageMeta } from "@/hooks/use-page-meta";
 
 const About = () => {
+  usePageMeta({
+    title: "About DadAlt Investments — Honest Wealth-Building Education for Dads",
+    description: "DadAlt Investments provides clear, honest investment education for American dads. No hype, no jargon — just practical guidance on stocks, crypto, gold, real estate, and business ownership.",
+  });
+
   return (
     <>
       <section className="bg-secondary text-secondary-foreground">

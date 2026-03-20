@@ -14,6 +14,15 @@ const ArticlePage = () => {
   const [markdown, setMarkdown] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
 
+  usePageMeta({
+    title: article
+      ? `${article.title} | DadAlt Investments`
+      : "Article Not Found | DadAlt Investments",
+    description: article
+      ? article.description
+      : "This article could not be found on DadAlt Investments.",
+  });
+
   useEffect(() => {
     if (!slug) return;
     setLoading(true);

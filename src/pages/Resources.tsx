@@ -2,8 +2,14 @@ import { Link } from "react-router-dom";
 import { Award, ArrowRight } from "lucide-react";
 import { categories, articles } from "@/data/content";
 import EmailCapture from "@/components/home/EmailCapture";
+import { usePageMeta } from "@/hooks/use-page-meta";
 
 const Resources = () => {
+  usePageMeta({
+    title: "Recommended Investment Tools & Platforms for Dads",
+    description: "Vetted investment tools, brokerages, crypto exchanges, gold dealers, and business marketplaces — personally reviewed for safety, fees, and ease of use.",
+  });
+
   return (
     <>
       <section className="bg-secondary text-secondary-foreground">
@@ -13,7 +19,7 @@ const Resources = () => {
             Dad Recommended
           </div>
           <h1 className="font-heading text-4xl font-bold text-secondary-foreground md:text-5xl">
-            Recommended Resources
+            Recommended Investment Tools &amp; Platforms
           </h1>
           <p className="mt-4 font-body text-lg leading-relaxed text-secondary-foreground/70">
             Every platform, tool, and service here has been personally vetted.

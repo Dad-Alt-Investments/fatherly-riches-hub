@@ -51,7 +51,7 @@ const CategoryPage = () => {
       <section className="bg-secondary text-secondary-foreground">
         <div className="container-article section-padding text-center">
           <h1 className="font-heading text-4xl font-bold text-secondary-foreground md:text-5xl">
-            {category.name}
+            {categoryMetaTitles[category.slug] || category.name}
           </h1>
           <p className="mt-4 font-body text-lg leading-relaxed text-secondary-foreground/70">
             {category.intro}
