@@ -6,12 +6,22 @@ import remarkGfm from "remark-gfm";
 import { articles } from "@/data/content";
 import EmailCapture from "@/components/home/EmailCapture";
 import { Button } from "@/components/ui/button";
+import { usePageMeta } from "@/hooks/use-page-meta";
 
 const ArticlePage = () => {
   const { slug } = useParams<{ slug: string }>();
   const article = articles.find((a) => a.slug === slug);
   const [markdown, setMarkdown] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
+
+  usePageMeta({
+    title: article
+      ? `${article.title} | DadAlt Investments`
+      : "Article Not Found | DadAlt Investments",
+    description: article
+      ? article.description
+      : "This article could not be found on DadAlt Investments.",
+  });
 
   useEffect(() => {
     if (!slug) return;

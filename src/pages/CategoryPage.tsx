@@ -2,11 +2,30 @@ import { useParams, Link } from "react-router-dom";
 import { ArrowRight } from "lucide-react";
 import { categories, articles } from "@/data/content";
 import EmailCapture from "@/components/home/EmailCapture";
+import { usePageMeta } from "@/hooks/use-page-meta";
 
 const CategoryPage = () => {
   const { slug } = useParams<{ slug: string }>();
   const category = categories.find((c) => c.slug === slug);
   const categoryArticles = articles.filter((a) => a.categorySlug === slug);
+
+  const categoryMetaTitles: Record<string, string> = {
+    "stocks-etfs": "Stocks & ETFs Investing Guides for Dads",
+    "crypto-digital-assets": "Crypto & Digital Asset Guides for Beginners",
+    "gold-precious-metals": "Gold & Precious Metals Investing Guides",
+    "buying-businesses": "How to Buy a Business — Guides for First-Time Buyers",
+    "real-estate": "Real Estate Investing Guides for Busy Dads",
+    "personal-finance": "Personal Finance & Wealth Building for Dads",
+  };
+
+  usePageMeta({
+    title: category
+      ? categoryMetaTitles[category.slug] || `${category.name} — Investment Guides`
+      : "Category Not Found",
+    description: category
+      ? category.intro
+      : "This category could not be found.",
+  });
 
   if (!category) {
     return (
@@ -32,7 +51,7 @@ const CategoryPage = () => {
       <section className="bg-secondary text-secondary-foreground">
         <div className="container-article section-padding text-center">
           <h1 className="font-heading text-4xl font-bold text-secondary-foreground md:text-5xl">
-            {category.name}
+            {categoryMetaTitles[category.slug] || category.name}
           </h1>
           <p className="mt-4 font-body text-lg leading-relaxed text-secondary-foreground/70">
             {category.intro}

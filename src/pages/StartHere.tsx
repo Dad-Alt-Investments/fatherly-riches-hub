@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { ArrowRight, BookOpen, Shield, Compass } from "lucide-react";
 import { categories } from "@/data/content";
 import EmailCapture from "@/components/home/EmailCapture";
+import { usePageMeta } from "@/hooks/use-page-meta";
 
 const steps = [
   {
@@ -22,12 +23,17 @@ const steps = [
 ];
 
 const StartHere = () => {
+  usePageMeta({
+    title: "Start Here: A Beginner's Guide to Alternative Investing for Dads",
+    description: "New to investing? Start here. Learn how to invest in stocks, crypto, gold, real estate, and small businesses — step by step, in plain English.",
+  });
+
   return (
     <>
       <section className="bg-secondary text-secondary-foreground">
         <div className="container-article section-padding text-center">
           <h1 className="font-heading text-4xl font-bold text-secondary-foreground md:text-5xl">
-            Start Here
+            Start Here: A Beginner's Guide to Alternative Investing
           </h1>
           <p className="mt-4 font-body text-lg leading-relaxed text-secondary-foreground/70">
             New to DadAlt? Here's how to get the most out of this site — and
