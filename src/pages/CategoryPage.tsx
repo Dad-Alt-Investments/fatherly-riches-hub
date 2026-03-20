@@ -2,6 +2,7 @@ import { useParams, Link } from "react-router-dom";
 import { ArrowRight } from "lucide-react";
 import { categories, articles } from "@/data/content";
 import EmailCapture from "@/components/home/EmailCapture";
+import { usePageMeta } from "@/hooks/use-page-meta";
 
 const CategoryPage = () => {
   const { slug } = useParams<{ slug: string }>();
