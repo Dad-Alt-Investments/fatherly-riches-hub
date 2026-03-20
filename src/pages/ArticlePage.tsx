@@ -6,6 +6,7 @@ import remarkGfm from "remark-gfm";
 import { articles } from "@/data/content";
 import EmailCapture from "@/components/home/EmailCapture";
 import { Button } from "@/components/ui/button";
+import { usePageMeta } from "@/hooks/use-page-meta";
 
 const ArticlePage = () => {
   const { slug } = useParams<{ slug: string }>();
