@@ -308,6 +308,23 @@ const ArticlePage = () => {
         {/* Inline Email */}
         <EmailCapture variant="inline" />
 
+        {/* FAQ Section */}
+        {articleFaqs[article.slug] && (
+          <div className="mb-12">
+            <h3 className="mb-4 font-heading text-xl font-bold">
+              Frequently Asked Questions
+            </h3>
+            <div className="space-y-4">
+              {articleFaqs[article.slug].faqs.map((faq, i) => (
+                <div key={i} className="rounded-lg border border-border bg-card p-5">
+                  <p className="font-heading text-base font-semibold text-foreground">{faq.question}</p>
+                  <p className="mt-2 font-body text-sm leading-relaxed text-muted-foreground">{faq.answer}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
         {/* Risk & Reality */}
         <div className="mb-12 rounded-lg border border-accent/20 bg-accent/5 p-6">
           <h3 className="font-heading text-lg font-semibold">
