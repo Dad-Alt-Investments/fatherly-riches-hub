@@ -60,7 +60,7 @@ export default async function ArticlePage({
     ? {
         "@context": "https://schema.org",
         "@type": "FAQPage",
-        mainEntity: faqData.faqs.map((faq) => ({
+        mainEntity: faqData.faqs.map((faq: FaqItem) => ({
           "@type": "Question",
           name: faq.question,
           acceptedAnswer: {
