@@ -5,7 +5,7 @@ import { getImageMetadata } from "@/lib/metadata/images";
 import Image from "next/image";
 import AuthorBio from "@/components/AuthorBio";
 import ArticleContent from "@/components/ArticleContent";
-import { articleFAQs } from "@/data/faq-data";
+import { articleFaqs, FaqItem } from "@/data/faq-data";
 import fs from "fs";
 import path from "path";
 
