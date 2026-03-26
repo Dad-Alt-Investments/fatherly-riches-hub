@@ -1,21 +1,12 @@
-import { useState } from "react";
+import { Link } from "react-router-dom";
 import { Mail, CheckCircle2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
 
 interface EmailCaptureProps {
   variant?: "default" | "inline";
 }
 
 const EmailCapture = ({ variant = "default" }: EmailCaptureProps) => {
-  const [email, setEmail] = useState("");
-  const [submitted, setSubmitted] = useState(false);
-
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (email) setSubmitted(true);
-  };
-
   if (variant === "inline") {
     return (
       <div className="trust-card my-12 text-center">
@@ -25,26 +16,11 @@ const EmailCapture = ({ variant = "default" }: EmailCaptureProps) => {
         <p className="mt-1 font-body text-sm text-muted-foreground">
           Join the Dad Investors Club — free weekly insights.
         </p>
-        {submitted ? (
-          <div className="mt-4 flex items-center justify-center gap-2 text-primary">
-            <CheckCircle2 className="h-5 w-5" />
-            <span className="font-body font-medium">You're in! Check your inbox.</span>
-          </div>
-        ) : (
-          <form onSubmit={handleSubmit} className="mx-auto mt-4 flex max-w-sm gap-2">
-            <Input
-              type="email"
-              placeholder="you@email.com"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-              required
-              className="font-body"
-            />
-            <Button type="submit" className="bg-primary font-body font-semibold text-primary-foreground hover:bg-primary/90">
-              Join
-            </Button>
-          </form>
-        )}
+        <div className="mt-4">
+          <Button asChild className="bg-primary font-body font-semibold text-primary-foreground hover:bg-primary/90">
+            <Link to="/newsletter">Get the Guide</Link>
+          </Button>
+        </div>
       </div>
     );
   }
@@ -77,30 +53,15 @@ const EmailCapture = ({ variant = "default" }: EmailCaptureProps) => {
             ))}
           </ul>
 
-          {submitted ? (
-            <div className="mt-8 flex items-center justify-center gap-2 text-primary">
-              <CheckCircle2 className="h-5 w-5" />
-              <span className="font-body text-lg font-medium">Welcome aboard! Check your inbox.</span>
-            </div>
-          ) : (
-            <form onSubmit={handleSubmit} className="mx-auto mt-8 flex max-w-md gap-3">
-              <Input
-                type="email"
-                placeholder="Your best email"
-                value={email}
-                onChange={(e) => setEmail(e.target.value)}
-                required
-                className="border-secondary-foreground/20 bg-secondary-foreground/5 font-body text-secondary-foreground placeholder:text-secondary-foreground/40"
-              />
-              <Button
-                type="submit"
-                size="lg"
-                className="shrink-0 bg-primary px-6 font-body font-semibold text-primary-foreground hover:bg-primary/90"
-              >
-                Get the Guide
-              </Button>
-            </form>
-          )}
+          <div className="mt-8">
+            <Button
+              asChild
+              size="lg"
+              className="shrink-0 bg-primary px-8 font-body font-semibold text-primary-foreground hover:bg-primary/90"
+            >
+              <Link to="/newsletter">Get the Guide</Link>
+            </Button>
+          </div>
 
           <p className="mt-4 font-body text-xs text-secondary-foreground/40">
             No spam. No hype. Just solid wealth-building strategies.
