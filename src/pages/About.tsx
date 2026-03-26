@@ -1,13 +1,8 @@
 import EmailCapture from "@/components/home/EmailCapture";
 import AuthorBio from "@/components/AuthorBio";
-import jaredPhoto from "@/assets/jared-devalk.jpeg";
-import { usePageMeta } from "@/hooks/use-page-meta";
+import Image from "next/image";
 
 const About = () => {
-  usePageMeta({
-    title: "About DadAlt Investments — Honest Wealth-Building Education for Dads",
-    description: "DadAlt Investments provides clear, honest investment education for American dads. No hype, no jargon — just practical guidance on stocks, crypto, gold, real estate, and business ownership.",
-  });
 
   return (
     <>
@@ -84,9 +79,11 @@ const About = () => {
           {/* Founder Story — E-E-A-T Optimized */}
           <div className="mt-16 border-t pt-12">
             <div className="mb-8 flex flex-col items-center gap-6 sm:flex-row sm:items-start">
-              <img
-                src={jaredPhoto}
+              <Image
+                src="/images/jared-devalk.jpeg"
                 alt="Jared DeValk — founder of DadAlt Investments, alternative investment educator and father helping dads build generational wealth"
+                width={160}
+                height={160}
                 className="h-40 w-40 shrink-0 rounded-xl object-cover object-top shadow-md"
               />
               <div>

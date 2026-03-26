@@ -1,8 +1,7 @@
-import { Link } from "react-router-dom";
+import Link from "next/link";
 import { ArrowRight, BookOpen, Shield, Compass } from "lucide-react";
 import { categories } from "@/data/content";
 import EmailCapture from "@/components/home/EmailCapture";
-import { usePageMeta } from "@/hooks/use-page-meta";
 
 const steps = [
   {
@@ -23,10 +22,6 @@ const steps = [
 ];
 
 const StartHere = () => {
-  usePageMeta({
-    title: "Start Here: A Beginner's Guide to Alternative Investing for Dads",
-    description: "New to investing? Start here. Learn how to invest in stocks, crypto, gold, real estate, and small businesses — step by step, in plain English.",
-  });
 
   return (
     <>
@@ -66,7 +61,7 @@ const StartHere = () => {
           {categories.map((cat) => (
             <Link
               key={cat.slug}
-              to={`/category/${cat.slug}`}
+              href={`/category/${cat.slug}`}
               className="trust-card group flex items-center justify-between"
             >
               <div>

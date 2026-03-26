@@ -1,11 +1,8 @@
+"use client";
+
 import { useEffect } from "react";
-import { usePageMeta } from "@/hooks/use-page-meta";
 
 const Newsletter = () => {
-  usePageMeta({
-    title: "Get the Free Dad Wealth Guide — DadAlt Investments",
-    description: "Sign up for the Dad Wealth Guide. Get straight-talking alternative investment education and weekly wealth-building tips delivered to your inbox.",
-  });
 
   useEffect(() => {
     const script = document.createElement("script");

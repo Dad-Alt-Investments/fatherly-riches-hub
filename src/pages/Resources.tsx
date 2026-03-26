@@ -1,14 +1,9 @@
-import { Link } from "react-router-dom";
+import Link from "next/link";
 import { Award, ArrowRight } from "lucide-react";
 import { categories, articles } from "@/data/content";
 import EmailCapture from "@/components/home/EmailCapture";
-import { usePageMeta } from "@/hooks/use-page-meta";
 
 const Resources = () => {
-  usePageMeta({
-    title: "Recommended Investment Tools & Platforms for Dads",
-    description: "Vetted investment tools, brokerages, crypto exchanges, gold dealers, and business marketplaces — personally reviewed for safety, fees, and ease of use.",
-  });
 
   return (
     <>
@@ -44,7 +39,7 @@ const Resources = () => {
                 {catArticles.map((article) => (
                   <Link
                     key={article.slug}
-                    to={`/article/${article.slug}`}
+                    href={`/article/${article.slug}`}
                     className="trust-card group flex items-center justify-between"
                   >
                     <div>

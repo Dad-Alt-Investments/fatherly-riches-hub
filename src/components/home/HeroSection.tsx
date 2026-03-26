@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import Link from "next/link";
 import { ShieldCheck, TrendingUp, BookOpen } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
@@ -25,14 +25,14 @@ const HeroSection = () => {
 
           <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
             <Button asChild size="lg" className="rounded-lg bg-primary px-8 font-body text-base font-semibold text-primary-foreground hover:bg-primary/90">
-              <Link to="/start-here">Start Here</Link>
+              <Link href="/start-here">Start Here</Link>
             </Button>
             <Button
               asChild
               size="lg"
               className="rounded-lg bg-white px-8 font-body text-base font-semibold text-secondary hover:bg-white/90"
             >
-              <Link to="/newsletter">Get the Free Dad Wealth Guide</Link>
+              <Link href="/newsletter">Get the Free Dad Wealth Guide</Link>
             </Button>
           </div>
 

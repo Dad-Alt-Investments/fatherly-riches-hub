@@ -1,5 +1,6 @@
-import { Link } from "react-router-dom";
-import logo from "@/assets/dadalt-logo.png";
+import Link from "next/link";
+import Image from "next/image";
+import { getImageMetadata } from "@/lib/metadata/images";
 
 const footerLinks = {
   categories: [
@@ -25,14 +26,15 @@ const footerLinks = {
 };
 
 const Footer = () => {
+  const meta = getImageMetadata("dadalt-logo.png");
   return (
     <footer className="bg-secondary text-secondary-foreground">
       <div className="container-wide section-padding">
         <div className="grid gap-12 md:grid-cols-2 lg:grid-cols-4">
           {/* Brand */}
           <div className="space-y-4">
-            <Link to="/" className="flex items-center gap-2">
-              <img src={logo} alt="DadAlt Investments" className="h-10 w-10" />
+            <Link href="/" className="flex items-center gap-2">
+              <Image src="/images/dadalt-logo.png" alt={meta.altText} title={meta.caption} width={40} height={40} className="h-10 w-10" />
               <span className="font-heading text-lg font-bold">DadAlt</span>
             </Link>
             <p className="font-body text-sm leading-relaxed text-secondary-foreground/70">
@@ -50,7 +52,7 @@ const Footer = () => {
               {footerLinks.categories.map((link) => (
                 <li key={link.href}>
                   <Link
-                    to={link.href}
+                    href={link.href}
                     className="font-body text-sm text-secondary-foreground/70 transition-colors hover:text-primary"
                   >
                     {link.label}
@@ -69,7 +71,7 @@ const Footer = () => {
               {footerLinks.company.map((link) => (
                 <li key={link.href}>
                   <Link
-                    to={link.href}
+                    href={link.href}
                     className="font-body text-sm text-secondary-foreground/70 transition-colors hover:text-primary"
                   >
                     {link.label}
@@ -88,7 +90,7 @@ const Footer = () => {
               {footerLinks.legal.map((link) => (
                 <li key={link.href}>
                   <Link
-                    to={link.href}
+                    href={link.href}
                     className="font-body text-sm text-secondary-foreground/70 transition-colors hover:text-primary"
                   >
                     {link.label}

@@ -1,7 +1,10 @@
+"use client";
+
 import { useState } from "react";
-import { Link, useLocation } from "react-router-dom";
+import Link from "next/link";
+import Image from "next/image";
+import { usePathname } from "next/navigation";
 import { Menu, X, Award } from "lucide-react";
-import logo from "@/assets/dadalt-logo.png";
 
 const navItems = [
   { label: "Start Here", href: "/start-here" },
@@ -17,13 +20,13 @@ const navItems = [
 
 const Header = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
-  const location = useLocation();
+  const pathname = usePathname();
 
   return (
     <header className="sticky top-0 z-50 border-b bg-card text-foreground">
       <div className="container-wide flex h-16 items-center justify-between">
-        <Link to="/" className="flex items-center gap-2">
-          <img src={logo} alt="DadAlt Investments" className="h-[52px] w-[52px]" />
+        <Link href="/" className="flex items-center gap-2">
+          <Image src="/images/dadalt-logo.png" alt="DadAlt Investments" width={52} height={52} className="h-[52px] w-[52px]" />
           <span className="font-heading text-lg font-bold text-foreground">
             DadAlt
           </span>
@@ -34,9 +37,9 @@ const Header = () => {
           {navItems.map((item) => (
             <Link
               key={item.href}
-              to={item.href}
+              href={item.href}
               className={`rounded-md px-3 py-2 font-body text-sm font-medium transition-colors hover:bg-muted ${
-                location.pathname === item.href
+                pathname === item.href
                   ? "bg-muted"
                   : ""
               }`}
@@ -45,7 +48,7 @@ const Header = () => {
             </Link>
           ))}
           <Link
-            to="/resources"
+            href="/resources"
             className="dad-badge ml-2 flex items-center gap-1"
           >
             <Award className="h-3.5 w-3.5" />
@@ -69,7 +72,7 @@ const Header = () => {
           {navItems.map((item) => (
             <Link
               key={item.href}
-              to={item.href}
+              href={item.href}
               onClick={() => setMobileOpen(false)}
               className="block rounded-md px-3 py-2.5 font-body text-sm font-medium text-foreground transition-colors hover:bg-muted"
             >
@@ -77,7 +80,7 @@ const Header = () => {
             </Link>
           ))}
           <Link
-            to="/resources"
+            href="/resources"
             onClick={() => setMobileOpen(false)}
             className="dad-badge mt-2 inline-flex"
           >

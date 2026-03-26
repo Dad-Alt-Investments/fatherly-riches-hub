@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import Link from "next/link";
 import { Sprout, Wallet, PieChart, Building2 } from "lucide-react";
 
 const investorTypes = [
@@ -43,7 +43,7 @@ const InvestorTypeCards = () => {
 
         <div className="mx-auto grid max-w-[960px] gap-6 sm:grid-cols-2">
           {investorTypes.map((type) => (
-            <Link key={type.title} to={type.href} className="trust-card group">
+            <Link key={type.title} href={type.href} className="trust-card group">
               <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-lg bg-primary/10">
                 <type.icon className="h-6 w-6 text-primary" />
               </div>

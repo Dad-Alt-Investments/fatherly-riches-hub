@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import Link from "next/link";
 import { Award, ArrowRight } from "lucide-react";
 
 const comparisons = [
@@ -52,7 +52,7 @@ const FeaturedComparisons = () => {
 
         <div className="mx-auto grid max-w-[960px] gap-6 sm:grid-cols-2">
           {comparisons.map((item) => (
-            <Link key={item.title} to={item.href} className="trust-card group flex flex-col">
+            <Link key={item.title} href={item.href} className="trust-card group flex flex-col">
               <div className="mb-3 flex items-center gap-2">
                 <span className="font-body text-xs font-semibold uppercase tracking-wider text-primary">
                   {item.category}

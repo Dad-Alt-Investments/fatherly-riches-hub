@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import Link from "next/link";
 import { Mail, CheckCircle2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
@@ -18,7 +18,7 @@ const EmailCapture = ({ variant = "default" }: EmailCaptureProps) => {
         </p>
         <div className="mt-4">
           <Button asChild className="bg-primary font-body font-semibold text-primary-foreground hover:bg-primary/90">
-            <Link to="/newsletter">Get the Guide</Link>
+            <Link href="/newsletter">Get the Guide</Link>
           </Button>
         </div>
       </div>
@@ -59,7 +59,7 @@ const EmailCapture = ({ variant = "default" }: EmailCaptureProps) => {
               size="lg"
               className="shrink-0 bg-primary px-8 font-body font-semibold text-primary-foreground hover:bg-primary/90"
             >
-              <Link to="/newsletter">Get the Guide</Link>
+              <Link href="/newsletter">Get the Guide</Link>
             </Button>
           </div>
 

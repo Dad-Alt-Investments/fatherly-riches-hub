@@ -1,5 +1,6 @@
-import { Link } from "react-router-dom";
-import jaredPhoto from "@/assets/jared-devalk.jpeg";
+import Link from "next/link";
+import Image from "next/image";
+import { getImageMetadata } from "@/lib/metadata/images";
 import { Shield, TrendingUp, Building2, Coins, BookOpen } from "lucide-react";
 
 const expertiseSignals = [
@@ -15,18 +16,23 @@ interface AuthorBioProps {
 }
 
 const AuthorBio = ({ variant = "byline" }: AuthorBioProps) => {
+  const meta = getImageMetadata("jared-devalk.jpeg");
+
   if (variant === "byline") {
     return (
       <div className="flex items-center gap-3 py-4">
-        <img
-          src={jaredPhoto}
-          alt="Jared DeValk — founder of DadAlt Investments, alternative investment educator for dads"
+        <Image
+          src="/images/jared-devalk.jpeg"
+          alt={meta.altText}
+          title={meta.caption}
+          width={40}
+          height={40}
           className="h-10 w-10 shrink-0 rounded-full object-cover object-top"
         />
         <div>
           <p className="font-body text-sm font-semibold text-foreground">
             Written by{" "}
-            <Link to="/about" className="text-primary hover:underline">
+            <Link href="/author/jared" className="text-primary hover:underline">
               Jared DeValk
             </Link>
           </p>
@@ -41,9 +47,12 @@ const AuthorBio = ({ variant = "byline" }: AuthorBioProps) => {
   return (
     <div className="rounded-xl border border-border bg-card p-6 md:p-8">
       <div className="flex flex-col items-center gap-6 sm:flex-row sm:items-start">
-        <img
-          src={jaredPhoto}
-          alt="Jared DeValk — founder of DadAlt Investments, alternative investment educator for dads"
+        <Image
+          src="/images/jared-devalk.jpeg"
+          alt={meta.altText}
+          title={meta.caption}
+          width={96}
+          height={96}
           className="h-24 w-24 shrink-0 rounded-xl object-cover object-top shadow-md"
         />
         <div>
