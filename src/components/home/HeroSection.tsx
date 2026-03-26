@@ -29,9 +29,8 @@ const HeroSection = () => {
             </Button>
             <Button
               asChild
-              variant="outline"
               size="lg"
-              className="rounded-lg border-secondary-foreground/30 px-8 font-body text-base font-semibold text-secondary-foreground hover:bg-secondary-foreground/10"
+              className="rounded-lg bg-white px-8 font-body text-base font-semibold text-secondary hover:bg-white/90"
             >
               <Link to="/newsletter">Get the Free Dad Wealth Guide</Link>
             </Button>
