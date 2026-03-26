@@ -1,3 +1,0 @@
-module.exports=[63686,a=>{"use strict";var b=a.i(87924),c=a.i(38246);a.s(["AffiliateLink",0,function({href:a,children:d,analyticsEvent:e,className:f,...g}){return(0,b.jsx)(c.default,{href:a,className:f,rel:"sponsored nofollow",target:"_blank",onClick:()=>{e&&console.log(`Tracking affiliate click: ${e}`)},...g,children:d})}])}];
-
-//# sourceMappingURL=src_components_AffiliateLink_tsx_0as4pee._.js.map
