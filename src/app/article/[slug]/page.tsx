@@ -134,7 +134,7 @@ export default async function ArticlePage({
             Frequently Asked Questions
           </h2>
           <div className="space-y-6">
-            {faqData.faqs.map((faq, i) => (
+            {faqData.faqs.map((faq: FaqItem, i: number) => (
               <div key={i}>
                 <h3 className="font-heading text-lg font-semibold text-foreground">
                   {faq.question}
