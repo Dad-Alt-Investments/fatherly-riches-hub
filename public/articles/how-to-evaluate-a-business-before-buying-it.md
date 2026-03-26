@@ -54,7 +54,7 @@ Request all of the following before proceeding:
 - **Equipment list and condition report** — for any business with physical assets
 - **For online businesses: payment processor records** — Stripe, PayPal, Amazon Seller Central, Shopify Payments
 
-> **The bank statement test:** Add up the monthly deposits on the bank statements and compare them to the P&L. If the P&L claims $30,000/month in revenue but deposits average $19,000/month, someone has a lot of explaining to do. This single cross-reference catches the most common form of revenue inflation in small business transactions.
+> **The bank statement test:** Add up the monthly deposits on the bank statements and compare them to the P&L. If the P&L claims $30,000/month in revenue but deposits average $19,000/month, someone has a lot of explaining to do. This single cross-reference catches the most common form of revenue [How to Protect Your Portfolio from Inflation](/article/how-to-protect-your-portfolio-from-inflation) in small business transactions.
 
 ### Understanding Seller's Discretionary Earnings (SDE)
 
@@ -354,7 +354,7 @@ Never let a seller pressure you into a compressed due diligence timeline. Urgenc
 
 ### Do I Need a Lawyer to Buy a Small Business?
 
-Yes — for any deal over approximately $25,000. The purchase agreement (also called the Asset Purchase Agreement or APA) is a legally binding contract that governs representations and warranties, indemnification, non-compete provisions, allocation of assets and liabilities, and closing conditions. Errors or omissions in this document can cost far more to resolve than the legal fees you're trying to avoid. Budget $1,500–$5,000 for legal fees on a sub-$200K transaction. For deals over $200K, budget $5,000–$15,000.
+Yes — for any deal over approximately $25,000. The purchase agreement (also called the Asset Purchase Agreement or APA) is a legally binding contract that governs representations and warranties, indemnification, non-compete provisions, allocation of assets and liabilities, and closing conditions. Errors or omissions in this document can cost far more to resolve than the legal fees you're trying to avoid. [Simple Budget System for Busy Dads](/article/simple-budget-system-for-busy-dads) $1,500–$5,000 for legal fees on a sub-$200K transaction. For deals over $200K, budget $5,000–$15,000.
 
 You don't need a large firm — a solo practitioner or small firm specializing in business transactions in your state is entirely appropriate and often more responsive for smaller deals.
 

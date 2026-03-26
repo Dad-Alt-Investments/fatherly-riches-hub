@@ -38,7 +38,7 @@ Every hour of education before your first deal is worth multiple hours of remedi
 | Contrarian Thinking / Contrarian Academy (Codie Sanchez) | Paid community | ~$10,000 | Offline/Main Street | Yes — large | Brick-and-mortar, service businesses |
 | Acquisition Foundations Course (Codie Sanchez) | Paid course | Lower tier | Offline/Main Street | No (course only) | Self-study, offline focus |
 | Searchfunder.com | Free community | Free | All ETA, search funds | Yes — active | Budget buyers, research, networking |
-| [Flippa vs Empire Flippers](/article/flippa-vs-empire-flippers) Academy | Free content | Free | Online businesses | No | Digital/online business buyers |
+| [Flippa vs Empire Flippers](/article/flippa-vs-empire-flippers) Academy | Free content | Free | [How to Spot a Good Online Business Deal](/article/how-to-spot-a-good-online-business-deal)es | No | Digital/online business buyers |
 | Empire Flippers Blog & Podcast | Free content | Free | Online businesses | No | Online business buyers |
 | *Buy Then Build* (book) | Book | ~$20 | All small business | No | Every buyer, foundational |
 | *HBR Guide to Buying a Small Business* | Book | ~$25 | All small business | No | Academic rigor, financial framework |
@@ -182,7 +182,7 @@ Empire Flippers is a premium online business brokerage — they vet listings bef
 Their blog covers:
 - Valuation frameworks for content sites, SaaS, Amazon FBA, and e-commerce
 - Due diligence processes for online business acquisitions
-- Deal structure guidance (seller financing, earnouts for digital businesses)
+- Deal structure guidance ([How to Finance Buying a Small Business](/article/how-to-finance-buying-a-small-business), earnouts for digital businesses)
 - Post-acquisition management and growth
 
 Their podcast features interviews with buyers and sellers of real online businesses — case studies of deals that worked and deals that didn't. This type of unfiltered deal-story content is among the most practically useful education available.

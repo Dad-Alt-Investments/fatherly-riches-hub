@@ -8,7 +8,7 @@ Owning real estate used to require a large down payment, a mortgage, and the sta
 
 Fractional real estate investing means purchasing a partial ownership stake in a property — or a fund that holds multiple properties — rather than buying an entire home or building outright. Multiple investors pool their capital together, and each person owns a proportionate share of the asset. Returns come from two sources: rental income distributions (paid monthly or quarterly) and potential appreciation in the property's value when it's eventually sold.
 
-This concept isn't entirely new — real estate investment trusts (REITs) have existed since 1960. What changed is accessibility. The JOBS Act of 2012 opened the door for crowdfunding platforms to raise capital from everyday investors online, and a new generation of fintech companies has since built user-friendly apps that let anyone invest without a [open a brokerage account](/article/how-to-open-a-brokerage-account), a real estate license, or a six-figure net worth.[^1]
+This concept isn't entirely new — real estate investment trusts (REITs) have existed since 1960. What changed is accessibility. The JOBS Act of 2012 opened the door for crowdfunding platforms to raise capital from everyday investors online, and a new generation of fintech companies has since built user-friendly apps that let anyone invest without a [open a brokerage account](/article/how-to-open-a-brokerage-account), a real estate license, or a six-figure [Best Tools for Tracking Net Worth](/article/best-tools-for-tracking-net-worth).[^1]
 
 ### Why Fractional Real Estate Is Growing So Fast
 

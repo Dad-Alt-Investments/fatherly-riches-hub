@@ -16,7 +16,7 @@ Before comparing options, it's worth clearing up the definition — because misu
 
 Every passive income stream has a setup cost. That cost comes in one of two forms:
 
-1. **Upfront capital** — You invest money, and that money does the work. [create passive income with ETFs](/article/passive-income-with-etfs), HYSAs, bond ETFs, REIT ETFs, and business acquisitions all belong here. The more capital you deploy, the more income you generate. This is the most scalable path.
+1. **Upfront capital** — You invest money, and that money does the work. [create passive income with ETFs](/article/passive-income-with-etfs), HYSAs, bond ETFs, REIT ETFs, and [How to Evaluate a Business Before Buying It](/article/how-to-evaluate-a-business-before-buying-it)s all belong here. The more capital you deploy, the more income you generate. This is the most scalable path.
 
 2. **Upfront time** — You create an asset that earns repeatedly from a one-time creation. Digital products (eBooks, courses, templates), a YouTube channel, or a content website built from scratch all belong here. The capital requirement is low; the time requirement is high.
 
@@ -26,7 +26,7 @@ Most passive income for beginners combines both: you invest time to educate your
 
 - **Truly passive (capital does the work):** Dividend ETFs, bond ETFs, REIT ETFs, HYSAs, money market funds. Once invested, income arrives automatically. You manage occasionally — perhaps quarterly to review allocations and reinvest dividends.
 
-- **Semi-passive (periodic management required):** Rental property, fractional real estate platforms, small online business acquisition. More income potential, more periodic involvement — property management decisions, platform updates, or business operational oversight a few hours per month.
+- **Semi-passive (periodic management required):** Rental property, fractional real estate platforms, small [How to Spot a Good Online Business Deal](/article/how-to-spot-a-good-online-business-deal) acquisition. More income potential, more periodic involvement — property management decisions, platform updates, or business operational oversight a few hours per month.
 
 - **Build-once, earn-repeatedly (time-intensive upfront):** Digital products, content sites built from scratch, YouTube channels. Very low capital cost; very high time cost upfront; can generate income for years after the initial work is done.
 

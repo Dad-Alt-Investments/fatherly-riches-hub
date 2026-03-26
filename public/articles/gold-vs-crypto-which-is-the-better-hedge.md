@@ -42,7 +42,7 @@ Gold's 2025 performance was extraordinary by any measure. Per the World Gold Cou
 - Average annual price reached a record **$3,431/oz** (+44% year over year)
 - Average Q4 2025 price: **$4,135/oz** (+55% year over year)
 - Total gold demand exceeded **5,000 tonnes** for the first time ever
-- Global gold ETF holdings grew **801 tonnes** — the second-strongest year on record
+- Global gold [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs) holdings grew **801 tonnes** — the second-strongest year on record
 - Physically-backed gold ETFs recorded the strongest year of inflows in history: **$89 billion** globally
 - U.S. gold demand rose 140% year over year to 679 tonnes; U.S. ETF AUM reached a record **$280 billion**
 

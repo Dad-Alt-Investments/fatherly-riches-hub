@@ -184,7 +184,7 @@ The free tools are genuinely free with no subscription. Some users report persis
 
 ### What It Is
 
-EveryDollar is Dave Ramsey's official budgeting app, purpose-built around the Baby Steps methodology: emergency fund → debt snowball → invest 15% → college savings → pay off home → build wealth and give. In January 2026, the app relaunched with significant new features including a "margin finder" to identify extra breathing room in your budget, personalized spending plans, daily lessons, and live group coaching sessions.[^1]
+EveryDollar is Dave Ramsey's official budgeting app, purpose-built around the Baby Steps methodology: [Emergency Fund vs Investing: What Comes First?](/article/emergency-fund-vs-investing) → debt snowball → invest 15% → college savings → pay off home → build wealth and give. In January 2026, the app relaunched with significant new features including a "margin finder" to identify extra breathing room in your budget, personalized spending plans, daily lessons, and live group coaching sessions.[^1]
 
 The free version is fully functional for budget creation but requires 100% manual transaction entry — every purchase must be logged by hand. The premium version adds automatic bank syncing, custom reports, and habit-based spending recommendations.
 

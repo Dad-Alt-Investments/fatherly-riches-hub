@@ -20,7 +20,7 @@ But here's the reality: the 20% rule applies to a specific type of loan — a co
 | VA Loan | 0% | Yes (1 year) | No | Eligible veterans |
 | USDA Loan | 0% | Yes | No | Rural/suburban primary homes |
 | DSCR Loan | 20–25% | No | No | Pure investment properties |
-| Seller Financing | Negotiable (often 5–10%) | No | No | Motivated sellers |
+| [How to Finance Buying a Small Business](/article/how-to-finance-buying-a-small-business) | Negotiable (often 5–10%) | No | No | Motivated sellers |
 | HELOC / Home Equity | Varies | No (uses existing equity) | No | Homeowners with equity |
 | Conventional Investment | 15–25% | No | No | Standard investment properties |
 
@@ -131,7 +131,7 @@ VA home loans are available to eligible active duty service members, veterans, N
 4. **After 12 months**, you can move out and rent all units; the VA loan stays in place
 5. **Property must meet VA Minimum Property Requirements (MPRs)**
 
-After fulfilling the occupancy requirement, many veterans continue to live in one unit while renting the others, generating potential passive income and building long-term equity.
+After fulfilling the occupancy requirement, many veterans continue to live in one unit while renting the others, generating potential [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) and building long-term equity.
 
 ### VA Loan House Hacking: Pros and Cons
 

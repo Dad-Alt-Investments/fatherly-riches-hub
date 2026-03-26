@@ -153,7 +153,7 @@ Taxable brokerage accounts are commonly used for:
 
 Investment accounts are just containers. What matters is what you put inside them. Here's a plain-English breakdown of the investment types every beginner dad needs to understand.
 
-### Index Funds and ETFs: The Starting Point for Almost Every Investor
+### Index Funds and [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s: The Starting Point for Almost Every Investor
 
 An **index fund** is a fund that holds every stock in a given market index — most commonly the S&P 500. Instead of trying to pick individual winners, you own a small slice of all 500 of the largest U.S. companies at once. An **ETF** (exchange-traded fund) is essentially the same idea but traded on a stock exchange like an individual stock, usually with slightly more flexibility and often lower minimum investments.
 

@@ -58,7 +58,7 @@ TIPS pay interest semiannually and are issued in **5-, 10-, and 30-year terms**,
 ### How to Buy TIPS
 
 1. **Directly from TreasuryDirect.gov.** Minimum purchase $1,000. No commissions or fees.
-2. **TIPS ETFs** — the easiest option for most investors:
+2. **TIPS [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s** — the easiest option for most investors:
    - **SCHP (Schwab U.S. TIPS ETF):** Expense ratio 0.03% — one of the cheapest bond ETFs available
    - **TIP (iShares TIPS Bond ETF):** Expense ratio 0.19%, broad TIPS exposure
    - **VTIP (Vanguard Short-Term Inflation-Protected Securities ETF):** Expense ratio 0.04%, lower duration risk

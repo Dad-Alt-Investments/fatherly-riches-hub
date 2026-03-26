@@ -257,7 +257,7 @@ The default simple buy interface at each platform builds in significant spreads 
 ### Choose Gemini if:
 - **Regulatory compliance is your top priority** — NYDFS trust company with fiduciary obligations is the deepest regulatory status available to a U.S. crypto exchange
 - You are in **New York, Washington state, or Maine** (where Kraken has access restrictions)
-- You want **institutional-grade custody** — Gemini Custody serves hedge funds and Bitcoin ETF custodians; VanEck's Solana ETF uses Gemini as its custodian
+- You want **institutional-grade custody** — Gemini Custody serves hedge funds and Bitcoin [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs) custodians; VanEck's Solana ETF uses Gemini as its custodian
 - You want a **clean, organized interface** without the complexity of Kraken's advanced tools
 - The **full-reserve model** and SOC 1/2 Type 2 first-mover certification matters to you
 

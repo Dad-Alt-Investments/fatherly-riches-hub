@@ -34,7 +34,7 @@ This guide is organized into two categories: **investing apps** (where you activ
 
 Before diving into specific platforms, here's a quick checklist of the features that matter most for dad investors:
 
-1. **$0 commissions on stocks and ETFs** — This has become standard in 2026 and there's no reason to pay per-trade fees.
+1. **$0 commissions on stocks and [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s** — This has become standard in 2026 and there's no reason to pay per-trade fees.
 2. **Low or no account minimums** — Some of the best apps let you start with $1.
 3. **Fractional shares** — Buying $100 of an [best platforms for index funds](/article/best-platforms-to-buy-index-funds) is more useful than waiting until you can afford a full share.
 4. **Retirement account support** — Look for Roth IRA, Traditional IRA, and rollover IRA capability.

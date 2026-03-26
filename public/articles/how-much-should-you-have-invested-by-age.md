@@ -172,7 +172,7 @@ The target: **work toward a 20% gross savings rate** (including employer match) 
 
 **Practical method:**
 - Set a calendar reminder every 6 months to increase your 401(k) contribution percentage by 1%
-- When you receive a raise, redirect at least 50% of the after-tax raise to increased retirement savings before it enters your budget
+- When you receive a raise, redirect at least 50% of the after-tax raise to increased retirement savings before it enters your [Simple Budget System for Busy Dads](/article/simple-budget-system-for-busy-dads)
 - Many 401(k) plans offer automatic escalation — if yours does, turn it on
 
 ### 2. Move Out of High-Fee Managed Funds
@@ -183,7 +183,7 @@ Fund fees compound in the wrong direction. A fund charging 1.0% in annual expens
 
 ### 3. Apply Raises and Bonuses Before They Hit Your Lifestyle
 
-Lifestyle inflation is the primary reason savings rates stagnate in the 40s. When a raise arrives, it is immediately absorbed into higher housing, car payments, dining, and discretionary spending — a phenomenon behavioral economists call "hedonic adaptation." The counter-strategy: redirect at least half of every raise or bonus to retirement savings *before* adjusting your lifestyle budget.
+Lifestyle [How to Protect Your Portfolio from Inflation](/article/how-to-protect-your-portfolio-from-inflation) is the primary reason savings rates stagnate in the 40s. When a raise arrives, it is immediately absorbed into higher housing, car payments, dining, and discretionary spending — a phenomenon behavioral economists call "hedonic adaptation." The counter-strategy: redirect at least half of every raise or bonus to retirement savings *before* adjusting your lifestyle budget.
 
 At $90,000 with a 4% raise:
 - Raise amount: $3,600/year ($300/month after-tax roughly)

@@ -1,4 +1,4 @@
-# The Dad's Guide to Emergency Funds & Investing: How Much to Save Before You Invest
+# The Dad's Guide to [Emergency Fund vs Investing: What Comes First?](/article/emergency-fund-vs-investing)s & Investing: How Much to Save Before You Invest
 
 Before you put a single dollar into the stock market, there's a financial foundation you need to build first — your emergency fund. Most financial experts agree that investing without an adequate cash cushion is like building a house on sand: one unexpected car repair, medical bill, or job loss can force you to sell investments at the worst possible time. This guide walks you through exactly how much to save, where to keep it, how to build it even while managing debt, and — most importantly — when you're truly ready to shift dollars from savings to investing. Whether you're just getting started or trying to optimize an already-decent financial situation, this article covers the complete picture of emergency savings and early investing for American dads in 2026.
 
@@ -335,7 +335,7 @@ For dads, the stakes are especially high. You're not just protecting yourself �
 
 - [The Dad's Guide to Tax-Efficient Investing](/the-dads-guide-to-tax-efficient-investing)
 - [The Dad's Beginner's Guide to Investing](/the-dads-beginners-guide-to-investing)
-- [The Power of Compound Interest: A Guide for Dads](/the-power-of-compound-interest-a-guide-for-dads)
+- [The Power of [What Every Dad Should Know About Compound Interest](/article/compound-interest-explained): A Guide for Dads](/the-power-of-compound-interest-a-guide-for-dads)
 
 ---
 

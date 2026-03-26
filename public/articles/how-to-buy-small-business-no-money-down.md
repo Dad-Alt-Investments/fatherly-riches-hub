@@ -26,7 +26,7 @@ Yes — with important nuance.
 
 - Service businesses with recurring client relationships (HVAC, cleaning, landscaping, accounting)
 - Professional practices with contracted or established referral revenue
-- Profitable online businesses with documented revenue history
+- Profitable [How to Spot a Good Online Business Deal](/article/how-to-spot-a-good-online-business-deal)es with documented revenue history
 - Established Main Street businesses with stable financials and motivated sellers (often retiring owners)
 
 > **Related:** [How to Evaluate a Business Before Buying It](/article/how-to-evaluate-a-business-before-buying-it) | [Best Businesses You Can Buy for Under $50K](/article/best-businesses-to-buy-under-50k) | [Best Websites to Buy a Small Business Online](/article/best-websites-to-buy-small-business-online)
@@ -56,7 +56,7 @@ In a seller-financed deal, the seller acts as the lender. Instead of receiving a
 
 ### Why Sellers Agree to This
 
-Seller financing serves the seller's financial interests in meaningful ways when positioned correctly:
+[How to Finance Buying a Small Business](/article/how-to-finance-buying-a-small-business) serves the seller's financial interests in meaningful ways when positioned correctly:
 
 - **Installment sale tax treatment** — sellers who spread the receipt of proceeds over multiple years can defer capital gains taxes, reducing their immediate tax liability in the sale year[^2]
 - **Reliable income stream** — particularly attractive to retiring Baby Boomer sellers who want consistent monthly income rather than a lump sum they'll then need to invest

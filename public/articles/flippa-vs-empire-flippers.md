@@ -1,6 +1,6 @@
 # Flippa vs Empire Flippers: Which Is Better for Buying an Online Business?
 
-**Category:** Buying Businesses | **Tags:** Beginner Guides · Online Business · Guides & How-To's · Passive Income
+**Category:** Buying Businesses | **Tags:** Beginner Guides · Online Business · Guides & How-To's · [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners)
 
 **Target Keywords:** Flippa vs Empire Flippers, buy online business, online business marketplace
 
@@ -387,7 +387,7 @@ Consult a CPA familiar with business acquisitions—tax implications vary depend
 
 - **[How to Buy a Small Local Business for Under $100k Down](#)** — Brick-and-mortar acquisition guide with financing strategies
 - **[How to Evaluate a Business Before Buying](#)** — The due diligence checklist every buyer needs
-- **[Creative Financing Strategies for Business Acquisitions](#)** — SBA loans, [finance a business purchase](/article/how-to-finance-a-business-purchase), ROBS, and more
+- **[Creative Financing Strategies for Business Acquisitions](#)** — [How to Finance Buying a Small Business](/article/how-to-finance-buying-a-small-business)s, [finance a business purchase](/article/how-to-finance-a-business-purchase), ROBS, and more
 - **[5 Side Businesses You Can Start This Weekend](#)** — Not ready to acquire? Start smaller first
 
 ---

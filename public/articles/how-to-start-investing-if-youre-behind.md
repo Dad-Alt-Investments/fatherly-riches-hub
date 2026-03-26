@@ -57,7 +57,7 @@ Open a **[high-yield savings account (HYSA)](/article/best-high-yield-savings-ac
 
 ## Step 2: Capture Every Free Dollar Available — The 401(k) Match
 
-The employer 401(k) match is the only guaranteed, risk-free, immediate return on investment that exists. Nothing else in personal finance — no ETF, no savings account, no bond — comes close to matching its immediate return.
+The employer 401(k) match is the only guaranteed, risk-free, immediate return on investment that exists. Nothing else in personal finance — no [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs), no savings account, no bond — comes close to matching its immediate return.
 
 ### The Math of the Match
 

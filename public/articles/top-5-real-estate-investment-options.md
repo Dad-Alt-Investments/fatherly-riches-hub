@@ -27,7 +27,7 @@ The five strategies below span the full spectrum — from fully passive investme
 
 | Strategy | Minimum Investment | Time Required | Liquidity | Typical Returns | Accredited Required? |
 |---|---|---|---|---|---|
-| REITs (Public) | ~$1 (ETF share) | Very low | High (daily) | ~4–10% total return | No |
+| REITs (Public) | ~$1 ([How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs) share) | Very low | High (daily) | ~4–10% total return | No |
 | Rental Property | $20,000–$60,000+ | High | Low | 6–12% cash-on-cash | No |
 | Crowdfunding | $10–$5,000+ | Very low | Low | 6–12% annually | No (most platforms) |
 | Real Estate Syndication | $25,000–$100,000+ | Very low | Very low | 7–15%+ IRR | Yes |

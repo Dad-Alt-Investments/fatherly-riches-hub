@@ -1,6 +1,6 @@
 # How to Buy a Small Local Business for Under $100k Down
 
-**Category:** Buying Businesses | **Tags:** Beginner Guides · Passive Income · Guides & How-To's
+**Category:** Buying Businesses | **Tags:** Beginner Guides · [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) · Guides & How-To's
 
 **Target Keywords:** buy small business, business acquisition
 
@@ -214,7 +214,7 @@ SBA 7(a) change-of-ownership loans—covering acquisitions, partner buyouts, and
 
 > **Important Note on 2025 SBA Changes:** In April 2025, the SBA updated its Standard Operating Procedure (SOP 50.10.8), which tightened underwriting standards. Under the current rules, seller notes can now cover only 50% of the required buyer equity injection, typically 10% of the total project cost. This effectively means [finance a business purchase](/article/how-to-finance-a-business-purchase) can represent just 5% of the transaction value. Work with an experienced SBA lender who understands the current rules.
 
-### Option 2: Seller Financing
+### Option 2: [How to Finance Buying a Small Business](/article/how-to-finance-buying-a-small-business)
 
 Seller financing is exactly what it sounds like: the seller carries part of the loan themselves. Instead of getting all their money at closing, they agree to receive a portion over time—with interest.
 

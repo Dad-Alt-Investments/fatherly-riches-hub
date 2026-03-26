@@ -279,7 +279,7 @@ REIT dividends are classified as ordinary income (they are required to distribut
 
 Holding VNQ in a taxable brokerage account creates ordinary income tax liability every quarter. Holding it in a Roth IRA eliminates that entirely.
 
-> See also: [How to Create Passive Income with ETFs in 2026](/article/passive-income-with-etfs) — a full breakdown of building a dividend ETF income calendar with SCHD, JEPI, and VNQ.
+> See also: [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs in 2026](/article/passive-income-with-etfs) — a full breakdown of building a dividend ETF income calendar with SCHD, JEPI, and VNQ.
 
 ---
 
@@ -330,7 +330,7 @@ M1 Finance has the best built-in dividend income dashboard among these four plat
 
 [^3]: M1 Finance. *Dividend Investing — Put Your Dividends to Work.* M1.com — DRIP options (Invest, M1 DRIP, Earn), dividend dashboard features, 3.10% APY on Earn account. [https://m1.com/invest/dividend-investing/](https://m1.com/invest/dividend-investing/)
 
-[^4]: Robinhood. *Robinhood Gold IRA Transfer Bonus.* Robinhood.com — 3% Gold IRA contribution match, 2% transfer bonus through April 30, 2026, match retention requirements. [https://robinhood.com/us/en/support/articles/ira-gold-match-2026/](https://robinhood.com/us/en/support/articles/ira-gold-match-2026/)
+[^4]: Robinhood. *Robinhood [Best Gold IRA Companies](/article/best-gold-ira-companies) Transfer Bonus.* Robinhood.com — 3% Gold IRA contribution match, 2% transfer bonus through April 30, 2026, match retention requirements. [https://robinhood.com/us/en/support/articles/ira-gold-match-2026/](https://robinhood.com/us/en/support/articles/ira-gold-match-2026/)
 
 [^5]: Fidelity. *ZERO expense ratio index funds.* Fidelity.com — FZROX, FZILX, FNILX, FZIPX at 0.00% expense ratio, dividend reinvestment availability, portability caveat. [https://www.fidelity.com/mutual-funds/fidelity-funds/zero-expense-ratio-index-funds](https://www.fidelity.com/mutual-funds/fidelity-funds/zero-expense-ratio-index-funds)
 

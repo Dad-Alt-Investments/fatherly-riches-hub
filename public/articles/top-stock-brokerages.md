@@ -1,6 +1,6 @@
 # Top Stock Brokerages for New Investors [2026 Review]
 
-*Category: Stocks & ETFs | DadAlt Investments*
+*Category: Stocks & [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s | DadAlt Investments*
 
 ---
 
