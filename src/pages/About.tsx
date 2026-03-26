@@ -90,7 +90,7 @@ const About = () => {
               />
               <div>
                 <h2 className="font-heading text-2xl font-bold">
-                  About DadAlt Investments
+                  Meet the Founder
                 </h2>
                 <p className="mt-3 font-body text-lg font-medium leading-relaxed text-foreground/90">
                   Hi, I'm Jared DeValk — and I blew through $100,000 at 23 while "investing."
