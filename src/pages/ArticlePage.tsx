@@ -5,6 +5,7 @@ import AuthorBio from "@/components/AuthorBio";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { articles } from "@/data/content";
+import { articleFaqs } from "@/data/faq-data";
 import EmailCapture from "@/components/home/EmailCapture";
 import { Button } from "@/components/ui/button";
 import { usePageMeta } from "@/hooks/use-page-meta";
