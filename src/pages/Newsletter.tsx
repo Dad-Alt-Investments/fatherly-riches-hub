@@ -3,8 +3,8 @@ import { usePageMeta } from "@/hooks/use-page-meta";
 
 const Newsletter = () => {
   usePageMeta({
-    title: "Investment Guide Sign-Up — DadAlt Investments",
-    description: "Sign up for the DadAlt Investment Guide. Get straight-talking investment education delivered to your inbox.",
+    title: "Get the Free Dad Wealth Guide — DadAlt Investments",
+    description: "Sign up for the Dad Wealth Guide. Get straight-talking alternative investment education and weekly wealth-building tips delivered to your inbox.",
   });
 
   useEffect(() => {
