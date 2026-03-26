@@ -155,7 +155,7 @@ The **Fidelity Youth Account** is a teen-owned [open a brokerage account](/artic
 **Key features:**
 - **No fees, no minimums, no subscription cost** — completely free to open and maintain
 - Teens own the account outright (not a custodial account — the teen is the legal account holder)
-- Teens can invest in stocks, ETFs, and mutual funds, with parent visibility and monitoring
+- Teens can invest in stocks, [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s, and mutual funds, with parent visibility and monitoring
 - Includes a debit card for spending (with parental oversight)
 - Access to the **Fidelity Investments app** with a dedicated learning tab featuring interactive lessons, videos, articles, and calculators built specifically for teens
 - Teens who complete financial literacy levels earn reward dollars deposited directly into their account

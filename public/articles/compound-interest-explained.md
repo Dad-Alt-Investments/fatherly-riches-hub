@@ -496,7 +496,7 @@ That's how compound interest builds wealth. One quiet, compounding month at a ti
 
 18. **Motley Fool — "S&P 500 Annual Returns and Historical Performance"** — S&P 500 has averaged over 10% annually; delivered average annual return of 10.33% since 1957; negative annual returns occurred in only 6 of the past 30 years. fool.com/investing/stock-market/indexes/sp-500/annual-returns
 
-19. **Fidelity — "5 Things to Know About ETFs"** — Most ETFs distribute dividends quarterly; some reinvest dividends as received then distribute as cash on payout date; Fidelity allows commission-free dividend reinvestment; S&P 500 Index standard includes reinvestment of dividends for total return calculation. fidelity.com
+19. **Fidelity — "5 Things to Know About [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s"** — Most ETFs distribute dividends quarterly; some reinvest dividends as received then distribute as cash on payout date; Fidelity allows commission-free dividend reinvestment; S&P 500 Index standard includes reinvestment of dividends for total return calculation. fidelity.com
 
 20. **IRS — "401(k) Limit Increases to $24,500 for 2026, IRA Limit Increases to $7,500" (IRS Notice 2025-67, November 13, 2025)** — 2026 employee 401(k) contribution limit: $24,500; catch-up (age 50+): $8,000 additional; Roth IRA limit: $7,500 (under 50), $8,600 (age 50+). irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500
 

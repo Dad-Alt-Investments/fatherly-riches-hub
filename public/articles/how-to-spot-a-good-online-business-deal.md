@@ -1,6 +1,6 @@
 # How to Spot a Good Online Business Deal
 
-**Category:** Buying Businesses | **Tags:** Online Business · [evaluate a business before buying](/article/how-to-evaluate-a-business-before-buying-it) · Beginner Guides · Guides & How-To's · Passive Income
+**Category:** Buying Businesses | **Tags:** Online Business · [evaluate a business before buying](/article/how-to-evaluate-a-business-before-buying-it) · Beginner Guides · Guides & How-To's · [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners)
 
 **Target Keywords:** how to spot a good online business deal, buying an online business, online business due diligence, evaluate website for sale
 
@@ -268,7 +268,7 @@ If you're financing the acquisition, the business must generate enough cash flow
 
 A DSCR of at least 1.25× is the standard lender requirement. A DSCR of 1.5× or higher gives you meaningful cushion for unexpected revenue dips in the transition period.
 
-*Example:* If a business has $72,000 in annual clean SDE and your SBA loan payment is $48,000/year, your DSCR is 1.5×—comfortable. If the SDE is $55,000 and your loan payment is $48,000, your DSCR is only 1.15×—too tight.
+*Example:* If a business has $72,000 in annual clean SDE and your [How to Finance Buying a Small Business](/article/how-to-finance-buying-a-small-business) payment is $48,000/year, your DSCR is 1.5×—comfortable. If the SDE is $55,000 and your loan payment is $48,000, your DSCR is only 1.15×—too tight.
 
 **A — Are the assets transferable and verifiable?**
 

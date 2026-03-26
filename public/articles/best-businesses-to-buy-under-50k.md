@@ -16,7 +16,7 @@ Your first acquisition is a learning experience, no matter how well-prepared you
 
 ### Self-Financeable Without Banks or Investors
 
-SBA loans require 650+ credit scores, two-plus years of documented business profitability, and processing timelines of 30–90 days. Under-$50K deals skip all of that. You can use personal savings, a HELOC, a 401(k) loan, or negotiate [finance a business purchase](/article/how-to-finance-a-business-purchase) directly. Most sellers of small businesses are open to carrying a note — especially in the online business market where seller financing is increasingly common. The absence of institutional financing means faster closes, fewer third parties, and more flexible deal structures.
+SBA loans require 650+ credit scores, two-plus years of documented business profitability, and processing timelines of 30–90 days. Under-$50K deals skip all of that. You can use personal savings, a HELOC, a 401(k) loan, or negotiate [finance a business purchase](/article/how-to-finance-a-business-purchase) directly. Most sellers of small businesses are open to carrying a note — especially in the online business market where [How to Finance Buying a Small Business](/article/how-to-finance-buying-a-small-business) is increasingly common. The absence of institutional financing means faster closes, fewer third parties, and more flexible deal structures.
 
 ### Wide Enough Selection to Be Selective
 
@@ -160,7 +160,7 @@ Mobile pet grooming — a fully equipped grooming van that visits clients at the
 
 ## Vending Machine Route Businesses: $25K–$50K
 
-Vending machine routes are among the most dad-friendly acquisitions in this guide: semi-passive income, flexible hours, no employees to manage, no customer service beyond restocking, and a business model simple enough to explain to your kids.
+Vending machine routes are among the most dad-friendly acquisitions in this guide: semi-[Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners), flexible hours, no employees to manage, no customer service beyond restocking, and a business model simple enough to explain to your kids.
 
 ### How a Vending Route Works
 

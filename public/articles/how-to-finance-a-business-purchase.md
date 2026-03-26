@@ -8,7 +8,7 @@
 
 ## Summary
 
-The single biggest lie in entrepreneurship is that you need a pile of cash to buy a business. You don't. While the most successful deals involve at least some buyer equity, a growing number of Americans are acquiring profitable, cash-flowing businesses using creative financing structures that require little to no personal savings. The tools exist: SBA loans that cover up to 90% of a purchase price, seller financing that lets the current owner act as your bank, retirement fund rollovers that tap your 401(k) tax-free, earn-out agreements that tie part of the price to future performance, and equity partnerships that trade a slice of ownership for capital. This article breaks down every major financing path available to US buyers in 2025—how each works, what it costs, what it requires, and critically, the real risks you need to understand before you sign anything. If you've been putting off business ownership because you assume you need $100,000 in the bank first, this guide was written for you.
+The single biggest lie in entrepreneurship is that you need a pile of cash to buy a business. You don't. While the most successful deals involve at least some buyer equity, a growing number of Americans are acquiring profitable, cash-flowing businesses using creative financing structures that require little to no personal savings. The tools exist: SBA loans that cover up to 90% of a purchase price, [How to Finance Buying a Small Business](/article/how-to-finance-buying-a-small-business) that lets the current owner act as your bank, retirement fund rollovers that tap your 401(k) tax-free, earn-out agreements that tie part of the price to future performance, and equity partnerships that trade a slice of ownership for capital. This article breaks down every major financing path available to US buyers in 2025—how each works, what it costs, what it requires, and critically, the real risks you need to understand before you sign anything. If you've been putting off business ownership because you assume you need $100,000 in the bank first, this guide was written for you.
 
 ---
 
@@ -366,7 +366,7 @@ Most SBA lenders recommend a personal FICO score of 680 or higher. Some lenders 
 
 **Q: Can I buy a business while still employed full-time?**
 
-Yes, and many buyers do—especially with service businesses or online businesses that can be semi-managed with hired staff. However, some SBA lenders prefer buyers who will be full-time operators. ROBS requires you to be an active employee of the business. Clarify the time commitment expectation before you approach financing.
+Yes, and many buyers do—especially with service businesses or [How to Spot a Good Online Business Deal](/article/how-to-spot-a-good-online-business-deal)es that can be semi-managed with hired staff. However, some SBA lenders prefer buyers who will be full-time operators. ROBS requires you to be an active employee of the business. Clarify the time commitment expectation before you approach financing.
 
 **Q: How long does it take to secure financing?**
 

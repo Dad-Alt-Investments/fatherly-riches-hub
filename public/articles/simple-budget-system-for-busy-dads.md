@@ -129,7 +129,7 @@ Bucket 3 is where wealth gets built. It should be the first bucket funded — au
 **What goes in Bucket 3:**
 - 401(k) contributions beyond the employer match (the match itself is typically deducted pre-tax before you see your paycheck)
 - [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) contributions ($7,500/year for those under 50 in 2026; $8,600 for 50+, per IRS Notice 2025-67)
-- [best high-yield savings accounts](/article/best-high-yield-savings-accounts) account (emergency fund top-up, sinking funds)
+- [best high-yield savings accounts](/article/best-high-yield-savings-accounts) account ([Emergency Fund vs Investing: What Comes First?](/article/emergency-fund-vs-investing) top-up, sinking funds)
 - Extra debt payoff above minimum payments (for high-interest debt)
 - Taxable brokerage contributions (after maxing tax-advantaged accounts)
 
@@ -244,7 +244,7 @@ YNAB's four core rules:
 
 **Price:** $14.99/month or $99.99/year | 7-day free trial
 
-**What it does:** Monarch is a comprehensive financial dashboard — not just a budgeting app. It connects checking, savings, credit cards, loans, and investment accounts into one visual platform. You get real-time spending tracking, net worth monitoring, goal tracking, cash flow forecasting, and AI-powered financial insights in one place.
+**What it does:** Monarch is a comprehensive financial dashboard — not just a budgeting app. It connects checking, savings, credit cards, loans, and investment accounts into one visual platform. You get real-time spending tracking, [Best Tools for Tracking Net Worth](/article/best-tools-for-tracking-net-worth) monitoring, goal tracking, cash flow forecasting, and AI-powered financial insights in one place.
 
 **Key features:**
 - Automatic transaction categorization (with easy one-click corrections)

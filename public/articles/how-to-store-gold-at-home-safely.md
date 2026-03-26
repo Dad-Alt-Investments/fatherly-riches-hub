@@ -12,7 +12,7 @@ Storing gold at home is both more practical and more risky than most first-time 
 
 ### The Case for Home Storage
 
-Physical gold's primary appeal over a [top Gold IRA companies](/article/top-gold-ira-companies-reviewed), ETF, or other paper-based gold vehicle is the elimination of counterparty risk. When gold is in your possession, no bankruptcy, exchange failure, custodian insolvency, or government account freeze can prevent you from accessing it. This is not a paranoid scenario — FTX, SVB, and dozens of other financial institutions have demonstrated in recent years that custodial assets can be frozen or lost entirely.
+Physical gold's primary appeal over a [top Gold IRA companies](/article/top-gold-ira-companies-reviewed), [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs), or other paper-based gold vehicle is the elimination of counterparty risk. When gold is in your possession, no bankruptcy, exchange failure, custodian insolvency, or government account freeze can prevent you from accessing it. This is not a paranoid scenario — FTX, SVB, and dozens of other financial institutions have demonstrated in recent years that custodial assets can be frozen or lost entirely.
 
 For immediate, unconditional access in a genuine economic disruption, physical gold in your home safe is the only gold that functions as intended. A Gold IRA requires you to contact a custodian and wait for a distribution. Physical gold in your own hands requires nothing from anyone.
 

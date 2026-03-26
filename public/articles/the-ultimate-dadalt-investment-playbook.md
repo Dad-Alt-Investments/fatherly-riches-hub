@@ -6,7 +6,7 @@
 
 ## Summary
 
-Most dads aren't looking to day-trade their way to early retirement or gamble on meme stocks. They want to build real, lasting wealth — the kind that creates options for their family, protects against inflation, and doesn't require a finance degree to understand. The DadAlt Investment Playbook is your one-stop guide to the five core investment pillars covered on DadAlt Investments: **Stocks & ETFs, Crypto & Digital Assets, Gold & Precious Metals, Buying Businesses, and Real Estate.** Whether you're just starting out or you're ready to diversify beyond your 401(k), this guide breaks down what you need to know, where to start, and how to think about each asset class as a busy dad with real financial responsibilities.
+Most dads aren't looking to day-trade their way to early retirement or gamble on meme stocks. They want to build real, lasting wealth — the kind that creates options for their family, protects against inflation, and doesn't require a finance degree to understand. The DadAlt Investment Playbook is your one-stop guide to the five core investment pillars covered on DadAlt Investments: **Stocks & [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s, Crypto & Digital Assets, Gold & Precious Metals, Buying Businesses, and Real Estate.** Whether you're just starting out or you're ready to diversify beyond your 401(k), this guide breaks down what you need to know, where to start, and how to think about each asset class as a busy dad with real financial responsibilities.
 
 ---
 

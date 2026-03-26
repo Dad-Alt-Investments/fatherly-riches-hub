@@ -179,7 +179,7 @@ Vaulted is a mobile and web application operated by McAlvany Financial Group, wh
 
 At current gold prices (~$5,000/oz), the 1.8% transaction fee on a 1 oz purchase is approximately $90 — higher than the typical premium at APMEX or JM Bullion for a Gold Eagle. However, the storage fee of 0.4%/year on a $5,000 position is $20/year — significantly lower than home safe insurance, safe deposit box fees, or third-party vault storage for individual investors.
 
-### Why Vaulted Is Different From a Gold ETF
+### Why Vaulted Is Different From a Gold [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)
 
 Vaulted is **not** a paper gold product. You have:
 - Legal title to specifically identified, serial-numbered gold bars

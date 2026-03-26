@@ -4,7 +4,7 @@
 
 ---
 
-The question of how much cash to keep versus how much to invest is one of the most consequential — and most commonly mishandled — decisions in personal finance. Hold too little cash and a single unexpected expense forces you to sell investments at the worst possible time. Hold too much, and you are quietly paying an opportunity cost that compounds against you every year. The math is unforgiving: $50,000 sitting in an average bank savings account earning 0.39% APY grows to roughly $55,000 over 20 years. The same $50,000 invested in a diversified stock portfolio averaging 7% annually grows to approximately **$193,000** over the same period — a gap of nearly $138,000 that costs you nothing in effort, only in decision-making.[^1] Yet today, U.S. investors are holding more than $7.7 trillion in money market funds and cash-equivalent securities — more than at virtually any point in modern financial history — much of it well beyond what any rational emergency fund or short-term goal requires.[^2] The answer to "how much cash" is not a single number. It is a tiered framework: specific cash reserves for specific purposes, with a clear rule that everything above those tiers belongs in the market. This article builds that framework from the ground up — with the math, the exceptions, and a practical worked example — so you can calculate the right cash balance for your family and move the rest to work.
+The question of how much cash to keep versus how much to invest is one of the most consequential — and most commonly mishandled — decisions in personal finance. Hold too little cash and a single unexpected expense forces you to sell investments at the worst possible time. Hold too much, and you are quietly paying an opportunity cost that compounds against you every year. The math is unforgiving: $50,000 sitting in an average bank savings account earning 0.39% APY grows to roughly $55,000 over 20 years. The same $50,000 invested in a diversified stock portfolio averaging 7% annually grows to approximately **$193,000** over the same period — a gap of nearly $138,000 that costs you nothing in effort, only in decision-making.[^1] Yet today, U.S. investors are holding more than $7.7 trillion in money market funds and cash-equivalent securities — more than at virtually any point in modern financial history — much of it well beyond what any rational [Emergency Fund vs Investing: What Comes First?](/article/emergency-fund-vs-investing) or short-term goal requires.[^2] The answer to "how much cash" is not a single number. It is a tiered framework: specific cash reserves for specific purposes, with a clear rule that everything above those tiers belongs in the market. This article builds that framework from the ground up — with the math, the exceptions, and a practical worked example — so you can calculate the right cash balance for your family and move the rest to work.
 
 ---
 
@@ -56,7 +56,7 @@ The emergency fund calculation uses **essential expenses only** — not your tot
 **Include:**
 - Housing payment (mortgage or rent)
 - Utilities (electricity, gas, water, internet)
-- Groceries (actual food budget, not dining out)
+- Groceries (actual food [Simple Budget System for Busy Dads](/article/simple-budget-system-for-busy-dads), not dining out)
 - Insurance premiums (health, auto, home/renters)
 - Minimum debt payments (credit card minimums, car loan, student loan minimums)
 - Childcare and essential transportation costs

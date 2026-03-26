@@ -133,7 +133,7 @@ Koinly is the strongest choice when:
 
 ## #3 Delta — Best Mobile App Experience
 
-**Who it's for:** Investors who want a beautiful, unified view of their entire financial life — crypto, stocks, ETFs, and traditional assets — in a single best-in-class mobile app.
+**Who it's for:** Investors who want a beautiful, unified view of their entire financial life — crypto, stocks, [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s, and traditional assets — in a single best-in-class mobile app.
 
 Delta is the portfolio tracker built by and for investors who think beyond crypto. Backed by eToro (one of the world's largest social [top stock brokerages for new investors](/article/top-stock-brokerages)s), Delta supports crypto alongside stocks, ETFs, fiat currencies, and even real estate — making it the only tracker on this list that gives you a genuinely unified net worth view across all your asset classes.[^9] If you're a dad investor who holds an [best platforms for index funds](/article/best-platforms-to-buy-index-funds) portfolio alongside some Bitcoin and Ethereum, Delta is the app that shows everything together in one place.
 

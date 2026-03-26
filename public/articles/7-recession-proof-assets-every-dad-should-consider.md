@@ -28,7 +28,7 @@ No asset is perfectly recession-proof. Even gold temporarily crashed 28% in the 
 
 ---
 
-## Asset #1: Dividend Stocks and [create passive income with ETFs](/article/passive-income-with-etfs)
+## Asset #1: Dividend Stocks and [create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)
 
 **Best for:** Core portfolio stability with income generation
 
@@ -122,7 +122,7 @@ Dad investors have three practical options:
 
 2. **Gold ETFs (GLD or IAU):** The SPDR Gold Shares ETF (GLD) and the iShares Gold Trust (IAU) track spot gold prices and are as liquid as stocks. IAU has a lower expense ratio (0.25% vs. 0.40% for GLD). Both are held within standard brokerage or IRA accounts. Cannot be physically redeemed.
 
-3. **Gold IRA:** A self-directed IRA holding IRS-approved physical gold, stored at an approved depository. Offers tax-deferred growth on gold holdings within your retirement account. See DadAlt's companion article **[Top Gold IRA Companies Reviewed](#)** for a detailed comparison of Augusta Precious Metals, Goldco, Birch Gold Group, American Hartford Gold, and Noble Gold.
+3. **[Best Gold IRA Companies](/article/best-gold-ira-companies):** A self-directed IRA holding IRS-approved physical gold, stored at an approved depository. Offers tax-deferred growth on gold holdings within your retirement account. See DadAlt's companion article **[Top Gold IRA Companies Reviewed](#)** for a detailed comparison of Augusta Precious Metals, Goldco, Birch Gold Group, American Hartford Gold, and Noble Gold.
 
 > **→ CTA: Buy gold from SD Bullion or APMEX | Start a Gold IRA with Augusta Precious Metals**
 

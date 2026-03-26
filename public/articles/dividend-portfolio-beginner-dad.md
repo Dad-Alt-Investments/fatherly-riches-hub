@@ -1,6 +1,6 @@
 # How to Build a Dividend Portfolio as a Beginner Dad
 
-Building a dividend portfolio is one of the most practical, beginner-friendly ways for dads to start generating passive income — and you don't need a finance degree or a six-figure salary to get started. A dividend portfolio is a collection of stocks, ETFs, or funds that pay you cash at regular intervals just for owning them. Done right, it becomes a compounding income engine that grows quietly in the background while you're focused on work, family, and everything in between. This step-by-step guide explains exactly what dividends are, how to pick the right investments, which ETFs and stocks to consider in 2026, and how to structure a portfolio that fits your life as a busy dad.
+Building a dividend portfolio is one of the most practical, beginner-friendly ways for dads to start generating [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) — and you don't need a finance degree or a six-figure salary to get started. A dividend portfolio is a collection of stocks, ETFs, or funds that pay you cash at regular intervals just for owning them. Done right, it becomes a compounding income engine that grows quietly in the background while you're focused on work, family, and everything in between. This step-by-step guide explains exactly what dividends are, how to pick the right investments, which ETFs and stocks to consider in 2026, and how to structure a portfolio that fits your life as a busy dad.
 
 ---
 
@@ -15,7 +15,7 @@ For dads specifically, dividend investing checks several important boxes:
 - **It's truly passive.** Once you buy dividend stocks or ETFs, the income is automatic.
 - **It rewards long-term thinking.** The strategy is designed to hold quality companies for years or decades — which aligns naturally with planning for your kids' future.
 - **It builds confidence.** Seeing regular cash deposits from your portfolio makes the abstract concept of "investing" feel real and motivating.
-- **It's resilient.** The best dividend-paying companies have survived multiple recessions while maintaining — and even growing — their payouts to shareholders.[^2]
+- **It's resilient.** The best dividend-paying companies have survived multiple [7 Recession-Proof Assets Every Dad Should Consider](/article/7-recession-proof-assets-every-dad-should-consider)s while maintaining — and even growing — their payouts to shareholders.[^2]
 
 A well-constructed dividend portfolio in 2026 typically delivers:
 - A 2.5–4.5% starting yield on your investment

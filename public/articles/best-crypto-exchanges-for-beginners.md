@@ -143,7 +143,7 @@ Gemini stores the majority of customer assets in cold storage and has passed mul
 
 ## #4 Robinhood — Best for Beginners Already Using It for Stocks
 
-**Who it's for:** Investors who already have a Robinhood account for stocks or ETFs and want to add crypto exposure without opening a new account.
+**Who it's for:** Investors who already have a Robinhood account for stocks or [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s and want to add crypto exposure without opening a new account.
 
 Robinhood entered crypto in 2018 and has expanded its offering significantly since. It offers crypto trading alongside stocks, ETFs, and IRAs in a single app — a genuine convenience for anyone already using Robinhood for their [open a brokerage account](/article/how-to-open-a-brokerage-account). The interface is clean, the onboarding is fast, and the zero-commission model is attractive at first glance.[^10]
 

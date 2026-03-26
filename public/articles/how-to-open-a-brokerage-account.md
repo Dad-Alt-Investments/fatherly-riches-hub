@@ -12,7 +12,7 @@ Opening a brokerage account in 2026 takes about 10 to 15 minutes online and cost
 
 ## What Is a Brokerage Account — and Why Do You Need One?
 
-A brokerage account is an investment account that lets you buy and sell securities: stocks, ETFs, mutual funds, bonds, and more. You deposit money, the brokerage holds and executes your trades, and you own the investments directly in your name.
+A brokerage account is an investment account that lets you buy and sell securities: stocks, [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s, mutual funds, bonds, and more. You deposit money, the brokerage holds and executes your trades, and you own the investments directly in your name.
 
 It is fundamentally different from a [best high-yield savings accounts](/article/best-high-yield-savings-accounts). Money in a savings account earns a fixed interest rate set by the bank — typically 0.45–5.00% depending on the account type. Money in a brokerage account is put to work in the market, where the U.S. stock market has returned an average of approximately 10% annually over the past century before inflation, or roughly 7% after inflation. [^1]
 

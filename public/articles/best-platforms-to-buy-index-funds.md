@@ -103,7 +103,7 @@ Vanguard invented low-cost index investing for individual investors. The company
 
 ### The Gold Standard Lineup: VTSAX, VFIAX, VBTLX
 
-Vanguard's Admiral Share mutual funds are the reference standard for passive index investing. These are the funds that most books, financial planners, and long-term passive investors recommend when the phrase "three-fund portfolio" comes up: [^2]
+Vanguard's Admiral Share mutual funds are the reference standard for passive index investing. These are the funds that most books, [How to Build a Family Financial Plan](/article/how-to-build-a-family-financial-plan)ners, and long-term passive investors recommend when the phrase "three-fund portfolio" comes up: [^2]
 
 | Fund | Type | Expense Ratio | Minimum Investment |
 |---|---|---|---|
@@ -319,5 +319,5 @@ Not necessarily. VT (Vanguard Total World ETF, 0.07%) holds approximately 9,800 
 ## Recommended Reading
 
 - [Fidelity vs Vanguard vs Schwab: Which Is Best?](/article/fidelity-vs-vanguard-vs-schwab)
-- [How to Create Passive Income with ETFs](/article/passive-income-with-etfs)
+- [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)
 - [How to Open a Brokerage Account](/article/how-to-open-a-brokerage-account)

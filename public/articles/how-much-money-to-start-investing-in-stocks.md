@@ -1,6 +1,6 @@
 # How Much Money Do You Need to Start Investing in Stocks? (2026 Guide)
 
-*By DadAlt Investments | Category: Stocks & Brokerages | Last Updated: March 2026*
+*By DadAlt Investments | Category: Stocks & [How to Open a Brokerage Account](/article/how-to-open-a-brokerage-account)s | Last Updated: March 2026*
 
 ---
 
@@ -25,7 +25,7 @@ Over 30 million Americans now use fractional share platforms, according to Inves
 
 The minimum investment question matters less than people think because **time is the most powerful variable in long-term investing, not starting amount.** Every year you delay is a year of compounding you permanently forfeit — and unlike the amount you invest, forfeited compounding years can never be recovered.
 
-Consider this straightforward comparison at a 7% average annual return (a conservative estimate for a U.S. total stock market index fund over long periods):
+Consider this straightforward comparison at a 7% average annual return (a conservative estimate for a U.S. total stock market [Best Platforms to Buy Index Funds](/article/best-platforms-to-buy-index-funds) over long periods):
 
 - **Investor A** starts investing $200/month at age **25** and continues until age 65 — 40 years of investing
 - **Investor B** starts investing $200/month at age **35** and continues until age 65 — 30 years of investing
@@ -316,3 +316,11 @@ The counterargument — "it's only $100, it doesn't matter" — is mathematicall
 ---
 
 *Disclaimer: This article is for informational and educational purposes only and does not constitute financial, tax, or investment advice. Investment minimums, contribution limits, and expense ratios are subject to change. Verify all figures at the relevant institution before making investment decisions. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you.*
+
+---
+
+## Recommended Reading
+
+- [How to Open a Brokerage Account](/article/how-to-open-a-brokerage-account)
+- [The Ultimate Beginner's Guide to Investing](/article/beginners-guide-to-investing)
+- [Best Platforms to Buy Index Funds](/article/best-platforms-to-buy-index-funds)

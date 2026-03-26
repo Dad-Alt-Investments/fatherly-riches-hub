@@ -18,7 +18,7 @@ Cryptocurrency is digital money built on blockchain technology — a decentraliz
 
 For most of its history, Bitcoin was treated as either a curiosity or a purely speculative asset. That characterization has become increasingly difficult to maintain. By 2025, the conversation has shifted at every level of finance:
 
-- **BlackRock**, the world's largest asset manager, launched a spot Bitcoin ETF in January 2024 that grew to over **$70 billion in assets under management** in 341 days — a pace five times faster than gold ETFs took to reach the same milestone
+- **BlackRock**, the world's largest asset manager, launched a spot Bitcoin [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs) in January 2024 that grew to over **$70 billion in assets under management** in 341 days — a pace five times faster than gold ETFs took to reach the same milestone
 - **Harvard University's endowment** allocated $443 million to BlackRock's Bitcoin ETF by September 2025
 - **Corporate treasuries** including Strategy (formerly MicroStrategy), which holds 671,000+ Bitcoin on its balance sheet, have treated Bitcoin as a long-term hedge against dollar debasement
 - **BlackRock CEO Larry Fink** called Bitcoin an "asset of fear" in December 2025 — meaning investors turn to it during periods of inflation, geopolitical instability, or weakening confidence in traditional markets

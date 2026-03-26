@@ -61,7 +61,7 @@ You can walk into any coin dealer, pawn shop, or gold buyer in America with a re
 ### Cons of Physical Gold
 
 **1. The 28% collectibles capital gains tax rate.**
-This is the most significant financial drawback of physical gold. The IRS classifies gold as a collectible, meaning long-term capital gains (held more than one year) are taxed at your marginal income tax rate up to a **maximum of 28%** — compared to the 20% maximum long-term rate on stocks and ETFs.[^3] For most middle-income investors, this means paying their ordinary income rate on gold profits. For higher earners, the 28% cap still exceeds the 20% stock rate by 8 percentage points.
+This is the most significant financial drawback of physical gold. The IRS classifies gold as a collectible, meaning long-term capital gains (held more than one year) are taxed at your marginal income tax rate up to a **maximum of 28%** — compared to the 20% maximum long-term rate on stocks and [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s.[^3] For most middle-income investors, this means paying their ordinary income rate on gold profits. For higher earners, the 28% cap still exceeds the 20% stock rate by 8 percentage points.
 
 **2. Storage and security are your responsibility.**
 A home safe, a bank safe deposit box, or a private vault all cost money and require active management. Standard homeowner's insurance typically covers only $200–$2,500 in precious metals — you'll need to schedule your gold as a separate rider to be properly covered. Larger holdings warrant third-party vault storage, which typically runs 0.10%–0.50% of holdings value annually.

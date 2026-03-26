@@ -249,7 +249,7 @@ The wash-sale rule is the IRS's primary safeguard against artificial tax-loss ge
 
 - The wash-sale rule applies across all your accounts, including those outside your brokerage, as well as transactions in your IRA — and the rule extends even to your spouse's accounts.
 - Automatic dividend reinvestment (DRIP) can trigger wash sales if you sell a position at a loss while dividends are reinvesting in that same fund within the 61-day window. Disable DRIP on positions you're actively harvesting.
-- For example, let's say you took a loss on an ETF tracking the S&P 500 index. To avoid a wash sale, you could replace it with a different ETF with similar but not identical assets, such as one tracking the Russell 1000 Index. That would preserve your tax break and keep you in the market with about the same asset allocation.
+- For example, let's say you took a loss on an [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs) tracking the S&P 500 index. To avoid a wash sale, you could replace it with a different ETF with similar but not identical assets, such as one tracking the Russell 1000 Index. That would preserve your tax break and keep you in the market with about the same asset allocation.
 
 **Safe substitution examples:**
 - Sold Vanguard S&P 500 ETF (VOO)? Replace with Fidelity 500 Index Fund (FXAIX) or iShares Core S&P 500 ETF (IVV)

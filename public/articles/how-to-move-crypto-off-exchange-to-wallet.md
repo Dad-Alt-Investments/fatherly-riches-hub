@@ -34,7 +34,7 @@ Hardware wallets are physical devices — roughly the size of a USB drive — th
 **Top hardware wallets in 2026:**
 - **Ledger Nano X** — supports 5,500+ coins; Bluetooth connectivity; ~$149; CC EAL5+ certified secure element chip
 - **Trezor Model T** — 100% open-source firmware; touchscreen; supports 1,800+ coins; no Bluetooth (considered more secure by some); ~$219
-- **Ledger Nano S Plus** — budget option (~$79); USB-C; 5,500+ coins; no Bluetooth
+- **Ledger Nano S Plus** — [Simple Budget System for Busy Dads](/article/simple-budget-system-for-busy-dads) option (~$79); USB-C; 5,500+ coins; no Bluetooth
 
 **Best for:** Any crypto holding you plan to keep for months or years and don't need frequent access to.
 

@@ -85,7 +85,7 @@ Before you can make progress, you need to stop digging. Missed payments trigger 
 
 Set up automatic minimum payments for every account. This is non-negotiable. You cannot execute any payoff strategy if accounts are falling behind while you focus elsewhere.
 
-### Step 2: Build a $1,000 Starter Emergency Fund
+### Step 2: Build a $1,000 Starter [Emergency Fund vs Investing: What Comes First?](/article/emergency-fund-vs-investing)
 
 A small cash buffer is the difference between a temporary setback and a debt spiral. Without one, any car repair, medical bill, or unexpected expense goes directly onto a credit card — wiping out weeks or months of debt payoff progress. Before making extra debt payments or investing beyond the 401(k) match, build a **$1,000 cash cushion** in a separate high-yield savings account. This is your firewall.
 
@@ -286,7 +286,7 @@ Let's see how this framework works in a specific scenario.
 - Student loans: Still in repayment at minimum (5.5% rate doesn't justify accelerating)
 - 401(k) balance: Approximately $38,000+ (contributions + match + market growth)
 - Roth IRA: Approximately $12,000+ (started in year 2, growing tax-free)
-- Net worth: Dramatically higher than a dad who paused all investing to pay off the credit cards first — because he captured years of employer matching and compound growth that can never be recovered
+- [Best Tools for Tracking Net Worth](/article/best-tools-for-tracking-net-worth): Dramatically higher than a dad who paused all investing to pay off the credit cards first — because he captured years of employer matching and compound growth that can never be recovered
 
 This is not a "pay off everything first" plan. It's a strategic dual-track plan that eliminates the most expensive debt quickly while building a foundation of invested assets simultaneously.
 

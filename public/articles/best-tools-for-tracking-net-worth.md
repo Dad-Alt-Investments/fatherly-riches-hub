@@ -99,7 +99,7 @@ Monarch Money was built by a founder who previously worked on Mint, and its desi
 
 ### The Honest Tradeoffs
 
-Monarch costs $14.99/month — there is no free tier beyond the 7-day trial. For investment-focused users who primarily want a net worth and portfolio tracker, Empower provides comparable or superior investment analytics at zero cost. Monarch earns its price through the combination of budgeting, net worth tracking, collaborative access, and superior user interface design — not through investment analysis depth alone.
+Monarch costs $14.99/month — there is no free tier beyond the 7-day trial. For investment-focused users who primarily want a net worth and [Best Crypto Portfolio Trackers](/article/best-crypto-portfolio-trackers), Empower provides comparable or superior investment analytics at zero cost. Monarch earns its price through the combination of budgeting, net worth tracking, collaborative access, and superior user interface design — not through investment analysis depth alone.
 
 **Monarch is the right choice if:** You are managing finances jointly with a partner, you want both budgeting and net worth tracking in one polished platform, and the $99.99/year subscription is within your budget.
 
@@ -141,7 +141,7 @@ Despite the sophistication of app-based tools, a manually maintained net worth s
 - **Total privacy:** No financial account credentials are ever linked to any third party. No aggregation service holds your data. No company can suffer a data breach on your behalf.
 - **Complete control:** You define exactly what goes into your net worth calculation, how categories are organized, and how historical data is displayed.
 - **Zero connectivity risk:** Apps occasionally lose connections to financial institutions, fail to sync, or categorize transactions incorrectly. A spreadsheet has no connectivity dependencies.
-- **Fully customizable:** Want to track business equity, alternative investments, physical gold holdings, or a complex real estate portfolio? A spreadsheet handles anything, with no platform limitations.
+- **Fully customizable:** Want to track business equity, alternative investments, [How to Buy Physical Gold Online Safely](/article/how-to-buy-physical-gold-online-safely) holdings, or a complex real estate portfolio? A spreadsheet handles anything, with no platform limitations.
 
 ### How to Build a Simple Net Worth Spreadsheet
 

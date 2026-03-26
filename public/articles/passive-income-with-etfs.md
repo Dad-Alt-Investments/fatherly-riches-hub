@@ -59,7 +59,7 @@ They are best suited for investors who need maximum current income today and are
 
 ### Strategy 4: REIT ETFs — Real Estate Income Without Landlord Headaches
 
-Real Estate Investment Trusts (REITs) are companies that own income-producing real estate — apartment complexes, warehouses, data centers, shopping centers, hospitals, and more. By law, REITs must distribute at least 90% of their taxable income to shareholders each year to maintain their tax-advantaged corporate structure.[^3]
+[Top 5 Real Estate Investment Options](/article/top-5-real-estate-investment-options)ment Trusts (REITs) are companies that own income-producing real estate — apartment complexes, warehouses, data centers, shopping centers, hospitals, and more. By law, REITs must distribute at least 90% of their taxable income to shareholders each year to maintain their tax-advantaged corporate structure.[^3]
 
 REIT ETFs bundle dozens or hundreds of individual REITs into a single fund, giving investors real estate exposure with a yield that typically runs 3–4 times the S&P 500's dividend yield — without the burden of managing a property, finding tenants, or handling repairs.
 
@@ -149,7 +149,7 @@ Morningstar has assigned JEPI a Silver Medalist rating, noting that its nuanced 
 
 The critical trade-off: JEPI's 8%+ yield comes at the cost of capped upside. When the S&P 500 surged between May and September 2025, JEPI lagged the index by more than 14 percentage points.[^12] In rough markets, however, JEPI provided significant protection — it beat the S&P 500 by 14.2 percentage points during the 2022 market meltdown.[^12]
 
-JEPI's monthly distributions also fluctuate considerably. In 2025, the per-share payout ranged from $0.33 to $0.54 — a 66% swing — making it unreliable as a precise monthly budget tool.[^13]
+JEPI's monthly distributions also fluctuate considerably. In 2025, the per-share payout ranged from $0.33 to $0.54 — a 66% swing — making it unreliable as a precise monthly [Simple Budget System for Busy Dads](/article/simple-budget-system-for-busy-dads) tool.[^13]
 
 **Tax note**: JEPI's distributions are largely classified as ordinary income, not qualified dividends. This makes JEPI significantly more tax-efficient when held inside a tax-advantaged account (Roth IRA, Traditional IRA, or 401k) rather than a taxable brokerage account.
 

@@ -110,7 +110,7 @@ Schwab's automated investing product manages your Roth IRA portfolio with no adv
 - Invests in a diversified portfolio of low-cost Schwab ETFs
 - Automatic rebalancing when allocations drift
 - 24/7 live support included
-- **Schwab Intelligent Portfolios Premium:** for $300 one-time planning fee + $30/month, you get unlimited access to a Certified Financial Planner — one of the lowest-cost CFP access programs available anywhere
+- **Schwab Intelligent Portfolios Premium:** for $300 one-time planning fee + $30/month, you get unlimited access to a Certified [How to Build a Family Financial Plan](/article/how-to-build-a-family-financial-plan)ner — one of the lowest-cost CFP access programs available anywhere
 
 **The [how much to keep in cash vs investments](/article/how-much-cash-vs-investments) note:** Schwab Intelligent Portfolios requires a minimum 6–10% cash allocation in every portfolio, which earns a low sweep rate (approximately 0.05%). This is how Schwab partially offsets the cost of the free advisory service. For most long-term investors this is a modest trade-off, but it is worth understanding.
 
@@ -303,7 +303,7 @@ For most beginners and younger investors, the Roth IRA is the better choice. The
 
 - [Compound Interest Explained](/article/compound-interest-explained) — why tax-free compounding inside a Roth IRA is so powerful
 - [Best Platforms to Buy Index Funds](/article/best-platforms-to-buy-index-funds) — what to hold inside your Roth IRA
-- [How to Create Passive Income with ETFs](/article/passive-income-with-etfs) — income-generating ETFs optimized for Roth IRA tax shelter
+- [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs) — income-generating ETFs optimized for Roth IRA tax shelter
 - [Tax-Efficient Investing](/article/tax-efficient-investing) — the complete strategy for where to hold what
 - [How Much Should You Have Invested by Age?](/article/how-much-should-you-have-invested-by-age) — benchmarks to measure your progress
 
