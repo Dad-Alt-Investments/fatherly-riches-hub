@@ -86,6 +86,9 @@ const ArticlePage = () => {
               </span>
             ))}
           </div>
+          <div className="mt-5">
+            <AuthorBio variant="byline" />
+          </div>
         </div>
       </section>
 
