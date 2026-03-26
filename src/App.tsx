@@ -10,6 +10,7 @@ import About from "./pages/About";
 import Resources from "./pages/Resources";
 import CategoryPage from "./pages/CategoryPage";
 import ArticlePage from "./pages/ArticlePage";
+import Newsletter from "./pages/Newsletter";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -26,6 +27,7 @@ const App = () => (
             <Route path="/start-here" element={<StartHere />} />
             <Route path="/about" element={<About />} />
             <Route path="/resources" element={<Resources />} />
+            <Route path="/newsletter" element={<Newsletter />} />
             <Route path="/category/:slug" element={<CategoryPage />} />
             <Route path="/article/:slug" element={<ArticlePage />} />
           </Route>
