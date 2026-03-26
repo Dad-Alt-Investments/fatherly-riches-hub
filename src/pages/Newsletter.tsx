@@ -23,6 +23,9 @@ const Newsletter = () => {
         <h1 className="mb-8 text-center font-heading text-3xl font-bold md:text-4xl">
           Get the Free Dad Wealth Guide
         </h1>
+        <p className="mb-8 text-center font-body text-muted-foreground">
+          Sign-up for our email list and get the guide sent to your inbox. We'll also periodically send you other investment advice and tips to guide you on your journey.
+        </p>
         <iframe
           src="https://link.nashvilledigital.co/widget/form/vN0O3M32s8uMdPa5fvcy"
           style={{ width: "100%", height: "883px", border: "none", borderRadius: "3px" }}
