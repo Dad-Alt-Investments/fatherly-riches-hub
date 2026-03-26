@@ -50,7 +50,7 @@ export default async function ArticlePage({
   }
 
   const markdown = await getArticleMarkdown(resolvedParams.slug);
-  const faqData = articleFAQs[resolvedParams.slug];
+  const faqData = articleFaqs[resolvedParams.slug];
 
   const imageFileName = article.image ? article.image.split("/").pop() || "" : "";
   const meta = imageFileName ? getImageMetadata(imageFileName) : null;
