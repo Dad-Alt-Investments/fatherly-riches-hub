@@ -20,6 +20,9 @@ const Newsletter = () => {
   return (
     <section className="container-wide section-padding">
       <div className="mx-auto max-w-2xl">
+        <h1 className="mb-8 text-center font-heading text-3xl font-bold md:text-4xl">
+          Get the Free Dad Wealth Guide
+        </h1>
         <iframe
           src="https://link.nashvilledigital.co/widget/form/vN0O3M32s8uMdPa5fvcy"
           style={{ width: "100%", height: "883px", border: "none", borderRadius: "3px" }}
