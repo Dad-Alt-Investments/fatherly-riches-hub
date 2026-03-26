@@ -1,6 +1,7 @@
 import { useParams, Link } from "react-router-dom";
 import { useState, useEffect } from "react";
 import { PenLine, ArrowRight } from "lucide-react";
+import AuthorBio from "@/components/AuthorBio";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { articles } from "@/data/content";
@@ -84,6 +85,9 @@ const ArticlePage = () => {
                 {tag}
               </span>
             ))}
+          </div>
+          <div className="mt-5">
+            <AuthorBio variant="byline" />
           </div>
         </div>
       </section>

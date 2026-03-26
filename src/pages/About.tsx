@@ -1,4 +1,5 @@
 import EmailCapture from "@/components/home/EmailCapture";
+import AuthorBio from "@/components/AuthorBio";
 import jaredPhoto from "@/assets/jared-devalk.jpeg";
 import { usePageMeta } from "@/hooks/use-page-meta";
 
@@ -80,71 +81,38 @@ const About = () => {
             </ul>
           </div>
 
-          {/* Founder Story */}
+          {/* Founder Story — E-E-A-T Optimized */}
           <div className="mt-16 border-t pt-12">
             <div className="mb-8 flex flex-col items-center gap-6 sm:flex-row sm:items-start">
               <img
                 src={jaredPhoto}
-                alt="Jared DeValk, founder of DadAlt Investments"
+                alt="Jared DeValk — founder of DadAlt Investments, alternative investment educator and father helping dads build generational wealth"
                 className="h-40 w-40 shrink-0 rounded-xl object-cover object-top shadow-md"
               />
               <div>
                 <h2 className="font-heading text-2xl font-bold">
-                  Meet the Founder
+                  About the Founder
                 </h2>
                 <p className="mt-3 font-body text-lg font-medium leading-relaxed text-foreground/90">
-                  Hi, I'm Jared DeValk — and I blew through $100,000 at 23 while "investing."
+                  Hi, I'm Jared DeValk — father of two, licensed real estate professional, and the guy who lost $100,000 learning what <em>not</em> to do with money.
                 </p>
               </div>
             </div>
 
             <div className="space-y-5 font-body text-base leading-relaxed text-foreground/80">
+              {/* Paragraph 1: The "Why" — Loss & Responsibility */}
               <p>
-                My dad, Jack DeValk, taught my brother and me about personal finance early. He started simple: he asked us what company we wanted to invest in, and he bought us $100 worth of stock.
+                My dad, Jack DeValk, put my first $100 into the stock market when I was a kid. He taught me that investing wasn't gambling — it was planning. Then in 2011, at 57, he died in a freak accident. I was 23 with a baby on the way, a fiancé, and suddenly no one to ask the hard money questions. I poured cash into gurus, courses, and bad deals — chasing confidence I didn't have. By the time the dust settled, I'd burned through six figures and had nothing but expensive lessons.
               </p>
+
+              {/* Paragraph 2: The "How" — Years of Testing & Learning */}
               <p>
-                My brother loved those little toy cars called Micro Machines. I had a bike that looked like a Harley Davidson. So those were the companies we chose.
+                Over the next 14 years, I rebuilt from scratch. I studied every alternative asset class I could get my hands on — crypto, precious metals, fractional real estate, small business acquisitions, dividend portfolios. Not from textbooks, but by putting real money on the line, tracking results, and learning which strategies actually hold up when you've got a mortgage, kids in school, and zero margin for "YOLO" trades. I earned my real estate license, built and sold businesses, and stacked a portfolio designed for family stability — not Instagram clout.
               </p>
-              <p>I chose well. And I was hooked on investing from that point forward.</p>
-              <p className="font-semibold text-foreground">Then 2011 hit.</p>
-              <p>
-                I was 23 years old. A baby on the way. A fiancé. A brand new career in real estate.
-              </p>
-              <p>
-                And right as I was stepping into fatherhood, my dad died in a freak swimming accident at 57.
-              </p>
-              <p>
-                The man who had taught me how to think about money…<br />
-                How to make decisions…<br />
-                How to be steady…
-              </p>
-              <p className="font-semibold text-foreground">He was suddenly gone.</p>
-              <p>
-                I had never felt more responsible — or more lost.
-              </p>
-              <p>
-                I still had so many questions. About money. About responsibility. About how to build something stable for my new family.
-              </p>
-              <p>
-                Instead of wise guidance, I spent money on courses, coaches, gurus, and bad investments. I made emotional decisions. I chased things I didn't fully understand.
-              </p>
-              <p className="font-semibold text-foreground">And I lost a lot.</p>
-              <p>I wish my dad had been there to help me slow down.</p>
-              <p>
-                I'm 37 now. I've made plenty of mistakes — and I'm still learning. But somewhere along the way, tempered optimism replaced hype. Healthy skepticism replaced urgency. And I finally reached a place where I don't lie awake wondering if I'm prepared for the future.
-              </p>
+
+              {/* Paragraph 3: The "Purpose" — Legacy & Mission */}
               <p className="font-semibold text-foreground">
-                I built DadAlt Investments to give you the kind of financial direction I wish I could still get from my dad.
-              </p>
-
-              <div className="my-6 space-y-1 pl-4 border-l-2 border-primary">
-                <p>No sales hype.</p>
-                <p>No false promises.</p>
-                <p>No "100x" nonsense.</p>
-              </div>
-
-              <p>
-                Just clear, grounded guidance to help you build a portfolio aligned with your goals — and your life.
+                I built DadAlt Investments to be the guide I wish my dad had lived long enough to give me. Every article, every comparison, every recommendation on this site comes from the same place: a dad who's made the mistakes, done the research, and wants to help other fathers skip the expensive learning curve. No hype. No "100x" promises. Just calculated decisions for men building something that lasts.
               </p>
 
               <div className="my-6 space-y-1 pl-4 border-l-2 border-accent">
@@ -156,6 +124,11 @@ const About = () => {
               <p className="font-heading text-xl font-bold text-foreground">
                 You're in the right place.
               </p>
+            </div>
+
+            {/* Expertise Signals — E-E-A-T Trust Badges */}
+            <div className="mt-10">
+              <AuthorBio variant="full" />
             </div>
           </div>
         </div>
