@@ -107,6 +107,35 @@ const ArticlePage = () => {
       )}
 
       <div className="container-article section-padding">
+        {/* FAQ JSON-LD Schema */}
+        {articleFaqs[article.slug] && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify({
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                mainEntity: articleFaqs[article.slug].faqs.map((faq) => ({
+                  "@type": "Question",
+                  name: faq.question,
+                  acceptedAnswer: { "@type": "Answer", text: faq.answer },
+                })),
+              }),
+            }}
+          />
+        )}
+
+        {/* Direct Answer Block */}
+        {articleFaqs[article.slug] && (
+          <div className="mb-8 rounded-lg border border-accent/30 bg-accent/5 p-5 md:p-6">
+            <p className="mb-1 font-heading text-xs font-bold uppercase tracking-wider text-accent">
+              The Short Answer
+            </p>
+            <p className="font-body text-base font-medium leading-relaxed text-foreground/90">
+              {articleFaqs[article.slug].directAnswer}
+            </p>
+          </div>
+        )}
         {/* Dad's Bottom Line */}
         <div className="bottom-line-box mb-12 p-6 md:p-8">
           <div className="mb-3 flex items-center gap-2">
