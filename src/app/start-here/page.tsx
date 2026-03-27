@@ -1,4 +1,4 @@
-import StartHerePage from "@/pages/StartHere";
+import StartHerePage from "@/views/StartHere";
 import { generateSEOMetadata } from "@/lib/seo/metadata";
 
 export const metadata = generateSEOMetadata({

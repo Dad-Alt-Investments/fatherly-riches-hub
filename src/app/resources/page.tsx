@@ -1,4 +1,4 @@
-import ResourcesPage from "@/pages/Resources";
+import ResourcesPage from "@/views/Resources";
 import { generateSEOMetadata } from "@/lib/seo/metadata";
 
 export const metadata = generateSEOMetadata({

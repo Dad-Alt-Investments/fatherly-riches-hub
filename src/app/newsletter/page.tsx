@@ -1,4 +1,4 @@
-import NewsletterPage from "@/pages/Newsletter";
+import NewsletterPage from "@/views/Newsletter";
 import { generateSEOMetadata } from "@/lib/seo/metadata";
 
 export const metadata = generateSEOMetadata({
