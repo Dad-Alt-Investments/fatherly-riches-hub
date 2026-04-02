@@ -4,11 +4,11 @@ Owning real estate used to require a large down payment, a mortgage, and the sta
 
 ---
 
-## What Is Fractional [real estate investment options for dads](/article/top-5-real-estate-investment-options)ing?
+## What Is Fractional Real Estate Investing?
 
 Fractional real estate investing means purchasing a partial ownership stake in a property — or a fund that holds multiple properties — rather than buying an entire home or building outright. Multiple investors pool their capital together, and each person owns a proportionate share of the asset. Returns come from two sources: rental income distributions (paid monthly or quarterly) and potential appreciation in the property's value when it's eventually sold.
 
-This concept isn't entirely new — real estate investment trusts (REITs) have existed since 1960. What changed is accessibility. The JOBS Act of 2012 opened the door for crowdfunding platforms to raise capital from everyday investors online, and a new generation of fintech companies has since built user-friendly apps that let anyone invest without a [open a brokerage account](/article/how-to-open-a-brokerage-account), a real estate license, or a six-figure [Best Tools for Tracking Net Worth](/article/best-tools-for-tracking-net-worth).[^1]
+This concept isn't entirely new — real estate investment trusts (REITs) have existed since 1960. What changed is accessibility. The JOBS Act of 2012 opened the door for crowdfunding platforms to raise capital from everyday investors online, and a new generation of fintech companies has since built user-friendly apps that let anyone invest without a [opening a brokerage account](/article/how-to-open-a-brokerage-account), a real estate license, or a six-figure net worth. If you do have the money, check our [real estate investment options for dads](/article/top-5-real-estate-investment-options).
 
 ### Why Fractional Real Estate Is Growing So Fast
 
@@ -16,7 +16,7 @@ The numbers reflect a significant shift in how Americans are investing:
 
 - **60% of fractional real estate investors are under the age of 40**, according to Lofty's 2025 Fractional Ownership Trends report.[^2]
 - Fractional investment platforms reported annual growth rates exceeding **20%** over the past several years.[^3]
-- The tokenized real estate market — a subset of fractional ownership using [how blockchain impacts small business](/article/blockchain-small-business) — is projected to grow to **$19.4 billion by 2033**.[^2]
+- The tokenized real estate market — a subset of fractional ownership using [assets on the blockchain](/article/blockchain-small-business) — is projected to grow to **$19.4 billion by 2033**.[^2]
 - Fundrise alone now manages over **$3.3 billion in assets** and serves more than **380,000 active investors**.[^4]
 - Arrived has funded over **536 properties in 66 markets**, paying out more than **$71 million in distributions** to investors.[^5]
 
@@ -139,7 +139,7 @@ According to Arrived's 2025 Year in Review:
 - The **Arrived Private Credit Fund** delivered an annualized yield ranging from **8.1% to 8.4%** in 2025, with no loss of principal and a stable $10 share price throughout the year.[^10]
 - In Q3 2025, individual single-family residential properties earned an **average annualized dividend of 4%**, with a range of 0.4%–10.4% depending on the property.[^11]
 
-Combined [build a dividend portfolio](/article/dividend-portfolio-beginner-dad) and property appreciation estimates project total annual returns around **6–12%** for long-term investors — competitive with public equity REITs, but without the daily volatility.[^8]
+Combined [portfolio](/article/dividend-portfolio-beginner-dad) and property appreciation estimates project total annual returns around **6–12%** for long-term investors — competitive with public equity REITs, but without the daily volatility.[^8]
 
 ### New Features in 2025
 
@@ -244,7 +244,7 @@ For accredited investors, individual real estate offerings typically require a *
 Yieldstreet has a more complex track record than its competitors. Multiple investor surveys have raised concerns about:
 
 - **Customer service quality** — difficulty getting timely responses on specific deals[^16]
-- **[evaluate a business before buying](/article/how-to-evaluate-a-business-before-buying-it) transparency** — some investors report sparse information on individual offerings
+- **Buying transparency** — some investors report sparse information on individual offerings
 - **Past defaults** — the platform has experienced notable losses on several deals over the years
 - **Fees** — some offerings carry fees up to 2–3x higher than comparable platforms[^16]
 
