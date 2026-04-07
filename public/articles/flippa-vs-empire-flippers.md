@@ -1,6 +1,6 @@
 # Flippa vs Empire Flippers: Which Is Better for Buying an Online Business?
 
-**Category:** Buying Businesses | **Tags:** Beginner Guides · Online Business · Guides & How-To's · [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners)
+**Category:** Buying Businesses | **Tags:** Beginner Guides · Online Business · Guides & How-To's · [Passive Income](/article/best-passive-income-investments-for-beginners)
 
 **Target Keywords:** Flippa vs Empire Flippers, buy online business, online business marketplace
 
@@ -44,7 +44,7 @@ The platform operates like a traditional open marketplace—similar in spirit to
 
 Listings range from a few hundred dollars to tens of millions. In 2022, a portfolio of Singapore-based mobile apps sold on Flippa for $35 million—the platform's largest transaction to date. The platform's sweet spot is deals under $1 million, with the majority of volume concentrated below $250,000.
 
-According to Flippa's own data, 84% of transactions under $250,000 sell to individual acquisition entrepreneurs and [side business ideas](/article/5-side-business-ideas)rs—which maps almost perfectly to the DadAlt audience.
+According to Flippa's own data, 84% of transactions under $250,000 sell to individual acquisition entrepreneurs and [side business owners](/article/5-side-business-ideas) which maps almost perfectly to the DadAlt audience.
 
 ---
 
@@ -77,7 +77,7 @@ This is the most important difference between the two platforms.
 
 **Flippa:**
 
-Flippa uses a tiered self-verification system. Sellers can connect third-party data sources (Google Analytics, Stripe, PayPal, Shopify) to provide automated revenue verification, but the review is largely self-reported. For listings above certain price thresholds, Flippa does conduct remote audits, but these are not as thorough as full [evaluate a business before buying](/article/how-to-evaluate-a-business-before-buying-it). The platform's open model means buyers regularly encounter listings with inflated metrics, missing data, or outright misrepresentation. Flippa has improved its systems over the years, but buyer beware remains the operating philosophy on this platform.
+Flippa uses a tiered self-verification system. Sellers can connect third-party data sources (Google Analytics, Stripe, PayPal, Shopify) to provide automated revenue verification, but the review is largely self-reported. For listings above certain price thresholds, Flippa does conduct remote audits, but these are not as thorough as full [business evaluations](/article/how-to-evaluate-a-business-before-buying-it). The platform's open model means buyers regularly encounter listings with inflated metrics, missing data, or outright misrepresentation. Flippa has improved its systems over the years, but buyer beware remains the operating philosophy on this platform.
 
 **Empire Flippers:**
 
@@ -196,7 +196,7 @@ Empire Flippers has a dedicated migration team. After both parties provide acces
 
 ---
 
-### 6. [spot a good online business deal](/article/how-to-spot-a-good-online-business-deal) and Multiples
+### 6. [Online Businesses](/article/how-to-spot-a-good-online-business-deal) and Multiples
 
 Understanding valuation multiples matters whether you're buying or selling. Both platforms price businesses primarily on a multiple of monthly net profit (also described as a multiple of the trailing twelve months of earnings, or "TTM").
 
