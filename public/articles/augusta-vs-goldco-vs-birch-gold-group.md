@@ -4,7 +4,7 @@
 
 ---
 
-If you've spent more than ten minutes researching [top [Best Gold IRA Companies](/article/best-gold-ira-companies) companies](/article/top-gold-ira-companies-reviewed)s online, you've already encountered these three names — Augusta Precious Metals, Goldco, and Birch Gold Group. They dominate search results, podcast sponsorships, and financial media because they're the three largest, most established Gold IRA dealers in the United States. All three carry A+ Better Business Bureau ratings, all three have thousands of verified customer reviews, and all three have been operating long enough to have processed rollovers through multiple market cycles. But they are not interchangeable. Augusta requires a $50,000 minimum and delivers an education-first, white-glove experience built for serious retirement investors. Goldco is the most polished rollover machine in the industry, built for first-timers who want hand-holding through the process. Birch Gold has the lowest barrier to entry at $10,000, the most transparent published fee structure, and the broadest metal selection. This guide breaks down all three across fees, minimums, metals offered, storage options, reputation, and the specific investor each one serves best — so you can make a clear, confident decision before committing your retirement savings.
+If you've spent more than ten minutes researching [Best Gold IRA Companies](/article/top-gold-ira-companies-reviewed) online, you've already encountered these three names — Augusta Precious Metals, Goldco, and Birch Gold Group. They dominate search results, podcast sponsorships, and financial media because they're the three largest, most established Gold IRA dealers in the United States. All three carry A+ Better Business Bureau ratings, all three have thousands of verified customer reviews, and all three have been operating long enough to have processed rollovers through multiple market cycles. But they are not interchangeable. Augusta requires a $50,000 minimum and delivers an education-first, white-glove experience built for serious retirement investors. Goldco is the most polished rollover machine in the industry, built for first-timers who want hand-holding through the process. Birch Gold has the lowest barrier to entry at $10,000, the most transparent published fee structure, and the broadest metal selection. This guide breaks down all three across fees, minimums, metals offered, storage options, reputation, and the specific investor each one serves best — so you can make a clear, confident decision before committing your retirement savings.
 
 ---
 
@@ -263,7 +263,7 @@ Any gold product that fails to meet .995 purity — other than the American Gold
 
 ### The Home Storage Prohibition
 
-You **cannot** [store gold at home safely](/article/how-to-store-gold-at-home-safely) IRA metals at home, in a personal safe, or in a bank safe deposit box. This is one of the most commonly misunderstood rules in the precious metals IRA space.
+You **cannot** [store gold at home ](/article/how-to-store-gold-at-home-safely), or any other IRA precious metals, in a personal safe, or in a bank safe deposit box. This is one of the most commonly misunderstood rules in the precious metals IRA space.
 
 Under IRS rules and IRC Section 4975, if you take personal possession of your IRA metals, the entire IRA is treated as a taxable distribution in that year. You will owe income tax on the full value plus a 10% early withdrawal penalty if you are under age 59½. So-called "home storage IRA" schemes that claim otherwise are illegal and will trigger IRS enforcement.[^10]
 
@@ -304,7 +304,7 @@ The process is straightforward but requires following IRS transfer rules careful
 4. **Metals are purchased by the custodian** and shipped directly to the IRS-approved depository — you never take possession
 5. **Receive account confirmation** from the custodian showing your holdings
 
-The full process typically takes 1–2 weeks from account opening to funded and invested. Note: you cannot transfer [buy physical gold safely](/article/how-to-buy-physical-gold-online-safely) you already own into a Gold IRA — all metals must be newly purchased through the custodian.[^13]
+The full process typically takes 1–2 weeks from account opening to funded and invested. Note: you cannot transfer [physical gold](/article/how-to-buy-physical-gold-online-safely) you already own into a Gold IRA — all metals must be newly purchased through the custodian.[^13]
 
 ---
 
