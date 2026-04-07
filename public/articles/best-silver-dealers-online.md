@@ -24,7 +24,7 @@ Silver occupies a unique investment position that no other precious metal shares
 - **Higher price volatility than gold.** Because silver has significant industrial demand, it responds more sharply to economic cycle data — falling faster in recessions and rising faster in recoveries than gold. This volatility cuts both ways.
 - **The same collectibles tax treatment as gold.** The IRS taxes physical silver gains at your marginal income rate up to a **28% maximum** for long-term holdings — the same collectibles rate that applies to gold, and higher than the 20% maximum on most stock gains.
 
-> **Suggested allocation framework:** Most [build a family financial plan](/article/how-to-build-a-family-financial-plan)ners who include precious metals suggest 5–15% of a portfolio, with a common mix of roughly **70% gold / 30% silver** by value. Given silver's lower per-ounce price, that 30% in silver represents a significant number of physical ounces.
+> **Suggested allocation framework:** Most [financial planners](/article/how-to-build-a-family-financial-plan) who include precious metals suggest 5–15% of a portfolio, with a common mix of roughly **70% gold / 30% silver** by value. Given silver's lower per-ounce price, that 30% in silver represents a significant number of physical ounces.
 
 ---
 
@@ -238,11 +238,11 @@ Four rules that make a material difference:
 
 ### How many ounces of silver should I own?
 
-There is no universal answer — it depends entirely on your portfolio size and goals. A common starting framework: if silver represents 5% of your overall wealth as a hedge, and your [Best Tools for Tracking Net Worth](/article/best-tools-for-tracking-net-worth) is $100,000, that's $5,000 in silver — approximately 58–62 oz at current prices. Most serious precious metals investors use a **70/30 split by value between gold and silver**, which at current prices means approximately 3x more ounces of silver than implied gold equivalents. Silver's lower entry point means you can build a meaningful position incrementally, starting with a single tube or a few coins and adding over time.
+There is no universal answer — it depends entirely on your portfolio size and goals. A common starting framework: if silver represents 5% of your overall wealth as a hedge, and your [Net Worth](/article/best-tools-for-tracking-net-worth) is $100,000, that's $5,000 in silver — approximately 58–62 oz at current prices. Most serious precious metals investors use a **70/30 split by value between gold and silver**, which at current prices means approximately 3x more ounces of silver than implied gold equivalents. Silver's lower entry point means you can build a meaningful position incrementally, starting with a single tube or a few coins and adding over time.
 
 ### Is silver a good investment in 2026?
 
-Silver's fundamental case in 2026 is stronger than it has been in years: a persistent six-year supply deficit, surging industrial demand from solar and EVs, and silver's all-time nominal high in January 2026 all reflect genuine supply-demand tension rather than purely speculative momentum.[^2] However, silver is not a growth investment — it produces no income, lags the S&P 500 significantly over long periods, and carries the same 28% collectibles tax rate as gold. The strongest case for silver is as a **portfolio hedge** (5–15% allocation) and a tangible asset that preserves purchasing power during [How to Protect Your Portfolio from Inflation](/article/how-to-protect-your-portfolio-from-inflation)ary periods and currency stress. It is not a substitute for a stock and bond portfolio — it is insurance and diversification within one.
+Silver's fundamental case in 2026 is stronger than it has been in years: a persistent six-year supply deficit, surging industrial demand from solar and EVs, and silver's all-time nominal high in January 2026 all reflect genuine supply-demand tension rather than purely speculative momentum.[^2] However, silver is not a growth investment — it produces no income, lags the S&P 500 significantly over long periods, and carries the same 28% collectibles tax rate as gold. The strongest case for silver is as a **portfolio hedge** (5–15% allocation) and a tangible asset that preserves purchasing power during [Inflation](/article/how-to-protect-your-portfolio-from-inflation)ary periods and currency stress. It is not a substitute for a stock and bond portfolio — it is insurance and diversification within one.
 
 ---
 

@@ -6,7 +6,7 @@
 
 ## Summary
 
-Index funds are the closest thing investing has to a proven, universally endorsed strategy: low cost, broad diversification, and decades of data showing they outperform most actively managed funds over long time horizons. The question for most investors is not whether to buy index funds — it is where to buy them, and which specific funds to own. This guide breaks down the four best platforms for index fund investors in 2026: [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) for the absolute lowest costs and broadest flexibility, Vanguard for investors who specifically want to hold flagship mutual funds like VTSAX in their native home, Schwab for full-service access alongside competitive native index funds, and M1 Finance for hands-off investors who want their entire multi-fund allocation managed automatically. Every platform recommended here charges $0 commissions on ETF trades, supports IRA accounts, and allows automatic recurring investment.
+Index funds are the closest thing investing has to a proven, universally endorsed strategy: low cost, broad diversification, and decades of data showing they outperform most actively managed funds over long time horizons. The question for most investors is not whether to buy index funds — it is where to buy them, and which specific funds to own. This guide breaks down the four best platforms for index fund investors in 2026: [compare Fidelity](/article/fidelity-vs-vanguard-vs-schwab) for the absolute lowest costs and broadest flexibility, Vanguard for investors who specifically want to hold flagship mutual funds like VTSAX in their native home, Schwab for full-service access alongside competitive native index funds, and M1 Finance for hands-off investors who want their entire multi-fund allocation managed automatically. Every platform recommended here charges $0 commissions on ETF trades, supports IRA accounts, and allows automatic recurring investment.
 
 ---
 
@@ -60,7 +60,7 @@ Fidelity's ZERO fund lineup is genuinely unique. As confirmed by Fidelity's pric
 | **FNILX** | Large Cap (S&P 500 equivalent) | **0.00%** | $0 |
 | **FZIPX** | Extended Market | **0.00%** | $0 |
 
-No other retail brokerage offers index funds with a 0.00% expense ratio. The next-lowest competitors — Vanguard's VTI, Schwab's SWTSX — charge 0.03%. On a $100,000 portfolio, that difference is $30/year. Over 30 years of [understand compound interest](/article/compound-interest-explained), the saved fees add up to more than $2,000 in additional portfolio value. [^5]
+No other retail brokerage offers index funds with a 0.00% expense ratio. The next-lowest competitors — Vanguard's VTI, Schwab's SWTSX — charge 0.03%. On a $100,000 portfolio, that difference is $30/year. Over 30 years of [compound interest](/article/compound-interest-explained), the saved fees add up to more than $2,000 in additional portfolio value. [^5]
 
 **FZROX vs. VTI — the honest comparison:**
 - Both track the total U.S. stock market with 0.99 correlation [^5]
@@ -68,7 +68,7 @@ No other retail brokerage offers index funds with a 0.00% expense ratio. The nex
 - FZROX is available exclusively through Fidelity accounts and cannot be transferred in-kind to another brokerage — if you move your account, FZROX must be sold first
 - FZROX pays dividends annually (though it reinvests them internally throughout the year, reflected in share price), while VTI pays quarterly dividends
 
-For investors who plan to stay at Fidelity long-term — which is a reasonable commitment given the platform's quality — FZROX inside a [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) is the most cost-efficient index fund structure available anywhere.
+For investors who plan to stay at Fidelity long-term — which is a reasonable commitment given the platform's quality — FZROX inside a [Roth IRA](/article/best-roth-ira-providers-for-beginners) is the most cost-efficient index fund structure available anywhere.
 
 ### Fidelity Also Offers VTI, VOO, and BND Commission-Free
 
@@ -103,7 +103,7 @@ Vanguard invented low-cost index investing for individual investors. The company
 
 ### The Gold Standard Lineup: VTSAX, VFIAX, VBTLX
 
-Vanguard's Admiral Share mutual funds are the reference standard for passive index investing. These are the funds that most books, [How to Build a Family Financial Plan](/article/how-to-build-a-family-financial-plan)ners, and long-term passive investors recommend when the phrase "three-fund portfolio" comes up: [^2]
+Vanguard's Admiral Share mutual funds are the reference standard for passive index investing. These are the funds that most books, [HFinancial Planners](/article/how-to-build-a-family-financial-plan), and long-term passive investors recommend when the phrase "three-fund portfolio" comes up: [^2]
 
 | Fund | Type | Expense Ratio | Minimum Investment |
 |---|---|---|---|
