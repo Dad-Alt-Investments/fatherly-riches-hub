@@ -44,7 +44,7 @@ When a business is tokenized, its ownership is divided into digital tokens on a 
 
 ### Why This Matters for Small Business Buyers
 
-For a dad investor browsing platforms like Empire Flippers or [Flippa vs Empire Flippers](/article/flippa-vs-empire-flippers) looking to buy a small online business, tokenized equity introduces a new dimension. Rather than acquiring 100% of a business outright — which typically requires a full acquisition, due diligence, SBA loan applications, and legal closing costs — tokenized ownership platforms could allow partial stakes in businesses with transparent, on-chain revenue records.
+For a dad investor browsing platforms like Empire Flippers or [Flippa and Empire Flippers](/article/flippa-vs-empire-flippers) looking to buy a small online business, tokenized equity introduces a new dimension. Rather than acquiring 100% of a business outright — which typically requires a full acquisition, due diligence, SBA loan applications, and legal closing costs — tokenized ownership platforms could allow partial stakes in businesses with transparent, on-chain revenue records.
 
 **The RWA market in context:** The total value of non-stablecoin tokenized real-world assets grew from roughly $5 billion in 2022 to about $24 billion by mid-2025 — a 380% increase in three years, per Pointsville's RWA market analysis. Boston Consulting Group (BCG) projects the tokenized asset market could reach $16 trillion by 2030.
 
@@ -165,7 +165,7 @@ The shift that makes this practical for small businesses is **stablecoins** — 
 
 Major platform adoption in 2025:
 - **PayPal Pay with Crypto** — launched July 2025, supports 100+ cryptocurrencies, 0.99% transaction rate until July 2026, available to U.S. merchants
-- **Shopify + Stripe + USDC** — In June 2025, Stripe and Shopify announced that millions of Shopify merchants across 34 countries can accept USDC via Stripe's checkout on [compare Coinbase, Kraken, and Gemini](/article/coinbase-vs-kraken-vs-gemini-which-is-safest)'s Base network
+- **Shopify + Stripe + USDC** — In June 2025, Stripe and Shopify announced that millions of Shopify merchants across 34 countries can accept USDC via Stripe's checkout on [Coinbase, Kraken, and Gemini](/article/coinbase-vs-kraken-vs-gemini-which-is-safest)'s Base network
 - **BitPay** — a widely-used gateway allowing merchants to accept USDC or USDT with near-zero fees on fast networks like Solana
 
 **Key statistics on merchant crypto adoption (2025):**
@@ -180,7 +180,7 @@ Major platform adoption in 2025:
 3. Decide whether to hold crypto (for potential appreciation) or convert to fiat immediately (for stability) — most small businesses convert immediately to eliminate volatility
 4. Track every crypto transaction with the date and USD equivalent at time of receipt for tax purposes
 
-**Tax note:** The IRS treats crypto payments received as ordinary income at the fair market value on the date of receipt — the same as cash payments. Keep records accordingly, and consult your CPA. *(See our related article: [crypto staking explained](/article/crypto-staking-explained) Explained for Beginners for more on crypto tax treatment.)*
+**Tax note:** The IRS treats crypto payments received as ordinary income at the fair market value on the date of receipt — the same as cash payments. Keep records accordingly, and consult your CPA. *(See our related article: [crypto staking](/article/crypto-staking-explained) Explained for Beginners for more on crypto tax treatment.)*
 
 ### NFT-Based Loyalty Programs and Digital Memberships
 
@@ -292,9 +292,9 @@ Exercise caution. Most DAOs operating today are crypto-native organizations with
 
 ## Related Articles on DadAlt Investments
 
-- **[Crypto Staking Explained for Beginners](#)** — If blockchain business tools have you interested in crypto broadly, staking is the most accessible way to earn [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) on digital assets you already hold. Includes full U.S. tax treatment.
+- **[Crypto Staking Explained for Beginners](#)** — If blockchain business tools have you interested in crypto broadly, staking is the most accessible way to earn [passive income investments](/article/best-passive-income-investments-for-beginners) on digital assets you already hold. Includes full U.S. tax treatment.
 - **[How to Buy a Small Local Business for Under $100k Down](#)** — The foundational guide to business acquisition for the dad investor. Due diligence, financing, and how to find deals.
-- **[Top 5 Crypto [How to Create Passive Income with ETFs](/article/passive-income-with-etfs)s](#)** — Want blockchain exposure without direct crypto ownership? Spot Bitcoin ETFs give you indirect exposure to the broader blockchain economy. See our guide to IBIT, FBTC, and the top spot ETF options.
+- **[Top 5 Crypto [How to Create Passive Income with ETFss](/article/passive-income-with-etfs)](#)** — Want blockchain exposure without direct crypto ownership? Spot Bitcoin ETFs give you indirect exposure to the broader blockchain economy. See our guide to IBIT, FBTC, and the top spot ETF options.
 - **[Should I Buy Crypto? The Case for Crypto in a Family Portfolio](#)** — Before staking, paying suppliers, or exploring tokenized equity, start here for a grounded look at whether crypto belongs in a family investing portfolio.
 - **[Flippa vs Empire Flippers: Which Is Better?](#)** — The best platforms for finding and buying online businesses — and how blockchain-native businesses are beginning to appear on mainstream acquisition marketplaces.
 - **[Gold vs. Crypto: Which Is the Better Hedge?](#)** — For the dad investor weighing how to allocate between traditional stores of value and digital assets, our data-driven comparison of gold vs. Bitcoin.

@@ -4,7 +4,7 @@
 
 ---
 
-The question of how much cash to keep versus how much to invest is one of the most consequential — and most commonly mishandled — decisions in personal finance. Hold too little cash and a single unexpected expense forces you to sell investments at the worst possible time. Hold too much, and you are quietly paying an opportunity cost that compounds against you every year. The math is unforgiving: $50,000 sitting in an average bank savings account earning 0.39% APY grows to roughly $55,000 over 20 years. The same $50,000 invested in a diversified stock portfolio averaging 7% annually grows to approximately **$193,000** over the same period — a gap of nearly $138,000 that costs you nothing in effort, only in decision-making.[^1] Yet today, U.S. investors are holding more than $7.7 trillion in money market funds and cash-equivalent securities — more than at virtually any point in modern financial history — much of it well beyond what any rational [Emergency Fund vs Investing: What Comes First?](/article/emergency-fund-vs-investing) or short-term goal requires.[^2] The answer to "how much cash" is not a single number. It is a tiered framework: specific cash reserves for specific purposes, with a clear rule that everything above those tiers belongs in the market. This article builds that framework from the ground up — with the math, the exceptions, and a practical worked example — so you can calculate the right cash balance for your family and move the rest to work.
+The question of how much cash to keep versus how much to invest is one of the most consequential — and most commonly mishandled — decisions in personal finance. Hold too little cash and a single unexpected expense forces you to sell investments at the worst possible time. Hold too much, and you are quietly paying an opportunity cost that compounds against you every year. The math is unforgiving: $50,000 sitting in an average bank savings account earning 0.39% APY grows to roughly $55,000 over 20 years. The same $50,000 invested in a diversified stock portfolio averaging 7% annually grows to approximately **$193,000** over the same period — a gap of nearly $138,000 that costs you nothing in effort, only in decision-making.[^1] Yet today, U.S. investors are holding more than $7.7 trillion in money market funds and cash-equivalent securities — more than at virtually any point in modern financial history — much of it well beyond what any rational [emergency fund versus investing](/article/emergency-fund-vs-investing) or short-term goal requires.[^2] The answer to "how much cash" is not a single number. It is a tiered framework: specific cash reserves for specific purposes, with a clear rule that everything above those tiers belongs in the market. This article builds that framework from the ground up — with the math, the exceptions, and a practical worked example — so you can calculate the right cash balance for your family and move the rest to work.
 
 ---
 
@@ -14,7 +14,7 @@ Before building the framework, it's worth understanding exactly what holding exc
 
 ### The 20-Year [understand compound interest](/article/compound-interest-explained) Gap
 
-The comparison below uses a 7% average annual market return (the standard long-term estimate used by [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) and most financial planning models, reflecting historical S&P 500 returns after inflation) against two savings account scenarios: the national average (0.39% APY per FDIC, February 2026) and a competitive HYSA (4.00% APY):
+The comparison below uses a 7% average annual market return (the standard long-term estimate used by [Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) and most financial planning models, reflecting historical S&P 500 returns after inflation) against two savings account scenarios: the national average (0.39% APY per FDIC, February 2026) and a competitive HYSA (4.00% APY):
 
 | Starting Balance | After 20 Years at 0.39% | After 20 Years at 4.00% HYSA | After 20 Years at 7% Invested |
 |---|---|---|---|
@@ -56,7 +56,7 @@ The emergency fund calculation uses **essential expenses only** — not your tot
 **Include:**
 - Housing payment (mortgage or rent)
 - Utilities (electricity, gas, water, internet)
-- Groceries (actual food [Simple Budget System for Busy Dads](/article/simple-budget-system-for-busy-dads), not dining out)
+- Groceries (actual food [budget system](/article/simple-budget-system-for-busy-dads), not dining out)
 - Insurance premiums (health, auto, home/renters)
 - Minimum debt payments (credit card minimums, car loan, student loan minimums)
 - Childcare and essential transportation costs
@@ -132,7 +132,7 @@ A common and expensive mistake: keeping 3–4 months of expenses in a checking a
 
 ## Tier 4: Everything Else Should Be Invested
 
-Once Tiers 1 through 3 are funded, every additional dollar of cash beyond those specific reserves has a clearly better home: invested in a tax-advantaged account (Roth IRA, 401(k)) or a taxable [open a brokerage account](/article/how-to-open-a-brokerage-account) in a diversified portfolio.
+Once Tiers 1 through 3 are funded, every additional dollar of cash beyond those specific reserves has a clearly better home: invested in a tax-advantaged account (Roth IRA, 401(k)) or a taxable [brokerage account](/article/how-to-open-a-brokerage-account) in a diversified portfolio.
 
 ### The Cash Drag Problem
 
@@ -149,9 +149,9 @@ The answer, for most families, is "nothing that a credit card bridge and HYSA tr
 For cash beyond Tiers 1–3, direct it in this order based on tax efficiency:
 
 1. **Employer 401(k) to the full match** — this is an immediate 50–100% return on the matched portion; no investment in your life will ever beat it
-2. **[best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) to the 2026 limit** ($7,500 for those under 50; $8,600 for 50+) — tax-free growth for decades
+2. **[Roth IRA providers](/article/best-roth-ira-providers-for-beginners) to the 2026 limit** ($7,500 for those under 50; $8,600 for 50+) — tax-free growth for decades
 3. **Back to 401(k) to the 2026 limit** ($24,500 for those under 50; $32,500 for 50+)
-4. **Taxable brokerage account** — for anything beyond tax-advantaged limits, invested in low-cost [best platforms for index funds](/article/best-platforms-to-buy-index-funds)s
+4. **Taxable brokerage account** — for anything beyond tax-advantaged limits, invested in low-cost [best platforms for index fundss](/article/best-platforms-to-buy-index-funds)
 
 ---
 

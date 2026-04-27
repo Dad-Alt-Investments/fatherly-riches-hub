@@ -1,12 +1,12 @@
 # How to Buy Rental Property Without 20% Down
 
-The idea that you need 20% down to buy a rental property is one of the most persistent myths in [real estate investment options for dads](/article/top-5-real-estate-investment-options)ing — and it's stopping thousands of aspiring investors from ever getting started. The truth is that in 2026, there are at least six legitimate financing strategies that let you buy a rental property with little or nothing down, and many of them are backed by the federal government. Whether you're a first-time investor looking to house hack your way into real estate, a veteran eligible for a VA loan, or an experienced landlord ready to leverage your home equity, this guide covers every viable path to rental property ownership with a lower upfront investment. We'll walk through each strategy — FHA loans, VA loans, USDA loans, DSCR loans, [finance a business purchase](/article/how-to-finance-a-business-purchase), and HELOC leverage — with current 2026 requirements, real numbers, and the trade-offs you need to know before you choose.
+The idea that you need 20% down to buy a rental property is one of the most persistent myths in [real estate investments](/article/top-5-real-estate-investment-options)ing — and it's stopping thousands of aspiring investors from ever getting started. The truth is that in 2026, there are at least six legitimate financing strategies that let you buy a rental property with little or nothing down, and many of them are backed by the federal government. Whether you're a first-time investor looking to house hack your way into real estate, a veteran eligible for a VA loan, or an experienced landlord ready to leverage your home equity, this guide covers every viable path to rental property ownership with a lower upfront investment. We'll walk through each strategy — FHA loans, VA loans, USDA loans, DSCR loans, [financing a business purchase](/article/how-to-finance-a-business-purchase), and HELOC leverage — with current 2026 requirements, real numbers, and the trade-offs you need to know before you choose.
 
 ---
 
 ## Why the 20% Down Myth Persists (and What's Actually Required)
 
-When it comes to a conventional investment property loan, the 20% rule has real roots. According to The Mortgage Reports, conventional investment property loans typically require a minimum 15% down for a single-family rental and 25% down for a 2–4 unit property — and most lenders prefer 20–25% to eliminate private mortgage insurance (PMI) and reduce their risk.[^1] Add a credit score requirement of 680 or higher, six months of [emergency funds and investing](/article/emergency-funds-and-investing)s, and a debt-to-income (DTI) ratio below 45%, and you can see why the conventional route feels out of reach for many buyers.[^2]
+When it comes to a conventional investment property loan, the 20% rule has real roots. According to The Mortgage Reports, conventional investment property loans typically require a minimum 15% down for a single-family rental and 25% down for a 2–4 unit property — and most lenders prefer 20–25% to eliminate private mortgage insurance (PMI) and reduce their risk.[^1] Add a credit score requirement of 680 or higher, six months of [emergency funds and investings](/article/emergency-funds-and-investing), and a debt-to-income (DTI) ratio below 45%, and you can see why the conventional route feels out of reach for many buyers.[^2]
 
 On a $300,000 rental property, a 20% down payment is $60,000 in cash — before closing costs, reserves, and repairs. That's a barrier that keeps most would-be landlords on the sidelines for years.
 
@@ -20,7 +20,7 @@ But here's the reality: the 20% rule applies to a specific type of loan — a co
 | VA Loan | 0% | Yes (1 year) | No | Eligible veterans |
 | USDA Loan | 0% | Yes | No | Rural/suburban primary homes |
 | DSCR Loan | 20–25% | No | No | Pure investment properties |
-| [How to Finance Buying a Small Business](/article/how-to-finance-buying-a-small-business) | Negotiable (often 5–10%) | No | No | Motivated sellers |
+| [financing a business purchase](/article/how-to-finance-buying-a-small-business) | Negotiable (often 5–10%) | No | No | Motivated sellers |
 | HELOC / Home Equity | Varies | No (uses existing equity) | No | Homeowners with equity |
 | Conventional Investment | 15–25% | No | No | Standard investment properties |
 
@@ -131,7 +131,7 @@ VA home loans are available to eligible active duty service members, veterans, N
 4. **After 12 months**, you can move out and rent all units; the VA loan stays in place
 5. **Property must meet VA Minimum Property Requirements (MPRs)**
 
-After fulfilling the occupancy requirement, many veterans continue to live in one unit while renting the others, generating potential [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) and building long-term equity.
+After fulfilling the occupancy requirement, many veterans continue to live in one unit while renting the others, generating potential [passive income investments](/article/best-passive-income-investments-for-beginners) and building long-term equity.
 
 ### VA Loan House Hacking: Pros and Cons
 
@@ -402,7 +402,7 @@ The best financing strategy depends on your situation today — your military st
 → Explore **USDA financing** for your primary residence. Use it as a stepping stone — move out after meeting occupancy requirements and convert it to a rental when you buy your next home.
 
 **You own a home with significant equity:**
-→ Consider a **HELOC** to fund a 20–25% down payment on a rental property. You leverage what you've already built without draining your [best high-yield savings accounts](/article/best-high-yield-savings-accounts).
+→ Consider a **HELOC** to fund a 20–25% down payment on a rental property. You leverage what you've already built without draining your [high-yield savings accounts](/article/best-high-yield-savings-accounts).
 
 **You're self-employed, have complex taxes, or want to scale a portfolio:**
 → **DSCR loans** let you qualify based on rental income alone with no personal income verification. Rates are slightly higher, but scalability and speed are unmatched.

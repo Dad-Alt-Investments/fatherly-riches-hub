@@ -2,13 +2,13 @@
 
 **Category:** Buying Businesses | **Tags:** Creative Financing · Beginner Guides · Guides & How-To's · Small Business Loans
 
-**Target Keywords:** finance a business purchase without savings, how to [buy a small local business](/article/how-to-buy-a-small-local-business) with no money, business acquisition financing
+**Target Keywords:** finance a business purchase without savings, how to [buying a small business](/article/how-to-buy-a-small-local-business) with no money, business acquisition financing
 
 ---
 
 ## Summary
 
-The single biggest lie in entrepreneurship is that you need a pile of cash to buy a business. You don't. While the most successful deals involve at least some buyer equity, a growing number of Americans are acquiring profitable, cash-flowing businesses using creative financing structures that require little to no personal savings. The tools exist: SBA loans that cover up to 90% of a purchase price, [How to Finance Buying a Small Business](/article/how-to-finance-buying-a-small-business) that lets the current owner act as your bank, retirement fund rollovers that tap your 401(k) tax-free, earn-out agreements that tie part of the price to future performance, and equity partnerships that trade a slice of ownership for capital. This article breaks down every major financing path available to US buyers in 2025—how each works, what it costs, what it requires, and critically, the real risks you need to understand before you sign anything. If you've been putting off business ownership because you assume you need $100,000 in the bank first, this guide was written for you.
+The single biggest lie in entrepreneurship is that you need a pile of cash to buy a business. You don't. While the most successful deals involve at least some buyer equity, a growing number of Americans are acquiring profitable, cash-flowing businesses using creative financing structures that require little to no personal savings. The tools exist: SBA loans that cover up to 90% of a purchase price, [financing a business purchase](/article/how-to-finance-buying-a-small-business) that lets the current owner act as your bank, retirement fund rollovers that tap your 401(k) tax-free, earn-out agreements that tie part of the price to future performance, and equity partnerships that trade a slice of ownership for capital. This article breaks down every major financing path available to US buyers in 2025—how each works, what it costs, what it requires, and critically, the real risks you need to understand before you sign anything. If you've been putting off business ownership because you assume you need $100,000 in the bank first, this guide was written for you.
 
 ---
 
@@ -122,7 +122,7 @@ Not every seller will accept financing—most would prefer all cash. Motivated s
 
 If you have a 401(k), 403(b), traditional IRA, or other eligible retirement account with at least $50,000 in it, ROBS may be your most powerful and least-discussed financing tool.
 
-ROBS—Rollover for Business Startups—is a legal structure authorized under the Employee Retirement Income Security Act (ERISA) of 1974 and sections of the Internal Revenue Code that allows you to invest your [how much you should have invested by age](/article/how-much-should-you-have-invested-by-age) into your own business without paying early withdrawal penalties or income taxes.
+ROBS—Rollover for Business Startups—is a legal structure authorized under the Employee Retirement Income Security Act (ERISA) of 1974 and sections of the Internal Revenue Code that allows you to invest your [investing by age](/article/how-much-should-you-have-invested-by-age) into your own business without paying early withdrawal penalties or income taxes.
 
 In 2024, over half of the business owners surveyed in Guidant Financial's Small Business Trends study reported using ROBS to finance their ventures.
 
@@ -269,7 +269,7 @@ If you own a home with meaningful equity, a Home Equity Line of Credit (HELOC) o
 
 **The significant risk:** A HELOC or home equity loan puts your house at risk. If the business fails and you can't make payments, you could lose your family's home. This is the highest-stakes form of business financing available to most individuals, and should only be used when:
 
-- You have high confidence in the deal based on thorough [evaluate a business before buying](/article/how-to-evaluate-a-business-before-buying-it)
+- You have high confidence in the deal based on thorough [evaluating a business](/article/how-to-evaluate-a-business-before-buying-it)
 - The business has a verifiable track record of consistent cash flow
 - The HELOC represents a manageable portion of your total household risk
 
@@ -366,7 +366,7 @@ Most SBA lenders recommend a personal FICO score of 680 or higher. Some lenders 
 
 **Q: Can I buy a business while still employed full-time?**
 
-Yes, and many buyers do—especially with service businesses or [How to Spot a Good Online Business Deal](/article/how-to-spot-a-good-online-business-deal)es that can be semi-managed with hired staff. However, some SBA lenders prefer buyers who will be full-time operators. ROBS requires you to be an active employee of the business. Clarify the time commitment expectation before you approach financing.
+Yes, and many buyers do—especially with service businesses or [How to Spot a Good Online Business Deales](/article/how-to-spot-a-good-online-business-deal) that can be semi-managed with hired staff. However, some SBA lenders prefer buyers who will be full-time operators. ROBS requires you to be an active employee of the business. Clarify the time commitment expectation before you approach financing.
 
 **Q: How long does it take to secure financing?**
 

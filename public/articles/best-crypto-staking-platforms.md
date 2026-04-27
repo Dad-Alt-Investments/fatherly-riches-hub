@@ -14,7 +14,7 @@ Crypto staking is one of the few legitimate ways to earn meaningful yield on dig
 
 Crypto staking works on **Proof-of-Stake (PoS) blockchains** — networks like Ethereum, Solana, Cardano, and Polkadot that validate transactions not through energy-intensive mining (as Bitcoin does) but through validators who lock up ("stake") their cryptocurrency as collateral. When you stake, you are delegating your tokens to a validator who participates in network consensus. In return, the network pays you a share of the newly issued tokens generated as block rewards. 
 
-Looking for more information on staking? Check out [Crypto Staking Explained](/article/crypto-staking-explained).
+Looking for more information on staking? Check out [crypto staking](/article/crypto-staking-explained).
 
 The analogy that makes sense for most investors: staking is similar to earning a **dividend on a stock you hold**. You do not need to sell your position — you simply hold it in a staking-eligible account, and periodic payments arrive denominated in the staked coin.
 

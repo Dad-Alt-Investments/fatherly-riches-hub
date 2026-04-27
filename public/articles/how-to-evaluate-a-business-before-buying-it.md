@@ -4,7 +4,7 @@
 
 ---
 
-Most business buyers do not get burned by complicated financial schemes or elaborate seller fraud. They get burned by ordinary mistakes: falling in love with the pitch before verifying the numbers, accepting seller-prepared financials without corroboration, or closing on a business whose customer relationships were entirely personal to the previous owner. According to Acquisition Stars, buyers who rush through or skip categories of due diligence frequently discover post-closing surprises — undisclosed liabilities, overstated revenue, or compliance violations — that typically cost **15–30% of the purchase price to resolve** after closing, far more than a thorough upfront investigation would have required.[^1] The good news is that business evaluation is a learnable, structured process — not an art form reserved for Wall Street M&A professionals. This guide covers the five areas every buyer must investigate before making an offer, walks through how to calculate the right price using Seller's Discretionary Earnings (SDE), explains the Letter of Intent (LOI) process, and answers the most common questions first-time buyers have. Whether you're evaluating a $30,000 content website, a $150,000 cleaning company, or a $500,000 local service business, the framework is the same. Master it once, and you'll use it for every acquisition you ever make. For where to find businesses for sale, see [Best Websites to Buy a Small Business Online](/article/best-websites-to-buy-small-business-online) and [Acquire.com vs Flippa](/article/acquire-com-vs-[Flippa vs Empire Flippers](/article/flippa-vs-empire-flippers)-which-is-better-for-buyers).
+Most business buyers do not get burned by complicated financial schemes or elaborate seller fraud. They get burned by ordinary mistakes: falling in love with the pitch before verifying the numbers, accepting seller-prepared financials without corroboration, or closing on a business whose customer relationships were entirely personal to the previous owner. According to Acquisition Stars, buyers who rush through or skip categories of due diligence frequently discover post-closing surprises — undisclosed liabilities, overstated revenue, or compliance violations — that typically cost **15–30% of the purchase price to resolve** after closing, far more than a thorough upfront investigation would have required.[^1] The good news is that business evaluation is a learnable, structured process — not an art form reserved for Wall Street M&A professionals. This guide covers the five areas every buyer must investigate before making an offer, walks through how to calculate the right price using Seller's Discretionary Earnings (SDE), explains the Letter of Intent (LOI) process, and answers the most common questions first-time buyers have. Whether you're evaluating a $30,000 content website, a $150,000 cleaning company, or a $500,000 local service business, the framework is the same. Master it once, and you'll use it for every acquisition you ever make. For where to find businesses for sale, see [buying businesses online](/article/best-websites-to-buy-small-business-online) and [business marketplaces](/article/acquire-com-vs-[Flippa vs Empire Flippers](/article/flippa-vs-empire-flippers)-which-is-better-for-buyers).
 
 ---
 
@@ -54,7 +54,7 @@ Request all of the following before proceeding:
 - **Equipment list and condition report** — for any business with physical assets
 - **For online businesses: payment processor records** — Stripe, PayPal, Amazon Seller Central, Shopify Payments
 
-> **The bank statement test:** Add up the monthly deposits on the bank statements and compare them to the P&L. If the P&L claims $30,000/month in revenue but deposits average $19,000/month, someone has a lot of explaining to do. This single cross-reference catches the most common form of revenue [How to Protect Your Portfolio from Inflation](/article/how-to-protect-your-portfolio-from-inflation) in small business transactions.
+> **The bank statement test:** Add up the monthly deposits on the bank statements and compare them to the P&L. If the P&L claims $30,000/month in revenue but deposits average $19,000/month, someone has a lot of explaining to do. This single cross-reference catches the most common form of revenue [inflation protection](/article/how-to-protect-your-portfolio-from-inflation) in small business transactions.
 
 ### Understanding Seller's Discretionary Earnings (SDE)
 
@@ -100,7 +100,7 @@ Not all add-backs are equal. Buyers should categorize each add-back:
 - Owner's documented salary and benefits (verifiable via payroll records)
 - One-time professional fees for non-recurring events (lawsuit settlement, equipment repair)
 - Depreciation and amortization (non-cash items)
-- Personal expenses clearly out[side business ideas](/article/5-side-business-ideas) operations (owner's personal travel, family meals)
+- Personal expenses clearly out[side businesses](/article/5-side-business-ideas) operations (owner's personal travel, family meals)
 
 **Add-backs that raise questions:**
 - "Marketing experiments" the seller claims won't recur — will they? If you don't market, will revenue decline?
@@ -331,7 +331,7 @@ If due diligence reveals the business is more owner-dependent than claimed — t
 The Letter of Intent is a non-binding document that establishes the key terms of the deal before you commit to full due diligence. A well-structured LOI includes:
 
 - **Purchase price** and structure (asset purchase vs. stock purchase)
-- **Payment terms** (cash at close, [finance a business purchase](/article/how-to-finance-a-business-purchase) split, earnout structure if applicable)
+- **Payment terms** (cash at close, [financing a business purchase](/article/how-to-finance-a-business-purchase) split, earnout structure if applicable)
 - **Due diligence period** — typically 30–60 days for small businesses; 60–90 days for larger or more complex ones
 - **Exclusivity clause** — seller agrees not to market the business to other buyers during the due diligence period
 - **Due diligence contingency** — buyer's right to terminate the deal if material issues are uncovered during due diligence
@@ -354,7 +354,7 @@ Never let a seller pressure you into a compressed due diligence timeline. Urgenc
 
 ### Do I Need a Lawyer to Buy a Small Business?
 
-Yes — for any deal over approximately $25,000. The purchase agreement (also called the Asset Purchase Agreement or APA) is a legally binding contract that governs representations and warranties, indemnification, non-compete provisions, allocation of assets and liabilities, and closing conditions. Errors or omissions in this document can cost far more to resolve than the legal fees you're trying to avoid. [Simple Budget System for Busy Dads](/article/simple-budget-system-for-busy-dads) $1,500–$5,000 for legal fees on a sub-$200K transaction. For deals over $200K, budget $5,000–$15,000.
+Yes — for any deal over approximately $25,000. The purchase agreement (also called the Asset Purchase Agreement or APA) is a legally binding contract that governs representations and warranties, indemnification, non-compete provisions, allocation of assets and liabilities, and closing conditions. Errors or omissions in this document can cost far more to resolve than the legal fees you're trying to avoid. [budget system](/article/simple-budget-system-for-busy-dads) $1,500–$5,000 for legal fees on a sub-$200K transaction. For deals over $200K, budget $5,000–$15,000.
 
 You don't need a large firm — a solo practitioner or small firm specializing in business transactions in your state is entirely appropriate and often more responsive for smaller deals.
 
@@ -394,9 +394,9 @@ The due diligence contingency in your LOI is your legal protection. Use it if ne
 
 [^1]: Acquisition Stars. "Due Diligence Checklist for Business Acquisitions: 100+ Items [2026]." January 2026. https://acquisitionstars.com/guides/due-diligence-checklist-business-acquisition — Post-closing discovery costs 15–30% of purchase price; LOI exclusivity process; customer concentration thresholds; formal due diligence timing.
 
-[^2]: KMF Business Advisors. "SDE vs EBITDA Comparison 2025 — [spot a good online business deal](/article/how-to-spot-a-good-online-business-deal) Guide." November 2025. https://kmfbusinessadvisors.com/sde-vs-ebitda-comparison-2025-business-valuation/ — SDE vs EBITDA methodology; owner salary add-back mechanics; main street vs institutional buyer frameworks; accurate books adding 10–30% to valuation.
+[^2]: KMF Business Advisors. "SDE vs EBITDA Comparison 2025 — [spotting a good deal](/article/how-to-spot-a-good-online-business-deal) Guide." November 2025. https://kmfbusinessadvisors.com/sde-vs-ebitda-comparison-2025-business-valuation/ — SDE vs EBITDA methodology; owner salary add-back mechanics; main street vs institutional buyer frameworks; accurate books adding 10–30% to valuation.
 
-[^3]: Acquire.com. "Due Diligence Checklist for [buy a small local business](/article/how-to-buy-a-small-local-business): What Really Matters." October 2025. https://blog.acquire.com/due-diligence-checklist-for-buying-a-business/ — Eight due diligence categories; customer concentration threshold (20%); EBITDA adjustment guidance; CPA hire recommendation.
+[^3]: Acquire.com. "Due Diligence Checklist for [buying a small business](/article/how-to-buy-a-small-local-business): What Really Matters." October 2025. https://blog.acquire.com/due-diligence-checklist-for-buying-a-business/ — Eight due diligence categories; customer concentration threshold (20%); EBITDA adjustment guidance; CPA hire recommendation.
 
 [^4]: Buy Scale Sell. "Business Valuation 2026: A Buyer's Guide to Paying the Right Price." December 2025. https://www.buy-scale-sell.com — SDE multiple ranges by business quality tier; SDE formula; DCF applicability for businesses with uneven cash flows.
 

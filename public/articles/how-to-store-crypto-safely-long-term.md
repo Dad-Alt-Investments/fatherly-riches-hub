@@ -37,7 +37,7 @@ A hardware wallet is a dedicated physical device — roughly the size of a USB t
 
 - **[Ledger Nano X](https://www.ledger.com)** (~$149) — Supports 5,500+ coins and tokens. Bluetooth connectivity for mobile use with Ledger Live. CC EAL5+ certified secure element chip. Best all-around choice for most beginners and intermediate holders.
 - **[Trezor Model T](https://trezor.io)** (~$219) — 100% open-source firmware, publicly auditable by security researchers. Touchscreen. Supports 1,800+ coins. No Bluetooth (which some security experts prefer). EAL6+ certified secure element on newer models.
-- **[Trezor Safe 3](https://trezor.io)** (~$79) — [Simple Budget System for Busy Dads](/article/simple-budget-system-for-busy-dads)-friendly Trezor entry point. Secure element chip. Open-source. Good starting option for holders under $5,000.
+- **[Trezor Safe 3](https://trezor.io)** (~$79) — [budget system](/article/simple-budget-system-for-busy-dads)-friendly Trezor entry point. Secure element chip. Open-source. Good starting option for holders under $5,000.
 - **[Ledger Nano S Plus](https://www.ledger.com)** (~$79) — Budget Ledger option. USB-C. 5,500+ coin support. No Bluetooth.[^2]
 
 > **Related:** [Best Hardware Wallets for Long-Term Crypto Storage](/article/best-hardware-wallets-crypto-storage) — our full comparison with detailed reviews of each device.
@@ -77,11 +77,11 @@ All your exchange accounts should have two-factor authentication (2FA) enabled. 
 
 ### Use a Dedicated Email Address for All Crypto Accounts
 
-Create a separate email address — one that is not linked to your name, not used for any other purpose, and not publicized anywhere — specifically for your [best crypto exchanges for beginners](/article/best-crypto-exchanges-for-beginners) accounts and wallet software. If your primary personal or work email is compromised, your crypto accounts remain isolated. Use a strong, unique password for this email and protect it with authenticator-app 2FA.
+Create a separate email address — one that is not linked to your name, not used for any other purpose, and not publicized anywhere — specifically for your [crypto exchanges](/article/best-crypto-exchanges-for-beginners) accounts and wallet software. If your primary personal or work email is compromised, your crypto accounts remain isolated. Use a strong, unique password for this email and protect it with authenticator-app 2FA.
 
 ### Never Access Wallets or Exchanges on Public Wi-Fi
 
-Public networks — coffee shops, airports, hotels — are trivially monitored by anyone else on the same network. A sophisticated attacker can intercept traffic or deploy a fake access point. Only access exchanges and [best crypto wallets](/article/best-crypto-wallets) software on a trusted private network.[^6]
+Public networks — coffee shops, airports, hotels — are trivially monitored by anyone else on the same network. A sophisticated attacker can intercept traffic or deploy a fake access point. Only access exchanges and [crypto wallets](/article/best-crypto-wallets) software on a trusted private network.[^6]
 
 ### Keep Operating Systems and Software Updated
 
@@ -171,7 +171,7 @@ This is not your actual legal will — it is a private, separate document that c
 
 ### Split Access Between Two Trusted People
 
-One approach that balances security with accessibility: give two trusted people separate pieces of information. Person A knows the location of the hardware wallet and the PIN. Person B knows the location of the seed phrase backup. Neither person alone can access the funds — but together, they can. Your crypto will explains that both people must be consulted together. This approach is described by Charles [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) as appropriate for serious individual investors.[^11]
+One approach that balances security with accessibility: give two trusted people separate pieces of information. Person A knows the location of the hardware wallet and the PIN. Person B knows the location of the seed phrase backup. Neither person alone can access the funds — but together, they can. Your crypto will explains that both people must be consulted together. This approach is described by Charles [Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) as appropriate for serious individual investors.[^11]
 
 ### Consider a Crypto-Aware Attorney or Digital Inheritance Service
 
@@ -206,7 +206,7 @@ These are not rare edge cases — they are the most frequently occurring causes 
 
 6. **Using SMS text message 2FA on exchange accounts.** As described above, this is vulnerable to SIM-swap attacks. Replace it with an authenticator app immediately.
 
-7. **Falling for seed phrase phishing.** No legitimate service — not Ledger, not Trezor, not [compare Coinbase, Kraken, and Gemini](/article/coinbase-vs-kraken-vs-gemini-which-is-safest), not any tech support person — will ever ask you to enter your seed phrase online. If any website or "support agent" requests your seed phrase for any reason, it is a scam. Close the browser and do not comply.
+7. **Falling for seed phrase phishing.** No legitimate service — not Ledger, not Trezor, not [Coinbase, Kraken, and Gemini](/article/coinbase-vs-kraken-vs-gemini-which-is-safest), not any tech support person — will ever ask you to enter your seed phrase online. If any website or "support agent" requests your seed phrase for any reason, it is a scam. Close the browser and do not comply.
 
 ---
 

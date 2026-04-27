@@ -40,7 +40,7 @@ You cannot build a plan without knowing where you are today. Net worth is the si
 **Assets (what you own):**
 - Home equity (current market value minus remaining mortgage balance)
 - All retirement accounts: 401(k), 403(b), IRA, Roth IRA, SEP-IRA
-- Taxable [open a brokerage account](/article/how-to-open-a-brokerage-account)s
+- Taxable [open a brokerage accounts](/article/how-to-open-a-brokerage-account)
 - High-yield savings accounts and cash
 - HSA (Health Savings Account) balance
 - Vehicles (current market value, not what you paid)
@@ -59,7 +59,7 @@ You cannot build a plan without knowing where you are today. Net worth is the si
 
 Income tells you how fast money flows in. Net worth tells you how much has accumulated — and whether your financial decisions over the last decade have been working. Two families with identical incomes can have radically different net worths depending on spending patterns, debt management, and investment behavior. Net worth is the scorecard that actually measures financial progress.[^1]
 
-[compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) Investments describes it this way: "It all really starts with understanding your assets and liabilities so you know what your total net worth is. This allows someone to understand the value of their cash positions, taxable investments and retirement assets, as well as real estate, life insurance surrender value, and any business interests."[^1]
+[Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) Investments describes it this way: "It all really starts with understanding your assets and liabilities so you know what your total net worth is. This allows someone to understand the value of their cash positions, taxable investments and retirement assets, as well as real estate, life insurance surrender value, and any business interests."[^1]
 
 ### Tools to Calculate and Track Net Worth
 
@@ -81,7 +81,7 @@ A financial plan without specific goals is just a collection of good intentions.
 
 Short-term goals are the foundation. Without these, longer-term goals are structurally unstable:
 
-- **Full [Emergency Fund vs Investing: What Comes First?](/article/emergency-fund-vs-investing):** 3–6 months of essential expenses in a [high-yield savings account](/article/best-high-yield-savings-accounts). If you don't have this, it is Goal #1 above everything else.
+- **Full [emergency fund versus investing](/article/emergency-fund-vs-investing):** 3–6 months of essential expenses in a [high-yield savings account](/article/best-high-yield-savings-accounts). If you don't have this, it is Goal #1 above everything else.
 - **Pay off high-interest debt:** Any debt above 7% interest is a guaranteed return equal to the interest rate when paid off. This beats most investment returns.
 - **Replace a deteriorating vehicle:** A planned purchase is funded in advance; an emergency replacement is a financial crisis.
 - **Other near-term one-time expenses:** Home repair, medical procedure, family travel
@@ -140,7 +140,7 @@ This is your total monthly fuel. Every dollar of this income should have a job.
 
 ### Pay Yourself First: Investments Before Discretionary Spending
 
-The most powerful structural change in any [simple budget system](/article/simple-budget-system-for-busy-dads): treat savings and investments as fixed expenses that come out of take-home pay before you make any discretionary spending decisions.
+The most powerful structural change in any [budget system](/article/simple-budget-system-for-busy-dads): treat savings and investments as fixed expenses that come out of take-home pay before you make any discretionary spending decisions.
 
 **The order:**
 1. Retirement contributions (401k/IRA) — first, automatically
@@ -181,7 +181,7 @@ Once retirement is funded, college savings is next. A 529 provides tax-free grow
 
 **6. Taxable brokerage account**
 
-For any savings beyond tax-advantaged account limits, a low-cost [taxable brokerage account](/article/top-stock-brokerages) ([Fidelity](https://www.fidelity.com), [Schwab](https://www.schwab.com), [Vanguard](https://www.vanguard.com)) invested in [index funds](/article/best-platforms-to-buy-index-funds) provides [The Dad's Guide to Tax-Efficient Investing](/article/tax-efficient-investing) long-term growth.
+For any savings beyond tax-advantaged account limits, a low-cost [taxable account](/article/top-stock-brokerages) ([Fidelity](https://www.fidelity.com), [Schwab](https://www.schwab.com), [Vanguard](https://www.vanguard.com)) invested in [index funds](/article/best-platforms-to-buy-index-funds) provides [The Dad's Guide to Tax-Efficient Investing](/article/tax-efficient-investing) long-term growth.
 
 ### Why This Order Matters
 
@@ -340,7 +340,7 @@ In order:
 
 2. **Build $1,000 in a starter emergency fund** before doing anything else. Without a small emergency buffer, every unexpected expense goes back on a credit card — undoing every debt payment you make.
 
-3. **Capture the full 401(k) employer match.** This is free money that beats any interest rate. Non-negotiable even during [pay off debt and still invest](/article/how-to-pay-off-debt-and-still-invest).
+3. **Capture the full 401(k) employer match.** This is free money that beats any interest rate. Non-negotiable even during [paying off debt](/article/how-to-pay-off-debt-and-still-invest).
 
 4. **Attack high-interest debt (above 7%) using the debt avalanche** — pay minimums on everything, then send every extra dollar to the highest-rate balance first. This minimizes total interest paid. If motivation is an issue, the debt snowball (smallest balance first) builds psychological momentum faster at a modest cost in interest.
 
@@ -387,7 +387,7 @@ Not necessarily — but for specific situations, professional guidance provides 
 - Your estate planning needs are simple (basic will, standard beneficiaries, no trusts required)
 
 **Professional guidance is worth paying for if:**
-- You own a business — [spot a good online business deal](/article/how-to-spot-a-good-online-business-deal), succession planning, and exit strategy require specialized expertise
+- You own a business — [spotting a good deal](/article/how-to-spot-a-good-online-business-deal), succession planning, and exit strategy require specialized expertise
 - You have a complex estate (blended family, multiple properties, substantial assets, special needs dependent)
 - You have received a large inheritance or windfall and need help deploying it tax-efficiently
 - You are within 5 years of retirement and want a guaranteed income plan and Social Security optimization

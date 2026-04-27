@@ -1,6 +1,6 @@
 # How to Build a [our full Dividend Portfolio Guide](/article/dividend-portfolio-beginner-dad) Portfolio With $1,000 (2026 Guide)
 
-*By DadAlt Investments | Category: Stocks & [Best Brokerages for Dividend Investors](/article/best-brokerages-for-dividend-investors)s | Last Updated: March 2026*
+*By DadAlt Investments | Category: Stocks & [Best Brokerages for Dividend Investorss](/article/best-brokerages-for-dividend-investors) | Last Updated: March 2026*
 
 ---
 

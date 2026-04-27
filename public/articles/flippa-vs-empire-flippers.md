@@ -362,7 +362,7 @@ For buyers purchasing above $100,000, most experienced acquirers say yes. The ve
 
 Yes—on Flippa. Empire Flippers rarely lists anything below $50,000, and their practical sweet spot is $100,000+. Flippa has active listings from a few hundred dollars up through the millions.
 
-**Q: How long does it take to [buy a small local business](/article/how-to-buy-a-small-local-business) on each platform?**
+**Q: How long does it take to [buying a small business](/article/how-to-buy-a-small-local-business) on each platform?**
 
 On Flippa, smaller deals (under $50,000) can close in 30 days or less. Larger deals typically take 60–90 days. On Empire Flippers, the inspection period is typically 15 business days, and most deals close within 45–60 days of the buyer submitting an offer.
 
@@ -387,7 +387,7 @@ Consult a CPA familiar with business acquisitions—tax implications vary depend
 
 - **[How to Buy a Small Local Business for Under $100k Down](#)** — Brick-and-mortar acquisition guide with financing strategies
 - **[How to Evaluate a Business Before Buying](#)** — The due diligence checklist every buyer needs
-- **[Creative Financing Strategies for Business Acquisitions](#)** — [How to Finance Buying a Small Business](/article/how-to-finance-buying-a-small-business)s, [finance a business purchase](/article/how-to-finance-a-business-purchase), ROBS, and more
+- **[Creative Financing Strategies for Business Acquisitions](#)** — [How to Finance Buying a Small Businesss](/article/how-to-finance-buying-a-small-business), [financing a business purchase](/article/how-to-finance-a-business-purchase), ROBS, and more
 - **[5 Side Businesses You Can Start This Weekend](#)** — Not ready to acquire? Start smaller first
 
 ---

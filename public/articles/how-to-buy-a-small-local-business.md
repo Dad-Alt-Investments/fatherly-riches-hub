@@ -1,6 +1,6 @@
 # How to Buy a Small Local Business for Under $100k Down
 
-**Category:** Buying Businesses | **Tags:** Beginner Guides · [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) · Guides & How-To's
+**Category:** Buying Businesses | **Tags:** Beginner Guides · [passive income investments](/article/best-passive-income-investments-for-beginners) · Guides & How-To's
 
 **Target Keywords:** buy small business, business acquisition
 
@@ -8,7 +8,7 @@
 
 ## Summary
 
-Buying an existing small business is one of the most powerful—and most overlooked—wealth-building moves available to everyday Americans. You don't need to be a millionaire, and you don't need to quit your job tomorrow. According to BizBuySell's 2024 Insight Report, the median sale price for a US small business was $345,000—and with an SBA 7(a) loan requiring as little as 10% down, that means some buyers are getting in the door for as little as $34,500. This guide breaks down exactly how to find, evaluate, fund, and close on a small local business for under $100,000 down, including the types of businesses that fit the budget, where to find deals, how to run basic [evaluate a business before buying](/article/how-to-evaluate-a-business-before-buying-it), and the financing structures that make it possible—even if your savings account doesn't look impressive right now.
+Buying an existing small business is one of the most powerful—and most overlooked—wealth-building moves available to everyday Americans. You don't need to be a millionaire, and you don't need to quit your job tomorrow. According to BizBuySell's 2024 Insight Report, the median sale price for a US small business was $345,000—and with an SBA 7(a) loan requiring as little as 10% down, that means some buyers are getting in the door for as little as $34,500. This guide breaks down exactly how to find, evaluate, fund, and close on a small local business for under $100,000 down, including the types of businesses that fit the budget, where to find deals, how to run basic [evaluating a business](/article/how-to-evaluate-a-business-before-buying-it), and the financing structures that make it possible—even if your savings account doesn't look impressive right now.
 
 ---
 
@@ -77,7 +77,7 @@ BizBuySell data shows that cafés and coffee retailers saw a 5% increase in tran
 
 ### 3. Online Businesses
 
-Content sites, Amazon FBA stores, niche e-commerce shops, and simple SaaS tools can be found in the $50,000–$200,000 range on platforms like [Flippa vs Empire Flippers](/article/flippa-vs-empire-flippers) and Empire Flippers. Online businesses often have low overhead, no physical location costs, and can be operated from anywhere—making them attractive for dads who want flexibility.
+Content sites, Amazon FBA stores, niche e-commerce shops, and simple SaaS tools can be found in the $50,000–$200,000 range on platforms like [Flippa and Empire Flippers](/article/flippa-vs-empire-flippers) and Empire Flippers. Online businesses often have low overhead, no physical location costs, and can be operated from anywhere—making them attractive for dads who want flexibility.
 
 > **Related:** [Flippa vs Empire Flippers: Which Is Better?](#) | [How to Spot a Good Online Business Deal](#)
 
@@ -212,7 +212,7 @@ SBA 7(a) change-of-ownership loans—covering acquisitions, partner buyouts, and
 3. The lender underwrites the deal and issues a commitment letter
 4. Close the deal with your attorney
 
-> **Important Note on 2025 SBA Changes:** In April 2025, the SBA updated its Standard Operating Procedure (SOP 50.10.8), which tightened underwriting standards. Under the current rules, seller notes can now cover only 50% of the required buyer equity injection, typically 10% of the total project cost. This effectively means [finance a business purchase](/article/how-to-finance-a-business-purchase) can represent just 5% of the transaction value. Work with an experienced SBA lender who understands the current rules.
+> **Important Note on 2025 SBA Changes:** In April 2025, the SBA updated its Standard Operating Procedure (SOP 50.10.8), which tightened underwriting standards. Under the current rules, seller notes can now cover only 50% of the required buyer equity injection, typically 10% of the total project cost. This effectively means [financing a business purchase](/article/how-to-finance-a-business-purchase) can represent just 5% of the transaction value. Work with an experienced SBA lender who understands the current rules.
 
 ### Option 2: [How to Finance Buying a Small Business](/article/how-to-finance-buying-a-small-business)
 
@@ -369,7 +369,7 @@ With financing constraints persisting, 91% of brokers cite seller financing as c
 
 - **[How to Finance a Business Purchase Without Savings](#)** — Creative funding structures beyond the SBA loan
 - **[How to Spot a Good Online Business Deal](#)** — Red flags, valuation multiples, and the deal scorecard
-- **[Flippa vs Empire Flippers: Which Is Better?](#)** — Choosing the right online [best websites to buy a business online](/article/best-websites-to-buy-small-business-online)
+- **[Flippa vs Empire Flippers: Which Is Better?](#)** — Choosing the right online [business marketplaces](/article/best-websites-to-buy-small-business-online)
 - **[5 Side Business Ideas You Can Start This Weekend](#)** — Not ready to acquire? Start here first
 
 ---

@@ -1,4 +1,4 @@
-# The Dad's Guide to [Emergency Fund vs Investing: What Comes First?](/article/emergency-fund-vs-investing)s & Investing: How Much to Save Before You Invest
+# The Dad's Guide to [Emergency Fund vs Investing: What Comes First?s](/article/emergency-fund-vs-investing) & Investing: How Much to Save Before You Invest
 
 Before you put a single dollar into the stock market, there's a financial foundation you need to build first — your emergency fund. Most financial experts agree that investing without an adequate cash cushion is like building a house on sand: one unexpected car repair, medical bill, or job loss can force you to sell investments at the worst possible time. This guide walks you through exactly how much to save, where to keep it, how to build it even while managing debt, and — most importantly — when you're truly ready to shift dollars from savings to investing. Whether you're just getting started or trying to optimize an already-decent financial situation, this article covers the complete picture of emergency savings and early investing for American dads in 2026.
 
@@ -64,7 +64,7 @@ Per the U.S. Bureau of Labor Statistics (BLS) 2024 Consumer Expenditure Survey r
 
 *Source: Ramsey Solutions / Bureau of Labor Statistics 2024 Consumer Expenditure Survey. Note: Target your essential expenses, not total spending. Eliminate discretionary costs like dining out, entertainment, and subscriptions when calculating your emergency baseline.*
 
-[compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) recommends starting with a goal of **$1,000** as your initial cash buffer, then building toward the full three-to-six month target over time. Vanguard's research goes even further: their data from over 12,000 investors shows that having even **$2,000 in emergency savings** leads to financial well-being scores 21% higher than having nothing saved. Individuals who had both $2,000 AND three to six months of expenses saved experienced a **34% higher financial well-being score**.
+[Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) recommends starting with a goal of **$1,000** as your initial cash buffer, then building toward the full three-to-six month target over time. Vanguard's research goes even further: their data from over 12,000 investors shows that having even **$2,000 in emergency savings** leads to financial well-being scores 21% higher than having nothing saved. Individuals who had both $2,000 AND three to six months of expenses saved experienced a **34% higher financial well-being score**.
 
 ### How to Calculate Your Personal Emergency Fund Target
 
@@ -126,7 +126,7 @@ Average credit card APR sits above 20% as of early 2026. No investment vehicle o
 Once high-interest debt is cleared and you're capturing your employer match, it's time to fund your full emergency reserve.
 
 **Step 5: Begin or accelerate investing**
-With a funded emergency account and your employer match captured, you're ready to invest systematically — starting with tax-advantaged accounts (Roth IRA, maxing 401(k)) and then taxable [open a brokerage account](/article/how-to-open-a-brokerage-account)s.
+With a funded emergency account and your employer match captured, you're ready to invest systematically — starting with tax-advantaged accounts (Roth IRA, maxing 401(k)) and then taxable [open a brokerage accounts](/article/how-to-open-a-brokerage-account).
 
 **Step 6: Address moderate-interest debt (student loans, car loans)**
 Per Fidelity's research, debt with an interest rate below 6% generally loses to long-term market returns. Focus on investing before accelerating payoff on lower-rate debt.
@@ -151,7 +151,7 @@ This is the single most effective savings habit, supported by every major financ
 
 Tax refunds are one of the most powerful tools for building your emergency fund fast. The average U.S. tax refund in recent years has been around $3,000. If you receive a refund, deposit the majority directly into your emergency fund before it gets absorbed into daily spending.
 
-Other windfalls to route to savings: bonuses, gifts, [side business ideas](/article/5-side-business-ideas) income, and any monetary overtime.
+Other windfalls to route to savings: bonuses, gifts, [side businesses](/article/5-side-business-ideas) income, and any monetary overtime.
 
 ### 4. The 50/50 Split When You Have Debt
 
@@ -234,7 +234,7 @@ The answer depends on your specific situation, but here's a clear framework:
 Some financial planners advocate a parallel approach — building emergency savings and investing simultaneously — especially for younger dads who fear missing years of compound growth. If this is your situation, consider:
 
 - **Minimum:** Always capture the full employer match before anything else
-- **Split contributions:** After capturing the match, split remaining discretionary income between your emergency fund and a [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners)
+- **Split contributions:** After capturing the match, split remaining discretionary income between your emergency fund and a [Roth IRA providers](/article/best-roth-ira-providers-for-beginners)
 - **Threshold rule:** Once your emergency fund reaches $5,000–$10,000, you can reasonably begin more aggressive investing even if you haven't hit your full three-month target
 
 The Money Guy Show's "Financial Order of Operations" framework makes a compelling case for getting your employer match first regardless of emergency fund status — because that match represents a guaranteed 50–100% return on investment that no savings rate can match.
@@ -375,7 +375,7 @@ For dads, the stakes are especially high. You're not just protecting yourself �
 
 17. **Ramsey Solutions** — "Emergency Fund: Why You Need One and How Much to Save." https://www.ramseysolutions.com/saving/quick-guide-to-your-emergency-fund
 
-18. **Ramsey Solutions** — "[pay off debt and still invest](/article/how-to-pay-off-debt-and-still-invest) or Save for the Future?" Baby Steps framework. https://www.ramseysolutions.com/debt/pay-off-debt-before-retirement
+18. **Ramsey Solutions** — "[paying off debt](/article/how-to-pay-off-debt-and-still-invest) or Save for the Future?" Baby Steps framework. https://www.ramseysolutions.com/debt/pay-off-debt-before-retirement
 
 19. **Ramsey Solutions** — "The Average American's Monthly Expenses." BLS data analysis by household type. https://www.ramseysolutions.com/budgeting/american-average-monthly-expenses
 

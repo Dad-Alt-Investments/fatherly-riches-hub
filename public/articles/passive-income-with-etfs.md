@@ -14,7 +14,7 @@ Before diving into strategies, it's worth understanding what makes ETFs especial
 
 1. **Instant diversification**: A single ETF can hold hundreds or even thousands of income-paying securities. This eliminates the risk that any one company cutting its dividend destroys your income stream.
 2. **Low costs**: The best dividend and bond ETFs charge expense ratios between 0.03% and 0.35% annually — fractions of a percent — so nearly all of the income they generate flows to you.
-3. **Automatic income**: Dividends and interest payments are credited directly to your [open a brokerage account](/article/how-to-open-a-brokerage-account) on a predictable schedule, typically monthly or quarterly, with no action required.
+3. **Automatic income**: Dividends and interest payments are credited directly to your [brokerage account](/article/how-to-open-a-brokerage-account) on a predictable schedule, typically monthly or quarterly, with no action required.
 4. **Automation through DRIP**: Every major brokerage allows you to automatically reinvest ETF dividends into additional shares through a Dividend Reinvestment Plan (DRIP) — accelerating the compounding effect.
 5. **Tax efficiency**: Most equity ETFs are more tax-efficient than actively managed mutual funds because of their in-kind creation/redemption structure, which reduces taxable capital gain distributions.[^1]
 6. **Flexibility**: Unlike bonds purchased directly or CDs, ETFs trade intraday and can be sold at any time if your needs change.
@@ -59,7 +59,7 @@ They are best suited for investors who need maximum current income today and are
 
 ### Strategy 4: REIT ETFs — Real Estate Income Without Landlord Headaches
 
-[Top 5 Real Estate Investment Options](/article/top-5-real-estate-investment-options)ment Trusts (REITs) are companies that own income-producing real estate — apartment complexes, warehouses, data centers, shopping centers, hospitals, and more. By law, REITs must distribute at least 90% of their taxable income to shareholders each year to maintain their tax-advantaged corporate structure.[^3]
+[real estate investing](/article/top-5-real-estate-investment-options)ment Trusts (REITs) are companies that own income-producing real estate — apartment complexes, warehouses, data centers, shopping centers, hospitals, and more. By law, REITs must distribute at least 90% of their taxable income to shareholders each year to maintain their tax-advantaged corporate structure.[^3]
 
 REIT ETFs bundle dozens or hundreds of individual REITs into a single fund, giving investors real estate exposure with a yield that typically runs 3–4 times the S&P 500's dividend yield — without the burden of managing a property, finding tenants, or handling repairs.
 
@@ -88,7 +88,7 @@ SCHD is arguably the most beloved dividend ETF in America. It tracks the Dow Jon
 
 The result is a portfolio of financially sound, dividend-growing companies that delivers a yield nearly three times the S&P 500's — while charging just $0.60 per $1,000 invested annually in fees. SCHD has grown its dividend at a 10-year compound annual growth rate (CAGR) of approximately 10.99%.[^5] That means if you bought shares when the yield was 3%, your yield on cost a decade later — based on historical performance — would be substantially higher thanks to dividend growth.
 
-**Best for**: Long-term investors in the accumulation phase who want to build a compounding income stream over 10–20 years. SCHD is particularly compelling held in a [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) where dividend growth compounds tax-free.
+**Best for**: Long-term investors in the accumulation phase who want to build a compounding income stream over 10–20 years. SCHD is particularly compelling held in a [Roth IRA providers](/article/best-roth-ira-providers-for-beginners) where dividend growth compounds tax-free.
 
 **Key limitation**: SCHD has minimal technology exposure, which caused it to lag significantly during the AI-driven tech rally of 2023–2025.[^6]
 
@@ -149,7 +149,7 @@ Morningstar has assigned JEPI a Silver Medalist rating, noting that its nuanced 
 
 The critical trade-off: JEPI's 8%+ yield comes at the cost of capped upside. When the S&P 500 surged between May and September 2025, JEPI lagged the index by more than 14 percentage points.[^12] In rough markets, however, JEPI provided significant protection — it beat the S&P 500 by 14.2 percentage points during the 2022 market meltdown.[^12]
 
-JEPI's monthly distributions also fluctuate considerably. In 2025, the per-share payout ranged from $0.33 to $0.54 — a 66% swing — making it unreliable as a precise monthly [Simple Budget System for Busy Dads](/article/simple-budget-system-for-busy-dads) tool.[^13]
+JEPI's monthly distributions also fluctuate considerably. In 2025, the per-share payout ranged from $0.33 to $0.54 — a 66% swing — making it unreliable as a precise monthly [budget system](/article/simple-budget-system-for-busy-dads) tool.[^13]
 
 **Tax note**: JEPI's distributions are largely classified as ordinary income, not qualified dividends. This makes JEPI significantly more tax-efficient when held inside a tax-advantaged account (Roth IRA, Traditional IRA, or 401k) rather than a taxable brokerage account.
 
@@ -255,7 +255,7 @@ The difference of roughly $91,000 is entirely attributable to the compounding po
 
 This is why income investors in the accumulation phase — those who don't need the income today — almost universally reinvest rather than spend their ETF distributions. By the time they need the income, the dividend payments are substantially larger because the share count has been growing for years.
 
-**Historical context**: According to data from Morningstar and Hartford Funds, an investor who put $10,000 into an S&P 500 [best platforms for index funds](/article/best-platforms-to-buy-index-funds) in 1960 would have ended 2024 with $1,035,827 from price appreciation alone. But with reinvested dividends, that same $10,000 would have grown to over $6.4 million — more than six times as much.[^23]
+**Historical context**: According to data from Morningstar and Hartford Funds, an investor who put $10,000 into an S&P 500 [platforms for index funds](/article/best-platforms-to-buy-index-funds) in 1960 would have ended 2024 with $1,035,827 from price appreciation alone. But with reinvested dividends, that same $10,000 would have grown to over $6.4 million — more than six times as much.[^23]
 
 ---
 
@@ -311,7 +311,7 @@ Decide whether you are in the **accumulation phase** (reinvesting dividends, bui
 
 ### Step 3: Select a Brokerage
 
-All of the ETFs in this guide are available commission-free at [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Schwab, Vanguard, or Robinhood. For Roth IRAs, Fidelity and Schwab offer the broadest platform capabilities. Robinhood offers a 1–3% IRA contribution match for those looking to maximize their IRA funding.
+All of the ETFs in this guide are available commission-free at [Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Schwab, Vanguard, or Robinhood. For Roth IRAs, Fidelity and Schwab offer the broadest platform capabilities. Robinhood offers a 1–3% IRA contribution match for those looking to maximize their IRA funding.
 
 *(See our full review: [Top Stock Brokerages for New Investors — 2026 Review](/category/stocks-etfs/stock-brokerage-reviews/))*
 
@@ -399,7 +399,7 @@ The machine builds itself. You just have to start it.
 ## Frequently Asked Questions
 
 **How much do I need to start investing in income ETFs?**
-Most brokerages require $0 to open an account, and all ETFs in this guide can be purchased for the price of one share or less (Fidelity and Schwab support fractional share investing from $1). A realistic starting point is $1,000–$5,000 to see meaningful [build a dividend portfolio](/article/dividend-portfolio-beginner-dad), but any amount is better than nothing when DRIP is enabled.
+Most brokerages require $0 to open an account, and all ETFs in this guide can be purchased for the price of one share or less (Fidelity and Schwab support fractional share investing from $1). A realistic starting point is $1,000–$5,000 to see meaningful [dividend portfolio](/article/dividend-portfolio-beginner-dad), but any amount is better than nothing when DRIP is enabled.
 
 **How often do ETFs pay income?**
 JEPI and JEPQ pay monthly. SCHD, VYM, VIG, and VNQ pay quarterly. BND pays monthly. Combining multiple ETFs allows you to receive income in more months of the year.

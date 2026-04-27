@@ -1,6 +1,6 @@
 # Best Investing Apps for Busy Dads (2026 Guide)
 
-*By DadAlt Investments | Category: Stocks & [How to Open a Brokerage Account](/article/how-to-open-a-brokerage-account)s | Last Updated: March 2026*
+*By DadAlt Investments | Category: Stocks & [How to Open a Brokerage Accounts](/article/how-to-open-a-brokerage-account) | Last Updated: March 2026*
 
 ---
 

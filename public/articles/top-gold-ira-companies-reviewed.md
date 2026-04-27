@@ -16,7 +16,7 @@ Gold had its best year in decades in 2025, returning +67% and setting 53 new all
 
 ## What Is a Gold IRA?
 
-A gold IRA — formally called a **self-directed IRA (SDIRA)** — is a tax-advantaged retirement account that holds physical gold, silver, platinum, or palladium instead of (or in addition to) paper assets like stocks, bonds, and mutual funds. The same tax benefits that apply to a traditional or [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) apply here: tax-deferred growth (Traditional Gold IRA) or tax-free growth (Roth Gold IRA).
+A gold IRA — formally called a **self-directed IRA (SDIRA)** — is a tax-advantaged retirement account that holds physical gold, silver, platinum, or palladium instead of (or in addition to) paper assets like stocks, bonds, and mutual funds. The same tax benefits that apply to a traditional or [Roth IRA providers](/article/best-roth-ira-providers-for-beginners) apply here: tax-deferred growth (Traditional Gold IRA) or tax-free growth (Roth Gold IRA).
 
 ### IRS Rules Every Investor Must Know
 
@@ -287,9 +287,9 @@ Founded in 2016 and based in Pasadena, California, Noble Gold Investments is the
 
 ### Cons
 
-1. **Higher fees than traditional IRAs.** Stock-based IRAs through Vanguard, [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), or Schwab typically charge near-zero annual fees. A gold IRA adds $175–$300/year in custodian and storage costs plus any metal markup. These costs compound over decades.
+1. **Higher fees than traditional IRAs.** Stock-based IRAs through Vanguard, [Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), or Schwab typically charge near-zero annual fees. A gold IRA adds $175–$300/year in custodian and storage costs plus any metal markup. These costs compound over decades.
 2. **Required Minimum Distributions (RMDs) still apply** to traditional gold IRAs. At age 73, you must begin taking RMDs — which with physical metals requires either selling metal for cash or taking an in-kind distribution of actual coins or bars. The logistics are more complex than a standard IRA.
-3. **Illiquidity compared to gold [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s.** Selling gold in an IRA requires contacting the custodian, arranging a sale, and waiting approximately a week for settlement — compared to instant execution for GLD or IAU in a [open a brokerage account](/article/how-to-open-a-brokerage-account). In a fast-moving market, this lag matters.
+3. **Illiquidity compared to gold [passive income strategies](/article/passive-income-with-etfs).** Selling gold in an IRA requires contacting the custodian, arranging a sale, and waiting approximately a week for settlement — compared to instant execution for GLD or IAU in a [brokerage account](/article/how-to-open-a-brokerage-account). In a fast-moving market, this lag matters.
 4. **Metal markups (spreads) are real costs.** The price you pay for coins or bars through a gold IRA dealer will be above spot price — typically by 3–8% for standard bullion, more for premium coins. This markup must be recovered through appreciation before your investment breaks even.
 5. **Not all gold IRA companies are trustworthy.** High-pressure sales, misleading "free gold" promotions, numismatic coin upsells, and hidden fees remain common in this industry. Selecting a company from this reviewed list and requesting written fee schedules before committing are both essential safeguards.
 
@@ -360,7 +360,7 @@ With gold returning +67% in 2025 while still sitting far below its potential all
 
 ## Related Articles on DadAlt Investments
 
-- **[How to Buy Physical Gold Online Safely](#)** — Step-by-step guide to [buy gold online safely](/article/how-to-buy-gold-online-safely) coins and bars from reputable U.S. dealers, what premiums to expect, and how to evaluate dealer legitimacy
+- **[How to Buy Physical Gold Online Safely](#)** — Step-by-step guide to [buying gold online](/article/how-to-buy-gold-online-safely) coins and bars from reputable U.S. dealers, what premiums to expect, and how to evaluate dealer legitimacy
 - **[Gold vs. Crypto: Which Is the Better Hedge?](#)** — Head-to-head comparison of gold and Bitcoin across six dimensions, with full 2025 performance data
 - **[7 Recession-Proof Assets Every Dad Should Consider](#)** — Gold is one of seven asset classes covered in this defensive portfolio playbook
 - **[How to Protect Your Portfolio from Inflation](#)** — The complete inflation-hedging framework: TIPS, gold, real estate, and crypto in a unified strategy

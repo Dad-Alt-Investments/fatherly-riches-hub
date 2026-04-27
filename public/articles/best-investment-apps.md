@@ -16,7 +16,7 @@ Managing investments used to mean calling a broker, watching financial news, or 
 
 ## Introduction: Why Dads Need an Investing App
 
-If you have a 401(k), a [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners), a taxable [open a brokerage account](/article/how-to-open-a-brokerage-account), and a checking account at three different institutions, tracking your financial life has a real cost: time you don't have. According to a 2024 Janus Henderson survey, 30% of non-investing Americans cited a lack of understanding as their primary barrier to getting started. Complexity isn't just an obstacle for beginners — it's a reason experienced investors let their portfolios drift, miss rebalancing windows, or pay more in fees than they realize.
+If you have a 401(k), a [Roth IRA providers](/article/best-roth-ira-providers-for-beginners), a taxable [brokerage account](/article/how-to-open-a-brokerage-account), and a checking account at three different institutions, tracking your financial life has a real cost: time you don't have. According to a 2024 Janus Henderson survey, 30% of non-investing Americans cited a lack of understanding as their primary barrier to getting started. Complexity isn't just an obstacle for beginners — it's a reason experienced investors let their portfolios drift, miss rebalancing windows, or pay more in fees than they realize.
 
 The right investing app solves all of that. It can:
 
@@ -34,9 +34,9 @@ This guide is organized into two categories: **investing apps** (where you activ
 
 Before diving into specific platforms, here's a quick checklist of the features that matter most for dad investors:
 
-1. **$0 commissions on stocks and [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s** — This has become standard in 2026 and there's no reason to pay per-trade fees.
+1. **$0 commissions on stocks and [passive income strategies](/article/passive-income-with-etfs)** — This has become standard in 2026 and there's no reason to pay per-trade fees.
 2. **Low or no account minimums** — Some of the best apps let you start with $1.
-3. **Fractional shares** — Buying $100 of an [best platforms for index funds](/article/best-platforms-to-buy-index-funds) is more useful than waiting until you can afford a full share.
+3. **Fractional shares** — Buying $100 of an [platforms for index funds](/article/best-platforms-to-buy-index-funds) is more useful than waiting until you can afford a full share.
 4. **Retirement account support** — Look for Roth IRA, Traditional IRA, and rollover IRA capability.
 5. **Automatic investing** — Set recurring contributions and stop relying on willpower.
 6. **Mobile app quality** — If the app is frustrating to use, you won't use it.
@@ -91,7 +91,7 @@ Charles Schwab is one of the largest and most trusted brokerages in the United S
 
 **Key features:**
 
-- **thinkorswim:** Schwab acquired TD Ameritrade's legendary thinkorswim [top stock brokerages for new investors](/article/top-stock-brokerages), giving all Schwab users access to professional-grade charting, analysis, and paper trading (simulated practice) at no additional cost.
+- **thinkorswim:** Schwab acquired TD Ameritrade's legendary thinkorswim [stock brokerages](/article/top-stock-brokerages), giving all Schwab users access to professional-grade charting, analysis, and paper trading (simulated practice) at no additional cost.
 - **Fractional shares:** Schwab Stock Slices allow you to buy any of the S&P 500 companies for as little as $5, with up to 30 companies purchasable in a single transaction.
 - **Schwab Intelligent Portfolios:** Free robo-advisor service that builds and automatically rebalances a diversified ETF portfolio. Requires $5,000 to start.
 - **Research library:** Considered the deepest research offering at any major retail brokerage, including analyst reports, screeners, economic data, and market commentary.

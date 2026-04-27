@@ -36,7 +36,7 @@ No asset is perfectly recession-proof. Even gold temporarily crashed 28% in the 
 
 Companies that pay regular dividends tend to be larger, more financially stable, and more operationally mature than non-dividend-paying growth stocks. To sustain a dividend through an economic downturn, a company needs strong cash flows, conservative balance sheets, and businesses selling things people actually need — food, utilities, healthcare, and household staples. These defensive characteristics make dividend-paying sectors meaningfully more resilient than the broader market during contractions.
 
-During recessions, [build a dividend portfolio](/article/dividend-portfolio-beginner-dad) also provides a critical psychological and financial anchor. When your portfolio is dropping in value, receiving quarterly cash distributions helps investors stay the course rather than panic selling at the bottom — which is historically when most retail investors destroy their long-term returns.
+During recessions, [dividend portfolio](/article/dividend-portfolio-beginner-dad) also provides a critical psychological and financial anchor. When your portfolio is dropping in value, receiving quarterly cash distributions helps investors stay the course rather than panic selling at the bottom — which is historically when most retail investors destroy their long-term returns.
 
 ### Key Sectors for Recession Resilience
 
@@ -46,7 +46,7 @@ During recessions, [build a dividend portfolio](/article/dividend-portfolio-begi
 
 ### The Two Best Dividend ETFs for Dad Investors
 
-**1. [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) High Dividend Yield ETF (VYM)**
+**1. [Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) High Dividend Yield ETF (VYM)**
 VYM is one of the five large-cap dividend ETFs with at least $1 billion in assets and five or more consecutive years of dividend growth, per Seeking Alpha analysis. The fund holds over 565 companies, tilting toward financial services (21%), technology (14%), and healthcare (13%), with top holdings including Broadcom, JPMorgan Chase, and Exxon Mobil, per The Motley Fool's 2025 comparison. VYM has delivered a five-year total return of more than 64%, per 24/7 Wall St.'s 2026 dividend ETF analysis, with a current dividend yield of approximately 2.27%, per PortfoliosLab data. Both SCHD and VYM carry an expense ratio of just 0.06% — extremely cost-efficient.
 
 **2. Schwab U.S. Dividend Equity ETF (SCHD)**
@@ -54,7 +54,7 @@ SCHD tracks the Dow Jones U.S. Dividend 100 Index and screens companies for divi
 
 **Which to choose?** VYM offers broader diversification across 550+ companies; SCHD offers higher yield and a quality screen for dividend sustainability. Many investors hold both.
 
-> **→ CTA: Open a [open a brokerage account](/article/how-to-open-a-brokerage-account) to buy VYM or SCHD commission-free**
+> **→ CTA: Open a [brokerage account](/article/how-to-open-a-brokerage-account) to buy VYM or SCHD commission-free**
 
 ### Watch Points
 
@@ -122,7 +122,7 @@ Dad investors have three practical options:
 
 2. **Gold ETFs (GLD or IAU):** The SPDR Gold Shares ETF (GLD) and the iShares Gold Trust (IAU) track spot gold prices and are as liquid as stocks. IAU has a lower expense ratio (0.25% vs. 0.40% for GLD). Both are held within standard brokerage or IRA accounts. Cannot be physically redeemed.
 
-3. **[Best Gold IRA Companies](/article/best-gold-ira-companies):** A self-directed IRA holding IRS-approved physical gold, stored at an approved depository. Offers tax-deferred growth on gold holdings within your retirement account. See DadAlt's companion article **[Top Gold IRA Companies Reviewed](#)** for a detailed comparison of Augusta Precious Metals, Goldco, Birch Gold Group, American Hartford Gold, and Noble Gold.
+3. **[Gold IRA companies](/article/best-gold-ira-companies):** A self-directed IRA holding IRS-approved physical gold, stored at an approved depository. Offers tax-deferred growth on gold holdings within your retirement account. See DadAlt's companion article **[Top Gold IRA Companies Reviewed](#)** for a detailed comparison of Augusta Precious Metals, Goldco, Birch Gold Group, American Hartford Gold, and Noble Gold.
 
 > **→ CTA: Buy gold from SD Bullion or APMEX | Start a Gold IRA with Augusta Precious Metals**
 
@@ -312,7 +312,7 @@ Timing recessions is notoriously difficult — even professional economists rout
 Yes, incrementally. Start with:
 1. Fund a 3-month emergency reserve in a high-yield savings account
 2. Max your 401(k) match at work (free money)
-3. Open a [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) and invest in VYM or SCHD
+3. Open a [Roth IRA providers](/article/best-roth-ira-providers-for-beginners) and invest in VYM or SCHD
 4. Add I-Bonds annually up to the $10,000 limit
 5. Add Fundrise, gold, or other alternatives as the core is established
 

@@ -153,7 +153,7 @@ Beginners buying their first hardware wallet. Users who want the security creden
 
 **Who it's for:** Bitcoin maximalists, institutional holders, and technically advanced users who want the most extreme security available for a single asset.
 
-The Coldcard Mk4, made by Coinkite, is the hardware wallet of choice among hardcore Bitcoin [move crypto to a personal wallet](/article/how-to-move-crypto-off-exchange-to-wallet) advocates. It supports **Bitcoin only** — no altcoins, no Ethereum, no tokens. What it offers instead is an unmatched combination of air-gapped signing capability, dual secure element chips, open-source firmware, and features designed specifically for institutional-grade Bitcoin security.[^10]
+The Coldcard Mk4, made by Coinkite, is the hardware wallet of choice among hardcore Bitcoin [self-custody crypto](/article/how-to-move-crypto-off-exchange-to-wallet) advocates. It supports **Bitcoin only** — no altcoins, no Ethereum, no tokens. What it offers instead is an unmatched combination of air-gapped signing capability, dual secure element chips, open-source firmware, and features designed specifically for institutional-grade Bitcoin security.[^10]
 
 ### Key Features
 

@@ -4,7 +4,7 @@
 
 ---
 
-Gold hit record highs above $5,600 per troy ounce in January 2026 and has never been more widely owned by American individual investors.[^1] But "investing in gold" means something fundamentally different depending on which vehicle you choose — and the safety profile of each option varies dramatically. A physically-backed gold [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs) in a [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) costs 0.09%–0.25% per year, is instantly liquid, and requires no insurance, custodian, or storage arrangement. A [top Gold IRA companies](/article/top-gold-ira-companies-reviewed) holds allocated physical metal in an IRS-approved vault with meaningful tax advantages but annual fees of $200–$500+ and custodian dependency. Physical coins in your home safe give you direct, counterparty-free ownership but expose you to theft, underinsurance, and the 28% collectibles tax rate. Gold mining stocks can massively outperform in a bull market but carry operational risks that pure gold never does. The right answer for any individual investor depends on which type of risk they are most concerned about — and on the honest recognition that no single gold vehicle is safest across every dimension. This guide breaks down all six ways to own gold, ranks them by safety profile, explains when each one belongs in your portfolio, and flags the scams that have cost thousands of Americans their retirement savings.
+Gold hit record highs above $5,600 per troy ounce in January 2026 and has never been more widely owned by American individual investors.[^1] But "investing in gold" means something fundamentally different depending on which vehicle you choose — and the safety profile of each option varies dramatically. A physically-backed gold [passive income strategies](/article/passive-income-with-etfs) in a [Roth IRA providers](/article/best-roth-ira-providers-for-beginners) costs 0.09%–0.25% per year, is instantly liquid, and requires no insurance, custodian, or storage arrangement. A [Gold IRA companies](/article/top-gold-ira-companies-reviewed) holds allocated physical metal in an IRS-approved vault with meaningful tax advantages but annual fees of $200–$500+ and custodian dependency. Physical coins in your home safe give you direct, counterparty-free ownership but expose you to theft, underinsurance, and the 28% collectibles tax rate. Gold mining stocks can massively outperform in a bull market but carry operational risks that pure gold never does. The right answer for any individual investor depends on which type of risk they are most concerned about — and on the honest recognition that no single gold vehicle is safest across every dimension. This guide breaks down all six ways to own gold, ranks them by safety profile, explains when each one belongs in your portfolio, and flags the scams that have cost thousands of Americans their retirement savings.
 
 ---
 
@@ -15,7 +15,7 @@ Before comparing options, it helps to define what you're trying to be safe from.
 | Risk You're Protecting Against | Safest Gold Vehicle |
 |---|---|
 | **Inflation and purchasing power loss** | All forms of gold provide this — ETFs, physical, IRA, royalties |
-| **Counterparty risk** (custodian/exchange failure) | [buy physical gold safely](/article/how-to-buy-physical-gold-online-safely) in your possession; allocated vault storage |
+| **Counterparty risk** (custodian/exchange failure) | [buying physical gold](/article/how-to-buy-physical-gold-online-safely) in your possession; allocated vault storage |
 | **Theft, loss, or physical damage** | Gold ETFs and paper gold — no physical metal to lose |
 | **Excessive fees eroding returns** | Low-cost ETFs (GLDM: 0.10%, IAUM: 0.09%) win clearly |
 | **Tax drag on long-term gains** | Gold ETF or physical gold inside a Roth IRA |
@@ -60,7 +60,7 @@ Understanding which risks matter most to your situation is the first step toward
 | **SGOL** (abrdn Physical Gold) | 0.17%/yr | ~$9 billion | Physical gold in Swiss vaults; LBMA responsible sourcing[^3] |
 
 **Key facts:**
-- Available in any [open a brokerage account](/article/how-to-open-a-brokerage-account) including Roth and Traditional IRAs
+- Available in any [brokerage account](/article/how-to-open-a-brokerage-account) including Roth and Traditional IRAs
 - No minimum above one ETF share
 - No storage, no insurance, no custodian, no dealer premium
 - Same 28% collectibles tax rate applies in a taxable account — but Roth IRA holding eliminates this permanently
@@ -153,7 +153,7 @@ This ranking reflects overall safety for a **long-term, wealth-preserving Americ
 
 ### #3 — Gold IRA with a Reputable Provider
 
-**Why it ranks third:** A Roth Gold IRA with a vetted provider like [Augusta Precious Metals](https://www.augustapreciousmetals.com), [Goldco](https://www.goldco.com), or [Birch Gold Group](https://www.birchgold.com) delivers meaningful tax advantages — permanent exemption from the 28% collectibles rate in the Roth structure — with the security of professional allocated storage. The custodian adds an institutional compliance layer that protects IRA assets in ways a private vault may not. For a head-to-head comparison, see [Augusta vs Goldco vs Birch Gold Group](/article/augusta-vs-goldco-vs-birch-gold-group).
+**Why it ranks third:** A Roth Gold IRA with a vetted provider like [Augusta Precious Metals](https://www.augustapreciousmetals.com), [Goldco](https://www.goldco.com), or [Birch Gold Group](https://www.birchgold.com) delivers meaningful tax advantages — permanent exemption from the 28% collectibles rate in the Roth structure — with the security of professional allocated storage. The custodian adds an institutional compliance layer that protects IRA assets in ways a private vault may not. For a head-to-head comparison, see [Augusta, Goldco, and Birch Gold Group](/article/augusta-vs-goldco-vs-birch-gold-group).
 
 **Honest limitations:** Annual fees of $200–$500+ make small accounts ($10,000–$25,000) economically suboptimal. The custodian layer adds both cost and dependency. The industry contains documented bad actors (see Scams section below). At account sizes of $100,000+, these limitations become manageable relative to the tax benefit.
 
@@ -187,7 +187,7 @@ For the large majority of American investors — those who are building a divers
 
 Here is why:
 
-1. **Zero friction:** Open an account at [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Schwab, or Vanguard, fund your Roth IRA, and buy GLDM or IAUM. No custodian application, no dealer negotiation, no minimum beyond what ETF shares cost.
+1. **Zero friction:** Open an account at [Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Schwab, or Vanguard, fund your Roth IRA, and buy GLDM or IAUM. No custodian application, no dealer negotiation, no minimum beyond what ETF shares cost.
 2. **Lowest total cost:** At 0.10% annually (GLDM) or 0.09% (IAUM), you pay $10 per $10,000 per year in fees. Compare this to $200–$500+/year for a Gold IRA or 3–10% dealer premium on physical coins.
 3. **Tax-free growth permanently:** Inside a Roth IRA, the IRS collectibles rate on gold is a non-issue. Every dollar of appreciation compounds tax-free.
 4. **Instant liquidity:** Sell any time during market hours at the gold spot price minus the ETF's small tracking error.

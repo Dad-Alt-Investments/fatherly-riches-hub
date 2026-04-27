@@ -58,7 +58,7 @@ TIPS pay interest semiannually and are issued in **5-, 10-, and 30-year terms**,
 ### How to Buy TIPS
 
 1. **Directly from TreasuryDirect.gov.** Minimum purchase $1,000. No commissions or fees.
-2. **TIPS [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s** — the easiest option for most investors:
+2. **TIPS [passive income strategies](/article/passive-income-with-etfs)** — the easiest option for most investors:
    - **SCHP (Schwab U.S. TIPS ETF):** Expense ratio 0.03% — one of the cheapest bond ETFs available
    - **TIP (iShares TIPS Bond ETF):** Expense ratio 0.19%, broad TIPS exposure
    - **VTIP (Vanguard Short-Term Inflation-Protected Securities ETF):** Expense ratio 0.04%, lower duration risk
@@ -157,7 +157,7 @@ Gold is not a perfect inflation hedge — it pays no income, and it can be volat
 
 1. **Physical gold coins and bars.** American Gold Eagles, Canadian Maple Leafs, and PAMP Suisse bars from dealers like SD Bullion or APMEX. Best for tangible ownership and maximum privacy. Requires secure storage.
 
-2. **Gold ETFs.** Trade like stocks in any [open a brokerage account](/article/how-to-open-a-brokerage-account):
+2. **Gold ETFs.** Trade like stocks in any [brokerage account](/article/how-to-open-a-brokerage-account):
    - **IAU (iShares Gold Trust):** Expense ratio 0.25% — tracks spot gold; lower cost than GLD
    - **GLD (SPDR Gold Shares):** Expense ratio 0.40% — the most liquid gold ETF; institutional-grade
 
@@ -175,7 +175,7 @@ Gold is not a perfect inflation hedge — it pays no income, and it can be volat
 
 ### Why Dividend Growth Beats Inflation Over Time
 
-There is an important distinction between dividend stocks that pay a high yield today and dividend growth stocks that consistently increase their payouts year after year. Inflation protection comes from growth, not just yield. A stock yielding 3% today but raising its dividend 8% annually will yield 6.5% on your original investment in 10 years — far above any expected inflation rate. That compounding of [build a dividend portfolio](/article/dividend-portfolio-beginner-dad) is how long-term investors beat inflation without excessive risk.
+There is an important distinction between dividend stocks that pay a high yield today and dividend growth stocks that consistently increase their payouts year after year. Inflation protection comes from growth, not just yield. A stock yielding 3% today but raising its dividend 8% annually will yield 6.5% on your original investment in 10 years — far above any expected inflation rate. That compounding of [dividend portfolio](/article/dividend-portfolio-beginner-dad) is how long-term investors beat inflation without excessive risk.
 
 The most elite dividend growers belong to a group called **"Dividend Kings"** — companies that have increased their dividend for 50 or more consecutive years, through every recession, bear market, and inflation cycle since the 1970s. Notable Dividend Kings with exceptional track records include:
 
@@ -189,7 +189,7 @@ These companies share the same inflation-fighting quality: they sell products pe
 
 For dad investors who prefer diversification over individual stock selection, two dividend growth ETFs stand out:
 
-**1. [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) Dividend Appreciation ETF (VIG)**
+**1. [Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) Dividend Appreciation ETF (VIG)**
 VIG tracks the S&P U.S. Dividend Growers Index, which requires companies to have increased dividends for at least 10 consecutive years. It holds 300+ stocks and is market-cap weighted (each position capped at 4%). Key features per Kiplinger and PortfoliosLab:
 - Expense ratio: **0.06%**
 - 10-year annualized total return: **13.8%**
@@ -243,7 +243,7 @@ The case is not that Bitcoin is a reliable inflation hedge. The case is that a *
 4. **Dollar-cost average.** Invest fixed amounts monthly rather than lump-sum to smooth entry prices.
 5. **Use a hardware wallet** for holdings above $1,000. Exchange-held crypto carries custodial risk.
 
-For a more detailed guide on purchasing Bitcoin safely, see DadAlt's companion article: **[How to [buy Bitcoin safely](/article/how-to-buy-bitcoin-safely) Safely Without Getting Scammed](#)**.
+For a more detailed guide on purchasing Bitcoin safely, see DadAlt's companion article: **[buy Bitcoin](/article/how-to-buy-bitcoin-safely)**.
 
 ---
 
@@ -278,7 +278,7 @@ If you're starting from scratch or reworking your existing portfolio for inflati
 
 2. **Max your I-Bond purchases** — $10,000 per person at TreasuryDirect.gov, starting January 1 of each year. This is free money versus inflation with zero credit risk.
 
-3. **Open or maximize a [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners)** and invest in VIG or DGRO. Tax-free growth on dividend compounders is extremely powerful over a 20-year period.
+3. **Open or maximize a [Roth IRA providers](/article/best-roth-ira-providers-for-beginners)** and invest in VIG or DGRO. Tax-free growth on dividend compounders is extremely powerful over a 20-year period.
 
 4. **Add TIPS exposure** via SCHP or VTIP inside a tax-advantaged account to avoid the phantom income tax issue on principal adjustments.
 

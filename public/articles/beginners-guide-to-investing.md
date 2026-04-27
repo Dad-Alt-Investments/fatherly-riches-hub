@@ -42,7 +42,7 @@ Investing is how you stay ahead of inflation. The stock market — as measured b
 
 One of the most well-documented findings in investing research is that the single most important variable in building wealth is how long your money is invested — not when you invest or which stocks you pick.
 
-Here's a concrete example: if you invest **$10,000 today** in an S&P 500 [best platforms for index funds](/article/best-platforms-to-buy-index-funds) and don't add another dollar, at a 10% average annual return:
+Here's a concrete example: if you invest **$10,000 today** in an S&P 500 [platforms for index funds](/article/best-platforms-to-buy-index-funds) and don't add another dollar, at a 10% average annual return:
 
 | Years Invested | Approximate Value |
 |---|---|
@@ -114,7 +114,7 @@ A **Roth IRA** (Individual Retirement Account) allows you to contribute after-ta
 3. No required minimum distributions (RMDs) during your lifetime
 4. You can contribute to both a 401(k) and a Roth IRA in the same year — the limits are separate
 
-**Where to open a Roth IRA:** [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) and Charles Schwab are the two most recommended brokerages for Roth IRAs in 2026 — both offer $0 account minimums, $0 commissions, extensive index fund selections, and strong educational resources. NerdWallet named Fidelity its top pick for beginning investors for 2026.
+**Where to open a Roth IRA:** [Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) and Charles Schwab are the two most recommended brokerages for Roth IRAs in 2026 — both offer $0 account minimums, $0 commissions, extensive index fund selections, and strong educational resources. NerdWallet named Fidelity its top pick for beginning investors for 2026.
 
 ### Traditional IRA
 

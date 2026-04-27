@@ -4,7 +4,7 @@
 **Target Keywords:** family budgeting, personal finance, simple budget system
 **Tags:** Beginner Guides · Financial Independence · Guides & How-To's
 
-> **Disclaimer:** This article is for educational and informational purposes only and does not constitute financial, investment, tax, or legal advice. DadAlt Investments may receive affiliate compensation from [best budgeting apps for families](/article/best-budgeting-apps-for-families)s and financial companies referenced in this article. This never influences our editorial recommendations. Always consult a qualified financial advisor before making significant financial decisions.
+> **Disclaimer:** This article is for educational and informational purposes only and does not constitute financial, investment, tax, or legal advice. DadAlt Investments may receive affiliate compensation from [best budgeting apps for familiess](/article/best-budgeting-apps-for-families) and financial companies referenced in this article. This never influences our editorial recommendations. Always consult a qualified financial advisor before making significant financial decisions.
 
 ---
 
@@ -210,7 +210,7 @@ That's nearly $11,000 per year in expenses that most families treat as emergenci
 
 **Where to keep sinking funds:** High-yield savings accounts (HYSAs) are ideal. Top accounts in early 2026 offer 3.50–4.20% APY — your sinking funds earn interest while they wait. Ally Bank allows up to 30 "savings buckets" within a single account, making it easy to label and track individual sinking funds without opening multiple accounts.
 
-**The critical distinction:** An [emergency funds and investing](/article/emergency-funds-and-investing) covers true unknowns — job loss, a medical crisis, a furnace that dies in January. A sinking fund covers predictable irregulars — the car registration you knew was coming in October. They serve different purposes and should be funded separately.
+**The critical distinction:** An [emergency funds](/article/emergency-funds-and-investing) covers true unknowns — job loss, a medical crisis, a furnace that dies in January. A sinking fund covers predictable irregulars — the car registration you knew was coming in October. They serve different purposes and should be funded separately.
 
 ---
 
@@ -378,7 +378,7 @@ Start today. Open a spreadsheet or download YNAB's free 34-day trial. List your 
 
 The rest follows from there.
 
-> **→ Related: [How to [pay off debt and still invest](/article/how-to-pay-off-debt-and-still-invest) and Still Invest](#) | [The Dad's Guide to Emergency Funds](#) | [The Ultimate DadAlt Investment Playbook](#)**
+> **→ Related: [paying off debt](/article/how-to-pay-off-debt-and-still-invest) | [The Dad's Guide to Emergency Funds](#) | [The Ultimate DadAlt Investment Playbook](#)**
 
 ---
 

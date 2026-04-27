@@ -6,13 +6,13 @@
 
 ## Summary
 
-Most dads aren't looking to day-trade their way to early retirement or gamble on meme stocks. They want to build real, lasting wealth — the kind that creates options for their family, protects against inflation, and doesn't require a finance degree to understand. The DadAlt Investment Playbook is your one-stop guide to the five core investment pillars covered on DadAlt Investments: **Stocks & [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s, Crypto & Digital Assets, Gold & Precious Metals, Buying Businesses, and Real Estate.** Whether you're just starting out or you're ready to diversify beyond your 401(k), this guide breaks down what you need to know, where to start, and how to think about each asset class as a busy dad with real financial responsibilities.
+Most dads aren't looking to day-trade their way to early retirement or gamble on meme stocks. They want to build real, lasting wealth — the kind that creates options for their family, protects against inflation, and doesn't require a finance degree to understand. The DadAlt Investment Playbook is your one-stop guide to the five core investment pillars covered on DadAlt Investments: **Stocks & [passive income strategies](/article/passive-income-with-etfs), Crypto & Digital Assets, Gold & Precious Metals, Buying Businesses, and Real Estate.** Whether you're just starting out or you're ready to diversify beyond your 401(k), this guide breaks down what you need to know, where to start, and how to think about each asset class as a busy dad with real financial responsibilities.
 
 ---
 
 ## Why "Alt" Investing Matters for Dads
 
-Traditional investing advice — max your 401(k), buy [best platforms for index funds](/article/best-platforms-to-buy-index-funds)s, wait 40 years — isn't wrong. But it's incomplete.
+Traditional investing advice — max your 401(k), buy [best platforms for index fundss](/article/best-platforms-to-buy-index-funds), wait 40 years — isn't wrong. But it's incomplete.
 
 According to a 2023 Federal Reserve report, the median American family has only **$87,000 in total wealth**, and the stock market represents just one piece of the financial puzzle for most households. ([Federal Reserve, 2023 Survey of Consumer Finances](https://www.federalreserve.gov/publications/2023-September-changes-in-us-family-finances-overview.htm))
 
@@ -38,8 +38,8 @@ The S&P 500 has delivered an average annual return of approximately **10.5% per 
 #### Key Concepts Every Dad Should Know
 
 1. **Index Funds vs. ETFs** — Index funds track a market index (like the S&P 500) and are typically bought through a brokerage or retirement account. ETFs do the same but trade like a stock throughout the day. For most dads, either option works well for long-term investing.
-2. **Dividend Investing** — Dividend stocks pay you a portion of the company's earnings on a regular basis. Building a [build a dividend portfolio](/article/dividend-portfolio-beginner-dad) can create a stream of passive income over time, even while you hold the stocks.
-3. **Brokerage Selection** — Not all brokerages are created equal. Beginner-friendly platforms like **[compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Charles Schwab, and M1 Finance** offer $0 commissions and helpful educational tools.
+2. **Dividend Investing** — Dividend stocks pay you a portion of the company's earnings on a regular basis. Building a [dividend portfolio](/article/dividend-portfolio-beginner-dad) can create a stream of passive income over time, even while you hold the stocks.
+3. **Brokerage Selection** — Not all brokerages are created equal. Beginner-friendly platforms like **[Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Charles Schwab, and M1 Finance** offer $0 commissions and helpful educational tools.
 
 #### DadAlt Stocks & ETFs Guides
 - [How to Build a Dividend Portfolio as a Beginner Dad](#)
@@ -61,7 +61,7 @@ Crypto is **not** a "set it and forget it" investment for most people — but it
 
 - **Bitcoin (BTC)** is the most widely held and considered the "digital gold" of the crypto space — a store of value with a fixed supply of 21 million coins.
 - **Ethereum (ETH)** is the backbone of decentralized applications and smart contracts, making it more of a technology bet than a pure store of value.
-- **Crypto ETFs** (like spot Bitcoin ETFs approved by the SEC in January 2024) offer exposure to crypto through your regular [open a brokerage account](/article/how-to-open-a-brokerage-account), eliminating custody concerns. ([SEC Approval of Spot Bitcoin ETFs, January 2024](https://www.sec.gov/news/press-release/2024-4))
+- **Crypto ETFs** (like spot Bitcoin ETFs approved by the SEC in January 2024) offer exposure to crypto through your regular [brokerage account](/article/how-to-open-a-brokerage-account), eliminating custody concerns. ([SEC Approval of Spot Bitcoin ETFs, January 2024](https://www.sec.gov/news/press-release/2024-4))
 - **Staking** lets you earn passive income by locking your crypto to help validate transactions on proof-of-stake networks.
 
 #### Key Risks to Understand
@@ -197,7 +197,7 @@ Before building any investment portfolio, make sure your financial foundation is
 2. **Pay Off High-Interest Debt** — Any debt above 7–8% APR (especially credit cards) should typically be paid off before investing aggressively.
 3. **Capture Free Money** — Maximize employer 401(k) matching before investing in taxable accounts.
 4. **Automate Your Investing** — Set up automatic transfers on payday. You can't spend money that's already been invested.
-5. **Tax-Efficient Structure** — Use tax-advantaged accounts (401k, IRA, [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners), HSA) before taxable brokerage accounts where possible.
+5. **Tax-Efficient Structure** — Use tax-advantaged accounts (401k, IRA, [Roth IRA providers](/article/best-roth-ira-providers-for-beginners), HSA) before taxable brokerage accounts where possible.
 
 #### DadAlt Personal Finance Guides
 - [The Dad's Guide to Emergency Funds & Investing](#)

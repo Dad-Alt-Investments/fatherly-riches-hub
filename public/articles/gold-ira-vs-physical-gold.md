@@ -61,13 +61,13 @@ You can walk into any coin dealer, pawn shop, or gold buyer in America with a re
 ### Cons of Physical Gold
 
 **1. The 28% collectibles capital gains tax rate.**
-This is the most significant financial drawback of physical gold. The IRS classifies gold as a collectible, meaning long-term capital gains (held more than one year) are taxed at your marginal income tax rate up to a **maximum of 28%** — compared to the 20% maximum long-term rate on stocks and [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s.[^3] For most middle-income investors, this means paying their ordinary income rate on gold profits. For higher earners, the 28% cap still exceeds the 20% stock rate by 8 percentage points.
+This is the most significant financial drawback of physical gold. The IRS classifies gold as a collectible, meaning long-term capital gains (held more than one year) are taxed at your marginal income tax rate up to a **maximum of 28%** — compared to the 20% maximum long-term rate on stocks and [passive income strategies](/article/passive-income-with-etfs).[^3] For most middle-income investors, this means paying their ordinary income rate on gold profits. For higher earners, the 28% cap still exceeds the 20% stock rate by 8 percentage points.
 
 **2. Storage and security are your responsibility.**
 A home safe, a bank safe deposit box, or a private vault all cost money and require active management. Standard homeowner's insurance typically covers only $200–$2,500 in precious metals — you'll need to schedule your gold as a separate rider to be properly covered. Larger holdings warrant third-party vault storage, which typically runs 0.10%–0.50% of holdings value annually.
 
 **3. No tax-deferred growth mechanism.**
-Every year your physical gold appreciates is a year you are accumulating an unrealized taxable liability. There is no account structure that lets your gold compound tax-free over decades the way a [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) does.
+Every year your physical gold appreciates is a year you are accumulating an unrealized taxable liability. There is no account structure that lets your gold compound tax-free over decades the way a [Roth IRA providers](/article/best-roth-ira-providers-for-beginners) does.
 
 ---
 
@@ -95,7 +95,7 @@ A Gold IRA, like any IRA, allows you to designate beneficiaries who can inherit 
 ### Cons of a Gold IRA
 
 **1. High minimum investment requirements.**
-Most reputable Gold IRA providers require $10,000–$50,000 to open an account. [Augusta Precious Metals](https://www.augustapreciousmetals.com) requires $50,000. [Goldco](https://www.goldco.com) starts at $25,000. [Birch Gold Group](https://www.birchgold.com) is among the most accessible at $10,000. The premium dealers exist at these minimums for regulatory and operational reasons — but it creates a meaningful barrier to entry for investors who are just beginning.[^7] For a detailed comparison of these providers, see [Augusta vs Goldco vs Birch Gold Group](/article/augusta-vs-goldco-vs-birch-gold-group).
+Most reputable Gold IRA providers require $10,000–$50,000 to open an account. [Augusta Precious Metals](https://www.augustapreciousmetals.com) requires $50,000. [Goldco](https://www.goldco.com) starts at $25,000. [Birch Gold Group](https://www.birchgold.com) is among the most accessible at $10,000. The premium dealers exist at these minimums for regulatory and operational reasons — but it creates a meaningful barrier to entry for investors who are just beginning.[^7] For a detailed comparison of these providers, see [Augusta, Goldco, and Birch Gold Group](/article/augusta-vs-goldco-vs-birch-gold-group).
 
 **2. Annual fees reduce your net return.**
 Every Gold IRA carries ongoing costs that physical gold does not:
@@ -184,7 +184,7 @@ These are the non-negotiable rules that govern Gold IRA accounts. Violations can
 
 - **Gold purity standard:** .995 minimum fineness (99.5%) under IRC Section 408(m)(3); American Gold Eagles are the sole statutory exception at .9167 fine[^8]
 - **No home storage:** IRA-owned gold must remain in an IRS-approved depository at all times. "Home storage Gold IRA" promotions claiming this is legal are misrepresenting IRS rules — home storage of IRA gold constitutes a prohibited transaction and a taxable distribution.[^8]
-- **IRS-approved custodian required:** Gold IRAs require a self-directed IRA custodian — [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Vanguard, and Charles Schwab do not offer physical precious metals IRAs. You need a specialized custodian such as Equity Trust Company, STRATA Trust, or Midland IRA.[^6]
+- **IRS-approved custodian required:** Gold IRAs require a self-directed IRA custodian — [Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Vanguard, and Charles Schwab do not offer physical precious metals IRAs. You need a specialized custodian such as Equity Trust Company, STRATA Trust, or Midland IRA.[^6]
 - **No collectibles or numismatic coins:** The collectibles prohibition under IRC Section 408(m)(2) is absolute. Placing a collectible in an IRA is treated as a distribution the year of acquisition — full taxes and potential penalties apply immediately.[^9]
 - **2026 contribution limits:** $7,500/year ($8,600 age 50+) — rollovers and transfers do not count against this limit[^2]
 - **Penalty-free withdrawals:** Age 59½ for distributions without the 10% early withdrawal penalty

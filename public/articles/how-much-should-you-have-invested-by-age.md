@@ -4,7 +4,7 @@
 
 ---
 
-The retirement savings benchmarks for ages 30, 40, and 50 are not pass-or-fail tests — they are diagnostic tools. Knowing where you stand relative to a well-established guideline is the first step toward doing something about it, which is the only step that actually matters. The most widely used standard in the United States comes from [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) Investments, whose salary-multiple guidelines have become the industry's default benchmark: **1x your annual salary saved by age 30, 3x by 40, 6x by 50, 8x by 60, and 10x by retirement at age 67**.[^1] But here's the reality check the benchmarks never headline: the median retirement savings for all U.S. households is just $87,000, according to the Federal Reserve's Survey of Consumer Finances — and roughly 65% of Americans believe their retirement savings are either off track or are not sure if they're on track.[^2] This is not a crisis of will. It is the entirely predictable result of student loan debt, housing costs, childcare expenses, and wage growth that hasn't kept pace with cost of living for most working families. This guide explains what the benchmarks actually mean, what they look like across different income levels, why most Americans fall short of them, and — most importantly — what to do right now whether you're 28, 38, or 52 and behind where you want to be.
+The retirement savings benchmarks for ages 30, 40, and 50 are not pass-or-fail tests — they are diagnostic tools. Knowing where you stand relative to a well-established guideline is the first step toward doing something about it, which is the only step that actually matters. The most widely used standard in the United States comes from [Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab) Investments, whose salary-multiple guidelines have become the industry's default benchmark: **1x your annual salary saved by age 30, 3x by 40, 6x by 50, 8x by 60, and 10x by retirement at age 67**.[^1] But here's the reality check the benchmarks never headline: the median retirement savings for all U.S. households is just $87,000, according to the Federal Reserve's Survey of Consumer Finances — and roughly 65% of Americans believe their retirement savings are either off track or are not sure if they're on track.[^2] This is not a crisis of will. It is the entirely predictable result of student loan debt, housing costs, childcare expenses, and wage growth that hasn't kept pace with cost of living for most working families. This guide explains what the benchmarks actually mean, what they look like across different income levels, why most Americans fall short of them, and — most importantly — what to do right now whether you're 28, 38, or 52 and behind where you want to be.
 
 ---
 
@@ -172,7 +172,7 @@ The target: **work toward a 20% gross savings rate** (including employer match) 
 
 **Practical method:**
 - Set a calendar reminder every 6 months to increase your 401(k) contribution percentage by 1%
-- When you receive a raise, redirect at least 50% of the after-tax raise to increased retirement savings before it enters your [Simple Budget System for Busy Dads](/article/simple-budget-system-for-busy-dads)
+- When you receive a raise, redirect at least 50% of the after-tax raise to increased retirement savings before it enters your [budget system](/article/simple-budget-system-for-busy-dads)
 - Many 401(k) plans offer automatic escalation — if yours does, turn it on
 
 ### 2. Move Out of High-Fee Managed Funds
@@ -183,7 +183,7 @@ Fund fees compound in the wrong direction. A fund charging 1.0% in annual expens
 
 ### 3. Apply Raises and Bonuses Before They Hit Your Lifestyle
 
-Lifestyle [How to Protect Your Portfolio from Inflation](/article/how-to-protect-your-portfolio-from-inflation) is the primary reason savings rates stagnate in the 40s. When a raise arrives, it is immediately absorbed into higher housing, car payments, dining, and discretionary spending — a phenomenon behavioral economists call "hedonic adaptation." The counter-strategy: redirect at least half of every raise or bonus to retirement savings *before* adjusting your lifestyle budget.
+Lifestyle [inflation protection](/article/how-to-protect-your-portfolio-from-inflation) is the primary reason savings rates stagnate in the 40s. When a raise arrives, it is immediately absorbed into higher housing, car payments, dining, and discretionary spending — a phenomenon behavioral economists call "hedonic adaptation." The counter-strategy: redirect at least half of every raise or bonus to retirement savings *before* adjusting your lifestyle budget.
 
 At $90,000 with a 4% raise:
 - Raise amount: $3,600/year ($300/month after-tax roughly)
@@ -216,7 +216,7 @@ This is an extraordinary opportunity. A 50-year-old who maximizes the full $41,1
 
 ### 2. Delay Social Security: The Most Underused Lever
 
-Social Security is not a retirement [best high-yield savings accounts](/article/best-high-yield-savings-accounts), but it is a critical part of retirement income — and the decision of when to claim it is one of the most consequential financial decisions a person can make.
+Social Security is not a retirement [high-yield savings accounts](/article/best-high-yield-savings-accounts), but it is a critical part of retirement income — and the decision of when to claim it is one of the most consequential financial decisions a person can make.
 
 - **Claim at 62:** You receive reduced benefits — permanently. Benefits claimed at 62 are approximately 30% lower than if you had waited until full retirement age.
 - **Claim at full retirement age (67 for those born after 1960):** You receive your full calculated benefit.
@@ -257,7 +257,7 @@ A 40-year-old who starts saving $1,000/month at a 7% average return will have ap
 
 ### Should I Include My Home Equity in the Retirement Savings Benchmark?
 
-No — for purposes of measuring against the Fidelity salary-multiple benchmark, **do not include home equity**. The benchmark is designed around liquid, investable retirement assets: 401(k), IRA, Roth IRA, and taxable [open a brokerage account](/article/how-to-open-a-brokerage-account)s earmarked for retirement. Home equity is illiquid, has carrying costs (maintenance, taxes, insurance), and requires either selling your home or taking on debt (reverse mortgage) to access.
+No — for purposes of measuring against the Fidelity salary-multiple benchmark, **do not include home equity**. The benchmark is designed around liquid, investable retirement assets: 401(k), IRA, Roth IRA, and taxable [open a brokerage accounts](/article/how-to-open-a-brokerage-account) earmarked for retirement. Home equity is illiquid, has carrying costs (maintenance, taxes, insurance), and requires either selling your home or taking on debt (reverse mortgage) to access.
 
 That said, a full retirement readiness assessment absolutely should include home equity as part of your overall balance sheet. If you own your home outright at retirement, your housing costs drop substantially — which reduces how much investment income you need. Your financial planner should model both your liquid investments and your complete balance sheet.
 
@@ -284,7 +284,7 @@ Yes — the Fidelity benchmark is designed to measure **all retirement savings**
 
 **Do not include:**
 - ❌ Home equity
-- ❌ [emergency funds and investing](/article/emergency-funds-and-investing) / savings account
+- ❌ [emergency funds](/article/emergency-funds-and-investing) / savings account
 - ❌ Children's 529 college savings
 - ❌ Business equity (too illiquid and uncertain)
 

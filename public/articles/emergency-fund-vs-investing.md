@@ -10,7 +10,7 @@ The emergency fund vs. investing debate is one of the most common money question
 
 ## The Real Question: Why You Can't Just Do Both Equally
 
-The core problem is that dollars are finite. Every dollar you send to a Roth IRA is a dollar not in a [Best High-Yield Savings Accounts](/article/best-high-yield-savings-accounts) account. Every dollar that sits in a savings account is a dollar not compounding in the market. When resources are limited, sequencing decisions are required — and understanding the priority logic prevents expensive mistakes in both directions.
+The core problem is that dollars are finite. Every dollar you send to a Roth IRA is a dollar not in a [high-yield savings accounts](/article/best-high-yield-savings-accounts) account. Every dollar that sits in a savings account is a dollar not compounding in the market. When resources are limited, sequencing decisions are required — and understanding the priority logic prevents expensive mistakes in both directions.
 
 **The investing-without-an-emergency-fund trap:** Investing without any cash reserve is structurally self-defeating. A single car repair — median cost $500–$900, according to industry repair data — can force you to sell an investment at whatever the current price happens to be, regardless of whether that price is good or bad. If the market is down 15% when your car needs a new transmission, you just locked in a 15% loss to fund a repair that a $1,000 savings buffer would have handled without touching investments at all.
 

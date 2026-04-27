@@ -10,7 +10,7 @@ Buying crypto on an exchange is the easy part. Keeping it there — indefinitely
 
 ## Why You Should Move Crypto Off an Exchange
 
-When your crypto sits on [compare Coinbase, Kraken, and Gemini](/article/coinbase-vs-kraken-vs-gemini-which-is-safest), Kraken, or any other exchange, you don't actually own the underlying coins in the full sense. You have an account balance — essentially an IOU. The exchange holds the private keys, which means the exchange controls the assets. You are a creditor, not an owner.
+When your crypto sits on [Coinbase, Kraken, and Gemini](/article/coinbase-vs-kraken-vs-gemini-which-is-safest), Kraken, or any other exchange, you don't actually own the underlying coins in the full sense. You have an account balance — essentially an IOU. The exchange holds the private keys, which means the exchange controls the assets. You are a creditor, not an owner.
 
 This distinction is not academic. It has real consequences:
 
@@ -27,14 +27,14 @@ The rule of thumb used by experienced crypto holders: **don't leave on an exchan
 
 Before you initiate a transfer, you need a destination. There are two main categories:
 
-### [best crypto wallets](/article/best-crypto-wallets)s (Cold Storage) — Best for $1,000+
+### [best crypto walletss](/article/best-crypto-wallets) (Cold Storage) — Best for $1,000+
 
 Hardware wallets are physical devices — roughly the size of a USB drive — that store your private keys entirely offline. Because they are never connected to the internet while holding your keys, they are effectively immune to remote hacking.
 
 **Top hardware wallets in 2026:**
 - **Ledger Nano X** — supports 5,500+ coins; Bluetooth connectivity; ~$149; CC EAL5+ certified secure element chip
 - **Trezor Model T** — 100% open-source firmware; touchscreen; supports 1,800+ coins; no Bluetooth (considered more secure by some); ~$219
-- **Ledger Nano S Plus** — [Simple Budget System for Busy Dads](/article/simple-budget-system-for-busy-dads) option (~$79); USB-C; 5,500+ coins; no Bluetooth
+- **Ledger Nano S Plus** — [budget system](/article/simple-budget-system-for-busy-dads) option (~$79); USB-C; 5,500+ coins; no Bluetooth
 
 **Best for:** Any crypto holding you plan to keep for months or years and don't need frequent access to.
 
@@ -276,11 +276,11 @@ Yes — and the process is the reverse of what you've done here. From your walle
 
 [^6]: Baltex Exchange. "How to Transfer Crypto from Exchange to Wallet: Secure Guide 2026." https://baltex.io/blog/ecosystem/how-to-transfer-crypto-from-exchange-to-wallet-secure-guide-2026
 
-[^7]: SpotedCrypto. "Hardware [crypto wallet vs exchange](/article/crypto-wallet-vs-exchange): The 2026 [store crypto safely long-term](/article/how-to-store-crypto-safely-long-term) Guide." March 2026. https://www.spotedcrypto.com/hardware-wallet-vs-exchange-2026/
+[^7]: SpotedCrypto. "Hardware [crypto wallets versus exchanges](/article/crypto-wallet-vs-exchange): The 2026 [long-term storage](/article/how-to-store-crypto-safely-long-term) Guide." March 2026. https://www.spotedcrypto.com/hardware-wallet-vs-exchange-2026/
 
 [^8]: Koinly. "Crypto Taxes: Expert Guide 2026." January 5, 2026. https://koinly.io/guides/crypto-taxes/
 
-[^9]: Chainwise CPA. "How [best crypto exchanges for beginners](/article/best-crypto-exchanges-for-beginners)s Report to the IRS in 2025 (And What You Must Do About It)." January 18, 2026. https://chainwisecpa.com/exchange-crypto-reporting-irs/
+[^9]: Chainwise CPA. "How [best crypto exchanges for beginnerss](/article/best-crypto-exchanges-for-beginners) Report to the IRS in 2025 (And What You Must Do About It)." January 18, 2026. https://chainwisecpa.com/exchange-crypto-reporting-irs/
 
 [^10]: CoinDesk. "American Crypto Investors Are Scared, Confused About This Year's New IRS Transaction Reporting." February 18, 2026. https://www.coindesk.com/business/2026/02/18/american-crypto-holders-are-scared-and-confused-about-this-year-s-new-irs-tax-rules
 

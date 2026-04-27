@@ -18,7 +18,7 @@ Cryptocurrency is digital money built on blockchain technology — a decentraliz
 
 For most of its history, Bitcoin was treated as either a curiosity or a purely speculative asset. That characterization has become increasingly difficult to maintain. By 2025, the conversation has shifted at every level of finance:
 
-- **BlackRock**, the world's largest asset manager, launched a spot Bitcoin [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs) in January 2024 that grew to over **$70 billion in assets under management** in 341 days — a pace five times faster than gold ETFs took to reach the same milestone
+- **BlackRock**, the world's largest asset manager, launched a spot Bitcoin [passive income strategies](/article/passive-income-with-etfs) in January 2024 that grew to over **$70 billion in assets under management** in 341 days — a pace five times faster than gold ETFs took to reach the same milestone
 - **Harvard University's endowment** allocated $443 million to BlackRock's Bitcoin ETF by September 2025
 - **Corporate treasuries** including Strategy (formerly MicroStrategy), which holds 671,000+ Bitcoin on its balance sheet, have treated Bitcoin as a long-term hedge against dollar debasement
 - **BlackRock CEO Larry Fink** called Bitcoin an "asset of fear" in December 2025 — meaning investors turn to it during periods of inflation, geopolitical instability, or weakening confidence in traditional markets
@@ -119,7 +119,7 @@ The institutional investor response to Bitcoin in 2024–2025 is the strongest s
 The SEC's approval of spot Bitcoin ETFs in January 2024 was a turning point. For the first time, traditional investors could gain regulated, exchange-traded exposure to Bitcoin without needing a wallet, private keys, or a crypto exchange account. The results have been remarkable:
 
 - **BlackRock's iShares Bitcoin Trust (IBIT):** Over $70 billion in AUM as of Q4 2025, making it the world's largest Bitcoin ETF and the fastest ETF in history to reach that milestone
-- **[compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab)'s FBTC:** Over $21 billion in AUM
+- **[Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab)'s FBTC:** Over $21 billion in AUM
 - **Grayscale's GBTC:** Over $19 billion in AUM
 - **Combined spot Bitcoin ETF assets:** Over $115 billion by late 2025, according to B2Broker analysis
 - **IBIT ranked 6th globally in ETF net inflows for all of 2025**, attracting $25 billion despite Bitcoin's 30%+ decline from its October high — a remarkable sign of institutional conviction
@@ -143,7 +143,7 @@ One of the key remaining risks for Bitcoin — regulatory crackdown — has mean
 
 ## Part 5: The Honest Risk Assessment
 
-This article exists to make the case for crypto in a family portfolio — but only an incomplete case would skip the risks. Here is an honest accounting of what you're taking on when you [buy Bitcoin safely](/article/how-to-buy-bitcoin-safely).
+This article exists to make the case for crypto in a family portfolio — but only an incomplete case would skip the risks. Here is an honest accounting of what you're taking on when you [buy Bitcoin](/article/how-to-buy-bitcoin-safely).
 
 ### 1. Extreme Volatility — This Is Structural, Not Temporary
 
@@ -157,7 +157,7 @@ As noted above, Bitcoin's correlation with equities increases during periods of 
 
 ### 3. No FDIC or SIPC Insurance
 
-Crypto held directly on an exchange or in a wallet is **not insured by the FDIC or SIPC**. If your exchange collapses (as FTX did in 2022), your funds may be inaccessible or lost entirely. Self-custody through [best crypto wallets](/article/best-crypto-wallets)s solves this problem but introduces the risk of losing your recovery phrase. There is no equivalent of the protections that exist for bank deposits and [open a brokerage account](/article/how-to-open-a-brokerage-account)s.
+Crypto held directly on an exchange or in a wallet is **not insured by the FDIC or SIPC**. If your exchange collapses (as FTX did in 2022), your funds may be inaccessible or lost entirely. Self-custody through [best crypto walletss](/article/best-crypto-wallets) solves this problem but introduces the risk of losing your recovery phrase. There is no equivalent of the protections that exist for bank deposits and [open a brokerage accounts](/article/how-to-open-a-brokerage-account).
 
 ### 4. Regulatory Risk Remains Real
 
@@ -286,7 +286,7 @@ Rather than investing your entire allocation at once — which exposes you to th
 
 - Eliminates the psychological pressure of trying to time the market
 - Automatically buys more Bitcoin when prices are lower and less when prices are higher
-- Is the same strategy recommended by every traditional financial planner for [best platforms for index funds](/article/best-platforms-to-buy-index-funds) investing
+- Is the same strategy recommended by every traditional financial planner for [platforms for index funds](/article/best-platforms-to-buy-index-funds) investing
 
 ### Step 5: Rebalance Regularly
 

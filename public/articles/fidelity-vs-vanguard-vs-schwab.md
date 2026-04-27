@@ -6,7 +6,7 @@
 
 ## Summary
 
-Fidelity, Vanguard, and Charles Schwab are three of the most trusted names in U.S. investing — and for most long-term investors, the decision comes down to fit, not safety. All three are SIPC-insured, offer $0 commissions on stocks and [How to Create [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) with ETFs](/article/passive-income-with-etfs)s, and provide access to the [best platforms for index funds](/article/best-platforms-to-buy-index-funds)s that form the backbone of every serious wealth-building strategy. The real differences emerge when you look at expense ratios, platform usability, fractional share programs, retirement account features, and who each brokerage was originally built for. This article breaks all of that down clearly so you can choose the right home for your money — or understand why splitting between two of them might be the smartest move of all.
+Fidelity, Vanguard, and Charles Schwab are three of the most trusted names in U.S. investing — and for most long-term investors, the decision comes down to fit, not safety. All three are SIPC-insured, offer $0 commissions on stocks and [passive income strategies](/article/passive-income-with-etfs), and provide access to the [best platforms for index fundss](/article/best-platforms-to-buy-index-funds) that form the backbone of every serious wealth-building strategy. The real differences emerge when you look at expense ratios, platform usability, fractional share programs, retirement account features, and who each brokerage was originally built for. This article breaks all of that down clearly so you can choose the right home for your money — or understand why splitting between two of them might be the smartest move of all.
 
 ---
 
@@ -22,7 +22,7 @@ The brokerage you choose determines:
 - **Whether you have fractional share access** to invest any dollar amount
 - **How much ongoing support you get** when something breaks or you have questions
 
-Most importantly, expense ratios compound silently. A fund charging 0.50% per year versus 0.03% per year doesn't sound like much — but on a $200,000 portfolio held for 30 years at 7% average growth, that 0.47% difference in annual fees costs you approximately **$96,000** in lost [understand compound interest](/article/compound-interest-explained). The brokerage you open shapes which funds you'll actually use, which shapes your real lifetime return.
+Most importantly, expense ratios compound silently. A fund charging 0.50% per year versus 0.03% per year doesn't sound like much — but on a $200,000 portfolio held for 30 years at 7% average growth, that 0.47% difference in annual fees costs you approximately **$96,000** in lost [compound interest](/article/compound-interest-explained). The brokerage you open shapes which funds you'll actually use, which shapes your real lifetime return.
 
 All three brokerages reviewed here are:
 
@@ -72,7 +72,7 @@ There is one important caveat: **FZROX and the other ZERO funds are exclusive to
 ### Other Fidelity Strengths
 
 - **Fractional shares on 7,000+ securities from $1.** Fidelity's program, called Stocks by the Slice, covers far more stocks and ETFs than Schwab's and allows you to invest odd-dollar amounts including full dividend reinvestment into fractional shares. [^6]
-- **25+ account types**, including Youth Accounts for minors, Cash Management (checking) accounts, and Health [best high-yield savings accounts](/article/best-high-yield-savings-accounts)s (HSAs).
+- **25+ account types**, including Youth Accounts for minors, Cash Management (checking) accounts, and Health [best high-yield savings accountss](/article/best-high-yield-savings-accounts) (HSAs).
 - **24/7 phone and live chat support** — the only one of the three that offers round-the-clock human access.
 - **200+ branch locations** nationwide for in-person service.
 - **Fidelity Go robo-advisor** manages up to $25,000 free of management fees (0.35% annually above $25,000).
@@ -258,7 +258,7 @@ The gap between a zero-cost index fund and a 1.50% advisor-wrapped account — a
 - You want the #1-ranked full-service brokerage in 2026
 - You value having 400+ physical branch locations for in-person service
 - You plan to grow into advanced research tools, charting, or options over time
-- You want thinkorswim — the best free professional [top stock brokerages for new investors](/article/top-stock-brokerages) available
+- You want thinkorswim — the best free professional [stock brokerages](/article/top-stock-brokerages) available
 - You value a robo-advisor option with no management fee (Schwab Intelligent Portfolios)
 
 ### You Can Split — And It's Completely Valid

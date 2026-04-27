@@ -4,7 +4,7 @@
 
 ---
 
-If you've spent more than ten minutes researching [Best Gold IRA Companies](/article/top-gold-ira-companies-reviewed) online, you've already encountered these three names — Augusta Precious Metals, Goldco, and Birch Gold Group. They dominate search results, podcast sponsorships, and financial media because they're the three largest, most established Gold IRA dealers in the United States. All three carry A+ Better Business Bureau ratings, all three have thousands of verified customer reviews, and all three have been operating long enough to have processed rollovers through multiple market cycles. But they are not interchangeable. Augusta requires a $50,000 minimum and delivers an education-first, white-glove experience built for serious retirement investors. Goldco is the most polished rollover machine in the industry, built for first-timers who want hand-holding through the process. Birch Gold has the lowest barrier to entry at $10,000, the most transparent published fee structure, and the broadest metal selection. This guide breaks down all three across fees, minimums, metals offered, storage options, reputation, and the specific investor each one serves best — so you can make a clear, confident decision before committing your retirement savings.
+If you've spent more than ten minutes researching [Gold IRA companies](/article/top-gold-ira-companies-reviewed) online, you've already encountered these three names — Augusta Precious Metals, Goldco, and Birch Gold Group. They dominate search results, podcast sponsorships, and financial media because they're the three largest, most established Gold IRA dealers in the United States. All three carry A+ Better Business Bureau ratings, all three have thousands of verified customer reviews, and all three have been operating long enough to have processed rollovers through multiple market cycles. But they are not interchangeable. Augusta requires a $50,000 minimum and delivers an education-first, white-glove experience built for serious retirement investors. Goldco is the most polished rollover machine in the industry, built for first-timers who want hand-holding through the process. Birch Gold has the lowest barrier to entry at $10,000, the most transparent published fee structure, and the broadest metal selection. This guide breaks down all three across fees, minimums, metals offered, storage options, reputation, and the specific investor each one serves best — so you can make a clear, confident decision before committing your retirement savings.
 
 ---
 
@@ -16,7 +16,7 @@ Augusta, Goldco, and Birch Gold are not simply the three most heavily advertised
 
 - **Consistent A+ BBB ratings maintained over many years** — Augusta has held A+ status with the BBB since its founding in 2012 with a near-zero complaint record.[^1] Goldco holds an A+ from the BBB and a AAA from the Business Consumer Alliance (BCA).[^2] Birch Gold holds an A+ BBB rating and a AAA BCA rating, accredited since 2013.[^3]
 - **All three have established relationships with IRS-approved custodians** — meaning they work with vetted third-party custodians (Equity Trust, STRATA Trust, GoldStar Trust) and IRS-approved depositories (Delaware Depository, Brink's Global Services, Texas Precious Metals Depository)
-- **Operational track records through multiple market cycles** — Augusta founded 2012; Goldco founded 2006; Birch Gold founded 2003. All three have processed rollovers through the 2008–2009 financial crisis recovery period, the COVID crash of 2020, and the [How to Protect Your Portfolio from Inflation](/article/how-to-protect-your-portfolio-from-inflation) surge of 2022–2023
+- **Operational track records through multiple market cycles** — Augusta founded 2012; Goldco founded 2006; Birch Gold founded 2003. All three have processed rollovers through the 2008–2009 financial crisis recovery period, the COVID crash of 2020, and the [inflation protection](/article/how-to-protect-your-portfolio-from-inflation) surge of 2022–2023
 - **Heavy advertising reach** — all three sponsor major financial podcasts, radio programs, and media personalities. You will encounter them. Understanding how they actually compare is more valuable than their marketing claims
 
 ---
@@ -212,7 +212,7 @@ Paid to the IRS-approved depository for vaulting your metals. Ranges from $100�
 - **Segregated storage:** Your specific coins and bars are physically separated and individually identified. Typically $150–$300/year. Recommended for larger accounts where the value of knowing your specific metals are isolated outweighs the additional cost.
 
 ### 4. Coin Premiums (The Most Significant Variable)
-This is the fee most investors underestimate. When you [buy gold online safely](/article/how-to-buy-gold-online-safely) coins or bars for your IRA, you pay a **premium above the spot price** — the current market price per troy ounce. This premium reflects dealer markup, minting costs, and distribution.
+This is the fee most investors underestimate. When you [buying gold online](/article/how-to-buy-gold-online-safely) coins or bars for your IRA, you pay a **premium above the spot price** — the current market price per troy ounce. This premium reflects dealer markup, minting costs, and distribution.
 
 Typical premiums in 2026:
 - Gold bullion bars: ~1%–3% above spot
@@ -274,7 +274,7 @@ Under IRS rules and IRC Section 4975, if you take personal possession of your IR
 
 ### Custodian Requirement
 
-A Gold IRA must be administered by an IRS-approved custodian — a bank, trust company, or other IRS-designated non-bank trustee. Standard brokerage firms (Fidelity, [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Vanguard) do not serve as precious metals IRA custodians. The custodian is responsible for recordkeeping, tax reporting, RMD calculations, and ensuring compliance.
+A Gold IRA must be administered by an IRS-approved custodian — a bank, trust company, or other IRS-designated non-bank trustee. Standard brokerage firms (Fidelity, [Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Vanguard) do not serve as precious metals IRA custodians. The custodian is responsible for recordkeeping, tax reporting, RMD calculations, and ensuring compliance.
 
 The Gold IRA companies in this guide (Augusta, Goldco, Birch Gold) are **dealers**, not custodians. They source and facilitate the purchase of metals. Your custodian (Equity Trust, STRATA Trust, GoldStar Trust) holds the account and manages the legal/tax compliance.
 

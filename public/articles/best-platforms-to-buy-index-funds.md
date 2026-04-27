@@ -292,7 +292,7 @@ Not necessarily. VT (Vanguard Total World ETF, 0.07%) holds approximately 9,800 
 
 ## Sources and References
 
-[^1]: Fidelity Investments. *No Minimum Investment Mutual Funds.* Fidelity.com — FZROX, FZILX, FNILX, FZIPX confirmed at 0.00% expense ratio as of February 1, 2026; $0 minimum; available exclusively through Fidelity retail [open a brokerage account](/article/how-to-open-a-brokerage-account)s; VTI/VOO/BND available commission-free. [https://www.fidelity.com/mutual-funds/investing-ideas/index-funds](https://www.fidelity.com/mutual-funds/investing-ideas/index-funds)
+[^1]: Fidelity Investments. *No Minimum Investment Mutual Funds.* Fidelity.com — FZROX, FZILX, FNILX, FZIPX confirmed at 0.00% expense ratio as of February 1, 2026; $0 minimum; available exclusively through Fidelity retail [open a brokerage accounts](/article/how-to-open-a-brokerage-account); VTI/VOO/BND available commission-free. [https://www.fidelity.com/mutual-funds/investing-ideas/index-funds](https://www.fidelity.com/mutual-funds/investing-ideas/index-funds)
 
 [^2]: Bankrate. *Best Roth IRA Accounts of 2026.* Bankrate.com — Vanguard described as best for cost-minimizing, buy-and-hold investors; 3,100+ no-transaction-fee funds; VTSAX $3,000 minimum Admiral Share confirmed; platform limitations noted. [https://www.bankrate.com/investing/best-roth-ira/](https://www.bankrate.com/investing/best-roth-ira/)
 

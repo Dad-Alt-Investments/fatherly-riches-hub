@@ -110,9 +110,9 @@ Schwab's automated investing product manages your Roth IRA portfolio with no adv
 - Invests in a diversified portfolio of low-cost Schwab ETFs
 - Automatic rebalancing when allocations drift
 - 24/7 live support included
-- **Schwab Intelligent Portfolios Premium:** for $300 one-time planning fee + $30/month, you get unlimited access to a Certified [Financial Planner](/article/how-to-build-a-family-financial-plan) — one of the lowest-cost CFP access programs available anywhere
+- **Schwab Intelligent Portfolios Premium:** for $300 one-time planning fee + $30/month, you get unlimited access to a Certified [financial planner](/article/how-to-build-a-family-financial-plan) — one of the lowest-cost CFP access programs available anywhere
 
-**The [cash vs investments](/article/how-much-cash-vs-investments) note:** Schwab Intelligent Portfolios requires a minimum 6–10% cash allocation in every portfolio, which earns a low sweep rate (approximately 0.05%). This is how Schwab partially offsets the cost of the free advisory service. For most long-term investors this is a modest trade-off, but it is worth understanding.
+**The [cash versus investments](/article/how-much-cash-vs-investments) note:** Schwab Intelligent Portfolios requires a minimum 6–10% cash allocation in every portfolio, which earns a low sweep rate (approximately 0.05%). This is how Schwab partially offsets the cost of the free advisory service. For most long-term investors this is a modest trade-off, but it is worth understanding.
 
 ### Schwab Native Index Funds
 
@@ -252,7 +252,7 @@ The Roth IRA's tax-free structure makes it the ideal account for assets that gen
 - **JEPQ** (JPMorgan Nasdaq Equity Premium Income ETF, 0.35%): similar strategy applied to Nasdaq stocks, approximately 9–10% yield
 
 **Real estate income — best suited for Roth IRA:**
-- **VNQ** (Vanguard Real Estate ETF, 0.13%): [real estate investment](/article/top-5-real-estate-investment-options) income classified as ordinary income by IRS law, approximately 3.5–4.5% yield — distributes ordinary income annually in a taxable account; grows and distributes tax-free inside a Roth
+- **VNQ** (Vanguard Real Estate ETF, 0.13%): [real estate investing](/article/top-5-real-estate-investment-options) income classified as ordinary income by IRS law, approximately 3.5–4.5% yield — distributes ordinary income annually in a taxable account; grows and distributes tax-free inside a Roth
 
 **Conservative layer:**
 - **BND** (Vanguard Total Bond Market ETF, 0.03%): interest income normally taxed as ordinary income; sheltered in Roth
@@ -333,7 +333,7 @@ For most beginners and younger investors, the Roth IRA is the better choice. The
 
 [^11]: NerdWallet. *Fidelity Go Review 2026: Pros, Cons and How It Compares.* Updated December 17, 2025 — Fidelity Go: $0 management fee under $25,000; 0.35% fee above $25,000 (includes unlimited 30-min advisor calls); $10 minimum to begin investing; Fidelity Flex funds with zero expense ratios; no tax-loss harvesting. [https://www.nerdwallet.com/investing/reviews/fidelity-go](https://www.nerdwallet.com/investing/reviews/fidelity-go)
 
-[^12]: CNBC Select. *Best Roth IRA Accounts of March 2026.* CNBC Select — Schwab named best for experienced investors; Fidelity best for [beginner's guide to investing](/article/beginners-guide-to-investing)ors; Schwab Intelligent Portfolios Premium: $300 one-time fee + $30/month for unlimited CFP access. [https://www.cnbc.com/select/best-roth-ira-accounts/](https://www.cnbc.com/select/best-roth-ira-accounts/)
+[^12]: CNBC Select. *Best Roth IRA Accounts of March 2026.* CNBC Select — Schwab named best for experienced investors; Fidelity best for [beginner investing](/article/beginners-guide-to-investing)ors; Schwab Intelligent Portfolios Premium: $300 one-time fee + $30/month for unlimited CFP access. [https://www.cnbc.com/select/best-roth-ira-accounts/](https://www.cnbc.com/select/best-roth-ira-accounts/)
 
 [^13]: StockBrokers.com. *Robinhood IRA Review March 2026.* — Robinhood $100 ACAT transfer-out fee confirmed as one of highest in industry; Fidelity and Vanguard charge $0; Schwab/E*TRADE/Merrill Edge charge $50–$75. [https://www.stockbrokers.com/review/robinhood/ira](https://www.stockbrokers.com/review/robinhood/ira)
 

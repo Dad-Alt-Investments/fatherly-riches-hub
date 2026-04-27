@@ -12,7 +12,7 @@ The acquisition entrepreneurship space has never had more educational resources 
 
 ### A $500 Mistake on a Course Beats a $50,000 Mistake on a Bad Deal
 
-Business acquisitions are large, leveraged, and largely irreversible decisions. Unlike investing in a stock — where you can sell tomorrow at the click of a button — [buy a small local business](/article/how-to-buy-a-small-local-business) ties up capital, time, personal liability, and often relationships for months or years. A first-time buyer who pays $1,000 for a course that teaches them how to calculate Seller's Discretionary Earnings (SDE), structure an earnout, and spot a declining revenue trend before making an offer has bought meaningful insurance.
+Business acquisitions are large, leveraged, and largely irreversible decisions. Unlike investing in a stock — where you can sell tomorrow at the click of a button — [buying a small business](/article/how-to-buy-a-small-local-business) ties up capital, time, personal liability, and often relationships for months or years. A first-time buyer who pays $1,000 for a course that teaches them how to calculate Seller's Discretionary Earnings (SDE), structure an earnout, and spot a declining revenue trend before making an offer has bought meaningful insurance.
 
 The alternative is learning these lessons live: overpaying for a business because you didn't understand how to normalize the financials, or discovering post-closing that the top customer was loyal to the seller personally and won't renew with you, or signing an asset purchase agreement without understanding what representations and warranties mean. These are not theoretical risks — they are the most common outcomes for underprepared first-time buyers.
 
@@ -38,7 +38,7 @@ Every hour of education before your first deal is worth multiple hours of remedi
 | Contrarian Thinking / Contrarian Academy (Codie Sanchez) | Paid community | ~$10,000 | Offline/Main Street | Yes — large | Brick-and-mortar, service businesses |
 | Acquisition Foundations Course (Codie Sanchez) | Paid course | Lower tier | Offline/Main Street | No (course only) | Self-study, offline focus |
 | Searchfunder.com | Free community | Free | All ETA, search funds | Yes — active | Budget buyers, research, networking |
-| [Flippa vs Empire Flippers](/article/flippa-vs-empire-flippers) Academy | Free content | Free | [How to Spot a Good Online Business Deal](/article/how-to-spot-a-good-online-business-deal)es | No | Digital/online business buyers |
+| [Flippa and Empire Flippers](/article/flippa-vs-empire-flippers) Academy | Free content | Free | [How to Spot a Good Online Business Deales](/article/how-to-spot-a-good-online-business-deal) | No | Digital/online business buyers |
 | Empire Flippers Blog & Podcast | Free content | Free | Online businesses | No | Online business buyers |
 | *Buy Then Build* (book) | Book | ~$20 | All small business | No | Every buyer, foundational |
 | *HBR Guide to Buying a Small Business* | Book | ~$25 | All small business | No | Academic rigor, financial framework |
@@ -182,7 +182,7 @@ Empire Flippers is a premium online business brokerage — they vet listings bef
 Their blog covers:
 - Valuation frameworks for content sites, SaaS, Amazon FBA, and e-commerce
 - Due diligence processes for online business acquisitions
-- Deal structure guidance ([How to Finance Buying a Small Business](/article/how-to-finance-buying-a-small-business), earnouts for digital businesses)
+- Deal structure guidance ([financing a business purchase](/article/how-to-finance-buying-a-small-business), earnouts for digital businesses)
 - Post-acquisition management and growth
 
 Their podcast features interviews with buyers and sellers of real online businesses — case studies of deals that worked and deals that didn't. This type of unfiltered deal-story content is among the most practically useful education available.
@@ -294,7 +294,7 @@ This is one of the most common points of confusion for new entrants to the ETA s
 - Investors own a significant stake and expect a return at exit
 
 **Self-Funded Search (Independent Acquisition Entrepreneurship):**
-- The buyer funds their own search — using personal savings, SBA loans, [finance a business purchase](/article/how-to-finance-a-business-purchase), and small groups of friends/family investors
+- The buyer funds their own search — using personal savings, SBA loans, [financing a business purchase](/article/how-to-finance-a-business-purchase), and small groups of friends/family investors
 - No institutional investors, no mandated return timelines, no equity dilution to outside investors
 - Typical deal sizes: $100K–$5M, often SBA-financed
 - The buyer retains full equity ownership of the acquired business

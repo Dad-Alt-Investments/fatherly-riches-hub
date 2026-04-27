@@ -1,6 +1,6 @@
 # How to Build a Dividend Portfolio as a Beginner Dad
 
-Building a dividend portfolio is one of the most practical, beginner-friendly ways for dads to start generating [Best Passive Income Investments for Beginners](/article/best-passive-income-investments-for-beginners) — and you don't need a finance degree or a six-figure salary to get started. A dividend portfolio is a collection of stocks, ETFs, or funds that pay you cash at regular intervals just for owning them. Done right, it becomes a compounding income engine that grows quietly in the background while you're focused on work, family, and everything in between. This step-by-step guide explains exactly what dividends are, how to pick the right investments, which ETFs and stocks to consider in 2026, and how to structure a portfolio that fits your life as a busy dad.
+Building a dividend portfolio is one of the most practical, beginner-friendly ways for dads to start generating [passive income investments](/article/best-passive-income-investments-for-beginners) — and you don't need a finance degree or a six-figure salary to get started. A dividend portfolio is a collection of stocks, ETFs, or funds that pay you cash at regular intervals just for owning them. Done right, it becomes a compounding income engine that grows quietly in the background while you're focused on work, family, and everything in between. This step-by-step guide explains exactly what dividends are, how to pick the right investments, which ETFs and stocks to consider in 2026, and how to structure a portfolio that fits your life as a busy dad.
 
 ---
 
@@ -8,14 +8,14 @@ Building a dividend portfolio is one of the most practical, beginner-friendly wa
 
 A dividend is a portion of a company's profits distributed to its shareholders. When a company earns more money than it needs to reinvest in the business, it can return that excess cash to investors as a regular payment — typically every quarter.[^1]
 
-If you own 100 shares of a company paying $2 per share annually in dividends, you receive $200 per year in passive income — without selling a single share and without doing any additional work. That cash shows up in your [open a brokerage account](/article/how-to-open-a-brokerage-account) automatically.
+If you own 100 shares of a company paying $2 per share annually in dividends, you receive $200 per year in passive income — without selling a single share and without doing any additional work. That cash shows up in your [brokerage account](/article/how-to-open-a-brokerage-account) automatically.
 
 For dads specifically, dividend investing checks several important boxes:
 
 - **It's truly passive.** Once you buy dividend stocks or ETFs, the income is automatic.
 - **It rewards long-term thinking.** The strategy is designed to hold quality companies for years or decades — which aligns naturally with planning for your kids' future.
 - **It builds confidence.** Seeing regular cash deposits from your portfolio makes the abstract concept of "investing" feel real and motivating.
-- **It's resilient.** The best dividend-paying companies have survived multiple [7 Recession-Proof Assets Every Dad Should Consider](/article/7-recession-proof-assets-every-dad-should-consider)s while maintaining — and even growing — their payouts to shareholders.[^2]
+- **It's resilient.** The best dividend-paying companies have survived multiple [7 Recession-Proof Assets Every Dad Should Considers](/article/7-recession-proof-assets-every-dad-should-consider) while maintaining — and even growing — their payouts to shareholders.[^2]
 
 A well-constructed dividend portfolio in 2026 typically delivers:
 - A 2.5–4.5% starting yield on your investment
@@ -80,7 +80,7 @@ Well-known Aristocrats include:
 - **Johnson & Johnson (JNJ)** — Healthcare, 60+ year streak, ~2.1% yield
 - **Procter & Gamble (PG)** — Consumer goods, 60+ year streak, ~2.7% yield
 - **Coca-Cola (KO)** — Beverages, 60+ year streak, ~2.6% yield
-- **Realty Income (O)** — [real estate investment options for dads](/article/top-5-real-estate-investment-options), 29-year streak, ~5.7% yield (monthly dividends)[^9]
+- **Realty Income (O)** — [real estate investments](/article/top-5-real-estate-investment-options), 29-year streak, ~5.7% yield (monthly dividends)[^9]
 - **NextEra Energy (NEE)** — Utilities, 30-year streak, ~2.7% yield[^10]
 
 ### Dividend Kings
@@ -97,7 +97,7 @@ Companies with 60+ year streaks include Procter & Gamble, Coca-Cola, and Johnson
 
 ## Step 3: Choose Your Investment Approach — Stocks, ETFs, or Both
 
-As a beginner dad, you have two primary ways to build a dividend portfolio: buying individual stocks or buying [create passive income with ETFs](/article/passive-income-with-etfs). Most beginners do well starting with ETFs and adding individual stocks as their confidence grows.
+As a beginner dad, you have two primary ways to build a dividend portfolio: buying individual stocks or buying [passive income ETFs](/article/passive-income-with-etfs). Most beginners do well starting with ETFs and adding individual stocks as their confidence grows.
 
 ### Option A: Dividend ETFs (Best for Beginners)
 
@@ -178,13 +178,13 @@ Before you can buy a single share, you need a brokerage account. For dividend in
 3. **Fractional shares** — Allows you to invest small amounts in high-priced stocks
 4. **IRA support** — For tax-advantaged dividend investing
 
-The most popular brokerage options for new investors include [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Charles Schwab, and Vanguard — all of which offer $0 commissions, DRIP programs, fractional shares, and both taxable and IRA accounts. Fidelity and Schwab also have excellent mobile apps, 24/7 customer service, and strong educational resources for beginners.
+The most popular brokerage options for new investors include [Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab), Charles Schwab, and Vanguard — all of which offer $0 commissions, DRIP programs, fractional shares, and both taxable and IRA accounts. Fidelity and Schwab also have excellent mobile apps, 24/7 customer service, and strong educational resources for beginners.
 
 ### Taxable Brokerage vs. IRA: Where to Start?
 
 This is one of the most common questions new investors ask, and the answer depends on your situation:
 
-**[best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) first (if eligible):**
+**[Roth IRA providers](/article/best-roth-ira-providers-for-beginners) first (if eligible):**
 - Contributions made with after-tax dollars
 - Dividends and growth are **completely tax-free** in retirement
 - 2025 contribution limit: **$7,000/year** ($8,000 if age 50+)[^19]

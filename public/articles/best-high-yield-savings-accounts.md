@@ -4,7 +4,7 @@
 
 ---
 
-If your [Emergency Fund vs Investing: What Comes First?](/article/emergency-fund-vs-investing) or short-term savings are sitting in a traditional bank savings account right now, you are quietly giving money away. The national average savings account rate is **0.39% APY** as of February 2026, according to FDIC data — which means the average American earning that rate on a $25,000 emergency fund collects about $97.50 in interest over the full year.[^1] The best high-yield savings accounts (HYSAs) currently offered by online banks are paying between **3.20% and 4.21% APY**, with some promotional rates reaching 5.00% — and they carry the identical FDIC insurance protection as any brick-and-mortar bank account.[^2] On that same $25,000 balance, a 4.00% APY HYSA earns **$1,000 in a year** — a difference of more than $900 from the average traditional bank. There is no investment risk, no minimum time commitment, and no reason to leave money in a low-yield account. This guide covers what a high-yield savings account actually is, which accounts stand out in the current rate environment, how HYSAs compare to alternative cash storage tools (money market funds, I-Bonds, CDs), and how to build one intelligently into your family's financial system.
+If your [emergency fund versus investing](/article/emergency-fund-vs-investing) or short-term savings are sitting in a traditional bank savings account right now, you are quietly giving money away. The national average savings account rate is **0.39% APY** as of February 2026, according to FDIC data — which means the average American earning that rate on a $25,000 emergency fund collects about $97.50 in interest over the full year.[^1] The best high-yield savings accounts (HYSAs) currently offered by online banks are paying between **3.20% and 4.21% APY**, with some promotional rates reaching 5.00% — and they carry the identical FDIC insurance protection as any brick-and-mortar bank account.[^2] On that same $25,000 balance, a 4.00% APY HYSA earns **$1,000 in a year** — a difference of more than $900 from the average traditional bank. There is no investment risk, no minimum time commitment, and no reason to leave money in a low-yield account. This guide covers what a high-yield savings account actually is, which accounts stand out in the current rate environment, how HYSAs compare to alternative cash storage tools (money market funds, I-Bonds, CDs), and how to build one intelligently into your family's financial system.
 
 > **Rate transparency note:** HYSA rates are variable and change frequently. All rates cited in this article reflect publicly available data as of March 2026. Verify the current APY directly with each institution before opening an account. The Fed's target rate is currently 3.50–3.75%, and rates may drift lower or higher as monetary policy evolves.
 
@@ -52,7 +52,7 @@ HYSAs are the right tool for specific jobs. Use them for:
 4. **Tax reserves** — self-employed individuals holding quarterly estimated tax payments
 5. **Short-term goal savings** — any goal with a timeline under 3 years that cannot afford market volatility
 
-HYSAs are *not* designed to replace long-term investing. Money you won't need for 5+ years belongs in a tax-advantaged retirement account or [open a brokerage account](/article/how-to-open-a-brokerage-account) — not sitting in a savings account, even a high-yield one.
+HYSAs are *not* designed to replace long-term investing. Money you won't need for 5+ years belongs in a tax-advantaged retirement account or [brokerage account](/article/how-to-open-a-brokerage-account) — not sitting in a savings account, even a high-yield one.
 
 ---
 
@@ -183,7 +183,7 @@ A high-yield savings account is not the only tool for parking short-term cash. H
 
 **Best for:** Cash held inside a brokerage account, earning yield on uninvested funds
 
-The most common example for U.S. savers: [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab)'s Government Money Market Fund (SPAXX), which is the default "core position" for cash in a Fidelity brokerage account. Vanguard offers VMFXX (Federal Money Market Fund) similarly.
+The most common example for U.S. savers: [Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab)'s Government Money Market Fund (SPAXX), which is the default "core position" for cash in a Fidelity brokerage account. Vanguard offers VMFXX (Federal Money Market Fund) similarly.
 
 - **Not FDIC-insured** — money market funds are securities, covered by SIPC (protects against brokerage failure, not market loss), not the FDIC
 - **Near-zero credit risk** — government money market funds hold U.S. Treasury obligations and repurchase agreements
@@ -194,7 +194,7 @@ The most common example for U.S. savers: [compare Fidelity, Vanguard, and Schwab
 
 ### I-Bonds (U.S. Treasury Series I Savings Bonds)
 
-**Best for:** [protect your portfolio from inflation](/article/how-to-protect-your-portfolio-from-inflation) on a portion of savings you don't need for 12+ months
+**Best for:** [inflation protection](/article/how-to-protect-your-portfolio-from-inflation) on a portion of savings you don't need for 12+ months
 
 - Issued by the U.S. Treasury; backed by the full faith and credit of the U.S. government — the safest possible storage of funds
 - Rate adjusts every 6 months based on the CPI inflation index
@@ -259,9 +259,9 @@ Families with specific near-term goals — a new car in 18 months, a home renova
 
 ### Everything Above Tiers 1–3 Should Be Invested
 
-A common financial planning mistake families make is accumulating far more cash than their actual near-term needs justify. Once your emergency fund is fully funded, your quarterly tax reserves are set aside, and your near-term goal savings are in place, additional cash sitting in a savings account earns 3–4% when it could be [understand compound interest](/article/compound-interest-explained) at historically higher rates in the market over a 5–10+ year horizon.
+A common financial planning mistake families make is accumulating far more cash than their actual near-term needs justify. Once your emergency fund is fully funded, your quarterly tax reserves are set aside, and your near-term goal savings are in place, additional cash sitting in a savings account earns 3–4% when it could be [compound interest](/article/compound-interest-explained) at historically higher rates in the market over a 5–10+ year horizon.
 
-The question to ask annually: *Do I have more cash in savings than I need for the next 3 years?* If the answer is yes, consider whether the excess belongs in a [Roth IRA](/article/best-roth-ira-providers-for-beginners), 401(k), or [taxable brokerage account](/article/top-stock-brokerages).
+The question to ask annually: *Do I have more cash in savings than I need for the next 3 years?* If the answer is yes, consider whether the excess belongs in a [Roth IRA](/article/best-roth-ira-providers-for-beginners), 401(k), or [taxable account](/article/top-stock-brokerages).
 
 ---
 

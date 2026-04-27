@@ -20,7 +20,7 @@ You can have an immaculate budget and still be building no wealth — if your in
 
 ### Why Monthly Net Worth Tracking Changes Behavior
 
-Behavioral finance research consistently shows that **what gets measured gets managed**. Households that track their net worth regularly make systematically better financial decisions than those who don't — because the number creates accountability that no other metric does. When you see your net worth on a dashboard, you experience the cumulative impact of every financial decision: the car loan you didn't need, the retirement contribution you did make, the credit card balance you're carrying, the [best platforms for index funds](/article/best-platforms-to-buy-index-funds) that has quietly compounded for five years.
+Behavioral finance research consistently shows that **what gets measured gets managed**. Households that track their net worth regularly make systematically better financial decisions than those who don't — because the number creates accountability that no other metric does. When you see your net worth on a dashboard, you experience the cumulative impact of every financial decision: the car loan you didn't need, the retirement contribution you did make, the credit card balance you're carrying, the [platforms for index funds](/article/best-platforms-to-buy-index-funds) that has quietly compounded for five years.
 
 Monthly tracking also insulates against short-term market noise. When the S&P 500 drops 10%, your investment accounts look alarming in isolation. But your full net worth — which includes home equity, savings, and debt paydown — tells a more stable story. The long-term trend line is what matters, not this month's volatility.
 
@@ -54,7 +54,7 @@ Empower acquired Personal Capital in 2020 and has maintained and expanded the fr
 
 ### What It Does for Net Worth Tracking
 
-**Complete account aggregation:** Connect bank accounts, credit cards, investment and [open a brokerage account](/article/how-to-open-a-brokerage-account)s, retirement accounts (401k, IRA, Roth IRA), mortgages, other loans, and real estate via Zillow integration — all in one synchronized dashboard. Empower uses AES-256 encryption and read-only access, meaning it can view balances but cannot initiate transactions on your behalf.[^2]
+**Complete account aggregation:** Connect bank accounts, credit cards, investment and [open a brokerage accounts](/article/how-to-open-a-brokerage-account), retirement accounts (401k, IRA, Roth IRA), mortgages, other loans, and real estate via Zillow integration — all in one synchronized dashboard. Empower uses AES-256 encryption and read-only access, meaning it can view balances but cannot initiate transactions on your behalf.[^2]
 
 **Real-time net worth dashboard:** Your total net worth is calculated automatically and updated every time accounts sync. The dashboard shows a running net worth chart over time — the most motivating feature for long-term tracking.
 
@@ -85,7 +85,7 @@ Monarch Money was built by a founder who previously worked on Mint, and its desi
 
 ### What It Does for Net Worth Tracking
 
-**Complete account aggregation with exceptional reliability:** Monarch uses three separate account aggregation providers — reducing the connectivity failures that plagued Mint and many competitors. Bank accounts, credit cards, mortgages, investment accounts (including brokerage and retirement), real estate via Zillow, vehicle values via VIN lookup, and cryptocurrency via [compare Coinbase, Kraken, and Gemini](/article/coinbase-vs-kraken-vs-gemini-which-is-safest) all connect and sync automatically.[^2]
+**Complete account aggregation with exceptional reliability:** Monarch uses three separate account aggregation providers — reducing the connectivity failures that plagued Mint and many competitors. Bank accounts, credit cards, mortgages, investment accounts (including brokerage and retirement), real estate via Zillow, vehicle values via VIN lookup, and cryptocurrency via [Coinbase, Kraken, and Gemini](/article/coinbase-vs-kraken-vs-gemini-which-is-safest) all connect and sync automatically.[^2]
 
 **Net worth dashboard with historical trend:** A clean, visual net worth graph that shows your total wealth trajectory over time. Assets and liabilities are broken out clearly, and the running chart is motivating — particularly if you update it monthly and watch the trend line.
 
@@ -141,7 +141,7 @@ Despite the sophistication of app-based tools, a manually maintained net worth s
 - **Total privacy:** No financial account credentials are ever linked to any third party. No aggregation service holds your data. No company can suffer a data breach on your behalf.
 - **Complete control:** You define exactly what goes into your net worth calculation, how categories are organized, and how historical data is displayed.
 - **Zero connectivity risk:** Apps occasionally lose connections to financial institutions, fail to sync, or categorize transactions incorrectly. A spreadsheet has no connectivity dependencies.
-- **Fully customizable:** Want to track business equity, alternative investments, [How to Buy Physical Gold Online Safely](/article/how-to-buy-physical-gold-online-safely) holdings, or a complex real estate portfolio? A spreadsheet handles anything, with no platform limitations.
+- **Fully customizable:** Want to track business equity, alternative investments, [buying physical gold](/article/how-to-buy-physical-gold-online-safely) holdings, or a complex real estate portfolio? A spreadsheet handles anything, with no platform limitations.
 
 ### How to Build a Simple Net Worth Spreadsheet
 
@@ -154,7 +154,7 @@ Despite the sophistication of app-based tools, a manually maintained net worth s
 | | High-yield savings (HYSA) | $X |
 | | HSA balance | $X |
 | Investments | 401(k) | $X |
-| | [best Roth IRA providers](/article/best-roth-ira-providers-for-beginners) | $X |
+| | [Roth IRA providers](/article/best-roth-ira-providers-for-beginners) | $X |
 | | Taxable brokerage | $X |
 | Real Estate | Home market value (Zillow estimate) | $X |
 | | Less: remaining mortgage balance | -$X |
@@ -256,7 +256,7 @@ According to the Federal Reserve's 2022 Survey of Consumer Finances — the most
 
 The median is the more useful benchmark for most people — it represents the middle of the actual distribution rather than a number pulled upward by the top 1%.
 
-Using [compare Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab)'s income-based benchmark: a 35-year-old should have approximately **1× their annual salary** saved (in retirement accounts and liquid investments). At a $90,000 salary, that's $90,000 in invested assets — a target that is more actionable than comparing against an average skewed by multi-millionaires.
+Using [Fidelity, Vanguard, and Schwab](/article/fidelity-vs-vanguard-vs-schwab)'s income-based benchmark: a 35-year-old should have approximately **1× their annual salary** saved (in retirement accounts and liquid investments). At a $90,000 salary, that's $90,000 in invested assets — a target that is more actionable than comparing against an average skewed by multi-millionaires.
 
 The Federal Reserve's next Survey of Consumer Finances (for 2025 data) will be released in late 2026 — and will likely show higher median net worths given the 2023–2025 bull market in equities and continued home equity appreciation.
 

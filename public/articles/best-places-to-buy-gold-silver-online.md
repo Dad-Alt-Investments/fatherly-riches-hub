@@ -294,7 +294,7 @@ Before closing, a quick list of warning signs that should stop you from sending 
 
 ---
 
-*Disclaimer: This article is for informational and educational purposes only and does not constitute financial, investment, or tax advice. Precious metals prices fluctuate and past performance does not guarantee future results. Always conduct your own [evaluate a business before buying](/article/how-to-evaluate-a-business-before-buying-it) before making any purchase. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you.*
+*Disclaimer: This article is for informational and educational purposes only and does not constitute financial, investment, or tax advice. Precious metals prices fluctuate and past performance does not guarantee future results. Always conduct your own [evaluating a business](/article/how-to-evaluate-a-business-before-buying-it) before making any purchase. DadAlt Investments may earn affiliate commissions from some links in this article at no cost to you.*
 
 ---
 
